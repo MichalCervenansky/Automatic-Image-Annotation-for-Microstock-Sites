@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 wget = "*"
+iptcinfo3 = "*"
+nltk = "*"
+pillow = "*"
+tensorflow = "*"
+numpy = "*"
 
 [dev-packages]
 

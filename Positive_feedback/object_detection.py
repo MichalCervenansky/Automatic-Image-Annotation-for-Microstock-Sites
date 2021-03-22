@@ -4,7 +4,7 @@ import tensorflow as tf
 import tensorflow_hub as hub
 from PIL import Image
 
-from Positive_feedback.utils.Object_cropping import crop_out_boxes
+from Positive_feedback.utils.object_cropping import crop_out_boxes
 from Positive_feedback.utils.object_detection_utils import load_img, create_filtered_dic, filter_result, draw_boxes
 import config as c
 

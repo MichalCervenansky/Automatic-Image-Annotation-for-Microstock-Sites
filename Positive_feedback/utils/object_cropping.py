@@ -1,4 +1,6 @@
 import os
+import shutil
+
 from PIL import Image
 import config as c
 
@@ -39,8 +41,9 @@ def prepare_crop(im_width, im_height, box):
 def crop_out_boxes(image, boxes):
     im_width, im_height = image.shape[1], image.shape[0]  # x,y flipped due to numpy array
     i = 0
-    if not os.path.exists(c.TEMP_PATH):
-        os.mkdir(c.TEMP_PATH)
+    if os.path.exists(c.TEMP_PATH):
+        shutil.rmtree(c.TEMP_PATH)
+    os.mkdir(c.TEMP_PATH)
     for box in boxes:
         i += 1
         left, right, top, bottom = prepare_crop(im_width, im_height, box)

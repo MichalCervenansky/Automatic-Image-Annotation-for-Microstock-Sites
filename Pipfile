@@ -10,6 +10,9 @@ nltk = "*"
 pillow = "*"
 tensorflow = "*"
 numpy = "*"
+pandas = "*"
+cv = "*"
+opencv-python = "*"
 
 [dev-packages]
 

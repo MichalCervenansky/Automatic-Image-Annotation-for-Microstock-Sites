@@ -15,7 +15,6 @@ if __name__ == '__main__':
     OD_module = hub.load(c.OD_PATH).signatures['default']
     print("OD module loaded!")
 
-    # Load model into KerasLayer
     print("loading classifier module")
     C_module = hub.KerasLayer(c.C_PATH)
     print("classifier module loaded!")

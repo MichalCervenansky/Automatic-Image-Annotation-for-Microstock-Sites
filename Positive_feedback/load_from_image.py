@@ -11,5 +11,5 @@ def PF_from_IPTC(file_path):
     caption = IPTC['caption/abstract']
     stopWords = stopwords.words("english")
     caption = [word for word in caption.split() if word not in stopWords]
-    return keywords + caption
+    return set(keywords + caption)
 

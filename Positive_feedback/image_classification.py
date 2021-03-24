@@ -5,8 +5,6 @@ import config as c
 
 
 def clasify(images, module):
-
-
     images = convert_image(images)  # A batch of images with shape [batch_size, height, width, 3].
     logits = module(images)  # Logits with shape [batch_size, 21843].
     probabilities = tf.nn.softmax(logits)
@@ -26,4 +24,4 @@ def clasify(images, module):
 
     res_classes = [x.strip().split(',') for x in res_list]
     flat_list = [item for sublist in res_classes for item in sublist]
-    return flat_list
+    return set(flat_list)

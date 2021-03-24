@@ -25,4 +25,4 @@ def run_detector(path, detector):
 
     Image.fromarray(image_with_boxes).save(c.TEMP_PATH + "image_with_boxes.jpg")
 
-    return filtered_dic["detection_class_entities"]
+    return set(filtered_dic["detection_class_entities"])

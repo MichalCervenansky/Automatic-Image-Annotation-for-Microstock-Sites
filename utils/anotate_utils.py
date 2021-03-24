@@ -31,13 +31,18 @@ def prep_boxes_for_c():
     return boxes
 
 
+def add_to_list(list, element):
+    list.append(element)
+    return list
+
+
 def build_PF(path_to_image, OD_module, C_module):
+    tmp = add_to_list(prep_boxes_for_c(), path_to_image)
     positive_feedback = {"from_image_IPTC": PF_from_IPTC(path_to_image),
                          "from_object_detection": run_detector(path_to_image, OD_module),
-                         "from_image_classification": clasify(prep_boxes_for_c().append(path_to_image), C_module)
+                         "from_image_classification": clasify(add_to_list(prep_boxes_for_c(), path_to_image), C_module)
                          }
     write_dic(positive_feedback, c.TEMP_PATH + "result_dic.txt")
-    result_set = set(
-        positive_feedback["from_image_IPTC"] + positive_feedback["from_object_detection"] + positive_feedback[
-            "from_image_classification"])
+    result_set = positive_feedback["from_image_IPTC"].union(positive_feedback["from_object_detection"].union(positive_feedback[
+            "from_image_classification"]))
     return result_set

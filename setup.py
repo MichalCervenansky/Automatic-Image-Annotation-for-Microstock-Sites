@@ -4,8 +4,7 @@ Firstly lets install pipenv and create virtual environment
 import subprocess
 import os
 
-subprocess.call("pip install pipenv", shell=True)
-subprocess.call("pipenv install", shell=True)
+subprocess.call("pip install -r requirements.txt", shell=True)
 
 """
 Download NN models from TensorFlow Hub. Might take a while.

@@ -29,6 +29,5 @@ if __name__ == '__main__':
         keyword_string = ",".join(pos_feedback)
         url = "http://disa.fi.muni.cz/anfb/v2/annotate?k=50&similarImages=1000&url=http://michal.cervenansky.eu/dt_dataset/img_206.jpg&keywords="
         result = muffin_annotate(url, keyword_string)
-        write_iterable_to_file(result, "result_keywords.txt")
+        write_iterable_to_file(result, c.TEMP_PATH + "result_keywords.txt")
         print()
-

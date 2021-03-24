@@ -25,11 +25,11 @@ def parse_muffin_annotation(data):
     res_set = set()
     for word in list(list(data)[0]):
         res_set.add(word.attrib['value'])
+    return res_set
 
 
 def muffin_annotate(url, keywords):
-    keyword_string = ",".join(keywords)
-    response = requests.get(url + keyword_string)
+    response = requests.get(url + keywords)
     data = ElementTree.fromstring(response.content)
     result = parse_muffin_annotation(data)
     return result

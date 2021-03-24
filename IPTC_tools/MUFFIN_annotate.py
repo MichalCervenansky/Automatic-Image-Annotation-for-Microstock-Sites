@@ -21,9 +21,15 @@ def get_all_gdrive_urls():
     return url_list
 
 
+def parse_muffin_annotation(data):
+    res_set = set()
+    for word in list(list(data)[0]):
+        res_set.add(word.attrib['value'])
+
+
 def muffin_annotate(url, keywords):
     keyword_string = ",".join(keywords)
     response = requests.get(url + keyword_string)
     data = ElementTree.fromstring(response.content)
-    tmp = list(data)
-    return list(list(data)[0])
+    result = parse_muffin_annotation(data)
+    return result

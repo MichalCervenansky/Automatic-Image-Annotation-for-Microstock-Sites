@@ -10,9 +10,9 @@ import os
 import configuration as c
 
 
-def write_list_to_file(my_list, filename):
+def write_iterable_to_file(iterable, filename):
     with open(filename, 'w') as f:
-        for item in my_list:
+        for item in iterable:
             f.write("%s\n" % item)
 
 
@@ -37,12 +37,11 @@ def add_to_list(list, element):
 
 
 def build_PF(path_to_image, OD_module, C_module):
-    tmp = add_to_list(prep_boxes_for_c(), path_to_image)
     positive_feedback = {"from_image_IPTC": PF_from_IPTC(path_to_image),
                          "from_object_detection": run_detector(path_to_image, OD_module),
                          "from_image_classification": clasify(add_to_list(prep_boxes_for_c(), path_to_image), C_module)
                          }
-    write_dic(positive_feedback, c.TEMP_PATH + "result_dic.txt")
+    write_dic(positive_feedback, c.TEMP_PATH + "pos_fed_result_dic.txt")
     result_set = positive_feedback["from_image_IPTC"].union(
         positive_feedback["from_object_detection"].union(positive_feedback[
                                                              "from_image_classification"]))

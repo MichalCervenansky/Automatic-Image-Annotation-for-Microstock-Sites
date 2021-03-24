@@ -3,7 +3,7 @@ import os
 
 """When enabled, app leaves a temp folder in pwd of annotate script and intermediate results are stored there"""
 DEBUG = True
-TEMP_PATH = "tmp"
+TEMP_PATH = "tmp" + os.path.sep
 
 """Opens a dialog window to choose the input"""
 POPUP = False

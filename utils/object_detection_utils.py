@@ -77,11 +77,7 @@ def draw_boxes(image, boxes, class_names, scores):
     """Overlay labeled boxes on an image with formatted scores and label names."""
     colors = list(ImageColor.colormap.values())
 
-    try:
-        font = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf",
-                                  25)
-    except IOError:
-        font = ImageFont.load_default()
+    font = ImageFont.load_default()
 
     for i in range(len(boxes)):
         ymin, xmin, ymax, xmax = tuple(boxes[i])

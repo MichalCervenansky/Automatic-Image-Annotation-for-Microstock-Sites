@@ -43,6 +43,7 @@ def build_PF(path_to_image, OD_module, C_module):
                          "from_image_classification": clasify(add_to_list(prep_boxes_for_c(), path_to_image), C_module)
                          }
     write_dic(positive_feedback, c.TEMP_PATH + "result_dic.txt")
-    result_set = positive_feedback["from_image_IPTC"].union(positive_feedback["from_object_detection"].union(positive_feedback[
-            "from_image_classification"]))
+    result_set = positive_feedback["from_image_IPTC"].union(
+        positive_feedback["from_object_detection"].union(positive_feedback[
+                                                             "from_image_classification"]))
     return result_set

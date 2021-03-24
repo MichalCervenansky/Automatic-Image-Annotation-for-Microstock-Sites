@@ -3,6 +3,7 @@ import sys
 import tensorflow_hub as hub
 
 import config as c
+from IPTC_tools.MUFFIN_annotate import muffin_annotate
 from utils.anotate_utils import pop_up, build_PF, write_list_to_file
 
 if __name__ == '__main__':
@@ -22,3 +23,8 @@ if __name__ == '__main__':
     for path in input_path:
         pos_feedback = build_PF(path, OD_module, C_module)
         write_list_to_file(pos_feedback, c.TEMP_PATH + "result.txt")
+        keyword_string = ",".join(pos_feedback)
+        url = "http://disa.fi.muni.cz/anfb/v2/annotate?k=50&similarImages=1000&url=http://michal.cervenansky.eu/dt_dataset/img_206.jpg&keywords="
+        tmp = muffin_annotate(url, keyword_string)
+        print()
+

@@ -43,14 +43,14 @@ if __name__ == '__main__':
     else:
         input_path = sys.argv[1:]
 
-        print("loading OD")
-        OD_module = hub.load(c.OD_PATH).signatures['default']
-        print("loaded!")
+    print("loading OD")
+    OD_module = hub.load(c.OD_PATH).signatures['default']
+    print("loaded!")
 
-        # Load model into KerasLayer
-        print("loading classifier")
-        C_module = hub.KerasLayer(c.C_PATH)
-        print("loaded!")
+    # Load model into KerasLayer
+    print("loading classifier")
+    C_module = hub.KerasLayer(c.C_PATH)
+    print("loaded!")
 
     for path in input_path:
         pos_feedback = build_PF(path, OD_module, C_module)

@@ -25,7 +25,7 @@ def create_filtered_dic(accepted_indexes, orig_result):
     for index in accepted_indexes:
         filtered_dic["detection_scores"].append(orig_result["detection_scores"][index])
         filtered_dic["detection_boxes"].append(orig_result["detection_boxes"][index])
-        filtered_dic["detection_class_entities"].append(orig_result["detection_class_entities"][index])
+        filtered_dic["detection_class_entities"].append(str(orig_result["detection_class_entities"][index], 'utf-8'))
     return filtered_dic
 
 
@@ -85,7 +85,7 @@ def draw_boxes(image, boxes, class_names, scores):
 
     for i in range(len(boxes)):
         ymin, xmin, ymax, xmax = tuple(boxes[i])
-        display_str = "{}: {}%".format(class_names[i].decode("ascii"),
+        display_str = "{}: {}%".format(class_names[i],
                                        int(100 * scores[i]))
         color = colors[hash(class_names[i]) % len(colors)]
         image_pil = Image.fromarray(np.uint8(image)).convert("RGB")

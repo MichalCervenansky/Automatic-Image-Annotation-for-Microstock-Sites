@@ -1,13 +1,11 @@
 import tensorflow as tf
-import tensorflow_hub as hub
-from Positive_feedback.utils.img2tensor import convert_image
+from utils.img2tensor import convert_image
 import pandas as pd
 import config as c
 
 
-def clasify(images):
-    # Load model into KerasLayer
-    module = hub.KerasLayer(c.C_PATH)
+def clasify(images, module):
+
 
     images = convert_image(images)  # A batch of images with shape [batch_size, height, width, 3].
     logits = module(images)  # Logits with shape [batch_size, 21843].
@@ -23,7 +21,9 @@ def clasify(images):
         df = pd.DataFrame(data)
         df = df.sort_values(by=['Probability'], ascending=False).head(c.C_MAX_CLASSES)
         df = df[df["Probability"] >= c.C_PRECISION_THRESHOLD]
-        res_list += (df["Class"].tolist())
+        res_list += [x.strip() for x in (df["Class"].tolist())]
+
 
     res_classes = [x.strip().split(',') for x in res_list]
-    return res_classes
+    flat_list = [item for sublist in res_classes for item in sublist]
+    return flat_list

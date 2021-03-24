@@ -12,6 +12,9 @@ if __name__ == '__main__':
     else:
         input_path = sys.argv[1:]
 
+    if len(input_path) == 0:
+        raise ValueError('No input')
+
     print("loading OD module")
     OD_module = hub.load(c.OD_PATH).signatures['default']
     print("OD module loaded!")

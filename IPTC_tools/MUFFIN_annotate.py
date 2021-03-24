@@ -25,4 +25,5 @@ def muffin_annotate(url, keywords):
     keyword_string = ",".join(keywords)
     response = requests.get(url + keyword_string)
     data = ElementTree.fromstring(response.content)
-    return data
+    tmp = list(data)
+    return list(list(data)[0])

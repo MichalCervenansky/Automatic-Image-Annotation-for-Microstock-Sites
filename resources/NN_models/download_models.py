@@ -7,8 +7,8 @@ import os
 import shutil
 from pathlib import Path
 
+# Enables importing configuration file
 sys.path.insert(0, str(Path(Path(__file__).parent / Path('..' + os.path.sep + '..' + os.path.sep)).resolve()))
-
 import configuration as c
 
 """

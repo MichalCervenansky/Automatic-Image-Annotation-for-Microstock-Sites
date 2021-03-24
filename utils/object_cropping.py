@@ -2,7 +2,7 @@ import os
 import shutil
 
 from PIL import Image
-import config as c
+import configuration as c
 
 
 # Out of bound will be deal with later using

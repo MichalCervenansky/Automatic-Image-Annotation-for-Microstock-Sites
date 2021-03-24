@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import filedialog
 import os
 
-import config as c
+import configuration as c
 
 
 def write_list_to_file(my_list, filename):

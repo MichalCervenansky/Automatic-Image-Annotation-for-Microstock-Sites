@@ -2,7 +2,7 @@ import sys
 
 import tensorflow_hub as hub
 
-import config as c
+import configuration as c
 from IPTC_tools.MUFFIN_annotate import muffin_annotate
 from utils.anotate_utils import pop_up, build_PF, write_list_to_file
 

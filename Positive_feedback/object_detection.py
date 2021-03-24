@@ -5,7 +5,7 @@ from PIL import Image
 
 from utils.object_cropping import crop_out_boxes
 from utils.object_detection_utils import load_img, create_filtered_dic, filter_result, draw_boxes
-import config as c
+import configuration as c
 
 
 def run_detector(path, detector):

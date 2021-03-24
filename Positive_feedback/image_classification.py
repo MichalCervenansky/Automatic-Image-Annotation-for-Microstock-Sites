@@ -3,7 +3,7 @@ import os
 import tensorflow as tf
 from utils.img2tensor import convert_image
 import pandas as pd
-import config as c
+import configuration as c
 
 
 def clasify(images, module):

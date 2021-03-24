@@ -1,3 +1,4 @@
+import shutil
 import sys
 
 import tensorflow_hub as hub
@@ -7,7 +8,7 @@ from IPTC_tools.MUFFIN_annotate import muffin_annotate
 from utils.anotate_utils import pop_up, build_PF, write_iterable_to_file
 
 if __name__ == '__main__':
-    if c.POPUP or len(sys.argv) == 1:
+    if len(sys.argv) == 1:
         input_path = pop_up()
     else:
         input_path = sys.argv[1:]
@@ -30,4 +31,6 @@ if __name__ == '__main__':
         url = "http://disa.fi.muni.cz/anfb/v2/annotate?k=50&similarImages=1000&url=http://michal.cervenansky.eu/dt_dataset/img_206.jpg&keywords="
         result = muffin_annotate(url, keyword_string)
         write_iterable_to_file(result, c.TEMP_PATH + "result_keywords.txt")
-        print()
+
+    if not c.DEBUG:
+        shutil.rmtree(c.TEMP_PATH)

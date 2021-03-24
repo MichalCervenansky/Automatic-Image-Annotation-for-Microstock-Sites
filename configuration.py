@@ -6,7 +6,6 @@ DEBUG = True
 TEMP_PATH = "tmp" + os.path.sep
 
 """Opens a dialog window to choose the input"""
-POPUP = False
 INITIALDIR = ""
 
 """Settings for Object detection"""

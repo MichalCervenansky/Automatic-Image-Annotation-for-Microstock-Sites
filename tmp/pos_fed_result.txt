@@ -1,15 +1,14 @@
-turkish
-Parrot
-Clothing
-pet shop
-shop
-couple
-street
-contour feather
-lory
 parrot
-Man
+couple
+shop
+turkish
+street
+man
+clothing
 poll
-macaw
-indigo
 poll parrot
+contour feather
+indigo
+lory
+macaw
+pet shop

@@ -1,3 +1,3 @@
-from_image_IPTC:turkish;street;Parrot;shop;couple;
-from_object_detection:Clothing;Man;Parrot;
-from_image_classification:contour feather;lory;parrot;poll;macaw;pet shop;indigo;poll parrot;
+from_image_IPTC:parrot;couple;shop;turkish;street;
+from_object_detection:parrot;man;clothing;
+from_image_classification:poll;poll parrot;parrot;contour feather;indigo;lory;macaw;pet shop;

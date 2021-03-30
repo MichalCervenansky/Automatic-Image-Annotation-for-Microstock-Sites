@@ -14,7 +14,7 @@ def write_dic(dic, output_filename):
     with open(output_filename, "w") as f:
         for key in dic.keys():
             stringBuilder = key + ":"
-            if isinstance(dic[key], set):
+            if isinstance(dic[key], list):
                 for keyword in dic[key]:
                     stringBuilder += keyword + ";"
             elif isinstance(dic[key], int):

@@ -41,13 +41,18 @@ def add_to_list(list, element):
     return list
 
 
+def process_keywords(iterable):
+    return unique(list(map(str.lower, iterable)))
+
+
 def build_PF(path_to_image, OD_module, C_module):
-    positive_feedback = {"from_image_IPTC": PF_from_IPTC(path_to_image),
-                         "from_object_detection": run_detector(path_to_image, OD_module),
-                         "from_image_classification": clasify(add_to_list(prep_boxes_for_c(), path_to_image), C_module)
+    # return tuples imgname, keyword
+    positive_feedback = {"from_image_IPTC": process_keywords(PF_from_IPTC(path_to_image)),
+                         "from_object_detection": process_keywords(run_detector(path_to_image, OD_module)),
+                         "from_image_classification": process_keywords(clasify(add_to_list(prep_boxes_for_c(), path_to_image), C_module))
                          }
     write_dic(positive_feedback, c.TEMP_PATH + "pos_fed_result_dic.txt")
-    result_set = positive_feedback["from_image_IPTC"] + positive_feedback["from_object_detection"] + positive_feedback[
+    result_list = positive_feedback["from_image_IPTC"] + positive_feedback["from_object_detection"] + positive_feedback[
         "from_image_classification"]
-    result_set = unique(result_set)
-    return result_set
+    result_list = unique(result_list)
+    return result_list

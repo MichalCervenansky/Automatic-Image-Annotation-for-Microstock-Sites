@@ -12,7 +12,6 @@ def run_detector(path, detector):
     img = load_img(path)
     converted_img = tf.image.convert_image_dtype(img, tf.float32)[tf.newaxis, ...]
 
-
     result = detector(converted_img)
     result = {key: value.numpy() for key, value in result.items()}
     filtered_dic = create_filtered_dic(filter_result(result, c.OD_PRECISION_THRESHOLD, c.OD_MAX_BOXES), result)
@@ -25,4 +24,4 @@ def run_detector(path, detector):
 
     Image.fromarray(image_with_boxes).save(c.TEMP_PATH + "image_with_boxes.jpg")
 
-    return set(filtered_dic["detection_class_entities"])
+    return list(filtered_dic["detection_class_entities"])

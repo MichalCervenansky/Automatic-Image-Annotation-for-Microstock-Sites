@@ -25,4 +25,4 @@ def clasify(images, module):
 
     res_classes = [x.strip().split(',') for x in res_list]
     flat_list = [item for sublist in res_classes for item in sublist]
-    return set(flat_list)
+    return list(flat_list)

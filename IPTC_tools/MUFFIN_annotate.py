@@ -22,10 +22,10 @@ def get_all_gdrive_urls():
 
 
 def parse_muffin_annotation(data):
-    res_set = set()
+    res_list = list()
     for word in list(list(data)[0]):
-        res_set.add(word.attrib['value'])
-    return res_set
+        res_list.append(word.attrib['value'])
+    return res_list
 
 
 def muffin_annotate(url, keywords):
@@ -33,3 +33,6 @@ def muffin_annotate(url, keywords):
     data = ElementTree.fromstring(response.content)
     result = parse_muffin_annotation(data)
     return result
+
+
+# 'http://disa.fi.muni.cz/anfb/v2/annotate?k=50&similarImages=1000&url=http://michal.cervenansky.eu/dt_dataset/img_206.jpg&keywords=Clothing,poll parrot,poll,contour feather,street,couple,indigo,Parrot,Man,lory,macaw,parrot,shop,turkish,pet shop'

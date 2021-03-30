@@ -1,1 +1,3 @@
-def save_iterable_to_IPTC():
+
+def save_iterable_to_IPTC(iterable):
+    return

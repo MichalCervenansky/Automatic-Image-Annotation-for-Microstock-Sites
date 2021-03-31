@@ -4,7 +4,7 @@ import tensorflow as tf
 from PIL import Image
 
 from utils.object_cropping import crop_out_boxes
-from utils.object_detection_utils import load_img, create_filtered_dic, filter_result, draw_boxes
+from utils.object_detection_utils import load_img, create_filtered_dic, filter_result, draw_boxes, write_OD_results
 import configuration as c
 
 
@@ -23,5 +23,5 @@ def run_detector(path, detector):
     crop_out_boxes(img.numpy(), filtered_dic["detection_boxes"])
 
     Image.fromarray(image_with_boxes).save(c.TEMP_PATH + "image_with_boxes.jpg")
-
+    write_OD_results(filtered_dic["detection_class_entities"], filtered_dic["detection_scores"])
     return list(filtered_dic["detection_class_entities"])

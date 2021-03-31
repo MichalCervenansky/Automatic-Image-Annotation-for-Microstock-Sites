@@ -13,7 +13,12 @@ import configuration as c
 def write_iterable_to_file(iterable, filename):
     with open(filename, 'w') as f:
         for item in iterable:
-            f.write("%s\n" % item)
+            try:
+                f.write("%s" % item)
+            except TypeError:
+                for each in item:
+                    f.write("%s;" % each)
+            f.write("\n")
 
 
 # Opens a dialog to choose input, user can choose multiple images
@@ -46,7 +51,6 @@ def process_keywords(iterable):
 
 
 def build_PF(path_to_image, OD_module, C_module):
-    # return tuples imgname, keyword
     positive_feedback = {"from_image_IPTC": process_keywords(PF_from_IPTC(path_to_image)),
                          "from_object_detection": process_keywords(run_detector(path_to_image, OD_module)),
                          "from_image_classification": process_keywords(clasify(add_to_list(prep_boxes_for_c(), path_to_image), C_module))

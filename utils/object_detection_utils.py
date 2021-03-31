@@ -73,6 +73,15 @@ def draw_bounding_box_on_image(image,
         text_bottom -= text_height - 2 * margin
 
 
+def write_OD_results(class_names, scores):
+    res_list = []
+    for i in range(len(class_names)):
+        res_list.append(tuple(["boxes_" + str(i), class_names[i], scores[i]]))
+    from utils.anotate_utils import write_iterable_to_file
+    write_iterable_to_file(res_list, "OD_results.txt")
+    return res_list
+
+
 def draw_boxes(image, boxes, class_names, scores):
     """Overlay labeled boxes on an image with formatted scores and label names."""
     colors = list(ImageColor.colormap.values())

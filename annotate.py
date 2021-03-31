@@ -27,7 +27,7 @@ if __name__ == '__main__':
     for path in input_path:
         pos_feedback = build_PF(path, OD_module, C_module)
         write_iterable_to_file(pos_feedback, c.TEMP_PATH + "pos_fed_result.txt")
-        keyword_string = ",".join(pos_feedback)
+        keyword_string = ";".join(pos_feedback)
         url = "http://disa.fi.muni.cz/anfb/v2/annotate?k=50&similarImages=1000&url=http://michal.cervenansky.eu/dt_dataset/img_206.jpg&keywords="
         result = muffin_annotate(url, keyword_string)
         write_iterable_to_file(result, c.TEMP_PATH + "result_keywords.txt")

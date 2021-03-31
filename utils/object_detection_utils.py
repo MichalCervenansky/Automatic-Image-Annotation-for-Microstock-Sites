@@ -2,6 +2,7 @@ import tensorflow as tf
 from PIL import ImageColor, ImageFont, Image, ImageDraw
 import numpy as np
 
+import configuration as c
 
 def load_img(path):
     img = tf.io.read_file(path)
@@ -76,9 +77,9 @@ def draw_bounding_box_on_image(image,
 def write_OD_results(class_names, scores):
     res_list = []
     for i in range(len(class_names)):
-        res_list.append(tuple(["boxes_" + str(i), class_names[i], scores[i]]))
+        res_list.append(tuple(["boxes_" + str(i+1), class_names[i], scores[i]]))
     from utils.anotate_utils import write_iterable_to_file
-    write_iterable_to_file(res_list, "OD_results.txt")
+    write_iterable_to_file(res_list, c.TEMP_PATH+"OD_results.txt")
     return res_list
 
 

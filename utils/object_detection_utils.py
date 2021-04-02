@@ -4,6 +4,7 @@ import numpy as np
 
 import configuration as c
 
+
 def load_img(path):
     img = tf.io.read_file(path)
     img = tf.image.decode_jpeg(img, channels=3)
@@ -75,12 +76,9 @@ def draw_bounding_box_on_image(image,
 
 
 def write_OD_results(class_names, scores):
-    res_list = []
-    for i in range(len(class_names)):
-        res_list.append(tuple(["boxes_" + str(i+1), class_names[i], scores[i]]))
-    from utils.anotate_utils import write_iterable_to_file
-    write_iterable_to_file(res_list, c.TEMP_PATH+"OD_results.txt")
-    return res_list
+    with open(c.TEMP_PATH + "OD_results.txt", 'w') as f:
+        for i in range(len(class_names)):
+            f.write("boxes_" + str(i + 1) + ";" + str(class_names[i]) + ":" + str(scores[i]) + "\n")
 
 
 def draw_boxes(image, boxes, class_names, scores):

@@ -1,38 +1,36 @@
+import base64
 import requests
 from xml.etree import ElementTree
+import pandas as pd
+import configuration as c
 
-ANNOTATOR_URL = "http://disa.fi.muni.cz/anfb/v2/annotate?url="
-IMG_URL_BASE = "http://michal.cervenansky.eu/dt_dataset/img_"
-K = 50
-SIMILAR_IMAGES = 50
-
-
-def generate_img_url(i):
-    if i < 10:
-        return IMG_URL_BASE + "0" + str(i) + ".jpg"
-    return IMG_URL_BASE + str(i) + ".jpg"
+from utils.anotate_utils import prep_boxes, write_iterable_to_file, load_big_image_feedback, parse_muffin_annotation, \
+    convert_file_into_dic, parse_class, load_resize_image
+from utils.object_detection_utils import load_img
 
 
-def get_all_gdrive_urls():
-    url_list = []
-    for i in range(1, 1001):
-        url_list.append(ANNOTATOR_URL + generate_img_url(i) + "&k=" + str(K) + "&similarImages=" + str(
-            SIMILAR_IMAGES) + "&keywords=")
-    return url_list
 
+def muffin_annotate(path):
+    big_image_url = c.URL_WITH_PARAMS + "&keywords=" + load_big_image_feedback() + "&url=data:image/jpeg;base64," + str(
+        base64.b64encode(
+            load_resize_image(path)))
+    tmp1 = str(base64.b64encode(
+        load_resize_image(path)))
+    tmp = requests.get(big_image_url).content
+    big_image = parse_muffin_annotation(ElementTree.fromstring(requests.get(big_image_url).content))
+    write_iterable_to_file(big_image, c.TEMP_PATH + "big_image_keywords.txt")
 
-def parse_muffin_annotation(data):
-    res_list = list()
-    for word in list(list(data)[0]):
-        res_list.append(word.attrib['value'])
-    return res_list
+    C_dic = convert_file_into_dic(c.TEMP_PATH + "C_results.txt")
+    OD_dic = convert_file_into_dic(c.TEMP_PATH + "OD_results.txt")
+    boxes = prep_boxes()
+    result = pd.DataFrame(big_image)
 
+    for box in boxes:
+        fed = [parse_class(C_dic[box]), parse_class(OD_dic[box])]
+        box_url = c.URL_WITH_PARAMS + "&keywords=" + fed + "url=data:image/jpeg;base64," + str(base64.b64encode(
+            load_resize_image(box)))
+        box_res = parse_muffin_annotation(ElementTree.fromstring(requests.get(box_url).content))
+        write_iterable_to_file(box_res, c.TEMP_PATH + box.replace(".jpg", "_res.txt"))
+        result = result.append(box_res)
 
-def muffin_annotate(url, keywords):
-    response = requests.get(url + keywords)
-    data = ElementTree.fromstring(response.content)
-    result = parse_muffin_annotation(data)
     return result
-
-
-# 'http://disa.fi.muni.cz/anfb/v2/annotate?k=50&similarImages=1000&url=http://michal.cervenansky.eu/dt_dataset/img_206.jpg&keywords=Clothing,poll parrot,poll,contour feather,street,couple,indigo,Parrot,Man,lory,macaw,parrot,shop,turkish,pet shop'

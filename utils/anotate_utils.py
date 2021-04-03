@@ -1,10 +1,10 @@
+import cv2
 from PIL import Image
 
 from IPTC_tools.dictionary_manipulation import write_dic
 from Positive_feedback.load_from_image import PF_from_IPTC
 from Positive_feedback.object_detection import run_detector
 from Positive_feedback.image_classification import clasify
-
 import tkinter as tk
 from tkinter import filedialog
 import os
@@ -95,6 +95,7 @@ def parse_class(key_string):
     return class_list
 
 
-def load_resize_image(path):
-    image = Image.open(path)
-    return image.resize((224, 224))
+def resize_as_binary_image(path):
+    image = Image.open(path).resize((224, 224))
+    image.save(c.TEMP_PATH + "small_" + os.path.basename(path))
+    return c.TEMP_PATH + "small_" + os.path.basename(path)

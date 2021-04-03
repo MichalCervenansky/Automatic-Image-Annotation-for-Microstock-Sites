@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import tensorflow as tf
 
-CROP_TO = 224
+RESIZE_TO = 224
 
 
 def preprocess_image(images):
@@ -19,7 +19,7 @@ def convert_image(img_paths):
     # Load a testing images:
     images = []
     for img in img_paths:
-        images.append(tf.image.resize(cv2.imread(img, flags=cv2.IMREAD_COLOR), [CROP_TO, CROP_TO]))
+        images.append(tf.image.resize(cv2.imread(img), [RESIZE_TO, RESIZE_TO]))
     images = tf.image.convert_image_dtype(images, tf.float32)
     images = preprocess_image(images)
 

@@ -15,9 +15,9 @@ def muffin_annotate(path):
     with open(tmp_image, "rb") as f:
         opened_binary_file = f.read()
         big_image_url = c.URL_WITH_PARAMS + "&keywords=" + load_big_image_feedback() + "&url=data:image/jpeg;base64," + base64.b64encode(opened_binary_file).decode('utf-8')
-        tmp1 = base64.b64encode(opened_binary_file).decode('utf-8')
-        tmp_len = len(opened_binary_file)
-        tmp = requests.get(big_image_url).content
+        tmp_encoded = base64.b64encode(opened_binary_file).decode('utf-8')
+        tmp_len = len(tmp_encoded)
+        tmp_req_result = requests.get(big_image_url).content
         big_image = parse_muffin_annotation(ElementTree.fromstring(requests.get(big_image_url).content))
         write_iterable_to_file(big_image, c.TEMP_PATH + "big_image_keywords.txt")
     os.remove(tmp_image)

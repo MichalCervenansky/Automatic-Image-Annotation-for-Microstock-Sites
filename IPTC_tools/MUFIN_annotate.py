@@ -10,7 +10,7 @@ from utils.anotate_utils import prep_boxes, write_iterable_to_file, load_big_ima
     convert_file_into_dic, parse_class, resize_as_binary_image
 
 
-def muffin_annotate(path):
+def mufin_annotate(path):
     tmp_image = resize_as_binary_image(path)
     with open(tmp_image, "rb") as f:
         opened_binary_file = f.read()

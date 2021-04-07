@@ -1,8 +1,4 @@
-import itertools
-
-import cv2
 from PIL import Image
-
 from IPTC_tools.dictionary_manipulation import write_dic
 from Positive_feedback.load_from_image import PF_from_IPTC
 from Positive_feedback.object_detection import run_detector
@@ -10,7 +6,6 @@ from Positive_feedback.image_classification import clasify
 import tkinter as tk
 from tkinter import filedialog
 import os
-
 import configuration as c
 
 
@@ -70,7 +65,7 @@ def build_PF(path_to_image, OD_module, C_module):
 def parse_muffin_annotation(data):
     res_list = list()
     for word in list(list(data)[0]):
-        res_list.append(word.attrib['value'] + ":" + word.attrib['distance'])
+        res_list.append((word.attrib['value'], word.attrib['distance']))
     return res_list
 
 

@@ -78,7 +78,7 @@ def draw_bounding_box_on_image(image,
 def write_OD_results(class_names, scores):
     with open(c.TEMP_PATH + "OD_results.txt", 'w') as f:
         for i in range(len(class_names)):
-            f.write("boxes_" + str(i + 1) + ";" + str(class_names[i]) + ":" + str(scores[i]) + "\n")
+            f.write("boxes_" + str(i + 1) + ".jpg;" + str(class_names[i]) + ":" + str(scores[i]) + "\n")
 
 
 def draw_boxes(image, boxes, class_names, scores):

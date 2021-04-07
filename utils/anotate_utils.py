@@ -1,3 +1,5 @@
+import itertools
+
 import cv2
 from PIL import Image
 
@@ -68,7 +70,7 @@ def build_PF(path_to_image, OD_module, C_module):
 def parse_muffin_annotation(data):
     res_list = list()
     for word in list(list(data)[0]):
-        res_list.append(word.attrib['value'])
+        res_list.append(word.attrib['value'] + ":" + word.attrib['distance'])
     return res_list
 
 
@@ -81,21 +83,26 @@ def load_big_image_feedback():
 def convert_file_into_dic(path):
     dic = {}
     with open(path) as f:
-        for line in f:
-            (key, val) = line.split(";")
-            dic[key] = val
+        for line in f.readlines():
+            split_line = line.split(";")
+            dic[split_line[0]] = []
+            if len(split_line) > 2:
+                for i in range(1, len(split_line)):
+                    split_list = split_line[i].split(":")[0].split(",")
+                    flat_list = split_list
+                    if "\n" in flat_list: flat_list.remove("\n")
+                    dic[split_line[0]] += flat_list
     return dic
 
 
-def parse_class(key_string):
+def parse_class(key_list):
     class_list = []
-    key_list = key_string.split(":")
     for i in range(len(key_list), step=2):
         class_list.append(key_list[i])
     return class_list
 
 
 def resize_as_binary_image(path):
-    image = Image.open(path).resize((224, 224))
+    image = Image.open(path).resize((32, 32))
     image.save(c.TEMP_PATH + "small_" + os.path.basename(path))
     return c.TEMP_PATH + "small_" + os.path.basename(path)

@@ -1,8 +1,5 @@
-import nltk
 from iptcinfo3 import IPTCInfo
 from nltk.corpus import stopwords
-
-nltk.download('stopwords')
 
 
 def PF_from_IPTC(file_path):
@@ -15,4 +12,3 @@ def PF_from_IPTC(file_path):
     else:
         caption = []
     return list(keywords + caption)
-

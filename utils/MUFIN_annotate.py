@@ -1,0 +1,41 @@
+import os
+import requests
+from xml.etree import ElementTree
+import pandas as pd
+import configuration as c
+from utils.anotate_utils import prep_boxes, write_iterable_to_file, load_big_image_feedback, parse_muffin_annotation, \
+    convert_file_into_dic, resize_as_binary_image
+
+
+def get_mufin_anotation(image, C_dic, OD_dic):
+    tmp_image = resize_as_binary_image(image)
+    with open(tmp_image, "rb") as f:
+        opened_binary_file = f.read()
+        if "boxes_" in image:
+            fed = ' '.join([str(elem) for elem in C_dic[os.path.basename(image)] + OD_dic[os.path.basename(image)]])
+        else:
+            fed = load_big_image_feedback()
+        box_url = c.URL_WITH_PARAMS
+        if fed:
+            box_url += "&keywords=" + fed
+        img_res = parse_muffin_annotation(
+            ElementTree.fromstring(requests.get(box_url, data=opened_binary_file).content))
+        write_iterable_to_file(img_res, c.TEMP_PATH + os.path.basename(image).replace(".jpg", "_res.txt"))
+        res_df = pd.DataFrame(img_res, columns=['Keyword', 'Distance'])
+        return res_df
+
+
+def mufin_annotate(path):
+    C_dic = convert_file_into_dic(c.TEMP_PATH + "C_results.txt")
+    OD_dic = convert_file_into_dic(c.TEMP_PATH + "OD_results.txt")
+    images = prep_boxes()
+    images.append(path)
+    result = pd.DataFrame(columns=['Keyword', 'Distance'])
+
+    for image in images:
+        res_df = get_mufin_anotation(image, C_dic, OD_dic)
+        result = result.append(res_df)
+
+    result = result.groupby(['Keyword']).min()
+    result = result.sort_values(by=['Distance'])
+    return result.index.values.tolist()

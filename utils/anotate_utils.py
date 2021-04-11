@@ -30,14 +30,14 @@ def pop_up():
 def prep_boxes():
     boxes = []
     for filename in os.listdir(c.TEMP_PATH):
-        if filename.startswith("boxes"):
+        if filename.startswith("boxes") and filename.endswith(".jpg"):
             boxes.append(c.TEMP_PATH + filename)
     return boxes
 
 
 def unique(sequence):
-    seen = set()
-    return [x for x in sequence if not (x in seen or seen.add(x))]
+    seen = dict.fromkeys(sequence)
+    return list(seen.keys())
 
 
 def add_to_list(list, element):
@@ -50,15 +50,24 @@ def process_keywords(iterable):
 
 
 def build_PF(path_to_image, OD_module, C_module):
-    positive_feedback = {"from_image_IPTC": process_keywords(PF_from_IPTC(path_to_image)),
-                         "from_object_detection": process_keywords(run_detector(path_to_image, OD_module)),
-                         "from_image_classification": process_keywords(
-                             clasify(add_to_list(prep_boxes(), path_to_image), C_module))
-                         }
-    write_dic(positive_feedback, c.TEMP_PATH + "pos_fed_result_dic.txt")
-    result_list = positive_feedback["from_image_IPTC"] + positive_feedback["from_object_detection"] + positive_feedback[
-        "from_image_classification"]
+    positive_feedback = {}
+    result_list = []
+    if c.USE_IPTC:
+        res = process_keywords(PF_from_IPTC(path_to_image))
+        positive_feedback["from_image_IPTC"] = res
+        result_list += res
+    if c.USE_OD:
+        res = process_keywords(run_detector(path_to_image, OD_module))
+        positive_feedback["from_object_detection"] = res
+        result_list += res
+    if c.USE_CL:
+        res = process_keywords(
+            clasify(add_to_list(prep_boxes(), path_to_image), C_module))
+        positive_feedback["from_image_classification"] = res
+        result_list += res
+
     result_list = unique(result_list)
+    write_dic(positive_feedback, c.TEMP_PATH + "pos_fed_result_dic.txt")
     return result_list
 
 
@@ -98,6 +107,6 @@ def parse_class(key_list):
 
 
 def resize_as_binary_image(path):
-    image = Image.open(path).resize((32, 32))
+    image = Image.open(path).resize((224, 224))
     image.save(c.TEMP_PATH + "small_" + os.path.basename(path))
     return c.TEMP_PATH + "small_" + os.path.basename(path)

@@ -1,4 +1,3 @@
-# For running inference on the TF-Hub module.
 import tensorflow as tf
 
 from PIL import Image

@@ -8,3 +8,4 @@ nltk
 IPTCInfo3
 pandas
 tensorflow-hub
+silence_tensorflow

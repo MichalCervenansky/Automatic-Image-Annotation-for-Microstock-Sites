@@ -1,5 +1,9 @@
 """Configuration"""
 import os
+import warnings
+
+"""There might be some warnings, that are not important"""
+warnings.filterwarnings("ignore")
 
 """When enabled, app leaves a temp folder in pwd of annotate script and intermediate results are stored there"""
 DEBUG = True

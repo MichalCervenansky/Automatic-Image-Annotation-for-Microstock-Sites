@@ -16,7 +16,7 @@ def merge_keywords(pos_feedback, muffin_result):
         merge_res[each] = None
         if len(merge_res.keys()) == c.MAX_KEYWORDS:
             return merge_res.keys()
-    return merge_res.keys()
+    return list(merge_res.keys())
 
 
 if __name__ == '__main__':

@@ -1,5 +1,6 @@
 """
-Firstly lets install pipenv and create virtual environment
+I would encourage to use some sort of virtual environment, f.e. venv in Pycharm IDE.
+Prerequisites and models can have up to 6 GB.
 """
 import subprocess
 import os

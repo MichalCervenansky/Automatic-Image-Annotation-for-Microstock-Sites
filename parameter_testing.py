@@ -24,9 +24,32 @@ def run_test(suffix):
                   os.listdir("/home/mcervenansky/Documents/DP_work/")]
     for each in input_path:
         wipe_keywords(each)
-    subprocess.call("../python annotate.py " + " ".join(input_path), shell=True)
+    input_string = "python annotate.py " + " ".join(input_path)
+    subprocess.call(input_string, shell=True)
     prepare_test_result(input_path, "test_results_" + suffix + ".txt")
 
 
 if __name__ == '__main__':
-    run_test("test")
+    """Only Muffin"""
+    c.USE_IPTC = False
+    c.USE_OD = False
+    c.USE_CL = False
+    run_test("only_muffin")
+
+    """From name"""
+    c.USE_IPTC = True
+    c.USE_OD = False
+    c.USE_CL = False
+    run_test("name")
+
+    """From name and OD"""
+    c.USE_IPTC = True
+    c.USE_OD = True
+    c.USE_CL = False
+    run_test("OD")
+
+    """From name, OD, CL"""
+    c.USE_IPTC = True
+    c.USE_OD = True
+    c.USE_CL = True
+    run_test("CL")

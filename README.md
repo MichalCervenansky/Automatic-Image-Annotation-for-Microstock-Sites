@@ -5,7 +5,7 @@ Application serves for automatic image annotation, mainly for microstock website
 * Classification by BiT-M model trained on ImageNet-21k of image itself and objects detected in previous step
 * Completing keywords using Mufin annotation framework with positive feedback from previous steps
 
-##Instalation:
+## Instalation:
 * Clone or download this repository from Github
 * Install Python and pip, tested with Python 3.6 and 3.7 other version might cause problems
 * Activating virtual environment is recommended, prerequisites might have up to 6 GB, tested using venv in Pycharm IDE.
@@ -13,7 +13,7 @@ Application serves for automatic image annotation, mainly for microstock website
 * Mainly on Windows there might be problem with Tensorflow installation, if this occurs make sure to follow:
 https://www.tensorflow.org/install/pip
   
-##Workflow:
+## Workflow:
 * Run `annotate.py` from terminal with images as parameters for example:\
 `python annotate.py /path/*.jpg` \
   `python annotate.py /path/01.jpg /path/02.jpg`

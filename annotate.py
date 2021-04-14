@@ -28,15 +28,21 @@ if __name__ == '__main__':
     if len(input_path) == 0:
         raise ValueError('No input')
 
-    print("loading OD module")
-    OD_module = hub.load(c.OD_PATH).signatures['default']
-    print("OD module loaded!")
+    OD_module, C_module = None, None
+    if c.USE_OD:
+        print("loading OD module")
+        OD_module = hub.load(c.OD_PATH).signatures['default']
+        print("OD module loaded!")
 
-    print("loading classifier module")
-    C_module = hub.KerasLayer(c.C_PATH)
-    print("classifier module loaded!")
+    if c.USE_CL:
+        print("loading classifier module")
+        C_module = hub.KerasLayer(c.C_PATH)
+        print("classifier module loaded!")
 
     for path in input_path:
+        if os.path.exists(c.TEMP_PATH):
+            shutil.rmtree(c.TEMP_PATH)
+        os.mkdir(c.TEMP_PATH)
         print("Annotating " + os.path.basename(path))
         pos_feedback = build_PF(path, OD_module, C_module)
         write_iterable_to_file(pos_feedback, c.TEMP_PATH + "pos_fed_result.txt")

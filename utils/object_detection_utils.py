@@ -27,7 +27,8 @@ def create_filtered_dic(accepted_indexes, orig_result):
     for index in accepted_indexes:
         filtered_dic["detection_scores"].append(orig_result["detection_scores"][index])
         filtered_dic["detection_boxes"].append(orig_result["detection_boxes"][index])
-        filtered_dic["detection_class_entities"].append(str(orig_result["detection_class_entities"][index], 'utf-8'))
+        filtered_dic["detection_class_entities"].append(
+            str(orig_result["detection_class_entities"][index], 'utf-8').lower())
     return filtered_dic
 
 

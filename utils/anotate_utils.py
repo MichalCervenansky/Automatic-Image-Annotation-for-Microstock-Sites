@@ -90,7 +90,7 @@ def convert_file_into_dic(path):
         for line in f.readlines():
             split_line = line.split(";")
             dic[split_line[0]] = []
-            if len(split_line) > 2:
+            if len(split_line) > 1:
                 for i in range(1, len(split_line)):
                     split_list = split_line[i].split(":")[0].split(",")
                     flat_list = split_list

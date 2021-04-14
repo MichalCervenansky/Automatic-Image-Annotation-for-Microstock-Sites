@@ -14,7 +14,12 @@ def get_mufin_anotation(image, C_dic, OD_dic):
     with open(tmp_image, "rb") as f:
         opened_binary_file = f.read()
         if "boxes_" in image:
-            fed = ' '.join([str(elem) for elem in C_dic[os.path.basename(image)] + OD_dic[os.path.basename(image)]])
+            fed_list = []
+            if c.USE_OD:
+                fed_list += OD_dic[os.path.basename(image)]
+            if c.USE_CL:
+                fed_list += C_dic[os.path.basename(image)]
+            fed = ' '.join([str(elem) for elem in fed_list])
         else:
             fed = load_big_image_feedback()
         box_url = c.URL_WITH_PARAMS

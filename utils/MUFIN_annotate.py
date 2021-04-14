@@ -1,4 +1,6 @@
 import os
+import time
+
 import requests
 from xml.etree import ElementTree
 import pandas as pd
@@ -22,6 +24,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
         while req_response.status_code != 200:
             req_response = requests.get(box_url, data=opened_binary_file)
             print("Connection to Mufin failed!")
+            time.sleep(5)
         img_res = parse_muffin_annotation(
             ElementTree.fromstring(req_response.content))
         write_iterable_to_file(img_res, c.TEMP_PATH + os.path.basename(image).replace(".jpg", "_res.txt"))
@@ -30,7 +33,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
 
 
 def mufin_annotate(path):
-    C_dic, OD_dic = None, None
+    C_dic, OD_dic = {}, {}
     if c.USE_OD:
         OD_dic = convert_file_into_dic(c.TEMP_PATH + "OD_results.txt")
     if c.USE_CL:

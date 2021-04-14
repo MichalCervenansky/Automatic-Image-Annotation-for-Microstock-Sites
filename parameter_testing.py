@@ -35,19 +35,19 @@ def run_test(suffix):
 
 if __name__ == '__main__':
 
-    wipe()
+    #wipe()
     """Only Mufin"""
-    c.USE_IPTC = False
-    c.USE_OD = False
-    c.USE_CL = False
-    run_test("only_mufin")
+    #c.USE_IPTC = False
+    #c.USE_OD = False
+    #c.USE_CL = False
+    #run_test("only_mufin")
 
-    wipe()
+    #wipe()
     """From name"""
-    c.USE_IPTC = True
-    c.USE_OD = False
-    c.USE_CL = False
-    run_test("name")
+    #c.USE_IPTC = True
+    #c.USE_OD = False
+    #c.USE_CL = False
+    #run_test("name")
 
     wipe()
     """From name and OD"""

@@ -7,6 +7,7 @@ from IPTC_tools.IPTC_manipulation import read_from_IPTC, wipe_keywords
 from IPTC_tools.dictionary_manipulation import write_dic
 
 import configuration as c
+from annotate import annot
 
 
 def prepare_test_result(input_path, output_filename):
@@ -19,35 +20,43 @@ def prepare_test_result(input_path, output_filename):
     write_dic(result_dic, "test_results/" + output_filename)
 
 
-def run_test(suffix):
-    input_path = ["/home/mcervenansky/Documents/DP_work/" + filename for filename in
-                  os.listdir("/home/mcervenansky/Documents/DP_work/")]
+def wipe():
+    input_path = ["dataset/" + filename for filename in
+                  os.listdir("dataset")]
     for each in input_path:
         wipe_keywords(each)
-    input_string = "python annotate.py " + " ".join(input_path)
-    subprocess.call(input_string, shell=True)
+
+def run_test(suffix):
+    input_path = ["dataset/" + filename for filename in
+                  os.listdir("dataset")]
+    annot(input_path)
     prepare_test_result(input_path, "test_results_" + suffix + ".txt")
 
 
 if __name__ == '__main__':
-    """Only Muffin"""
+
+    wipe()
+    """Only Mufin"""
     c.USE_IPTC = False
     c.USE_OD = False
     c.USE_CL = False
-    run_test("only_muffin")
+    run_test("only_mufin")
 
+    wipe()
     """From name"""
     c.USE_IPTC = True
     c.USE_OD = False
     c.USE_CL = False
     run_test("name")
 
+    wipe()
     """From name and OD"""
     c.USE_IPTC = True
     c.USE_OD = True
     c.USE_CL = False
     run_test("OD")
 
+    wipe()
     """From name, OD, CL"""
     c.USE_IPTC = True
     c.USE_OD = True

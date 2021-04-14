@@ -18,16 +18,23 @@ def get_mufin_anotation(image, C_dic, OD_dic):
         box_url = c.URL_WITH_PARAMS
         if fed:
             box_url += "&keywords=" + fed
+        req_response = requests.get(box_url, data=opened_binary_file)
+        while req_response.status_code != 200:
+            req_response = requests.get(box_url, data=opened_binary_file)
+            print("Connection to Mufin failed!")
         img_res = parse_muffin_annotation(
-            ElementTree.fromstring(requests.get(box_url, data=opened_binary_file).content))
+            ElementTree.fromstring(req_response.content))
         write_iterable_to_file(img_res, c.TEMP_PATH + os.path.basename(image).replace(".jpg", "_res.txt"))
         res_df = pd.DataFrame(img_res, columns=['Keyword', 'Distance'])
         return res_df
 
 
 def mufin_annotate(path):
-    C_dic = convert_file_into_dic(c.TEMP_PATH + "C_results.txt")
-    OD_dic = convert_file_into_dic(c.TEMP_PATH + "OD_results.txt")
+    C_dic, OD_dic = None, None
+    if c.USE_OD:
+        OD_dic = convert_file_into_dic(c.TEMP_PATH + "OD_results.txt")
+    if c.USE_CL:
+        C_dic = convert_file_into_dic(c.TEMP_PATH + "C_results.txt")
     images = prep_boxes()
     images.append(path)
     result = pd.DataFrame(columns=['Keyword', 'Distance'])

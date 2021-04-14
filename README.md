@@ -17,7 +17,6 @@ https://www.tensorflow.org/install/pip
 * Run `annotate.py` from terminal with images as parameters for example:\
 `python annotate.py /path/*.jpg` \
   `python annotate.py /path/01.jpg /path/02.jpg`
-  
-* Run `annotate.py` without any parameter and select images in the pop-up window
-* Results of annotation are automatically saved to IPTC of annotated images. 
-* Feel free to experiment with application parameters in `configuration.py` file
+  * Run `annotate.py` without any parameter and select images in the pop-up window
+  * Results of annotation are automatically saved to IPTC of annotated images. 
+  * Feel free to experiment with application parameters in `configuration.py` file

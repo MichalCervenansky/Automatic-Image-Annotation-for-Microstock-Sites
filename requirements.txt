@@ -5,6 +5,5 @@ Pillow
 wget
 requests
 nltk
-IPTCInfo3
 pandas
 tensorflow-hub

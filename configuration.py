@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 """When enabled, app leaves a temp folder in pwd of annotate script and intermediate results are stored there"""
-DEBUG = False
+DEBUG = True
 TEMP_PATH = "tmp" + os.path.sep
 PWD = os.getcwd()
 """Opens a dialog window to choose the input"""

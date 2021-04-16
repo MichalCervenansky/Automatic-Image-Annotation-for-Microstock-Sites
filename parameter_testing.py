@@ -29,6 +29,7 @@ def wipe():
 def run_test(suffix):
     input_path = ["dataset/" + filename for filename in
                   os.listdir("dataset")]
+    input_path = ["dataset/img_969.jpg"]
     annot(input_path)
     prepare_test_result(input_path, "test_results_" + suffix + ".txt")
 

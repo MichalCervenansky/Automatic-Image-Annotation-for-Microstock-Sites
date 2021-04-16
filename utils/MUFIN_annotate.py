@@ -5,7 +5,7 @@ import requests
 from xml.etree import ElementTree
 import pandas as pd
 import configuration as c
-from utils.anotate_utils import prep_boxes, write_iterable_to_file, load_big_image_feedback, parse_muffin_annotation, \
+from utils.anotate_utils import prep_boxes, write_iterable_to_file, load_big_image_feedback, parse_mufin_annotation, \
     convert_file_into_dic, resize_as_binary_image
 
 
@@ -30,7 +30,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
             req_response = requests.get(box_url, data=opened_binary_file)
             print("Connection to Mufin failed!")
             time.sleep(5)
-        img_res = parse_muffin_annotation(
+        img_res = parse_mufin_annotation(
             ElementTree.fromstring(req_response.content))
         write_iterable_to_file(img_res, c.TEMP_PATH + os.path.basename(image).replace(".jpg", "_res.txt"))
         res_df = pd.DataFrame(img_res, columns=['Keyword', 'Distance'])

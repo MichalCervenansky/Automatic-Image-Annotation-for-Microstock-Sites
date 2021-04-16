@@ -71,7 +71,7 @@ def build_PF(path_to_image, OD_module, C_module):
     return result_list
 
 
-def parse_muffin_annotation(data):
+def parse_mufin_annotation(data):
     res_list = list()
     for word in list(list(data)[0]):
         res_list.append((word.attrib['value'], word.attrib['distance']))

@@ -1,6 +1,5 @@
 import os
 import os.path
-import subprocess
 from os import path
 
 from IPTC_tools.IPTC_manipulation import read_from_IPTC, wipe_keywords
@@ -21,15 +20,15 @@ def prepare_test_result(input_path, output_filename):
 
 
 def wipe():
-    input_path = ["dataset/" + filename for filename in
-                  os.listdir("dataset")]
+    input_path = ["/home/mcervenansky/Documents/DP_work/" + filename for filename in
+                  os.listdir("/home/mcervenansky/Documents/DP_work/")]
     for each in input_path:
         wipe_keywords(each)
 
 def run_test(suffix):
-    input_path = ["dataset/" + filename for filename in
-                  os.listdir("dataset")]
-    input_path = ["dataset/img_969.jpg"]
+    #input_path = ["dataset/" + filename for filename in
+                 # os.listdir("/home/mcervenansky/Documents/DP_work")]
+    input_path = ["/home/mcervenansky/Documents/DP_work/img_969.jpg"]
     annot(input_path)
     prepare_test_result(input_path, "test_results_" + suffix + ".txt")
 

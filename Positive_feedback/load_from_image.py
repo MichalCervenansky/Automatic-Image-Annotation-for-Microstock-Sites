@@ -1,5 +1,6 @@
-from iptcinfo3 import IPTCInfo
 from nltk.corpus import stopwords
+
+from IPTC_tools.iptcinfo3 import IPTCInfo
 
 
 def PF_from_IPTC(file_path):

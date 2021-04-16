@@ -1,4 +1,4 @@
-from iptcinfo3 import IPTCInfo
+from IPTC_tools.iptcinfo3 import IPTCInfo
 
 
 def save_iterable_to_IPTC(iterable, filename):

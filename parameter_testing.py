@@ -20,41 +20,40 @@ def prepare_test_result(input_path, output_filename):
 
 
 def wipe():
-    input_path = ["/home/mcervenansky/Documents/DP_work/" + filename for filename in
-                  os.listdir("/home/mcervenansky/Documents/DP_work/")]
+    input_path = ["dataset/" + filename for filename in
+                  os.listdir("dataset/")]
     for each in input_path:
         wipe_keywords(each)
 
+
 def run_test(suffix):
-    #input_path = ["dataset/" + filename for filename in
-                 # os.listdir("/home/mcervenansky/Documents/DP_work")]
-    input_path = ["/home/mcervenansky/Documents/DP_work/img_969.jpg"]
+    input_path = ["dataset/" + filename for filename in
+                  os.listdir("dataset/")]
     annot(input_path)
     prepare_test_result(input_path, "test_results_" + suffix + ".txt")
 
 
 if __name__ == '__main__':
-
-    #wipe()
+    # wipe()
     """Only Mufin"""
-    #c.USE_IPTC = False
-    #c.USE_OD = False
-    #c.USE_CL = False
-    #run_test("only_mufin")
+    # c.USE_IPTC = False
+    # c.USE_OD = False
+    # c.USE_CL = False
+    # run_test("only_mufin")
+
+    # wipe()
+    """From name"""
+    # c.USE_IPTC = True
+    # c.USE_OD = False
+    # c.USE_CL = False
+    # run_test("name")
 
     #wipe()
-    """From name"""
-    #c.USE_IPTC = True
-    #c.USE_OD = False
-    #c.USE_CL = False
-    #run_test("name")
-
-    wipe()
     """From name and OD"""
-    c.USE_IPTC = True
-    c.USE_OD = True
-    c.USE_CL = False
-    run_test("OD")
+    #c.USE_IPTC = True
+    #c.USE_OD = True
+    #c.USE_CL = False
+    #run_test("OD")
 
     wipe()
     """From name, OD, CL"""

@@ -5,8 +5,16 @@ import requests
 from xml.etree import ElementTree
 import pandas as pd
 import configuration as c
+import unicodedata
 from utils.anotate_utils import prep_boxes, write_iterable_to_file, load_big_image_feedback, parse_mufin_annotation, \
     convert_file_into_dic, resize_as_binary_image
+
+
+def update_in_alist(alist):
+    newlist = []
+    for (k, v) in alist:
+        newlist.append([unicodedata.normalize('NFKD', k).encode('ascii', 'ignore').decode("utf8"), v])
+    return newlist
 
 
 def get_mufin_anotation(image, C_dic, OD_dic):
@@ -32,6 +40,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
             time.sleep(5)
         img_res = parse_mufin_annotation(
             ElementTree.fromstring(req_response.content))
+        img_res = update_in_alist(img_res)
         write_iterable_to_file(img_res, c.TEMP_PATH + os.path.basename(image).replace(".jpg", "_res.txt"))
         res_df = pd.DataFrame(img_res, columns=['Keyword', 'Distance'])
         return res_df

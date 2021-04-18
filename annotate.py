@@ -48,10 +48,10 @@ def annot(input_path):
         write_iterable_to_file(result, c.TEMP_PATH + "merged_result.txt")
         save_iterable_to_IPTC(result, path)
 
-        shutil.copyfile(c.TEMP_PATH + "C_results.txt", "test_results/" + os.path.basename(path) + "C_results.txt")
-        shutil.copyfile(c.TEMP_PATH + "OD_results.txt", "test_results/" + os.path.basename(path) + "OD_results.txt")
-        shutil.copyfile(c.TEMP_PATH + "mufin_result.txt", "test_results/" + os.path.basename(path) + "mufin_result.txt")
+        shutil.copyfile(c.TEMP_PATH + "C_results.txt", "test_results/" + os.path.basename(path) + "/C_results.txt")
+        shutil.copyfile(c.TEMP_PATH + "OD_results.txt", "test_results/" + os.path.basename(path) + "/OD_results.txt")
+        shutil.copyfile(c.TEMP_PATH + "mufin_result.txt", "test_results/" + os.path.basename(path) + "/mufin_result.txt")
         shutil.copyfile(c.TEMP_PATH + "pos_fed_result_dic.txt",
-                        "test_results/" + os.path.basename(path) + "pos_fed_result_dic.txt")
+                        "test_results/" + os.path.basename(path) + "/pos_fed_result_dic.txt")
         if not c.DEBUG:
             shutil.rmtree(c.TEMP_PATH)

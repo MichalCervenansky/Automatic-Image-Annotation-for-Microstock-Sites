@@ -36,7 +36,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
         req_response = requests.get(box_url, data=opened_binary_file)
         while req_response.status_code != 200:
             req_response = requests.get(box_url, data=opened_binary_file)
-            print("Connection to Mufin failed!")
+            print("Connection to Mufin failed! - " + str(req_response.status_code))
             time.sleep(5)
         img_res = parse_mufin_annotation(
             ElementTree.fromstring(req_response.content))

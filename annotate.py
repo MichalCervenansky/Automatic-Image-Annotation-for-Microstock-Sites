@@ -51,6 +51,6 @@ def annot(input_path):
         shutil.copyfile(c.TEMP_PATH + "C_results.txt", "test_results/" + path + "C_results.txt")
         shutil.copyfile(c.TEMP_PATH + "OD_results.txt", "test_results/" + path + "OD_results.txt")
         shutil.copyfile(c.TEMP_PATH + "mufin_result.txt", "test_results/" + path + "mufin_result.txt")
-        shutil.copyfile(c.TEMP_PATH + "pos_fed_result_dic.txt" + path + "pos_fed_result_dic.txt")
+        shutil.copyfile(c.TEMP_PATH + "pos_fed_result_dic.txt", "test_results/" + path + "pos_fed_result_dic.txt")
         if not c.DEBUG:
             shutil.rmtree(c.TEMP_PATH)

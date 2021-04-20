@@ -1,0 +1,13 @@
+boxes_1.jpg;crown,diadem:0.6070645451545715;tiara:0.2501218020915985;crown jewels:0.12430848926305771;
+boxes_10.jpg;crown jewels:0.9987710118293762;
+boxes_11.jpg;crown jewels:0.998062789440155;
+boxes_12.jpg;bubble:0.1224728599190712;air bubble:0.10860005766153336;
+boxes_2.jpg;crown jewels:0.9931435585021973;
+boxes_3.jpg;crown jewels:0.9321705102920532;crown,diadem:0.06677277386188507;
+boxes_4.jpg;crown jewels:0.9877468347549438;
+boxes_5.jpg;sleigh bell,cascabel:0.4864206910133362;oil lamp,kerosene lamp,kerosine lamp:0.08473126590251923;bell jar,bell glass:0.0717773288488388;
+boxes_6.jpg;knot:0.31864506006240845;overhand knot:0.12892398238182068;bow,bowknot:0.07309921085834503;sheet bend,becket bend,weaver's knot,weaver's hitch:0.05215989425778389;
+boxes_7.jpg;crown jewels:0.9949839115142822;
+boxes_8.jpg;crown jewels:0.9986972212791443;
+boxes_9.jpg;bell jar,bell glass:0.423035591840744;crown jewels:0.062156133353710175;
+img_912.jpg;crown jewels:0.9975190162658691;

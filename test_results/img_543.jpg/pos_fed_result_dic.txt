@@ -1,0 +1,3 @@
+from_image_IPTC:old;brick;orange;red;wall;texture;;
+from_object_detection:stairs;building;house;picture frame;
+from_image_classification:brickwork;masonry;bricks and mortar;stonework;brick;firebrick;

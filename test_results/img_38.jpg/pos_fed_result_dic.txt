@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:building;window;tree;tower;sculpture;clothing;door;
+from_image_classification:chapel;mausoleum;vault;transept;monastery;portico;temple;pantheon;whispering gallery;whispering dome;victrola;seventy-eight;78;gramophone;acoustic gramophone;roman building;cornice;arcade;colonnade;entablature;architrave;traffic cop;pediment;round arch;window;support column;bell tower;barrel vault;statehouse;window frame;dome;quoin;coign;coigne;backstairs;memorial;monument;building;edifice;oil paint;

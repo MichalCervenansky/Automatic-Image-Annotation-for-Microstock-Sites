@@ -1,0 +1,23 @@
+boxes_1.jpg;marine invertebrates:0.91625935
+boxes_2.jpg;animal:0.6818103
+boxes_3.jpg;fish:0.50966746
+boxes_4.jpg;invertebrate:0.5052303
+boxes_5.jpg;shellfish:0.43337926
+boxes_6.jpg;fish:0.38596937
+boxes_7.jpg;marine invertebrates:0.3413567
+boxes_8.jpg;squid:0.3278218
+boxes_9.jpg;marine invertebrates:0.2915958
+boxes_10.jpg;marine invertebrates:0.24734285
+boxes_11.jpg;marine invertebrates:0.2209472
+boxes_12.jpg;fish:0.17173223
+boxes_13.jpg;reptile:0.14983732
+boxes_14.jpg;marine invertebrates:0.13426575
+boxes_15.jpg;marine invertebrates:0.10765211
+boxes_16.jpg;invertebrate:0.09876178
+boxes_17.jpg;marine invertebrates:0.07306457
+boxes_18.jpg;invertebrate:0.06322217
+boxes_19.jpg;marine invertebrates:0.06201038
+boxes_20.jpg;seahorse:0.059332162
+boxes_21.jpg;marine invertebrates:0.059224073
+boxes_22.jpg;lizard:0.056650776
+boxes_23.jpg;marine invertebrates:0.053331636

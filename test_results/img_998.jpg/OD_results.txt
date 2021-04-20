@@ -1,0 +1,18 @@
+boxes_1.jpg;dairy:0.76835227
+boxes_2.jpg;strawberry:0.67011315
+boxes_3.jpg;strawberry:0.37245917
+boxes_4.jpg;strawberry:0.35495782
+boxes_5.jpg;strawberry:0.33958468
+boxes_6.jpg;strawberry:0.23450139
+boxes_7.jpg;dairy:0.22134964
+boxes_8.jpg;dessert:0.2061668
+boxes_9.jpg;fruit:0.19244424
+boxes_10.jpg;ice cream:0.18235157
+boxes_11.jpg;strawberry:0.13074896
+boxes_12.jpg;strawberry:0.11349314
+boxes_13.jpg;strawberry:0.09216024
+boxes_14.jpg;fruit:0.085116744
+boxes_15.jpg;tart:0.08368411
+boxes_16.jpg;cake:0.07534641
+boxes_17.jpg;strawberry:0.07263763
+boxes_18.jpg;strawberry:0.06602963

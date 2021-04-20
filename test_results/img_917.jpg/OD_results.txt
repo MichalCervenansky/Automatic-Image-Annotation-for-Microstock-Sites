@@ -1,0 +1,6 @@
+boxes_1.jpg;eagle:0.84927315
+boxes_2.jpg;plant:0.40648487
+boxes_3.jpg;falcon:0.38491723
+boxes_4.jpg;plant:0.22925472
+boxes_5.jpg;plant:0.11910067
+boxes_6.jpg;plant:0.08156227

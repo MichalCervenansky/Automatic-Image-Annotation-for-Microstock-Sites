@@ -1,0 +1,12 @@
+boxes_1.jpg;steering wheel,wheel:0.921851396560669;
+boxes_10.jpg;steering wheel,wheel:0.941497266292572;
+boxes_11.jpg;steering wheel,wheel:0.9064120650291443;
+boxes_2.jpg;steering wheel,wheel:0.9189046621322632;
+boxes_3.jpg;steering wheel,wheel:0.8164500594139099;driving wheel:0.12284893542528152;
+boxes_4.jpg;steering wheel,wheel:0.9615558981895447;
+boxes_5.jpg;steering wheel,wheel:0.8959490656852722;driving wheel:0.05612008273601532;
+boxes_6.jpg;steering wheel,wheel:0.9623793959617615;
+boxes_7.jpg;steering wheel,wheel:0.9236819744110107;driving wheel:0.051077019423246384;
+boxes_8.jpg;steering wheel,wheel:0.9481787085533142;
+boxes_9.jpg;steering wheel,wheel:0.8863699436187744;driving wheel:0.07964304089546204;
+img_954.jpg;steering wheel,wheel:0.8949424624443054;driving wheel:0.05809488520026207;

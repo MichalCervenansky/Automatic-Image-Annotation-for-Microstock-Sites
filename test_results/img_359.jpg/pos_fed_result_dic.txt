@@ -1,0 +1,3 @@
+from_image_IPTC:narrow;street;croatian;village;nerezine;stairs;
+from_object_detection:window;tree;building;house;plant;door;
+from_image_classification:stucco;whitewash;backstairs;balcony;sunniness;snow thrower;snow blower;street;sidewalk;pavement;arroyo;window;evaporative cooler;jalousie;air conditioner;air conditioning;refrigerator;icebox;rundle;spoke;rung;parapet;ascent;acclivity;rise;raise;climb;upgrade;elevator;lift;

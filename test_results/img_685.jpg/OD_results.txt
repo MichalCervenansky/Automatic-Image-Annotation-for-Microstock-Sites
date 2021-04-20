@@ -1,0 +1,15 @@
+boxes_1.jpg;invertebrate:0.6659769
+boxes_2.jpg;starfish:0.16202335
+boxes_3.jpg;animal:0.1210071
+boxes_4.jpg;lizard:0.113000266
+boxes_5.jpg;invertebrate:0.09450347
+boxes_6.jpg;insect:0.09369527
+boxes_7.jpg;plant:0.08407146
+boxes_8.jpg;fish:0.08226774
+boxes_9.jpg;marine invertebrates:0.07192101
+boxes_10.jpg;squid:0.07070085
+boxes_11.jpg;marine invertebrates:0.06621493
+boxes_12.jpg;invertebrate:0.06312595
+boxes_13.jpg;fish:0.05466893
+boxes_14.jpg;marine invertebrates:0.051660724
+boxes_15.jpg;rays and skates:0.051055517

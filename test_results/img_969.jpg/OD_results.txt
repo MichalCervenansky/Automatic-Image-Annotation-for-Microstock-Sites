@@ -1,0 +1,4 @@
+boxes_1.jpg;plant:0.3434946
+boxes_2.jpg;tree:0.16802081
+boxes_3.jpg;christmas tree:0.16622743
+boxes_4.jpg;palm tree:0.15352628

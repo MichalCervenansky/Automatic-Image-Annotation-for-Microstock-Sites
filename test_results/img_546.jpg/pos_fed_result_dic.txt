@@ -1,0 +1,3 @@
+from_image_IPTC:icy;snow;green;moss;forest;macro;
+from_object_detection:plant;
+from_image_classification:reindeer moss;reindeer lichen;arctic moss;cladonia rangiferina;verdigris;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;pythium;western fence lizard;swift;blue-belly;sceloporus occidentalis;mildew;

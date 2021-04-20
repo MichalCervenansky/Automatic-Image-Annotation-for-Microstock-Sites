@@ -1,0 +1,11 @@
+boxes_1.jpg;teal:0.27358055114746094;mallard,Anas platyrhynchos:0.23242750763893127;wild duck:0.21553052961826324;
+boxes_10.jpg;
+boxes_2.jpg;dabbling duck,dabbler:0.1533057540655136;mallard,Anas platyrhynchos:0.06388780474662781;bobwhite,bobwhite quail,partridge:0.06088569760322571;
+boxes_3.jpg;platypus,duckbill,duckbilled platypus,duck-billed platypus,Ornithorhynchus anatinus:0.0819060280919075;teal:0.07439197599887848;mallard,Anas platyrhynchos:0.05133190378546715;
+boxes_4.jpg;wild duck:0.3184150755405426;mallard,Anas platyrhynchos:0.23664887249469757;teal:0.08022183179855347;black duck,Anas rubripes:0.06072438508272171;
+boxes_5.jpg;wild duck:0.2733631134033203;teal:0.16116642951965332;wood drake:0.09082479774951935;dabbling duck,dabbler:0.08574032783508301;black duck,Anas rubripes:0.0540052205324173;
+boxes_6.jpg;crapaud,South American bullfrog,Leptodactylus pentadactylus:0.050407856702804565;
+boxes_7.jpg;mallard,Anas platyrhynchos:0.38228508830070496;wild duck:0.28115618228912354;teal:0.08172915875911713;
+boxes_8.jpg;
+boxes_9.jpg;shoveler,shoveller,broadbill,Anas clypeata:0.258432000875473;mallard,Anas platyrhynchos:0.2475893199443817;wild duck:0.05658150464296341;dabbling duck,dabbler:0.05032656341791153;
+img_728.jpg;wild duck:0.42200174927711487;mallard,Anas platyrhynchos:0.20981048047542572;teal:0.05817699804902077;black duck,Anas rubripes:0.05655698850750923;

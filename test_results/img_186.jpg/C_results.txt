@@ -1,0 +1,6 @@
+boxes_1.jpg;ark shell:0.8472925424575806;
+boxes_2.jpg;ark shell:0.7995004057884216;
+boxes_3.jpg;ark shell:0.8363515734672546;
+boxes_4.jpg;ark shell:0.74576735496521;cockle:0.05833083391189575;bubble shell:0.05735405907034874;
+boxes_5.jpg;ark shell:0.7864422798156738;
+img_186.jpg;ark shell:0.7316741347312927;cockle:0.0585160106420517;edible mussel,Mytilus edulis:0.05034347251057625;

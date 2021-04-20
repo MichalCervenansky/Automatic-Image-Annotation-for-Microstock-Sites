@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;white;flower;turkey;mountains;
+from_object_detection:flower;lily;
+from_image_classification:star-of-bethlehem;

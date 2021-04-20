@@ -1,0 +1,30 @@
+boxes_1.jpg;fish:0.7555807
+boxes_2.jpg;fish:0.6288284
+boxes_3.jpg;fish:0.5954635
+boxes_4.jpg;fish:0.57642037
+boxes_5.jpg;fish:0.4511213
+boxes_6.jpg;fish:0.33322716
+boxes_7.jpg;fish:0.30566886
+boxes_8.jpg;fish:0.25771955
+boxes_9.jpg;fish:0.23784457
+boxes_10.jpg;fish:0.23046313
+boxes_11.jpg;fish:0.21983023
+boxes_12.jpg;fish:0.21141173
+boxes_13.jpg;fish:0.16993396
+boxes_14.jpg;fish:0.14982748
+boxes_15.jpg;fish:0.12150148
+boxes_16.jpg;fish:0.11724992
+boxes_17.jpg;marine mammal:0.115471825
+boxes_18.jpg;fish:0.10390788
+boxes_19.jpg;fish:0.10357231
+boxes_20.jpg;bird:0.10162873
+boxes_21.jpg;marine mammal:0.09401803
+boxes_22.jpg;fish:0.09108483
+boxes_23.jpg;fish:0.08925715
+boxes_24.jpg;marine mammal:0.0830681
+boxes_25.jpg;person:0.074869744
+boxes_26.jpg;fish:0.067906626
+boxes_27.jpg;marine mammal:0.05662259
+boxes_28.jpg;animal:0.05507319
+boxes_29.jpg;fish:0.05401762
+boxes_30.jpg;fish:0.050558843

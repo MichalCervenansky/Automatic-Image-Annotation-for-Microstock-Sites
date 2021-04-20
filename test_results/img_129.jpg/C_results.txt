@@ -1,0 +1,2 @@
+boxes_1.jpg;Alpine glacier,Alpine type of glacier:0.4216727316379547;glacier:0.2573702931404114;icecap,ice cap:0.06174750626087189;arete:0.054151155054569244;
+img_129.jpg;Alpine glacier,Alpine type of glacier:0.3215741217136383;glacier:0.2377878576517105;icecap,ice cap:0.1401495784521103;arete:0.08662975579500198;

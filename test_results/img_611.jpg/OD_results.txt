@@ -1,0 +1,17 @@
+boxes_1.jpg;animal:0.4138107
+boxes_2.jpg;insect:0.34160146
+boxes_3.jpg;plant:0.2874489
+boxes_4.jpg;animal:0.16834985
+boxes_5.jpg;animal:0.15745032
+boxes_6.jpg;insect:0.14275119
+boxes_7.jpg;animal:0.11591187
+boxes_8.jpg;plant:0.11279723
+boxes_9.jpg;insect:0.10054454
+boxes_10.jpg;beetle:0.095591895
+boxes_11.jpg;animal:0.09079316
+boxes_12.jpg;flower:0.081646875
+boxes_13.jpg;plant:0.07172491
+boxes_14.jpg;animal:0.07158244
+boxes_15.jpg;insect:0.06630513
+boxes_16.jpg;animal:0.06036235
+boxes_17.jpg;plant:0.05068319

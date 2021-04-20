@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;statue;fallen;soldier;italy;holiday;
+from_object_detection:tree;sculpture;bronze sculpture;clothing;person;human face;footwear;man;human head;
+from_image_classification:memorial;monument;negative;intravenous pyelogram;ivp;neutrophil;neutrophile;subarachnoid space;sporozoan;hessian boot;hessian;jackboot;wellington;wellington boot;boot;statue;cenotaph;empty tomb;cadaver;corpse;stiff;clay;remains;mahatma;theosophist;socle;repository;national monument;cell;enteric bacteria;enterobacteria;enterics;entric;rubber boot;gum boot;burial chamber;sepulcher;sepulchre;sepulture;housetop;cowboy boot;

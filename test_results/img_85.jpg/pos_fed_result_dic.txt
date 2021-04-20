@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;portland;city;
+from_object_detection:skyscraper;tree;tower;boat;wheel;vehicle;building;
+from_image_classification:high-rise;tower block;business district;downtown;ferry;ferryboat;junk;truss;geodesic dome;mecca;spaghetti junction;overpass;flyover;ballpark;park;stadium;bowl;arena;sports stadium;city;metropolis;urban center;carriageway;gantry;gauntry;scoreboard;crane;bascule;bullet train;bullet;streetlight;street lamp;riverbank;riverside;

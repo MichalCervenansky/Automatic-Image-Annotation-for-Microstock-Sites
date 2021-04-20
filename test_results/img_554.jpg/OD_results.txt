@@ -1,0 +1,6 @@
+boxes_1.jpg;tree:0.5571968
+boxes_2.jpg;tree:0.26116124
+boxes_3.jpg;food:0.18970086
+boxes_4.jpg;plant:0.122000925
+boxes_5.jpg;animal:0.09551747
+boxes_6.jpg;ant:0.055107486

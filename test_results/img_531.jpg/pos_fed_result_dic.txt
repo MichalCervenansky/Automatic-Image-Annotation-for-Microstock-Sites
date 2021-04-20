@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;fresh;pink;flower;beeeared;bee;
+from_object_detection:flower;rose;
+from_image_classification:purple;purpleness;peony;paeony;carnation;musk mallow;mus rose;malva moschata;cotton rose;confederate rose;confederate rose mallow;hibiscus mutabilis;abelmosk;abelmoschus moschatus;hibiscus moschatus;white-leaved rockrose;cistus albidus;rose mallow;swamp mallow;common rose mallow;swamp rose mallow;hibiscus moscheutos;opium poppy;papaver somniferum;mosquito net;corn cockle;corn campion;crown-of-the-field;agrostemma githago;flower;beardless iris;japanese pink;dianthus chinensis heddewigii;japanese iris;iris kaempferi;

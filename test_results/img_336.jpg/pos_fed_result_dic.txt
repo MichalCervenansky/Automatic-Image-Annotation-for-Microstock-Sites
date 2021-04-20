@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;sour;milk;soup;green;beans;eggs;potatoes;homemade;
+from_object_detection:food;plate;tableware;
+from_image_classification:yogurt;yoghurt;yoghourt;raita;icetray;coconut milk;coconut cream;bisque;bath salts;

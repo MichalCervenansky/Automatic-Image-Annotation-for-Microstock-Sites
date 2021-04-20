@@ -1,0 +1,14 @@
+boxes_1.jpg;boat:0.9745763
+boxes_2.jpg;boat:0.967863
+boxes_3.jpg;tree:0.8412034
+boxes_4.jpg;tree:0.8197048
+boxes_5.jpg;tree:0.49327826
+boxes_6.jpg;tree:0.25081
+boxes_7.jpg;house:0.1351295
+boxes_8.jpg;tree:0.1156492
+boxes_9.jpg;tree:0.09656999
+boxes_10.jpg;boat:0.0726387
+boxes_11.jpg;tree:0.06492677
+boxes_12.jpg;boat:0.06491403
+boxes_13.jpg;boat:0.054490596
+boxes_14.jpg;building:0.051569987

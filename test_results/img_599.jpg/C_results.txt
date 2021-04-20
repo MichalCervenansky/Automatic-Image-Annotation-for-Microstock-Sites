@@ -1,0 +1,6 @@
+boxes_1.jpg;keyboard:0.43144431710243225;computer keyboard,keypad:0.38363999128341675;keyboard buffer:0.0787665843963623;
+boxes_2.jpg;keyboard:0.42293256521224976;computer keyboard,keypad:0.3548922836780548;keyboard buffer:0.08512624353170395;
+boxes_3.jpg;keyboard:0.4311199188232422;computer keyboard,keypad:0.3152913451194763;space bar:0.08388537913560867;keyboard buffer:0.0808604285120964;
+boxes_4.jpg;keyboard:0.3982735276222229;computer keyboard,keypad:0.38233157992362976;keyboard buffer:0.1132749542593956;
+boxes_5.jpg;
+img_599.jpg;computer keyboard,keypad:0.43345728516578674;keyboard:0.3444923162460327;keyboard buffer:0.09362576901912689;

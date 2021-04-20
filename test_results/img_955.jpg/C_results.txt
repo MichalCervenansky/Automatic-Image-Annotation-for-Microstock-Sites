@@ -1,0 +1,10 @@
+boxes_1.jpg;dogie,dogy,leppy:0.2722081243991852;hunting dog:0.16960863769054413;coondog:0.10579748451709747;bitch:0.0710332989692688;watchdog,guard dog:0.06672194600105286;
+boxes_2.jpg;dogie,dogy,leppy:0.45868778228759766;bitch:0.09222112596035004;hunting dog:0.07479873299598694;Labrador retriever:0.07185003906488419;dog,domestic dog,Canis familiaris:0.05206522345542908;
+boxes_3.jpg;
+boxes_4.jpg;Staffordshire bullterrier,Staffordshire bull terrier:0.3405025005340576;pug,pug-dog:0.08321471512317657;
+boxes_5.jpg;pug,pug-dog:0.4285516142845154;bull mastiff:0.1695602834224701;mastiff:0.07121352851390839;French bulldog:0.05227742716670036;
+boxes_6.jpg;dogie,dogy,leppy:0.34890273213386536;bitch:0.16703949868679047;dog,domestic dog,Canis familiaris:0.05435099080204964;animal,animate being,beast,brute,creature,fauna:0.05074809864163399;
+boxes_7.jpg;dogie,dogy,leppy:0.48624148964881897;dog,domestic dog,Canis familiaris:0.0870765969157219;Rhodesian ridgeback:0.06479181349277496;
+boxes_8.jpg;dogie,dogy,leppy:0.3022061288356781;hunting dog:0.1920742392539978;Labrador retriever:0.09905116260051727;dog,domestic dog,Canis familiaris:0.05698779225349426;coondog:0.05027936026453972;
+boxes_9.jpg;giant kangaroo,great grey kangaroo,Macropus giganteus:0.08783423900604248;
+img_955.jpg;dogie,dogy,leppy:0.34673193097114563;Labrador retriever:0.15747873485088348;hunting dog:0.12662728130817413;bitch:0.12144822627305984;dog,domestic dog,Canis familiaris:0.06555160880088806;

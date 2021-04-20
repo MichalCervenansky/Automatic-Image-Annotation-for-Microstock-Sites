@@ -1,0 +1,11 @@
+boxes_1.jpg;dog:0.9746255
+boxes_2.jpg;plant:0.3236097
+boxes_3.jpg;houseplant:0.30235705
+boxes_4.jpg;houseplant:0.2814539
+boxes_5.jpg;tree:0.23102897
+boxes_6.jpg;plant:0.20384806
+boxes_7.jpg;window:0.11030541
+boxes_8.jpg;plant:0.07445115
+boxes_9.jpg;houseplant:0.0724307
+boxes_10.jpg;tree:0.06554544
+boxes_11.jpg;carnivore:0.05170049

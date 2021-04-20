@@ -1,0 +1,4 @@
+boxes_1.jpg;cat:0.98866487
+boxes_2.jpg;cat:0.95431626
+boxes_3.jpg;cat:0.081893705
+boxes_4.jpg;tiger:0.059305567

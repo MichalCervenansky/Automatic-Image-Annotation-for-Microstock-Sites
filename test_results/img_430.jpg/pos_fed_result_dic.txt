@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;rohace;slovak;republic;
+from_object_detection:tree;plant;
+from_image_classification:sitka spruce;picea sitchensis;norway spruce;picea abies;timber tree;scotch pine;scots pine;scotch fir;pinus sylvestris;pinetum;silver birch;common birch;european white birch;betula pendula;spruce;sunniness;new caledonian pine;araucaria columnaris;australian pine;casuarina equisetfolia;western hemlock;pacific hemlock;west coast hemlock;tsuga heterophylla;mountain hemlock;black hemlock;tsuga mertensiana;pine;pine tree;true pine;fir;fir tree;true fir;

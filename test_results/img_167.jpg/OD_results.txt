@@ -1,0 +1,12 @@
+boxes_1.jpg;window:0.99243355
+boxes_2.jpg;window:0.90611386
+boxes_3.jpg;window:0.88966644
+boxes_4.jpg;building:0.7139617
+boxes_5.jpg;building:0.43204007
+boxes_6.jpg;building:0.40291598
+boxes_7.jpg;house:0.25677723
+boxes_8.jpg;building:0.21117601
+boxes_9.jpg;nail:0.21037407
+boxes_10.jpg;window:0.15588203
+boxes_11.jpg;house:0.102477685
+boxes_12.jpg;door handle:0.06039585

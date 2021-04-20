@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tree;auto part;tire;house;plant;building;
+from_image_classification:power steering;power-assisted steering;used-car;secondhand car;beige;ecru;cab;hack;taxi;taxicab;grille;radiator grille;loaner;bumper;bodywork;tailpipe;headlight;headlamp;windshield;windscreen;silencer;muffler;damper;car;elevator car;car tire;automobile tire;auto tire;rubber tire;car wheel;gas tank;gasoline tank;petrol tank;fifth wheel;spare;spotlight;spot;foglamp;stroboscope;strobe;strobe light;bumper guard;dickey;dickie;dicky;dickey-seat;dickie-seat;dicky-seat;body;hubcap;convertible;bone;ivory;pearl;off-white;

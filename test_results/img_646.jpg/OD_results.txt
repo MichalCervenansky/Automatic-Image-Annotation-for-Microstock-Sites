@@ -1,0 +1,13 @@
+boxes_1.jpg;flower:0.94565976
+boxes_2.jpg;flower:0.9372035
+boxes_3.jpg;flower:0.89348996
+boxes_4.jpg;flower:0.77227545
+boxes_5.jpg;flower:0.5788986
+boxes_6.jpg;flower:0.23254137
+boxes_7.jpg;flower:0.17991482
+boxes_8.jpg;flower:0.17368037
+boxes_9.jpg;flower:0.15808047
+boxes_10.jpg;flower:0.1346354
+boxes_11.jpg;flower:0.112418994
+boxes_12.jpg;plant:0.08975265
+boxes_13.jpg;flower:0.06407599

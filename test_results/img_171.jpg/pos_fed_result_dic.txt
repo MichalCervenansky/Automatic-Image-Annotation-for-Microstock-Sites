@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;soft;snowy;white;dandelion;
+from_object_detection:flower;tree;plant;
+from_image_classification:thistledown;jade vine;emerald creeper;strongylodon macrobotrys;composite;composite plant;luffa;dishcloth gourd;sponge gourd;rag gourd;strainer vine;loofah;vegetable sponge;luffa cylindrica;friar's-cowl;arisarum vulgare;red clover;purple clover;trifolium pratense;alfalfa;mildew;common dandelion;taraxacum ruderalia;taraxacum officinale;dandelion green;flower;sow thistle;milk thistle;negative;

@@ -1,0 +1,2 @@
+boxes_1.jpg;glacier:0.4171813428401947;Alpine glacier,Alpine type of glacier:0.22190089523792267;talus,scree:0.12853741645812988;polar glacier:0.05399871990084648;
+img_416.jpg;glacier:0.40607672929763794;Alpine glacier,Alpine type of glacier:0.14955756068229675;polar glacier:0.05926862359046936;

@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;person;tire;tree;man;woman;clothing;human head;human face;plant;
+from_image_classification:convertible;purplish blue;royal blue;roadster;runabout;two-seater;chador;chadar;chaddar;chuddar;abaya;widow;widow woman;body;bumper;bumper guard;passenger van;windshield;windscreen;fifth wheel;spare;tailpipe;foglamp;sedan;saloon;car wheel;sport utility;sport utility vehicle;s.u.v.;suv;speed bump;motor vehicle;automotive vehicle;car;auto;automobile;machine;motorcar;bell jar;bell glass;sunglass;negative;silencer;muffler;limousine;limo;minicar;tread;coupe;gas guzzler;

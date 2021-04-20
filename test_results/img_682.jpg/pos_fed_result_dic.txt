@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;rare;colorful;sea;slug;elysia;crispata;;
+from_object_detection:marine invertebrates;flower;invertebrate;plant;fish;
+from_image_classification:polyp;stony coral;madrepore;madriporian coral;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;actinia;actinian;actiniarian;sea anemone;anemone;false scorpion;pseudoscorpion;coral;benthos;benthic division;benthonic zone;pythium;octopod;anthozoan;actinozoan;sea spider;pycnogonid;sea squirt;beard lichen;beard moss;usnea barbata;verticillium;ascidian;damping off fungus;pythium debaryanum;sea feather;

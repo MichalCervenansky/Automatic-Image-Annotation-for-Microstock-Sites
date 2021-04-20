@@ -1,0 +1,12 @@
+boxes_1.jpg;cell:0.10087097436189651;eukaryote,eucaryote:0.07114534825086594;encaustic:0.06356179714202881;
+boxes_10.jpg;pallette,palette:0.3504921495914459;marbleization,marbleisation,marbleizing,marbleising:0.20009054243564606;color wash,colour wash:0.13383640348911285;tray:0.07889053970575333;
+boxes_11.jpg;tray:0.11212125420570374;pallette,palette:0.08535099774599075;dish:0.06098292022943497;marbleization,marbleisation,marbleizing,marbleising:0.05736471712589264;platter:0.056131139397621155;paint,pigment:0.05552736669778824;
+boxes_2.jpg;marbleization,marbleisation,marbleizing,marbleising:0.16205476224422455;color wash,colour wash:0.1320054978132248;pallette,palette:0.07486271858215332;cell:0.06097761541604996;
+boxes_3.jpg;marbleization,marbleisation,marbleizing,marbleising:0.18889771401882172;ellipse,oval:0.13608485460281372;cell:0.12656544148921967;
+boxes_4.jpg;marbleization,marbleisation,marbleizing,marbleising:0.22652141749858856;color wash,colour wash:0.08914672583341599;
+boxes_5.jpg;color wash,colour wash:0.20688354969024658;pallette,palette:0.10281006246805191;marbleization,marbleisation,marbleizing,marbleising:0.05826506018638611;bath salts:0.05429205670952797;loofa,loofah,luffa,loufah sponge:0.05374733358621597;
+boxes_6.jpg;marbleization,marbleisation,marbleizing,marbleising:0.1509895920753479;cell:0.09047050774097443;pallette,palette:0.07588350027799606;tray:0.06961793452501297;encaustic:0.06364527344703674;histiocyte:0.051346875727176666;
+boxes_7.jpg;cell:0.16399502754211426;eukaryote,eucaryote:0.06835992634296417;
+boxes_8.jpg;color wash,colour wash:0.17832769453525543;marbleization,marbleisation,marbleizing,marbleising:0.11942586302757263;pallette,palette:0.08651091903448105;
+boxes_9.jpg;cell:0.11124981194734573;dish:0.09382239729166031;platter:0.0640534982085228;marbleization,marbleisation,marbleizing,marbleising:0.05027959123253822;
+img_351.jpg;eukaryote,eucaryote:0.19452768564224243;cell:0.14153367280960083;tray:0.07040175795555115;

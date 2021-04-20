@@ -1,0 +1,18 @@
+boxes_1.jpg;silver fir:0.23191075026988983;fir,fir tree,true fir:0.1388966292142868;Alpine fir,subalpine fir,Abies lasiocarpa:0.05610591918230057;Swiss pine,Swiss stone pine,arolla pine,cembra nut tree,Pinus cembra:0.051497507840394974;
+boxes_10.jpg;
+boxes_11.jpg;television,telecasting,TV,video:0.05596056208014488;
+boxes_12.jpg;negative:0.0879698097705841;dust storm,duster,sandstorm,sirocco:0.055814970284700394;
+boxes_13.jpg;windshield,windscreen:0.07088000327348709;
+boxes_14.jpg;fir,fir tree,true fir:0.47032126784324646;European silver fir,Christmas tree,Abies alba:0.11417412012815475;silver fir:0.10990742594003677;amabilis fir,white fir,Pacific silver fir,red silver fir,Christmas tree,Abies amabilis:0.06637658178806305;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.06381192803382874;Alpine fir,subalpine fir,Abies lasiocarpa:0.05218138545751572;
+boxes_15.jpg;fir,fir tree,true fir:0.30409008264541626;silver fir:0.23628175258636475;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.06184074282646179;
+boxes_16.jpg;book jacket,dust cover,dust jacket,dust wrapper:0.1484721451997757;
+boxes_17.jpg;
+boxes_2.jpg;silver fir:0.12365157902240753;fir,fir tree,true fir:0.07897839695215225;sunniness:0.050558872520923615;
+boxes_3.jpg;mosque:0.08749836683273315;sultanate:0.08651071786880493;mausoleum:0.06900308281183243;observation dome:0.0609898678958416;
+boxes_4.jpg;douglas fir:0.14408546686172485;negative:0.13830028474330902;
+boxes_5.jpg;fir,fir tree,true fir:0.3919541835784912;silver fir:0.15218786895275116;European silver fir,Christmas tree,Abies alba:0.060773562639951706;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.059545502066612244;
+boxes_6.jpg;screen:0.05653124302625656;
+boxes_7.jpg;windshield,windscreen:0.06278561055660248;
+boxes_8.jpg;mosque:0.13696791231632233;dome:0.08184248208999634;observation dome:0.06032843142747879;sultanate:0.057433828711509705;
+boxes_9.jpg;silver fir:0.14897885918617249;fir,fir tree,true fir:0.08568737655878067;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.06524910777807236;
+img_66.jpg;

@@ -1,0 +1,11 @@
+boxes_1.jpg;scarlet clematis,Clematis texensis:0.830620527267456;leather flower,vase-fine,vase vine,Clematis viorna:0.05464658513665199;
+boxes_10.jpg;jellyfish:0.5707634687423706;
+boxes_2.jpg;scarlet clematis,Clematis texensis:0.36933037638664246;leather flower,vase-fine,vase vine,Clematis viorna:0.14976824820041656;clematis:0.08184335380792618;
+boxes_3.jpg;prairie smoke,purple avens,Geum triflorum:0.37285134196281433;scarlet clematis,Clematis texensis:0.18253615498542786;leather flower,vase-fine,vase vine,Clematis viorna:0.16477838158607483;clematis:0.06272720545530319;
+boxes_4.jpg;scarlet clematis,Clematis texensis:0.22954308986663818;bell,bell shape,campana:0.14241209626197815;leather flower,vase-fine,vase vine,Clematis viorna:0.07258716970682144;prairie smoke,purple avens,Geum triflorum:0.05577663704752922;
+boxes_5.jpg;beroe:0.16081908345222473;
+boxes_6.jpg;flower:0.2961980402469635;scarlet clematis,Clematis texensis:0.28790900111198425;leather flower,vase-fine,vase vine,Clematis viorna:0.07190603762865067;fritillary,checkered lily:0.05090710148215294;
+boxes_7.jpg;scarlet clematis,Clematis texensis:0.8769164085388184;
+boxes_8.jpg;
+boxes_9.jpg;mission bells,rice-grain fritillary,Fritillaria affinis,Fritillaria lanceolata,Fritillaria mutica:0.7221172451972961;fritillary,checkered lily:0.14258544147014618;snake's head fritillary,guinea-hen flower,checkered daffodil,leper lily,Fritillaria meleagris:0.08853167295455933;
+img_429.jpg;flower:0.5302825570106506;Canterbury bell,cup and saucer,Campanula medium:0.09729696065187454;prairie smoke,purple avens,Geum triflorum:0.07018958032131195;

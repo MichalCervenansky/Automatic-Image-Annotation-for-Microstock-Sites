@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;daisy;meadow;flower;morning;dew;
+from_object_detection:flower;
+from_image_classification:common daisy;english daisy;bellis perennis;easter daisy;stemless daisy;townsendia exscapa;flower;swan river daisy;brachycome iberidifolia;seaside daisy;beach aster;erigeron glaucous;livingstone daisy;dorotheanthus bellidiformis;bottlebrush;negative;marguerite;marguerite daisy;paris daisy;chrysanthemum frutescens;argyranthemum frutescens;cosmos;cosmea;daisy fleabane;erigeron annuus;scorpionweed;scorpion weed;phacelia;blue daisy;blue marguerite;felicia amelloides;oxeye daisy;ox-eyed daisy;moon daisy;white daisy;leucanthemum vulgare;chrysanthemum leucanthemum;

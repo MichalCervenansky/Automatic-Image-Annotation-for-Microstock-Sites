@@ -1,0 +1,11 @@
+boxes_1.jpg;sea fan:0.48863181471824646;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10344463586807251;
+boxes_10.jpg;green douglas fir,douglas spruce,douglas pine,douglas hemlock,Oregon fir,Oregon pine,Pseudotsuga menziesii:0.16539520025253296;fir,fir tree,true fir:0.13188128173351288;white fir,Colorado fir,California white fir,Abies concolor,Abies lowiana:0.10495838522911072;
+boxes_2.jpg;silver fir:0.18172118067741394;
+boxes_3.jpg;sea fan:0.08468291908502579;coral reef:0.05840108543634415;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.05523579195141792;
+boxes_4.jpg;sea fan:0.20619888603687286;arborvitae:0.07684600353240967;
+boxes_5.jpg;arborvitae:0.30640217661857605;white fir,Colorado fir,California white fir,Abies concolor,Abies lowiana:0.0512087307870388;
+boxes_6.jpg;sea fan:0.6529286503791809;
+boxes_7.jpg;coral reef:0.09255021810531616;
+boxes_8.jpg;arborvitae:0.13439957797527313;white fir,Colorado fir,California white fir,Abies concolor,Abies lowiana:0.0636570006608963;
+boxes_9.jpg;sea fan:0.3531937003135681;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10624127089977264;coral reef:0.0883338674902916;
+img_743.jpg;silver fir:0.232606902718544;

@@ -1,0 +1,18 @@
+boxes_1.jpg;compact,compact car:0.35548466444015503;motor vehicle,automotive vehicle:0.08127126097679138;minicar:0.0645156130194664;subcompact,subcompact car:0.06326254457235336;
+boxes_10.jpg;hubcap:0.17242196202278137;radial,radial tire,radial-ply tire:0.09644857048988342;car wheel:0.08642853796482086;body:0.06445835530757904;
+boxes_11.jpg;rumble seat:0.07018498331308365;rumble:0.06495171040296555;
+boxes_12.jpg;
+boxes_13.jpg;
+boxes_14.jpg;four-wheel drive,4WD:0.1165722981095314;used-car,secondhand car:0.11507807672023773;hot rod,hot-rod:0.11458843946456909;coupe:0.06817951798439026;sedan,saloon:0.051260944455862045;motor vehicle,automotive vehicle:0.05028170719742775;
+boxes_15.jpg;
+boxes_16.jpg;car door:0.3600270748138428;used-car,secondhand car:0.10614749789237976;
+boxes_17.jpg;
+boxes_2.jpg;fifth wheel,spare:0.1505718231201172;taillight,tail lamp,rear light,rear lamp:0.0966566726565361;used-car,secondhand car:0.06179816275835037;
+boxes_3.jpg;tread:0.2761160135269165;hubcap:0.19228199124336243;spoke,wheel spoke,radius:0.09952961653470993;car wheel:0.07984326779842377;radial,radial tire,radial-ply tire:0.07796942442655563;circle,round:0.052797816693782806;
+boxes_4.jpg;fifth wheel,spare:0.08081264793872833;convertible:0.06882500648498535;
+boxes_5.jpg;radial,radial tire,radial-ply tire:0.15182749927043915;hubcap:0.12314382195472717;body:0.09467373788356781;car wheel:0.06580155342817307;car tire,automobile tire,auto tire,rubber tire:0.06077941879630089;
+boxes_6.jpg;septuagenarian:0.10622995346784592;
+boxes_7.jpg;fifth wheel,spare:0.11974333971738815;dickey,dickie,dicky,dickey-seat,dickie-seat,dicky-seat:0.08955731242895126;convertible:0.06494524329900742;
+boxes_8.jpg;car door:0.08018603175878525;rumble seat:0.05742831900715828;rumble:0.05657273530960083;
+boxes_9.jpg;hubcap:0.1883688122034073;tread:0.14210069179534912;spoke,wheel spoke,radius:0.1347559541463852;radial,radial tire,radial-ply tire:0.10458400845527649;car wheel:0.08729765564203262;circle:0.0779910609126091;body:0.05818253383040428;
+img_510.jpg;compact,compact car:0.6006432175636292;

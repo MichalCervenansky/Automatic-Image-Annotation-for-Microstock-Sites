@@ -1,0 +1,16 @@
+boxes_1.jpg;warship,war vessel,combat ship:0.28807875514030457;guided missile frigate:0.17007528245449066;destroyer,guided missile destroyer:0.059940155595541;man-of-war,ship of the line:0.05030015483498573;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;propeller,propellor:0.5502557158470154;anchor,ground tackle:0.3120710253715515;
+boxes_13.jpg;propeller,propellor:0.4789445400238037;screw,screw propeller:0.31323128938674927;electric ray,crampfish,numbfish,torpedo:0.08956322073936462;
+boxes_14.jpg;toggle:0.09697466343641281;hairpin:0.05552435666322708;tongs,pair of tongs:0.05012941733002663;
+boxes_15.jpg;
+boxes_2.jpg;
+boxes_3.jpg;
+boxes_4.jpg;warship,war vessel,combat ship:0.32130733132362366;guided missile frigate:0.11300551146268845;aircraft carrier,carrier,flattop,attack aircraft carrier:0.10002908110618591;destroyer,guided missile destroyer:0.08358372002840042;man-of-war,ship of the line:0.054269153624773026;
+boxes_5.jpg;seashore,coast,seacoast,sea-coast:0.4211953282356262;cove:0.3503645658493042;promontory,headland,head,foreland:0.12590345740318298;
+boxes_6.jpg;propeller,propellor:0.483529269695282;screw,screw propeller:0.21021057665348053;anchor,ground tackle:0.08288156241178513;electric ray,crampfish,numbfish,torpedo:0.07364187389612198;stegosaur,stegosaurus,Stegosaur stenops:0.051456060260534286;
+boxes_7.jpg;seashore,coast,seacoast,sea-coast:0.3764256238937378;cove:0.33966657519340515;promontory,headland,head,foreland:0.18705295026302338;
+boxes_8.jpg;
+boxes_9.jpg;electric ray,crampfish,numbfish,torpedo:0.24207434058189392;plesiosaur,plesiosaurus:0.1616748571395874;anchor,ground tackle:0.0794743150472641;narwhal,narwal,narwhale,Monodon monoceros:0.059092871844768524;angel shark,angelfish,Squatina squatina,monkfish:0.05338409170508385;
+img_978.jpg;seashore,coast,seacoast,sea-coast:0.4866549074649811;coastland:0.07574877887964249;seaside,seaboard:0.06308546662330627;

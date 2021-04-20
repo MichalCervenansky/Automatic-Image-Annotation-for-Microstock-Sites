@@ -1,0 +1,7 @@
+boxes_1.jpg;notebook,notebook computer:0.3381771445274353;portable computer:0.3301943838596344;space bar:0.050093602389097214;
+boxes_2.jpg;portable computer:0.24719101190567017;keyboard buffer:0.14640118181705475;space bar:0.13040746748447418;shift key,shift:0.12017744034528732;notebook,notebook computer:0.09314466267824173;
+boxes_3.jpg;monitor:0.08890043944120407;
+boxes_4.jpg;notebook,notebook computer:0.26737797260284424;portable computer:0.20665374398231506;shift key,shift:0.1087430790066719;personal computer,PC,microcomputer:0.0712861642241478;
+boxes_5.jpg;medicine chest,medicine cabinet:0.16837622225284576;ice maker:0.08308734744787216;thermostat,thermoregulator:0.05115246772766113;
+boxes_6.jpg;portable computer:0.5927000641822815;notebook,notebook computer:0.13806352019309998;
+img_595.jpg;portable computer:0.7265747785568237;notebook,notebook computer:0.11815639585256577;

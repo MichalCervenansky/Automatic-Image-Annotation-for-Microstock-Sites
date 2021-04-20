@@ -1,0 +1,17 @@
+boxes_1.jpg;bird feed,bird food,birdseed:0.47473159432411194;titmouse,tit:0.09861291944980621;young bird:0.0566081739962101;
+boxes_10.jpg;ice,water ice:0.12018577009439468;
+boxes_11.jpg;cullis:0.13438130915164948;
+boxes_12.jpg;aigrette,aigret:0.06312516331672668;
+boxes_13.jpg;titmouse,tit:0.09827116876840591;
+boxes_14.jpg;hedge sparrow,sparrow,dunnock,Prunella modularis:0.4559784531593323;feeder:0.22038252651691437;sparrow,true sparrow:0.11203072220087051;
+boxes_15.jpg;cullis:0.12598901987075806;
+boxes_16.jpg;sea lion:0.0781257301568985;
+boxes_2.jpg;hedge sparrow,sparrow,dunnock,Prunella modularis:0.37946489453315735;feeder:0.29301369190216064;sparrow,true sparrow:0.0920620858669281;
+boxes_3.jpg;cullis:0.09049002826213837;luge:0.0894145742058754;ridge rope:0.05483713001012802;
+boxes_4.jpg;band-tailed pigeon,band-tail pigeon,bandtail,Columba fasciata:0.05718742311000824;turtledove:0.0520324744284153;
+boxes_5.jpg;negative:0.1304788440465927;Molotov cocktail,petrol bomb,gasoline bomb:0.05618394538760185;
+boxes_6.jpg;wood swallow,swallow shrike:0.07342439144849777;turtledove:0.06192151829600334;
+boxes_7.jpg;hedge sparrow,sparrow,dunnock,Prunella modularis:0.5682874917984009;sparrow,true sparrow:0.13640402257442474;feeder:0.10083117336034775;feeder:0.0563199557363987;
+boxes_8.jpg;Arctic fox,white fox,Alopex lagopus:0.05130334943532944;
+boxes_9.jpg;sunflower seed:0.30537742376327515;ark shell:0.16566193103790283;elver:0.0950525626540184;
+img_14.jpg;hedge sparrow,sparrow,dunnock,Prunella modularis:0.47782671451568604;feeder:0.2509407103061676;sparrow,true sparrow:0.16523949801921844;

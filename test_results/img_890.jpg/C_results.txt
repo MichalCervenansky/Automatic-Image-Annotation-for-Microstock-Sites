@@ -1,0 +1,11 @@
+boxes_1.jpg;clock tower:0.9473420977592468;
+boxes_10.jpg;
+boxes_2.jpg;minute hand,big hand:0.4247651994228363;clock tower:0.41425734758377075;turret clock:0.07131354510784149;
+boxes_3.jpg;clock tower:0.6886790990829468;minute hand,big hand:0.05745605006814003;
+boxes_4.jpg;clock tower:0.7018240690231323;
+boxes_5.jpg;clock tower:0.8588468432426453;
+boxes_6.jpg;skylight,fanlight:0.15184800326824188;lattice,latticework,fretwork:0.11557047069072723;tile:0.07076633721590042;
+boxes_7.jpg;clock tower:0.8736326694488525;
+boxes_8.jpg;
+boxes_9.jpg;minaret:0.5818528532981873;lattice,latticework,fretwork:0.10235994309186935;masjid,musjid:0.0681980773806572;
+img_890.jpg;clock tower:0.43710023164749146;

@@ -1,0 +1,17 @@
+boxes_1.jpg;laurel oak,pin oak,Quercus laurifolia:0.32536211609840393;shingle oak,laurel oak,Quercus imbricaria:0.23424330353736877;silver tree,Tarrietia argyrodendron:0.1221204549074173;
+boxes_10.jpg;silver tree,Tarrietia argyrodendron:0.34933915734291077;laurel oak,pin oak,Quercus laurifolia:0.23476111888885498;shingle oak,laurel oak,Quercus imbricaria:0.06917945295572281;
+boxes_11.jpg;shingle oak,laurel oak,Quercus imbricaria:0.3257766366004944;hemlock,hemlock tree:0.3235299289226532;inkberry,gallberry,gall-berry,evergreen winterberry,Ilex glabra:0.07644481956958771;
+boxes_12.jpg;air bubble:0.2743738293647766;
+boxes_13.jpg;shingle oak,laurel oak,Quercus imbricaria:0.26567259430885315;laurel oak,pin oak,Quercus laurifolia:0.15257158875465393;silver tree,Tarrietia argyrodendron:0.11258263140916824;hemlock,hemlock tree:0.09297780692577362;inkberry,gallberry,gall-berry,evergreen winterberry,Ilex glabra:0.08243986964225769;
+boxes_14.jpg;
+boxes_15.jpg;star apple,caimito,Chrysophyllum cainito:0.06342798471450806;
+boxes_16.jpg;ctenophore,comb jelly:0.08507277071475983;
+boxes_2.jpg;damselfish,demoiselle:0.05446022003889084;
+boxes_3.jpg;laurel oak,pin oak,Quercus laurifolia:0.2707490622997284;silver tree,Tarrietia argyrodendron:0.10598691552877426;hemlock,hemlock tree:0.07429762929677963;shingle oak,laurel oak,Quercus imbricaria:0.06490463763475418;bush:0.06094331666827202;
+boxes_4.jpg;
+boxes_5.jpg;silver tree,Tarrietia argyrodendron:0.3227360248565674;shingle oak,laurel oak,Quercus imbricaria:0.25922757387161255;laurel oak,pin oak,Quercus laurifolia:0.16458982229232788;
+boxes_6.jpg;shingle oak,laurel oak,Quercus imbricaria:0.2804235816001892;laurel oak,pin oak,Quercus laurifolia:0.2765209376811981;silver tree,Tarrietia argyrodendron:0.18794666230678558;
+boxes_7.jpg;shingle oak,laurel oak,Quercus imbricaria:0.2321014106273651;laurel oak,pin oak,Quercus laurifolia:0.18795934319496155;silver tree,Tarrietia argyrodendron:0.11007502675056458;hemlock,hemlock tree:0.07019113004207611;inkberry,gallberry,gall-berry,evergreen winterberry,Ilex glabra:0.053540609776973724;
+boxes_8.jpg;sand tiger,sand shark,Carcharias taurus,Odontaspis taurus:0.09877199679613113;
+boxes_9.jpg;laurel oak,pin oak,Quercus laurifolia:0.3545096814632416;shingle oak,laurel oak,Quercus imbricaria:0.16814416646957397;silver tree,Tarrietia argyrodendron:0.07731787860393524;inkberry,gallberry,gall-berry,evergreen winterberry,Ilex glabra:0.05037688836455345;
+img_758.jpg;silver tree,Tarrietia argyrodendron:0.2535698413848877;shingle oak,laurel oak,Quercus imbricaria:0.1553434431552887;laurel oak,pin oak,Quercus laurifolia:0.13470901548862457;

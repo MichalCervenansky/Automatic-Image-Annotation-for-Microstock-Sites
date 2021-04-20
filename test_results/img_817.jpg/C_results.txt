@@ -1,0 +1,9 @@
+boxes_1.jpg;negative:0.5810462832450867;leaf shape,leaf form:0.15018071234226227;
+boxes_2.jpg;negative:0.796303927898407;leaf shape,leaf form:0.06940139085054398;
+boxes_3.jpg;manatee,Trichechus manatus:0.07684742659330368;
+boxes_4.jpg;negative:0.23280660808086395;
+boxes_5.jpg;negative:0.4900530278682709;leaf shape,leaf form:0.3093239367008209;
+boxes_6.jpg;negative:0.31144973635673523;blue orchid,Vanda caerulea:0.12326833605766296;blue toadflax,old-field toadflax,Linaria canadensis:0.10265887528657913;brooklime,European brooklime,Veronica beccabunga:0.05061113089323044;
+boxes_7.jpg;negative:0.6475932598114014;
+boxes_8.jpg;manatee,Trichechus manatus:0.2023453414440155;beroe:0.06569518893957138;Portuguese man-of-war,man-of-war,jellyfish:0.05288777872920036;
+img_817.jpg;negative:0.15844105184078217;leaf shape,leaf form:0.134930819272995;powdery mildew:0.06573794037103653;

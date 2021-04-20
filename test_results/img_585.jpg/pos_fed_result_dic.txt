@@ -1,0 +1,3 @@
+from_image_IPTC:sleek;stylish;silver;ultra;notebook;desk;
+from_object_detection:mobile phone;computer keyboard;tablet computer;laptop;
+from_image_classification:external drive;portable computer;auxiliary storage;external storage;secondary storage;hard disc;hard disk;fixed disk;scale;weighing machine;drive;cigarette case;

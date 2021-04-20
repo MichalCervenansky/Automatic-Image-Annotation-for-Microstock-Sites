@@ -1,0 +1,14 @@
+boxes_1.jpg;thistledown:0.6758081316947937;feather ball,Mammillaria plumosa:0.1549747735261917;
+boxes_10.jpg;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.2188226580619812;
+boxes_11.jpg;
+boxes_12.jpg;feather ball,Mammillaria plumosa:0.44135916233062744;thistledown:0.23586922883987427;mammillaria:0.12099011987447739;garambulla,garambulla cactus,Myrtillocactus geometrizans:0.09524019062519073;
+boxes_13.jpg;thistledown:0.29292795062065125;dandelion green:0.09621470421552658;globe thistle:0.09598881006240845;feather ball,Mammillaria plumosa:0.06184256449341774;
+boxes_2.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.0668061301112175;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;thistledown:0.4962192475795746;globe thistle:0.1016513928771019;dandelion green:0.0642700344324112;
+boxes_6.jpg;thistledown:0.2749713361263275;dandelion green:0.09270381182432175;feather ball,Mammillaria plumosa:0.0882173627614975;negative:0.05931251868605614;globe thistle:0.05398455262184143;
+boxes_7.jpg;thistledown:0.7855607271194458;
+boxes_8.jpg;thistledown:0.21666787564754486;dandelion green:0.17246559262275696;scape,flower stalk:0.1118844747543335;globe thistle:0.06869097799062729;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.05473240837454796;
+boxes_9.jpg;Psychopsis papilio,Oncidium papilio:0.09063412994146347;
+img_184.jpg;thistledown:0.5598233938217163;dandelion green:0.08119110018014908;globe thistle:0.06838212162256241;

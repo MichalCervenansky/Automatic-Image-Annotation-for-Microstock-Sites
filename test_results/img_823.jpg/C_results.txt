@@ -1,0 +1,5 @@
+boxes_1.jpg;tower:0.8789787292480469;
+boxes_2.jpg;tower:0.8942855596542358;
+boxes_3.jpg;tower:0.7227249145507812;supporting tower:0.0842001661658287;
+boxes_4.jpg;telecommunication,telecom:0.3322005271911621;girder:0.09017705172300339;three-dimensional radar,3d radar:0.06171403080224991;supporting tower:0.05728742480278015;radar,microwave radar,radio detection and ranging,radiolocation:0.05535416677594185;
+img_823.jpg;tower:0.8951021432876587;

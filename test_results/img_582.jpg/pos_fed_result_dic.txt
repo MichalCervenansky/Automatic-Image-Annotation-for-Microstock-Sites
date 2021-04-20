@@ -1,0 +1,3 @@
+from_image_IPTC:piece;programming;code;ide;
+from_object_detection:mobile phone;computer monitor;laptop;cassette deck;scoreboard;tablet computer;auto part;television;poster;
+from_image_classification:visual display unit;vdu;display panel;display board;board;screen;crt screen;teacher;instructor;lector;lecturer;reader;computer system;computing system;automatic data processing system;adp system;adps;speaker;talker;utterer;verbalizer;verbaliser;overhead projector;microfiche;network;electronic network;

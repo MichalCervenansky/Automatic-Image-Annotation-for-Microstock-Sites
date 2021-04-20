@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;shot;sitting;eagle;looking;pray;
+from_object_detection:eagle;plant;falcon;
+from_image_classification:tiercel;tercel;tercelet;ern;erne;grey sea eagle;gray sea eagle;european sea eagle;white-tailed sea eagle;haliatus albicilla;scapular;sea lion;currawong;bell magpie;falconer;hawker;phoebe;phoebe bird;sayornis phoebe;grackle;crow blackbird;american crow;corvus brachyrhyncos;crow;

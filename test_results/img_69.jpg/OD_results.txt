@@ -1,0 +1,30 @@
+boxes_1.jpg;building:0.85025793
+boxes_2.jpg;tree:0.46031168
+boxes_3.jpg;house:0.30253315
+boxes_4.jpg;vehicle:0.24622926
+boxes_5.jpg;tree:0.21377769
+boxes_6.jpg;tree:0.21317111
+boxes_7.jpg;window:0.18760929
+boxes_8.jpg;land vehicle:0.17576963
+boxes_9.jpg;window:0.16307394
+boxes_10.jpg;car:0.15307792
+boxes_11.jpg;tree:0.14200945
+boxes_12.jpg;tree:0.13225202
+boxes_13.jpg;window:0.12659575
+boxes_14.jpg;window:0.11968323
+boxes_15.jpg;tree:0.10561978
+boxes_16.jpg;building:0.104850106
+boxes_17.jpg;tree:0.101025045
+boxes_18.jpg;tree:0.10069732
+boxes_19.jpg;castle:0.08884004
+boxes_20.jpg;tree:0.08637926
+boxes_21.jpg;tree:0.080041096
+boxes_22.jpg;tree:0.07883957
+boxes_23.jpg;window:0.07479682
+boxes_24.jpg;tree:0.06589988
+boxes_25.jpg;tree:0.0632405
+boxes_26.jpg;land vehicle:0.060502585
+boxes_27.jpg;tree:0.05967335
+boxes_28.jpg;tree:0.052745547
+boxes_29.jpg;window:0.0521015
+boxes_30.jpg;tree:0.050355375

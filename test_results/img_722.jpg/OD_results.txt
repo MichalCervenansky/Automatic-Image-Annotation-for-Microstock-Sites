@@ -1,0 +1,8 @@
+boxes_1.jpg;crab:0.9473182
+boxes_2.jpg;fish:0.61403424
+boxes_3.jpg;fish:0.089819215
+boxes_4.jpg;invertebrate:0.08228374
+boxes_5.jpg;fish:0.079203404
+boxes_6.jpg;fish:0.06815139
+boxes_7.jpg;lobster:0.06699961
+boxes_8.jpg;marine invertebrates:0.054690707

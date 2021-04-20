@@ -1,0 +1,14 @@
+boxes_1.jpg;animal:0.74816096
+boxes_2.jpg;marine invertebrates:0.34051612
+boxes_3.jpg;invertebrate:0.26829553
+boxes_4.jpg;invertebrate:0.26200867
+boxes_5.jpg;marine invertebrates:0.22534673
+boxes_6.jpg;animal:0.19242927
+boxes_7.jpg;marine invertebrates:0.16116168
+boxes_8.jpg;marine invertebrates:0.15842725
+boxes_9.jpg;fish:0.0935762
+boxes_10.jpg;shellfish:0.0824367
+boxes_11.jpg;shellfish:0.06775616
+boxes_12.jpg;snail:0.06630045
+boxes_13.jpg;marine invertebrates:0.064070694
+boxes_14.jpg;marine invertebrates:0.050360605

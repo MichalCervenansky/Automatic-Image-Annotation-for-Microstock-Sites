@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;royal;white;shrimp;aquarium;
+from_object_detection:insect;moths and butterflies;plant;caterpillar;food;animal;
+from_image_classification:shrimp;young fish;negative;amphipod;green lacewing;chrysopid;stink fly;copepod;copepod crustacean;daphnia;water flea;webworm;angel shark;angelfish;squatina squatina;monkfish;characin;characin fish;characid;fish;mayfly;dayfly;shadfly;sleeper;sleeper goby;lacewing;lacewing fly;tea tortrix;tortrix;homona coffearia;

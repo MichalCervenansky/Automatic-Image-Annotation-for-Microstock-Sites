@@ -1,0 +1,15 @@
+boxes_1.jpg;salad:0.6007359
+boxes_2.jpg;food:0.52409565
+boxes_3.jpg;vegetable:0.5000354
+boxes_4.jpg;fruit:0.44700623
+boxes_5.jpg;potato:0.413674
+boxes_6.jpg;tomato:0.38555628
+boxes_7.jpg;tomato:0.22381888
+boxes_8.jpg;vegetable:0.22251402
+boxes_9.jpg;vegetable:0.18078054
+boxes_10.jpg;fruit:0.1425683
+boxes_11.jpg;bell pepper:0.11624759
+boxes_12.jpg;tomato:0.081364304
+boxes_13.jpg;tableware:0.06663308
+boxes_14.jpg;potato:0.054355394
+boxes_15.jpg;vegetable:0.05430441

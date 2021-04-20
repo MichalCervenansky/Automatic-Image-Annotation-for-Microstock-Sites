@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;canyon;forest;yellowstone;national;park;usa;
+from_object_detection:tree;plant;
+from_image_classification:negative;mountainside;versant;mountain;mount;mountain sheep;hoary marmot;whistler;whistling marmot;marmota caligata;snowplow;snowplough;ridge;alp;glacier;slope;incline;side;alpine glacier;alpine type of glacier;hillside;escarpment;scarp;steep;snowdrift;snow-on-the-mountain;snow-in-summer;ghost weed;euphorbia marginata;colorado spruce;colorado blue spruce;silver spruce;picea pungens;white fir;colorado fir;california white fir;abies concolor;abies lowiana;white spruce;picea glauca;western white pine;silver pine;mountain pine;pinus monticola;oxbow;riverbank;riverside;

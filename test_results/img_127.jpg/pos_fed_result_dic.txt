@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;hvar;sunset;
+from_object_detection:boat;tree;house;building;
+from_image_classification:jolly boat;jolly;rowing;row;dinghy;dory;rowboat;small boat;seashore;coast;seacoast;sea-coast;littoral;litoral;littoral zone;sands;seaside;seaboard;rowing boat;torrey pine;torrey's pine;soledad pine;grey-leaf pine;sabine pine;pinus torreyana;lakeside;lakeshore;promontory;headland;head;foreland;oceanfront;cliff;drop;drop-off;beach;aquatic mammal;crabeater seal;crab-eating seal;boat;sailboat;sailing boat;sea otter;enhydra lutris;steep;ridge;slope;incline;side;

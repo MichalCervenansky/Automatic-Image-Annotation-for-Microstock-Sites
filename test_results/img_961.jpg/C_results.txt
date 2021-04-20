@@ -1,0 +1,6 @@
+boxes_1.jpg;purple,purpleness:0.4312247037887573;Darwin tulip:0.28997382521629333;Cape tulip,Haemanthus coccineus:0.06825169920921326;
+boxes_2.jpg;purple,purpleness:0.32456403970718384;Darwin tulip:0.21396078169345856;Indian crocus:0.07451984286308289;Cape tulip,Haemanthus coccineus:0.05914131924510002;cottage tulip:0.05670569837093353;
+boxes_3.jpg;purple,purpleness:0.6578623652458191;Darwin tulip:0.16542306542396545;
+boxes_4.jpg;purple,purpleness:0.4701055586338043;Darwin tulip:0.21327602863311768;cottage tulip:0.05303586274385452;Cape tulip,Haemanthus coccineus:0.052736926823854446;
+boxes_5.jpg;purple,purpleness:0.6388124823570251;Darwin tulip:0.16121654212474823;Cape tulip,Haemanthus coccineus:0.06309494376182556;
+img_961.jpg;purple,purpleness:0.22911199927330017;Indian crocus:0.12116487324237823;dwarf tulip,Tulipa armena,Tulipa suaveolens:0.06315403431653976;

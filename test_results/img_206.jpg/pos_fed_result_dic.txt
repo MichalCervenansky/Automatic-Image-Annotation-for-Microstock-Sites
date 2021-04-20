@@ -1,0 +1,3 @@
+from_image_IPTC:two;beautiful;parrots;turkish;street;
+from_object_detection:parrot;man;clothing;person;human face;table;building;furniture;footwear;convenience store;window;jeans;woman;human hair;desk;
+from_image_classification:poll;poll parrot;parrot;contour feather;indigo;shaving foam;picture frame;counter;jordanian;macaw;pet shop;android;humanoid;mechanical man;porcelain;garrote;garotte;garrotte;iron collar;skating;homo sapiens sapiens;modern man;spotlight;spot;flashlight;torch;air bubble;cellophane;bubble;head;caput;inhabitant;habitant;dweller;denizen;indweller;burqa;burka;cash machine;cash dispenser;automated teller machine;automatic teller machine;automated teller;automatic teller;atm;lory;display window;shop window;shopwindow;show window;

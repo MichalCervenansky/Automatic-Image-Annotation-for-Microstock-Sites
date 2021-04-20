@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:clothing;flag;snack;
+from_image_classification:patchwork;patchwork quilt;quilt;comforter;comfort;puff;quilted bedspread;madras;sheet;bed sheet;tartan;plaid;hemstitch;hemstitching;eiderdown;duvet;continental quilt;

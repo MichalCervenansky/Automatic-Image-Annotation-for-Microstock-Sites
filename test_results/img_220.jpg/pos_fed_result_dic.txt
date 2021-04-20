@@ -1,0 +1,3 @@
+from_image_IPTC:arches;top;floor;aspendos;coloseum;
+from_object_detection:building;
+from_image_classification:negative;ice;water ice;barrel vault;squinch;fan tracery;groined vault;cloister;

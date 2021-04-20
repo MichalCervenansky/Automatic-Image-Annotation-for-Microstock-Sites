@@ -1,0 +1,9 @@
+boxes_1.jpg;domestic cat,house cat,Felis domesticus,Felis catus:0.2811015546321869;tom,tomcat:0.15779906511306763;alley cat:0.08719444274902344;
+boxes_2.jpg;encolure:0.08163242787122726;simian:0.06632521748542786;
+boxes_3.jpg;elephant:0.06642826646566391;
+boxes_4.jpg;
+boxes_5.jpg;domestic cat,house cat,Felis domesticus,Felis catus:0.12480710446834564;alley cat:0.11642171442508698;groenendael:0.10731323063373566;Angora,Angora cat:0.09125400334596634;black squirrel:0.08538687974214554;tom,tomcat:0.055562619119882584;
+boxes_6.jpg;tapir:0.08555479347705841;Malayan tapir,Indian tapir,Tapirus indicus:0.07173898816108704;elephant:0.05549798533320427;
+boxes_7.jpg;
+boxes_8.jpg;
+img_244.jpg;sloth bear,Melursus ursinus,Ursus ursinus:0.1250373274087906;menagerie,zoo,zoological garden:0.06464135646820068;tom,tomcat:0.056940559297800064;domestic cat,house cat,Felis domesticus,Felis catus:0.05665060505270958;cat,true cat:0.056243058294057846;alley cat:0.05092852935194969;

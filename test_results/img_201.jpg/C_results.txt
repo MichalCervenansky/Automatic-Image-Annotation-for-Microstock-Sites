@@ -1,0 +1,17 @@
+boxes_1.jpg;common lilac,Syringa vulgaris:0.30611974000930786;stephanotis:0.28345999121665955;
+boxes_10.jpg;common lilac,Syringa vulgaris:0.1845889538526535;flower:0.1514623761177063;flower cluster:0.09618119150400162;Persian lilac,Syringa persica:0.07470384240150452;water violet,Hottonia palustris:0.05747741460800171;
+boxes_11.jpg;stephanotis:0.4934428930282593;
+boxes_12.jpg;rose chafer,rose beetle,Cetonia aurata:0.2380422204732895;ichneumon fly:0.15525871515274048;
+boxes_13.jpg;common valerian,garden heliotrope,Valeriana officinalis:0.09874127060174942;squill:0.052943214774131775;
+boxes_14.jpg;streptomyces:0.33681467175483704;diplococcus:0.0691966786980629;
+boxes_15.jpg;negative:0.09001597762107849;
+boxes_16.jpg;gastrula:0.06354285031557083;
+boxes_2.jpg;stephanotis:0.3893068730831146;flower cluster:0.05724496766924858;
+boxes_3.jpg;common lilac,Syringa vulgaris:0.30465731024742126;common hyacinth,Hyacinthus orientalis:0.17053578794002533;pine hyacinth,Clematis baldwinii,Viorna baldwinii:0.07974560558795929;
+boxes_4.jpg;common lilac,Syringa vulgaris:0.2587445378303528;water violet,Hottonia palustris:0.09910286217927933;flower cluster:0.09186042845249176;Persian lilac,Syringa persica:0.05680061876773834;
+boxes_5.jpg;flower cluster:0.23436246812343597;stephanotis:0.13020950555801392;
+boxes_6.jpg;common lilac,Syringa vulgaris:0.6183300614356995;common hyacinth,Hyacinthus orientalis:0.07845815271139145;
+boxes_7.jpg;stephanotis:0.37718531489372253;flower cluster:0.05521678924560547;streptocarpus:0.05280730873346329;
+boxes_8.jpg;stephanotis:0.2320363074541092;squill:0.06545548886060715;summer hyacinth,cape hyacinth,Hyacinthus candicans,Galtonia candicans:0.05830571800470352;
+boxes_9.jpg;common hyacinth,Hyacinthus orientalis:0.5796000957489014;pine hyacinth,Clematis baldwinii,Viorna baldwinii:0.11393915861845016;Roman hyacinth,Hyacinthus orientalis albulus:0.06056583672761917;squill:0.05615467205643654;
+img_201.jpg;flower:0.3841177225112915;flower cluster:0.18446236848831177;common valerian,garden heliotrope,Valeriana officinalis:0.06828249990940094;common lilac,Syringa vulgaris:0.05854856222867966;

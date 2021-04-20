@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;tree;park;italy;holiday;shot;
+from_object_detection:tree;plant;
+from_image_classification:swamp cottonwood;black cottonwood;downy poplar;swamp poplar;populus heterophylla;eastern cottonwood;necklace poplar;populus deltoides;balsam poplar;hackmatack;tacamahac;populus balsamifera;tree;western balsam poplar;populus trichocarpa;alpine ash;mountain oak;eucalyptus delegatensis;strangler;strangler tree;african scented mahogany;cedar mahogany;sapele mahogany;entandrophragma cylindricum;silver tree;tarrietia argyrodendron;black birch;river birch;red birch;betula nigra;gray;grayness;grey;greyness;black beech;nothofagus solanderi;

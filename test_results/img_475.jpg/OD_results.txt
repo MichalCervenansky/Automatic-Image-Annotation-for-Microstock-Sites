@@ -1,0 +1,6 @@
+boxes_1.jpg;insect:0.9534517
+boxes_2.jpg;insect:0.3861995
+boxes_3.jpg;food:0.31998113
+boxes_4.jpg;invertebrate:0.101733044
+boxes_5.jpg;flower:0.07506098
+boxes_6.jpg;food:0.061381478

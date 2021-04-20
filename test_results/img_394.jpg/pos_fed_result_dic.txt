@@ -1,0 +1,3 @@
+from_image_IPTC:old;rusted;lorry;autumn;nature;
+from_object_detection:car;tree;flowerpot;land vehicle;maple;truck;flower;
+from_image_classification:military vehicle;armored vehicle;armoured vehicle;bulldozer;dozer;park bench;amphibian;amphibious vehicle;personnel carrier;submersible;ferris wheel;automaton;robot;golem;van;humvee;hum-vee;balcony;weatherman;weather forecaster;tracked vehicle;windshield;windscreen;miller;milling machine;lantern;post;telpherage;telferage;power shovel;excavator;digger;shovel;troop carrier;troop transport;septic tank;storm cellar;cyclone cellar;tornado cellar;tramway;tram;aerial tramway;cable tramway;ropeway;vehicle;

@@ -1,0 +1,10 @@
+boxes_1.jpg;desert tortoise,Gopherus agassizii:0.7920960783958435;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.12328667938709259;
+boxes_2.jpg;creeping oxalis,creeping wood sorrel,Oxalis corniculata:0.15198230743408203;nardoo,nardo,common nardoo,Marsilea drummondii:0.06016690284013748;
+boxes_3.jpg;mountainside,versant:0.061745643615722656;
+boxes_4.jpg;desert tortoise,Gopherus agassizii:0.8355898261070251;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.07556755095720291;
+boxes_5.jpg;desert tortoise,Gopherus agassizii:0.42268890142440796;reptile,reptilian:0.131046324968338;
+boxes_6.jpg;negative:0.3358827829360962;
+boxes_7.jpg;testudo:0.12848912179470062;terrapin:0.09602000564336777;soft-shelled turtle,pancake turtle:0.09072163701057434;Western box turtle,Terrapene ornata:0.06290945410728455;
+boxes_8.jpg;testudo:0.5127673745155334;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.10841935127973557;Western box turtle,Terrapene ornata:0.07800163328647614;
+boxes_9.jpg;
+img_231.jpg;desert tortoise,Gopherus agassizii:0.7036656737327576;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.21211360394954681;

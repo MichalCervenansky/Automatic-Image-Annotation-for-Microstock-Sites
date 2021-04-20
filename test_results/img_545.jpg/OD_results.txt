@@ -1,0 +1,4 @@
+boxes_1.jpg;animal:0.5280567
+boxes_2.jpg;food:0.4569026
+boxes_3.jpg;animal:0.11260919
+boxes_4.jpg;dessert:0.07687186

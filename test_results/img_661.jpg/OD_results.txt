@@ -1,0 +1,2 @@
+boxes_1.jpg;cat:0.98158455
+boxes_2.jpg;carnivore:0.46470127

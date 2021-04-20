@@ -1,0 +1,17 @@
+boxes_1.jpg;radial,radial tire,radial-ply tire:0.2819787263870239;tread:0.17932114005088806;car wheel:0.16005387902259827;car tire,automobile tire,auto tire,rubber tire:0.11797261238098145;hubcap:0.1110067367553711;wagon tire:0.08162922412157059;
+boxes_10.jpg;tread:0.30507856607437134;car tire,automobile tire,auto tire,rubber tire:0.15550671517848969;radial,radial tire,radial-ply tire:0.14244163036346436;wagon tire:0.14108814299106598;car wheel:0.14083842933177948;
+boxes_11.jpg;car tire,automobile tire,auto tire,rubber tire:0.22940784692764282;car wheel:0.2090911716222763;radial,radial tire,radial-ply tire:0.18595828115940094;tread:0.1363220065832138;wagon tire:0.13269419968128204;
+boxes_12.jpg;
+boxes_13.jpg;radial,radial tire,radial-ply tire:0.7837787866592407;car tire,automobile tire,auto tire,rubber tire:0.06589098274707794;wagon tire:0.050636108964681625;
+boxes_14.jpg;radial,radial tire,radial-ply tire:0.4156908094882965;car wheel:0.23680411279201508;car tire,automobile tire,auto tire,rubber tire:0.11124123632907867;wagon tire:0.08719087392091751;tread:0.061325881630182266;
+boxes_15.jpg;radial,radial tire,radial-ply tire:0.740973174571991;wagon tire:0.11594630032777786;car tire,automobile tire,auto tire,rubber tire:0.052836012095212936;
+boxes_16.jpg;radial,radial tire,radial-ply tire:0.6986492872238159;wagon tire:0.13344372808933258;car tire,automobile tire,auto tire,rubber tire:0.0665041133761406;
+boxes_2.jpg;radial,radial tire,radial-ply tire:0.8308435678482056;
+boxes_3.jpg;tread:0.21197398006916046;car wheel:0.20457904040813446;wagon tire:0.17659549415111542;car tire,automobile tire,auto tire,rubber tire:0.15273316204547882;radial,radial tire,radial-ply tire:0.12073956429958344;hubcap:0.053414423018693924;
+boxes_4.jpg;radial,radial tire,radial-ply tire:0.7930655479431152;wagon tire:0.08421719819307327;
+boxes_5.jpg;radial,radial tire,radial-ply tire:0.29148218035697937;tread:0.22542095184326172;car tire,automobile tire,auto tire,rubber tire:0.15882395207881927;wagon tire:0.149110808968544;car wheel:0.06701834499835968;
+boxes_6.jpg;car tire,automobile tire,auto tire,rubber tire:0.27749019861221313;tread:0.197473406791687;radial,radial tire,radial-ply tire:0.16763588786125183;wagon tire:0.15001577138900757;car wheel:0.08356224000453949;
+boxes_7.jpg;tread:0.3144950270652771;radial,radial tire,radial-ply tire:0.18526743352413177;wagon tire:0.17971253395080566;car tire,automobile tire,auto tire,rubber tire:0.16996783018112183;
+boxes_8.jpg;radial,radial tire,radial-ply tire:0.47822871804237366;car wheel:0.11962500959634781;car tire,automobile tire,auto tire,rubber tire:0.09659364074468613;wagon tire:0.09416314214468002;hubcap:0.07863546162843704;tread:0.07690400630235672;
+boxes_9.jpg;radial,radial tire,radial-ply tire:0.2664896845817566;tread:0.19709473848342896;car tire,automobile tire,auto tire,rubber tire:0.1957118809223175;car wheel:0.12469854205846786;wagon tire:0.07617519795894623;hubcap:0.07483188062906265;
+img_514.jpg;tread:0.3409552276134491;car wheel:0.17280252277851105;car tire,automobile tire,auto tire,rubber tire:0.1453305333852768;wagon tire:0.13407811522483826;radial,radial tire,radial-ply tire:0.09892366081476212;

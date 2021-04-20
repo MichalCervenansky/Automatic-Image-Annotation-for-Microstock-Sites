@@ -1,0 +1,3 @@
+from_image_IPTC:gorgeous;rose;turkish;beach;
+from_object_detection:rose;flower;tree;plant;
+from_image_classification:negative;musk rose;rosa moschata;water violet;hottonia palustris;rex begonia;king begonia;painted-leaf begonia;beefsteak geranium;begonia rex;american agave;agave americana;begonia;erose leaf;wax begonia;begonia semperflorens;rose;rosebush;

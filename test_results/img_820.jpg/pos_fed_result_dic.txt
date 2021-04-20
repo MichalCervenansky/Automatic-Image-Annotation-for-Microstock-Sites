@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:boat;tree;vehicle;building;person;house;
+from_image_classification:seashore;coast;seacoast;sea-coast;sunniness;ghat;riverbank;riverside;smoke screen;smokescreen;ibex;capra ibex;small boat;car bomb;catboat;lateen;lateen sail;spritsail;bumper;windshield;windscreen;armored personnel carrier;armoured personnel carrier;apc;panzer;sunbather;sandbank;bank;littoral;litoral;littoral zone;sands;oceanfront;sailboat;sailing boat;ski slope;snowdrift;slope;incline;side;canvas tent;canvas;canvass;igloo;iglu;outfall;low-water mark;addax;addax nasomaculatus;promontory;headland;head;foreland;beach;spume;strand;

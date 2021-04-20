@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;traffic sign;building;house;
+from_image_classification:mountain;mount;oil paint;triptych;ridge;ski slope;swimming;swim;ice;water ice;goblet;tumbler;colorado spruce;colorado blue spruce;silver spruce;picea pungens;western white pine;silver pine;mountain pine;pinus monticola;alpine fir;subalpine fir;abies lasiocarpa;mountainside;versant;piste;skiing;slope;incline;side;negative;ascent;acclivity;rise;raise;climb;upgrade;uphill;shower curtain;harp seal;pagophilus groenlandicus;floating;natation;ski jumping;snowplow;snowplough;verdigris;portiere;alp;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;

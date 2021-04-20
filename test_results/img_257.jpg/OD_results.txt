@@ -1,0 +1,25 @@
+boxes_1.jpg;fashion accessory:0.8661278
+boxes_2.jpg;fashion accessory:0.5125566
+boxes_3.jpg;fashion accessory:0.46440443
+boxes_4.jpg;candy:0.305151
+boxes_5.jpg;ball:0.26185405
+boxes_6.jpg;candy:0.25608474
+boxes_7.jpg;food:0.20258486
+boxes_8.jpg;candy:0.16437541
+boxes_9.jpg;cosmetics:0.14223598
+boxes_10.jpg;fashion accessory:0.12485094
+boxes_11.jpg;fashion accessory:0.118464515
+boxes_12.jpg;fashion accessory:0.11667063
+boxes_13.jpg;toy:0.11386331
+boxes_14.jpg;food:0.10030497
+boxes_15.jpg;candy:0.09985319
+boxes_16.jpg;candy:0.086982206
+boxes_17.jpg;food:0.08368937
+boxes_18.jpg;food:0.083343655
+boxes_19.jpg;ball:0.07674884
+boxes_20.jpg;tableware:0.069430836
+boxes_21.jpg;candy:0.06605823
+boxes_22.jpg;food:0.0626622
+boxes_23.jpg;candy:0.06014699
+boxes_24.jpg;candy:0.051168773
+boxes_25.jpg;candy:0.05076839

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;colorful;new;years;firework;sea;
+from_object_detection:tree;animal;plant;marine invertebrates;
+from_image_classification:purple;purpleness;glint;tesla coil;

@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:flower;plant;tree;lily;
+from_image_classification:common jasmine;true jasmine;jessamine;jasminum officinale;jasmine;night jasmine;night jessamine;cestrum nocturnum;winter jasmine;jasminum nudiflorum;petal;flower petal;stock;gillyflower;

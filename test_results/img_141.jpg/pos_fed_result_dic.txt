@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;orange;brown;cat;lying;belly;near;sea;water;adriatic;
+from_object_detection:cat;
+from_image_classification:negative;tom;tomcat;egyptian cat;

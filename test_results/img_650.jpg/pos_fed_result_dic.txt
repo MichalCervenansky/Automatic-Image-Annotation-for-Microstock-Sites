@@ -1,0 +1,3 @@
+from_image_IPTC:tired;dog;sleeping;ground;rhodesian;ridgeback;
+from_object_detection:dog;
+from_image_classification:bitch;dog;domestic dog;canis familiaris;

@@ -1,0 +1,8 @@
+boxes_1.jpg;marine invertebrates:0.7557175
+boxes_2.jpg;plant:0.6638694
+boxes_3.jpg;food:0.1848418
+boxes_4.jpg;animal:0.14981553
+boxes_5.jpg;marine invertebrates:0.08820651
+boxes_6.jpg;invertebrate:0.062284023
+boxes_7.jpg;plant:0.059690177
+boxes_8.jpg;flower:0.053825606

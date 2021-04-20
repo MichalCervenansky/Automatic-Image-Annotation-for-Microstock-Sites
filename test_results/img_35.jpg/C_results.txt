@@ -1,0 +1,18 @@
+boxes_1.jpg;sprinkler:0.06044117361307144;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.05865158513188362;
+boxes_10.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.5683744549751282;black grouse:0.06234036013484001;
+boxes_11.jpg;barley grass,wall barley,Hordeum murinum:0.0858273133635521;
+boxes_12.jpg;rush grass,rush-grass:0.10301374644041061;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.070684053003788;
+boxes_13.jpg;
+boxes_14.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.8590199947357178;
+boxes_15.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.5407037138938904;black grouse:0.09511126577854156;
+boxes_16.jpg;tall oat grass,tall meadow grass,evergreen grass,false oat,French rye,Arrhenatherum elatius:0.06601864844560623;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.0597146637737751;
+boxes_17.jpg;sprinkler:0.12673825025558472;rush grass,rush-grass:0.08065786957740784;lyme grass:0.06226625666022301;
+boxes_2.jpg;barley grass,wall barley,Hordeum murinum:0.13227201998233795;tall oat grass,tall meadow grass,evergreen grass,false oat,French rye,Arrhenatherum elatius:0.11403754353523254;eatage,forage,pasture,pasturage,grass:0.08088057488203049;lyme grass:0.054346147924661636;
+boxes_3.jpg;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.15675000846385956;air bubble:0.06190992519259453;
+boxes_4.jpg;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.070622019469738;
+boxes_5.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.3213244378566742;
+boxes_6.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.11830713599920273;eatage,forage,pasture,pasturage,grass:0.07958455383777618;barley grass,wall barley,Hordeum murinum:0.05368297919631004;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;barley grass,wall barley,Hordeum murinum:0.16860871016979218;rush grass,rush-grass:0.0947389155626297;eatage,forage,pasture,pasturage,grass:0.059965841472148895;tall oat grass,tall meadow grass,evergreen grass,false oat,French rye,Arrhenatherum elatius:0.05934308096766472;
+img_35.jpg;sprinkler:0.1901676207780838;barley grass,wall barley,Hordeum murinum:0.09283147752285004;

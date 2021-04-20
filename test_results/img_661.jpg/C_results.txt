@@ -1,0 +1,3 @@
+boxes_1.jpg;tom,tomcat:0.3450096547603607;negative:0.16983279585838318;chicken wire:0.09053058177232742;cat,true cat:0.07974009215831757;bobcat,bay lynx,Lynx rufus:0.05534977465867996;
+boxes_2.jpg;tom,tomcat:0.3716324269771576;negative:0.1831250637769699;cat,true cat:0.06273012608289719;ash grey,ash gray,silver,silver grey,silver gray:0.051301680505275726;
+img_661.jpg;cat,true cat:0.29808107018470764;tom,tomcat:0.2567884922027588;hutch:0.05989036709070206;bobcat,bay lynx,Lynx rufus:0.054774172604084015;ash grey,ash gray,silver,silver grey,silver gray:0.05180051177740097;

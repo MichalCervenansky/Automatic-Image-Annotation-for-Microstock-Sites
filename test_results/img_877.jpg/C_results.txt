@@ -1,0 +1,10 @@
+boxes_1.jpg;background,desktop,screen background:0.18439514935016632;lip:0.06961514055728912;
+boxes_2.jpg;lip:0.1848410665988922;background,desktop,screen background:0.0842939242720604;ice,water ice:0.06123896315693855;
+boxes_3.jpg;peach bells,peach bell,willow bell,Campanula persicifolia:0.14517806470394135;
+boxes_4.jpg;lip:0.37469255924224854;background,desktop,screen background:0.05221854895353317;
+boxes_5.jpg;peach bells,peach bell,willow bell,Campanula persicifolia:0.11334820836782455;squill:0.052011869847774506;
+boxes_6.jpg;background,desktop,screen background:0.2646259367465973;peach bells,peach bell,willow bell,Campanula persicifolia:0.0729295164346695;
+boxes_7.jpg;background,desktop,screen background:0.20499920845031738;contact,contact lens:0.05956484004855156;peach bells,peach bell,willow bell,Campanula persicifolia:0.05232346057891846;organza:0.051729485392570496;
+boxes_8.jpg;background,desktop,screen background:0.13232311606407166;organza:0.08006255328655243;peach bells,peach bell,willow bell,Campanula persicifolia:0.07554624229669571;
+boxes_9.jpg;background,desktop,screen background:0.161993145942688;organza:0.08424403518438339;contact,contact lens:0.05823981761932373;lip:0.05386202409863472;
+img_877.jpg;lip:0.7149460911750793;

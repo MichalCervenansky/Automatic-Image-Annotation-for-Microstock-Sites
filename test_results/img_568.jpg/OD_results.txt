@@ -1,0 +1,17 @@
+boxes_1.jpg;pillow:0.903212
+boxes_2.jpg;pillow:0.54305595
+boxes_3.jpg;clothing:0.5148659
+boxes_4.jpg;flag:0.33787033
+boxes_5.jpg;pillow:0.29731902
+boxes_6.jpg;pillow:0.2728454
+boxes_7.jpg;pillow:0.25217524
+boxes_8.jpg;flower:0.1354107
+boxes_9.jpg;dress:0.10358627
+boxes_10.jpg;clothing:0.070202135
+boxes_11.jpg;flower:0.06426313
+boxes_12.jpg;pillow:0.05908021
+boxes_13.jpg;flower:0.057593342
+boxes_14.jpg;flag:0.056896493
+boxes_15.jpg;flower:0.055130035
+boxes_16.jpg;clothing:0.054312136
+boxes_17.jpg;flower:0.050787788

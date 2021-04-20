@@ -1,0 +1,3 @@
+boxes_1.jpg;invertebrate:0.8689249
+boxes_2.jpg;shellfish:0.44807526
+boxes_3.jpg;marine invertebrates:0.052551493

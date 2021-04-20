@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;purple;meadow;flower;
+from_object_detection:flower;plant;insect;
+from_image_classification:scarlet clematis;clematis texensis;leather flower;vase-fine;vase vine;clematis viorna;jellyfish;clematis;prairie smoke;purple avens;geum triflorum;bell;bell shape;campana;beroe;flower;fritillary;checkered lily;mission bells;rice-grain fritillary;fritillaria affinis;fritillaria lanceolata;fritillaria mutica;snake's head fritillary;guinea-hen flower;checkered daffodil;leper lily;fritillaria meleagris;canterbury bell;cup and saucer;campanula medium;

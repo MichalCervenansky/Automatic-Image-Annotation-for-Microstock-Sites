@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:tree;plant;
+from_image_classification:hemlock;hemlock tree;grey birch;gray birch;american grey birch;american gray birch;betula populifolia;sunniness;branch water;westland pine;silver pine;lagarostrobus colensoi;negative;arroyo;spume;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;glint;coral reef;oil paint;swamp birch;water birch;mountain birch;western paper birch;western birch;betula fontinalis;oxbow;western white pine;mountain pine;pinus monticola;artwork;art;graphics;nontextual matter;mountainside;versant;beech;beech tree;scuba diving;benthos;skin-diver;aquanaut;

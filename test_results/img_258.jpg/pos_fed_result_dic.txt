@@ -1,0 +1,3 @@
+from_image_IPTC:pack;black;pill;drugs;
+from_object_detection:tableware;drink;table;toy;ball;food;bottle;helmet;
+from_image_classification:air bubble;breast implant;glyptics;lithoglyptics;ctenophore;comb jelly;plastic wrap;barley-sugar;barley candy;lozenge;cellophane;peppermint;peppermint candy;kiss;candy kiss;jellyfish;ice;water ice;blister pack;bubble pack;shiner;marshmallow;empty;opalescence;iridescence;

@@ -1,0 +1,17 @@
+boxes_1.jpg;soil,dirt:0.08222547918558121;
+boxes_10.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.16639187932014465;onion smut,Urocystis cepulae:0.1100044921040535;onion:0.10946840047836304;leek:0.07092688232660294;shallot,eschalot,multiplier onion,Allium cepa aggregatum,Allium ascalonicum:0.05313228443264961;garlic chive,Chinese chive,Oriental garlic,Allium tuberosum:0.05077638104557991;
+boxes_11.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.12262182682752609;soil,dirt:0.061211008578538895;farmhand,fieldhand,field hand,farm worker:0.05798307806253433;
+boxes_12.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.32798686623573303;onion:0.12114232778549194;onion smut,Urocystis cepulae:0.08677311986684799;
+boxes_13.jpg;Hungarian partridge,grey partridge,gray partridge,Perdix perdix:0.07531610876321793;
+boxes_14.jpg;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.0640835240483284;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.05291925370693207;
+boxes_15.jpg;soil,dirt:0.13808733224868774;leek:0.08867248892784119;Welsh onion,Japanese leek,Allium fistulosum:0.07427724450826645;onion smut,Urocystis cepulae:0.06417912244796753;
+boxes_16.jpg;farmhand,fieldhand,field hand,farm worker:0.15438905358314514;Welsh onion,Japanese leek,Allium fistulosum:0.08720792084932327;
+boxes_2.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.16000132262706757;onion:0.09258177131414413;onion smut,Urocystis cepulae:0.08921744674444199;
+boxes_3.jpg;soil,dirt:0.10392966121435165;Hungarian partridge,grey partridge,gray partridge,Perdix perdix:0.06482741236686707;
+boxes_4.jpg;mucor:0.06286909431219101;
+boxes_5.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.23674285411834717;onion smut,Urocystis cepulae:0.12394064664840698;onion mildew,Peronospora destructor:0.0697905570268631;garlic chive,Chinese chive,Oriental garlic,Allium tuberosum:0.06821674853563309;garlic chive:0.05936576426029205;leek:0.0546877458691597;
+boxes_6.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.14708134531974792;onion smut,Urocystis cepulae:0.1355361044406891;
+boxes_7.jpg;anthill,formicary:0.08116939663887024;Hungarian partridge,grey partridge,gray partridge,Perdix perdix:0.0682828277349472;
+boxes_8.jpg;rake handle:0.10515357553958893;hoe:0.06146780028939247;
+boxes_9.jpg;ice,water ice:0.08564818650484085;
+img_442.jpg;Welsh onion,Japanese leek,Allium fistulosum:0.15655609965324402;shallot,eschalot,multiplier onion,Allium cepa aggregatum,Allium ascalonicum:0.14949187636375427;farmhand,fieldhand,field hand,farm worker:0.10127174854278564;soil,dirt:0.08658981323242188;

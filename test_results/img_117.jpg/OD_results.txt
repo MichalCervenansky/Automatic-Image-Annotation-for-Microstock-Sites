@@ -1,0 +1,19 @@
+boxes_1.jpg;toy:0.7952718
+boxes_2.jpg;flower:0.5513389
+boxes_3.jpg;human leg:0.25985068
+boxes_4.jpg;fashion accessory:0.24087611
+boxes_5.jpg;clothing:0.2324971
+boxes_6.jpg;mammal:0.18184042
+boxes_7.jpg;pumpkin:0.18100266
+boxes_8.jpg;person:0.1413305
+boxes_9.jpg;animal:0.14058746
+boxes_10.jpg;flower:0.12762342
+boxes_11.jpg;dog:0.11541197
+boxes_12.jpg;person:0.0968331
+boxes_13.jpg;doll:0.07769503
+boxes_14.jpg;toy:0.07459666
+boxes_15.jpg;food:0.06971596
+boxes_16.jpg;teddy bear:0.06923965
+boxes_17.jpg;clothing:0.060336903
+boxes_18.jpg;human hand:0.0559985
+boxes_19.jpg;human face:0.05219647

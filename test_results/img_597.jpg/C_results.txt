@@ -1,0 +1,9 @@
+boxes_1.jpg;notebook,notebook computer:0.12990474700927734;control key,command key:0.07182292640209198;modem:0.054598864167928696;peripheral,computer peripheral,peripheral device:0.050648026168346405;
+boxes_2.jpg;keyboard:0.059461288154125214;
+boxes_3.jpg;notebook,notebook computer:0.10089324414730072;control key,command key:0.07744051516056061;peripheral,computer peripheral,peripheral device:0.06451435387134552;computer keyboard,keypad:0.053845636546611786;modem:0.05194071680307388;portable computer:0.05066288262605667;
+boxes_4.jpg;control key,command key:0.10554465651512146;notebook,notebook computer:0.10183826833963394;modem:0.05523409694433212;peripheral,computer peripheral,peripheral device:0.05137113481760025;
+boxes_5.jpg;notebook,notebook computer:0.137991264462471;
+boxes_6.jpg;notebook,notebook computer:0.22357642650604248;portable computer:0.08592347800731659;modem:0.08515685796737671;
+boxes_7.jpg;notebook,notebook computer:0.09200748801231384;radiotelephone,radiotelephony,wireless telephone:0.06754395365715027;
+boxes_8.jpg;notebook,notebook computer:0.13014185428619385;radiotelephone,radiotelephony,wireless telephone:0.08880487829446793;modem:0.07963196188211441;external drive:0.0674390196800232;
+img_597.jpg;

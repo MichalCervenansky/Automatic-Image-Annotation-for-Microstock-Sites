@@ -1,0 +1,3 @@
+from_image_IPTC:shiny;golden;gurama;fish;aquarium;
+from_object_detection:fish;plant;
+from_image_classification:angelfish;spadefish;chaetodipterus faber;negative;guppy;rainbow fish;lebistes reticulatus;mudskipper;mudspringer;angel shark;squatina squatina;monkfish;boarfish;capros aper;toothbrush;stolon;runner;offset;conger;conger eel;electric ray;crampfish;numbfish;torpedo;platypus;duckbill;duckbilled platypus;duck-billed platypus;ornithorhynchus anatinus;

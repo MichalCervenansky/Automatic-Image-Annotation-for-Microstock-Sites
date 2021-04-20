@@ -1,0 +1,10 @@
+boxes_1.jpg;dessert:0.7448152
+boxes_2.jpg;food:0.3938552
+boxes_3.jpg;plate:0.35167542
+boxes_4.jpg;food:0.1992803
+boxes_5.jpg;snack:0.13926426
+boxes_6.jpg;salad:0.11798519
+boxes_7.jpg;fruit:0.0921954
+boxes_8.jpg;food:0.08644266
+boxes_9.jpg;baked goods:0.06903387
+boxes_10.jpg;dessert:0.06559364

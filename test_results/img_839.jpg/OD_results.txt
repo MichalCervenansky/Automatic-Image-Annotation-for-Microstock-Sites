@@ -1,0 +1,29 @@
+boxes_1.jpg;boat:0.87440044
+boxes_2.jpg;tree:0.8090084
+boxes_3.jpg;tree:0.73821896
+boxes_4.jpg;tree:0.6070406
+boxes_5.jpg;boat:0.49886462
+boxes_6.jpg;tree:0.38081074
+boxes_7.jpg;tree:0.2833768
+boxes_8.jpg;tree:0.27917087
+boxes_9.jpg;tree:0.192563
+boxes_10.jpg;flower:0.17993404
+boxes_11.jpg;tree:0.15823917
+boxes_12.jpg;boat:0.14677526
+boxes_13.jpg;tree:0.14495355
+boxes_14.jpg;tree:0.12712096
+boxes_15.jpg;tree:0.1271162
+boxes_16.jpg;boat:0.12672475
+boxes_17.jpg;boat:0.123004176
+boxes_18.jpg;tree:0.11730872
+boxes_19.jpg;plant:0.11079544
+boxes_20.jpg;tree:0.08891685
+boxes_21.jpg;tree:0.08391476
+boxes_22.jpg;boat:0.08197677
+boxes_23.jpg;tree:0.074911274
+boxes_24.jpg;palm tree:0.060261056
+boxes_25.jpg;tree:0.058387797
+boxes_26.jpg;tree:0.05547574
+boxes_27.jpg;land vehicle:0.05223222
+boxes_28.jpg;vehicle:0.050895613
+boxes_29.jpg;tree:0.050209038

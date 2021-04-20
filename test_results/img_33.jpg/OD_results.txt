@@ -1,0 +1,12 @@
+boxes_1.jpg;flower:0.9886882
+boxes_2.jpg;flower:0.9466207
+boxes_3.jpg;fruit:0.20166443
+boxes_4.jpg;flower:0.19097647
+boxes_5.jpg;duck:0.18587744
+boxes_6.jpg;flower:0.17611408
+boxes_7.jpg;sunflower:0.15485686
+boxes_8.jpg;bird:0.14107205
+boxes_9.jpg;flower:0.13365956
+boxes_10.jpg;flower:0.07843217
+boxes_11.jpg;goose:0.0623602
+boxes_12.jpg;flower:0.054039694

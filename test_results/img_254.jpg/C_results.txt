@@ -1,0 +1,18 @@
+boxes_1.jpg;negative:0.4732738733291626;thistledown:0.06649427115917206;
+boxes_10.jpg;thistledown:0.09637296944856644;dendrite:0.07191526144742966;
+boxes_11.jpg;negative:0.31294918060302734;dewdrop:0.15286020934581757;
+boxes_12.jpg;negative:0.8948142528533936;
+boxes_13.jpg;negative:0.37048301100730896;thistledown:0.09865237772464752;
+boxes_14.jpg;negative:0.931111216545105;
+boxes_15.jpg;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.22813403606414795;negative:0.20887424051761627;
+boxes_16.jpg;sand sage,silvery wormwood,Artemisia filifolia:0.05064760148525238;reindeer moss,reindeer lichen,arctic moss,Cladonia rangiferina:0.05047650635242462;
+boxes_17.jpg;negative:0.286943256855011;thistledown:0.1181788221001625;
+boxes_2.jpg;
+boxes_3.jpg;negative:0.16039112210273743;common grape hyacinth,Muscari neglectum:0.07520786672830582;thistledown:0.06496407091617584;
+boxes_4.jpg;negative:0.10205020755529404;thistledown:0.0915297269821167;love-in-a-mist,running pop,wild water lemon,Passiflora foetida:0.05987751856446266;
+boxes_5.jpg;negative:0.20077042281627655;thistledown:0.06973115354776382;
+boxes_6.jpg;negative:0.2909780442714691;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.07998664677143097;
+boxes_7.jpg;convolvulus:0.08069295436143875;spike lavender,French lavender,Lavandula latifolia:0.055450454354286194;
+boxes_8.jpg;squill:0.43611738085746765;scilla,squill:0.29917579889297485;
+boxes_9.jpg;thistledown:0.3135295808315277;negative:0.1386372298002243;
+img_254.jpg;negative:0.5279266238212585;thistledown:0.08980859816074371;

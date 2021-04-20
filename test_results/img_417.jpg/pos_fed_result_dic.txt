@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;rohace;slovak;republic;
+from_object_detection:tree;plant;
+from_image_classification:slope;incline;side;talus;scree;dall sheep;dall's sheep;white sheep;ovis montana dalli;shore;oxbow;western white pine;silver pine;mountain pine;pinus monticola;pitch pine;northern pitch pine;pinus rigida;grey whale;gray whale;devilfish;eschrichtius gibbosus;eschrichtius robustus;manatee;trichechus manatus;dugong;dugong dugon;lace bug;ascent;acclivity;rise;raise;climb;upgrade;alpine glacier;alpine type of glacier;hillside;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;ridge;mountainside;versant;volcanic crater;crater;ben;

@@ -1,0 +1,3 @@
+from_image_IPTC:view;london;eye;river;themes;
+from_object_detection:tree;skyscraper;boat;vehicle;watercraft;wheel;ladder;
+from_image_classification:truss;framework;supporting structure;support;topmast;smoke screen;smokescreen;waterfront;dust storm;duster;sandstorm;sirocco;supporting tower;

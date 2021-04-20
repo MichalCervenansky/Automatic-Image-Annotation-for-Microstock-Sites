@@ -1,0 +1,3 @@
+from_image_IPTC:view;bottom;eifell;tower;paris;clear;blue;sky;
+from_object_detection:tower;building;wheel;
+from_image_classification:tower;supporting tower;telecommunication;telecom;girder;three-dimensional radar;3d radar;radar;microwave radar;radio detection and ranging;radiolocation;

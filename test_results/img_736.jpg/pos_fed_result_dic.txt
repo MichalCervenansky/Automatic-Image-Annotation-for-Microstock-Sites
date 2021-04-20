@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;fighting;diver;croatia;
+from_object_detection:animal;marine invertebrates;invertebrate;fish;shellfish;snail;
+from_image_classification:swimming;swim;soapsuds;suds;lather;architeuthis;giant squid;benthos;benthic division;benthonic zone;portuguese man-of-war;man-of-war;jellyfish;tunicate;urochordate;urochord;cuttlefish;cuttle;giant clam;tridacna gigas;spume;porcupinefish;porcupine fish;diodon hystrix;star;octopod;snorkel;schnorkel;schnorchel;snorkel breather;breather;jawfish;stonefish;synanceja verrucosa;

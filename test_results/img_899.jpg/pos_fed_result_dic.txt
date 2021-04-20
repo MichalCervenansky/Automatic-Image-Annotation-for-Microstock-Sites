@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;shot;suzuki;swifts;interiour;holiday;
+from_object_detection:auto part;wheel;car;vehicle;land vehicle;person;musical instrument;tire;airplane;
+from_image_classification:driving wheel;power steering;power-assisted steering;steering wheel;wheel;car door;smoke screen;smokescreen;air bag;ctenophore;comb jelly;fighter pilot;cruise control;odometer;hodometer;mileometer;milometer;splashboard;splasher;dashboard;fascia;

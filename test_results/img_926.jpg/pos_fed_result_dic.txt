@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:musical keyboard;piano;vehicle;organ;coffee cup;tableware;poster;book;land vehicle;office supplies;
+from_image_classification:piano keyboard;fingerboard;clavier;klavier;piano;pianoforte;forte-piano;keyboard;keyboard instrument;

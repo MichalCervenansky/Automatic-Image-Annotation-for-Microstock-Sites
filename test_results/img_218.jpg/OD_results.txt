@@ -1,0 +1,9 @@
+boxes_1.jpg;flower:0.8726945
+boxes_2.jpg;coin:0.37523237
+boxes_3.jpg;sculpture:0.17706062
+boxes_4.jpg;sculpture:0.14033946
+boxes_5.jpg;flower:0.106589645
+boxes_6.jpg;human head:0.08280457
+boxes_7.jpg;sculpture:0.08041472
+boxes_8.jpg;sculpture:0.076502636
+boxes_9.jpg;flower:0.051242635

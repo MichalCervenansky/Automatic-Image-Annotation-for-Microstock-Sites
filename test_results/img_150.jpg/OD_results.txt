@@ -1,0 +1,20 @@
+boxes_1.jpg;palm tree:0.78307253
+boxes_2.jpg;palm tree:0.44417667
+boxes_3.jpg;palm tree:0.4038357
+boxes_4.jpg;tree:0.17121106
+boxes_5.jpg;palm tree:0.15585737
+boxes_6.jpg;palm tree:0.15331873
+boxes_7.jpg;palm tree:0.14399755
+boxes_8.jpg;tree:0.12171839
+boxes_9.jpg;palm tree:0.11813077
+boxes_10.jpg;palm tree:0.11150647
+boxes_11.jpg;palm tree:0.078487344
+boxes_12.jpg;tree:0.07510354
+boxes_13.jpg;plant:0.07097482
+boxes_14.jpg;tree:0.06252565
+boxes_15.jpg;palm tree:0.06241789
+boxes_16.jpg;palm tree:0.062111214
+boxes_17.jpg;tree:0.060810953
+boxes_18.jpg;palm tree:0.05613792
+boxes_19.jpg;palm tree:0.053885825
+boxes_20.jpg;christmas tree:0.05321291

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;rural;jajce;waterfall;bosna;hercegovina;
+from_object_detection:tree;plant;fountain;
+from_image_classification:silver fir;fir;fir tree;true fir;alpine fir;subalpine fir;abies lasiocarpa;mountain hemlock;black hemlock;tsuga mertensiana;branch water;precipice;descent;declivity;fall;decline;declination;declension;downslope;geological formation;formation;japanese beech;escarpment;escarp;scarp;protective embankment;gorge;shoreline;delta;ridge;arroyo;milldam;embankment;snag;porthole;windshield;windscreen;snare drum;snare;side drum;porcelain;hot spring;thermal spring;lakeside;lakeshore;hot tub;smoke screen;smokescreen;bush;tree of heaven;tree of the gods;ailanthus altissima;ailanthus;riverbed;river bottom;steep;negative;

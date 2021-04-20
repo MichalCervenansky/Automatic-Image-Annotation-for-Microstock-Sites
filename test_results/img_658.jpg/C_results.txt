@@ -1,0 +1,15 @@
+boxes_1.jpg;circuitry:0.3954753279685974;CPU board,mother board:0.26467543840408325;printed circuit:0.07767204940319061;circuit board,circuit card,board,card,plug-in,add-in:0.053651969879865646;
+boxes_10.jpg;circuitry:0.48742812871932983;CPU board,mother board:0.17565414309501648;printed circuit:0.06739193946123123;module:0.05570957437157631;
+boxes_11.jpg;circuitry:0.3896016478538513;printed circuit:0.21465232968330383;CPU board,mother board:0.1837882101535797;
+boxes_12.jpg;circuitry:0.3106077313423157;printed circuit:0.1911182999610901;CPU board,mother board:0.15602600574493408;circuit board,circuit card,board,card,plug-in,add-in:0.09283240884542465;module:0.06935539841651917;
+boxes_13.jpg;printed circuit:0.28559985756874084;circuitry:0.20491980016231537;CPU board,mother board:0.17318861186504364;cache,memory cache:0.06328849494457245;central processing unit,CPU,C.P.U.,central processor,processor,mainframe:0.050735440105199814;
+boxes_14.jpg;heat sink:0.35675692558288574;circuitry:0.20697250962257385;printed circuit:0.06053384020924568;
+boxes_2.jpg;printed circuit:0.4745137691497803;circuit board,circuit card,board,card,plug-in,add-in:0.19347327947616577;circuitry:0.06262598931789398;
+boxes_3.jpg;circuitry:0.3684069514274597;printed circuit:0.261728972196579;CPU board,mother board:0.10581643879413605;circuit board,circuit card,board,card,plug-in,add-in:0.06481429189443588;
+boxes_4.jpg;circuitry:0.39153021574020386;CPU board,mother board:0.3251306116580963;module:0.06048720329999924;
+boxes_5.jpg;printed circuit:0.6141529083251953;circuit board,circuit card,board,card,plug-in,add-in:0.16386215388774872;circuitry:0.056506186723709106;
+boxes_6.jpg;printed circuit:0.4947424829006195;circuit board,circuit card,board,card,plug-in,add-in:0.07901660352945328;circuitry:0.055860865861177444;
+boxes_7.jpg;CPU board,mother board:0.23059284687042236;circuitry:0.22258849442005157;printed circuit:0.20241348445415497;circuit board,circuit card,board,card,plug-in,add-in:0.07513216137886047;module:0.0565301850438118;
+boxes_8.jpg;printed circuit:0.611303985118866;circuit board,circuit card,board,card,plug-in,add-in:0.1383148729801178;circuitry:0.06635160744190216;module:0.05479776859283447;
+boxes_9.jpg;circuitry:0.5169786214828491;CPU board,mother board:0.11081811040639877;circuit board,circuit card,board,card,plug-in,add-in:0.10739512741565704;printed circuit:0.06737102568149567;module:0.0656224861741066;
+img_658.jpg;circuitry:0.3419475257396698;CPU board,mother board:0.3249376714229584;printed circuit:0.06827531009912491;

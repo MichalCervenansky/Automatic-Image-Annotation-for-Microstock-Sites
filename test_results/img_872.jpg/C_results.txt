@@ -1,0 +1,11 @@
+boxes_1.jpg;mountainside,versant:0.3476147949695587;negative:0.054736215621232986;
+boxes_10.jpg;
+boxes_2.jpg;mountainside,versant:0.30354738235473633;
+boxes_3.jpg;mountainside,versant:0.2413347363471985;
+boxes_4.jpg;snowdrift:0.24800950288772583;mountainside,versant:0.10052633285522461;
+boxes_5.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.05953434854745865;slope,incline,side:0.052712779492139816;
+boxes_6.jpg;escarpment,scarp:0.43818241357803345;mountainside,versant:0.09303653240203857;
+boxes_7.jpg;
+boxes_8.jpg;negative:0.24255451560020447;mountainside,versant:0.17704607546329498;escarpment,scarp:0.052670881152153015;
+boxes_9.jpg;negative:0.15836746990680695;mountainside,versant:0.14638613164424896;escarpment,scarp:0.11715075373649597;chasm:0.05022449046373367;
+img_872.jpg;escarpment,scarp:0.5118408799171448;mountainside,versant:0.07199151068925858;

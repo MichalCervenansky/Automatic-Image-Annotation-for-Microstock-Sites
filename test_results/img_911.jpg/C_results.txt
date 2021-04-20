@@ -1,0 +1,5 @@
+boxes_1.jpg;bird:0.31216394901275635;pigeon:0.2132912278175354;aviary,bird sanctuary,volary:0.10779216885566711;
+boxes_2.jpg;pigeon:0.29747310280799866;bird:0.20690977573394775;wood pigeon,ringdove,cushat,Columba palumbus:0.07786382734775543;aviary,bird sanctuary,volary:0.07044420391321182;
+boxes_3.jpg;bird:0.2665840983390808;pigeon:0.21332834661006927;wood pigeon,ringdove,cushat,Columba palumbus:0.08853308111429214;aviary,bird sanctuary,volary:0.0791802927851677;
+boxes_4.jpg;
+img_911.jpg;pigeon:0.7017195224761963;aviary,bird sanctuary,volary:0.10617155581712723;

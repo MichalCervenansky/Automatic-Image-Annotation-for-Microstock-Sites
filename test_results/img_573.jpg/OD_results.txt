@@ -1,0 +1,18 @@
+boxes_1.jpg;pillow:0.7080704
+boxes_2.jpg;clothing:0.6778301
+boxes_3.jpg;flower:0.25750107
+boxes_4.jpg;clothing:0.25241795
+boxes_5.jpg;furniture:0.23915565
+boxes_6.jpg;flower:0.2283801
+boxes_7.jpg;clothing:0.22474344
+boxes_8.jpg;flower:0.1817282
+boxes_9.jpg;pillow:0.11046168
+boxes_10.jpg;clothing:0.099088915
+boxes_11.jpg;flower:0.09401434
+boxes_12.jpg;bed:0.08666705
+boxes_13.jpg;towel:0.085195445
+boxes_14.jpg;fashion accessory:0.08120151
+boxes_15.jpg;dog bed:0.077437915
+boxes_16.jpg;dog bed:0.06065236
+boxes_17.jpg;pillow:0.058107693
+boxes_18.jpg;clothing:0.05540178

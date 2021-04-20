@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;croatian;hrvatian;sea;;
+from_object_detection:
+from_image_classification:littoral;litoral;littoral zone;sands;waterside;bank;reservoir;

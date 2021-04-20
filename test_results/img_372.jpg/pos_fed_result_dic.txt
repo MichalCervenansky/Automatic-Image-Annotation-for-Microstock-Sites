@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;water;drop;hitting;level;
+from_object_detection:human mouth;auto part;plate;tableware;human face;sculpture;food;vehicle;human head;
+from_image_classification:plughole;water;water strider;pond-skater;water skater;

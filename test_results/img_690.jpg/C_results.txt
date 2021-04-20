@@ -1,0 +1,18 @@
+boxes_1.jpg;sea slug,nudibranch:0.9955317974090576;
+boxes_10.jpg;benthos,benthic division,benthonic zone:0.5001498460769653;benthos:0.27278459072113037;hydrozoan,hydroid:0.1016196683049202;
+boxes_11.jpg;plastic wrap:0.14205385744571686;
+boxes_12.jpg;benthos,benthic division,benthonic zone:0.07685360312461853;jellyfish:0.06322171539068222;angel's trumpet,Brugmansia suaveolens,Datura suaveolens:0.052702877670526505;negative:0.05140569806098938;sea anemone,anemone:0.0508112907409668;
+boxes_13.jpg;sea slug,nudibranch:0.9455993175506592;
+boxes_14.jpg;black grouse:0.055332254618406296;
+boxes_15.jpg;negative:0.24600499868392944;
+boxes_16.jpg;nitrate bacterium,nitric bacterium:0.23539629578590393;cell:0.12827236950397491;ciliate,ciliated protozoan,ciliophoran:0.06529680639505386;
+boxes_17.jpg;coral reef:0.30096200108528137;negative:0.18734821677207947;
+boxes_2.jpg;coral reef:0.48351940512657166;negative:0.11328227818012238;sea mouse:0.052464380860328674;
+boxes_3.jpg;cell:0.12911704182624817;moneran,moneron:0.1167621910572052;coral reef:0.053731802850961685;
+boxes_4.jpg;sea fan:0.2669171392917633;
+boxes_5.jpg;sea slug,nudibranch:0.9873294830322266;
+boxes_6.jpg;sea slug,nudibranch:0.9973293542861938;
+boxes_7.jpg;benthos,benthic division,benthonic zone:0.25955599546432495;benthos:0.201482355594635;hydrozoan,hydroid:0.1861649602651596;sea fan:0.05986723303794861;
+boxes_8.jpg;benthos:0.364776611328125;benthos,benthic division,benthonic zone:0.16581396758556366;coral reef:0.1247393861413002;reef:0.11384199559688568;
+boxes_9.jpg;coral reef:0.24054671823978424;trawl,trawl line,spiller,setline,trotline:0.1359078288078308;seagrass:0.11801851540803909;trawl,dragnet,trawl net:0.05942932143807411;sea anemone,anemone:0.053166188299655914;
+img_690.jpg;benthos:0.31385189294815063;reef:0.18820936977863312;coral reef:0.1792275756597519;benthos,benthic division,benthonic zone:0.0785701796412468;sea fan:0.051842451095581055;

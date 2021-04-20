@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:clothing;food;cake;snack;pencil case;baked goods;fashion accessory;book;furniture;flag;
+from_image_classification:smocking;cotton flannel;canton flannel;pleat;plait;

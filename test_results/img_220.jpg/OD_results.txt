@@ -1,0 +1,5 @@
+boxes_1.jpg;building:0.9239178
+boxes_2.jpg;building:0.45760885
+boxes_3.jpg;building:0.10751597
+boxes_4.jpg;building:0.09373611
+boxes_5.jpg;building:0.07570682

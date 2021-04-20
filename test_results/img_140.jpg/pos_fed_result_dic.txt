@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;orange;brown;cat;lying;belly;near;sea;water;adriatic;
+from_object_detection:cat;carnivore;
+from_image_classification:tom;tomcat;negative;kitty;kitty-cat;puss;pussy;pussycat;angora;angora cat;cat;true cat;egyptian cat;domestic cat;house cat;felis domesticus;felis catus;

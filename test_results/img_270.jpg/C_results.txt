@@ -1,0 +1,2 @@
+boxes_1.jpg;frog,toad,toad frog,anuran,batrachian,salientian:0.30627167224884033;tailed frog,bell toad,ribbed toad,tailed toad,Ascaphus trui:0.23901422321796417;crapaud,South American bullfrog,Leptodactylus pentadactylus:0.15330632030963898;
+img_270.jpg;frog,toad,toad frog,anuran,batrachian,salientian:0.34497392177581787;tailed frog,bell toad,ribbed toad,tailed toad,Ascaphus trui:0.26306313276290894;

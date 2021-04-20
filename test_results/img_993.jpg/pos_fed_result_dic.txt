@@ -1,0 +1,3 @@
+from_image_IPTC:view;atlantic;ocean;near;dover;cliffs;dramatic;clouds;
+from_object_detection:tree;
+from_image_classification:ocean;sunniness;seashore;coast;seacoast;sea-coast;shore;

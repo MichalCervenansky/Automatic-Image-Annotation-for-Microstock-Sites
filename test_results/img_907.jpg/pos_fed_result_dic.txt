@@ -1,0 +1,3 @@
+from_image_IPTC:interiour;old;car;shot;veteran;meeting;
+from_object_detection:wheel;car;land vehicle;auto part;tire;glasses;tree;sunglasses;
+from_image_classification:steering wheel;wheel;splashboard;splasher;dashboard;horn button;windshield;windscreen;cockpit;helm;control panel;instrument panel;control board;board;panel;outside mirror;pince-nez;hook;claw;jig;fascia;sextant;steering system;steering mechanism;accelerator;accelerator pedal;gas pedal;gas;throttle;gun;

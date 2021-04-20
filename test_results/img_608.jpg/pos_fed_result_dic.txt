@@ -1,0 +1,3 @@
+from_image_IPTC:natural;european;chicken;portrait;shot;farm;good;enviroment;
+from_object_detection:chicken;window;tree;plant;
+from_image_classification:pullet;brood hen;broody;broody hen;setting hen;sitter;black wattle;acacia auriculiformis;looking glass tree;heritiera macrophylla;windowsill;casing;case;muntjac;barking deer;organdy;organdie;cold frame;aviary;bird sanctuary;volary;golden fig;florida strangler fig;strangler fig;wild fig;ficus aurea;chicken yard;hen yard;chicken run;fowl run;plymouth rock;game fowl;rhea;nandu;pterocnemia pennata;

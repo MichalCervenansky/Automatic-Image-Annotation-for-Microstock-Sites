@@ -1,0 +1,5 @@
+boxes_1.jpg;negative:0.218551367521286;gray,grayness,grey,greyness:0.08635755628347397;ascent,acclivity,rise,raise,climb,upgrade:0.07922089099884033;
+boxes_2.jpg;brown bear,bruin,Ursus arctos:0.05131093040108681;
+boxes_3.jpg;mountainside,versant:0.38791126012802124;descent,declivity,fall,decline,declination,declension,downslope:0.10786611586809158;ascent,acclivity,rise,raise,climb,upgrade:0.09785328060388565;
+boxes_4.jpg;seashore,coast,seacoast,sea-coast:0.09188982099294662;geological formation,formation:0.06112435832619667;ascent,acclivity,rise,raise,climb,upgrade:0.060713790357112885;foreshore:0.055403247475624084;
+img_792.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.10913480073213577;wave,undulation:0.08086301386356354;ridge:0.05618022754788399;

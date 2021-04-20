@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;house;land vehicle;building;palm tree;
+from_image_classification:ridge;sunniness;negative;snowplow;snowplough;mountain;mount;oil paint;ski lodge;snow thrower;snow blower;ski slope;liquid crystal display;lcd;artwork;art;graphics;nontextual matter;mountainside;versant;western white pine;silver pine;mountain pine;pinus monticola;apartment;flat;book jacket;dust cover;dust jacket;dust wrapper;skating;triptych;

@@ -1,0 +1,12 @@
+boxes_1.jpg;spoon:0.56288904
+boxes_2.jpg;snack:0.40224776
+boxes_3.jpg;baked goods:0.40074015
+boxes_4.jpg;muffin:0.28087953
+boxes_5.jpg;fork:0.15492943
+boxes_6.jpg;cake:0.14857018
+boxes_7.jpg;pastry:0.10863902
+boxes_8.jpg;dessert:0.09748121
+boxes_9.jpg;tableware:0.08052514
+boxes_10.jpg;dairy:0.07898206
+boxes_11.jpg;plate:0.075005144
+boxes_12.jpg;tableware:0.050989073

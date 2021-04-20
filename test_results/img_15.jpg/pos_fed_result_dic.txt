@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;small;bird;house;eating;;
+from_object_detection:bird;beehive;tree;furniture;plant;box;palm tree;table;
+from_image_classification:bush shrike;canada jay;grey jay;gray jay;camp robber;whisker jack;perisoreus canadensis;feeder;carrier pigeon;clark's nutcracker;nucifraga columbiana;contour feather;bird;aviary;bird sanctuary;volary;sparrow;true sparrow;dickeybird;dickey-bird;dickybird;dicky-bird;hedge sparrow;dunnock;prunella modularis;cullis;turtledove;roost;australian turtledove;stictopelia cuneata;house martin;delichon urbica;swing;bird feeder;birdfeeder;

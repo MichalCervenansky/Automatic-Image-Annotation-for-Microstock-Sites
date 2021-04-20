@@ -1,0 +1,17 @@
+boxes_1.jpg;toilet:0.7209396
+boxes_2.jpg;billboard:0.41483533
+boxes_3.jpg;building:0.3273711
+boxes_4.jpg;shelf:0.26598048
+boxes_5.jpg;poster:0.252538
+boxes_6.jpg;furniture:0.21447483
+boxes_7.jpg;shelf:0.1432616
+boxes_8.jpg;poster:0.12667418
+boxes_9.jpg;bathroom accessory:0.11568192
+boxes_10.jpg;window:0.10188716
+boxes_11.jpg;whiteboard:0.08269244
+boxes_12.jpg;bidet:0.08051746
+boxes_13.jpg;poster:0.07043456
+boxes_14.jpg;shelf:0.06646314
+boxes_15.jpg;door:0.062485937
+boxes_16.jpg;house:0.06243108
+boxes_17.jpg;table:0.055036638

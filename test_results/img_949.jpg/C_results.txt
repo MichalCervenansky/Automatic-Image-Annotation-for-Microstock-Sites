@@ -1,0 +1,13 @@
+boxes_1.jpg;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.10833139717578888;purple,purpleness:0.08513891696929932;dog violet,heath violet,Viola canina:0.06126174330711365;horned violet,tufted pansy,Viola cornuta:0.05426817759871483;
+boxes_10.jpg;horned violet,tufted pansy,Viola cornuta:0.31739890575408936;Canterbury bell,cup and saucer,Campanula medium:0.05402931198477745;
+boxes_11.jpg;purple,purpleness:0.11397495865821838;bush violet,browallia:0.07735611498355865;
+boxes_12.jpg;California bluebell,Phacelia campanularia:0.07047774642705917;
+boxes_2.jpg;dog violet,heath violet,Viola canina:0.35538190603256226;horned violet,tufted pansy,Viola cornuta:0.26475679874420166;water violet,Hottonia palustris:0.068534716963768;
+boxes_3.jpg;herb,herbaceous plant:0.3791729211807251;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.10731398314237595;verticillium:0.06747651845216751;horehound:0.06341306120157242;
+boxes_4.jpg;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.4562283158302307;negative:0.07646795362234116;
+boxes_5.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.13964983820915222;meadow cranesbill,Geranium pratense:0.11463182419538498;geranium:0.09896630048751831;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.0762191191315651;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.06086144223809242;
+boxes_6.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.06879474967718124;meadow cranesbill,Geranium pratense:0.067808598279953;geranium:0.06629081815481186;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.058273088186979294;closed gentian,blind gentian,Gentiana clausa:0.05140851438045502;
+boxes_7.jpg;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.35368841886520386;fish geranium,bedding geranium,zonal pelargonium,Pelargonium hortorum:0.07736387103796005;sticky geranium,Geranium viscosissimum:0.059967897832393646;
+boxes_8.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.3013707399368286;geranium:0.16581356525421143;purple,purpleness:0.09342313557863235;dog violet,heath violet,Viola canina:0.06308303773403168;
+boxes_9.jpg;Christmas cactus,Schlumbergera buckleyi,Schlumbergera baridgesii:0.05721770599484444;
+img_949.jpg;purple,purpleness:0.5027036070823669;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.26751476526260376;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.05506478250026703;

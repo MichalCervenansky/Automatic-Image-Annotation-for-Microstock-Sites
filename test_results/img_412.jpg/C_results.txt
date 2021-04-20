@@ -1,0 +1,10 @@
+boxes_1.jpg;mildew:0.47781848907470703;powdery mildew:0.46660107374191284;
+boxes_2.jpg;cannikin:0.12837804853916168;musket ball,ball:0.08698393404483795;bullet,slug:0.06441713869571686;projectile,missile:0.05489329621195793;chime,bell,gong:0.05097097530961037;
+boxes_3.jpg;powdery mildew:0.4902421534061432;mildew:0.21546319127082825;
+boxes_4.jpg;powdery mildew:0.5031434297561646;mildew:0.3575223684310913;
+boxes_5.jpg;powdery mildew:0.8076910972595215;mildew:0.17233988642692566;
+boxes_6.jpg;powdery mildew:0.5262358784675598;mildew:0.41715291142463684;
+boxes_7.jpg;powdery mildew:0.6839948296546936;mildew:0.2500496208667755;
+boxes_8.jpg;
+boxes_9.jpg;powdery mildew:0.6879412531852722;mildew:0.07929665595293045;
+img_412.jpg;powdery mildew:0.40338772535324097;inkberry,gallberry,gall-berry,evergreen winterberry,Ilex glabra:0.16151843965053558;chokecherry,chokecherry tree,Prunus virginiana:0.06144134700298309;

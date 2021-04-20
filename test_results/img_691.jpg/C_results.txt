@@ -1,0 +1,16 @@
+boxes_1.jpg;sea pen:0.33082887530326843;sea slug,nudibranch:0.1745261698961258;ascidian:0.10113634169101715;
+boxes_10.jpg;ice,water ice:0.081852987408638;
+boxes_11.jpg;air bubble:0.30018484592437744;benthos,benthic division,benthonic zone:0.08838576078414917;
+boxes_12.jpg;sea pen:0.5857423543930054;sea slug,nudibranch:0.1252775639295578;ascidian:0.08654899895191193;
+boxes_13.jpg;ice,water ice:0.057915717363357544;
+boxes_14.jpg;sea pen:0.8355053067207336;
+boxes_15.jpg;sea pen:0.2898114323616028;sea cucumber,holothurian:0.1882350891828537;
+boxes_2.jpg;sea pen:0.5309600234031677;sea slug,nudibranch:0.1093379333615303;
+boxes_3.jpg;sea pen:0.3049065172672272;sea slug,nudibranch:0.19276629388332367;ascidian:0.07837890088558197;
+boxes_4.jpg;ctenophore,comb jelly:0.06297804415225983;
+boxes_5.jpg;sea pen:0.6078139543533325;benthos,benthic division,benthonic zone:0.06466592103242874;
+boxes_6.jpg;sea pen:0.6024205684661865;ascidian:0.0795903429389;sea slug,nudibranch:0.07230739295482635;
+boxes_7.jpg;ctenophore,comb jelly:0.06441134959459305;
+boxes_8.jpg;sea pen:0.46909913420677185;benthos:0.08232036978006363;benthos,benthic division,benthonic zone:0.07683128863573074;sea squirt:0.05699678137898445;
+boxes_9.jpg;
+img_691.jpg;sea pen:0.8390678763389587;

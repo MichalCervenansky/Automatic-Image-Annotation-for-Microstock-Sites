@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;soft;snowy;white;dandelion;
+from_object_detection:flower;plant;tree;
+from_image_classification:thistledown;feather ball;mammillaria plumosa;heartleaf;heart-leaf;asarum shuttleworthii;false lily of the valley;maianthemum bifolium;common dandelion;taraxacum ruderalia;taraxacum officinale;chichipe;lemaireocereus chichipe;dandelion green;early spider orchid;ophrys sphegodes;

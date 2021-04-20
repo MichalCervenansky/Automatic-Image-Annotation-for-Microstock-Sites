@@ -1,0 +1,8 @@
+boxes_1.jpg;mountain,mount:0.4594493508338928;alp:0.16691142320632935;snowcap:0.09873434156179428;
+boxes_2.jpg;mountain,mount:0.5545074939727783;oil paint:0.1279618740081787;snowcap:0.05794702097773552;
+boxes_3.jpg;mountain,mount:0.3193911612033844;snowcap:0.11137692630290985;ridge:0.05268118530511856;
+boxes_4.jpg;plastic wrap:0.11758161336183548;cellophane:0.06482246518135071;
+boxes_5.jpg;cellophane:0.09008096158504486;
+boxes_6.jpg;mountain,mount:0.24059824645519257;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.22037415206432343;ridge,ridgeline:0.17036692798137665;
+boxes_7.jpg;plastic bag:0.07564110308885574;
+img_863.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.3101736903190613;mountain,mount:0.24910525977611542;ridge,ridgeline:0.08626790344715118;Alpine glacier,Alpine type of glacier:0.06434142589569092;

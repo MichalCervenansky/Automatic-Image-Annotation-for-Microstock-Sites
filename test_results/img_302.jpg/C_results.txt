@@ -1,0 +1,2 @@
+boxes_1.jpg;polar glacier:0.06131104752421379;crabeater seal,crab-eating seal:0.05237680673599243;
+img_302.jpg;tundra:0.3026376962661743;mountain,mount:0.11638952791690826;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.10826513916254044;

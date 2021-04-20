@@ -1,0 +1,10 @@
+boxes_1.jpg;quilted bedspread:0.2111213505268097;pillow sham:0.15468521416187286;patchwork,patchwork quilt:0.15344932675361633;eiderdown:0.15169304609298706;hemstitch,hemstitching:0.06930859386920929;
+boxes_2.jpg;eiderdown:0.21906998753547668;quilted bedspread:0.21257050335407257;pillow sham:0.1620948761701584;patchwork,patchwork quilt:0.14266575872898102;hemstitch,hemstitching:0.07243575900793076;quilt,comforter,comfort,puff:0.06845292448997498;
+boxes_3.jpg;quilted bedspread:0.18306688964366913;eiderdown:0.17939653992652893;pillow sham:0.17893020808696747;patchwork,patchwork quilt:0.15365301072597504;hemstitch,hemstitching:0.08741557598114014;quilt,comforter,comfort,puff:0.07572045922279358;
+boxes_4.jpg;patchwork,patchwork quilt:0.23080353438854218;eiderdown:0.20654132962226868;hemstitch,hemstitching:0.10893991589546204;percale:0.09785769879817963;pillow sham:0.08663969486951828;quilted bedspread:0.0764438807964325;
+boxes_5.jpg;patchwork,patchwork quilt:0.2512735426425934;eiderdown:0.15573929250240326;quilted bedspread:0.1404201090335846;pillow sham:0.10900162905454636;hemstitch,hemstitching:0.1017700582742691;percale:0.0523635596036911;
+boxes_6.jpg;eiderdown:0.2270830124616623;patchwork,patchwork quilt:0.17691142857074738;quilted bedspread:0.14053700864315033;pillow sham:0.1387023627758026;percale:0.07261056452989578;quilt,comforter,comfort,puff:0.0678500384092331;hemstitch,hemstitching:0.05861080437898636;
+boxes_7.jpg;quilt,comforter,comfort,puff:0.19547930359840393;quilted bedspread:0.18389692902565002;pillow sham:0.13247251510620117;eiderdown:0.11644122004508972;patchwork,patchwork quilt:0.10958380997180939;blanket,cover:0.07640886306762695;
+boxes_8.jpg;quilted bedspread:0.07399091124534607;bedclothes,bed clothing,bedding:0.06994924694299698;
+boxes_9.jpg;patchwork,patchwork quilt:0.4154682755470276;quilted bedspread:0.12406224012374878;eiderdown:0.11488805711269379;pillow sham:0.09943637996912003;hemstitch,hemstitching:0.08806008845567703;
+img_570.jpg;eiderdown:0.2723959684371948;quilted bedspread:0.21445851027965546;pillow sham:0.16753420233726501;patchwork,patchwork quilt:0.13112470507621765;

@@ -1,0 +1,10 @@
+boxes_1.jpg;Venus' slipper,Venus's slipper,Venus's shoe:0.15991653501987457;pogonia:0.060318928211927414;silene,campion,catchfly:0.05128070339560509;
+boxes_2.jpg;surgeon,operating surgeon,sawbones:0.05289981886744499;
+boxes_3.jpg;California poppy,Eschscholtzia californica:0.09656111896038055;golden cup,Mexican tulip poppy,Hunnemania fumariifolia:0.06366658955812454;
+boxes_4.jpg;milkweed,Sonchus oleraceus:0.2804700434207916;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.1362943947315216;knapweed:0.10063584893941879;sow thistle,milk thistle:0.0836208239197731;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;negative:0.21278934180736542;guppy,rainbow fish,Lebistes reticulatus:0.051459141075611115;
+boxes_8.jpg;
+boxes_9.jpg;tent caterpillar:0.07190034538507462;
+img_195.jpg;wild pink,Silene caroliniana:0.13598290085792542;fig marigold,pebble plant:0.09502223879098892;stokes' aster,cornflower aster,Stokesia laevis:0.05253874137997627;

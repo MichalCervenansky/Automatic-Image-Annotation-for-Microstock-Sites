@@ -1,0 +1,4 @@
+boxes_1.jpg;geological formation,formation:0.6269772052764893;spoor:0.0667380765080452;
+boxes_2.jpg;geological formation,formation:0.5418344140052795;spoor:0.06951693445444107;
+boxes_3.jpg;geological formation,formation:0.35105228424072266;spoor:0.1313193440437317;
+img_466.jpg;geological formation,formation:0.5624501705169678;

@@ -1,0 +1,3 @@
+from_image_IPTC:damaged;ancient;roman;ruins;
+from_object_detection:flower;coin;sculpture;human head;
+from_image_classification:verdigris;planter;pot;flowerpot;memorial;monument;stemma;stele;stela;pargeting;pargetting;pargetry;imprint;plughole;quadrate;frieze;gravestone;headstone;tombstone;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;bricks and mortar;

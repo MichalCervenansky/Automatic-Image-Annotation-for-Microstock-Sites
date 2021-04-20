@@ -1,0 +1,13 @@
+boxes_1.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.16663800179958344;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.16050732135772705;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.10584861040115356;candytuft:0.05959959700703621;
+boxes_10.jpg;snow-in-summer,love-in-a-mist,Cerastium tomentosum:0.600418746471405;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.2148580551147461;
+boxes_11.jpg;
+boxes_12.jpg;
+boxes_2.jpg;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.19594182074069977;stephanotis:0.1786789745092392;snow-in-summer,love-in-a-mist,Cerastium tomentosum:0.11579529941082001;candytuft:0.07895879447460175;
+boxes_3.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.13283880054950714;
+boxes_4.jpg;snow-in-summer,love-in-a-mist,Cerastium tomentosum:0.8603723645210266;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.07952456921339035;
+boxes_5.jpg;stephanotis:0.18118654191493988;candytuft:0.16756395995616913;stock,gillyflower:0.08901124447584152;
+boxes_6.jpg;stephanotis:0.16667421162128448;
+boxes_7.jpg;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.23253194987773895;stephanotis:0.13421766459941864;
+boxes_8.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.6350464224815369;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.1572193205356598;
+boxes_9.jpg;
+img_538.jpg;snow-in-summer,love-in-a-mist,Cerastium tomentosum:0.7125329375267029;candytuft:0.09994566440582275;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.09933043271303177;

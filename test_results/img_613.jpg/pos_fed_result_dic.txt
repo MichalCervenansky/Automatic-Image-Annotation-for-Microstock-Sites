@@ -1,0 +1,3 @@
+from_image_IPTC:dandelion;meadow;flower;spring;
+from_object_detection:flower;plant;
+from_image_classification:common dandelion;taraxacum ruderalia;taraxacum officinale;dandelion green;paramecium;paramecia;heliozoan;negative;jade vine;emerald creeper;strongylodon macrobotrys;greenish blue;aqua;aquamarine;turquoise;cobalt blue;peacock blue;thistledown;ameba;amoeba;cell;zoospore;

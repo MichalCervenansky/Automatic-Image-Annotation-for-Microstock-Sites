@@ -1,0 +1,13 @@
+boxes_1.jpg;car:0.9905166
+boxes_2.jpg;wheel:0.675743
+boxes_3.jpg;wheel:0.6599826
+boxes_4.jpg;wheel:0.65236825
+boxes_5.jpg;tire:0.22097358
+boxes_6.jpg;tree:0.21044664
+boxes_7.jpg;wheel:0.1874638
+boxes_8.jpg;tire:0.16182594
+boxes_9.jpg;tire:0.091504015
+boxes_10.jpg;tree:0.075399175
+boxes_11.jpg;wheel:0.06336459
+boxes_12.jpg;wheel:0.059924413
+boxes_13.jpg;wheel:0.054225035

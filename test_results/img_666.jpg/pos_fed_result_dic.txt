@@ -1,0 +1,3 @@
+from_image_IPTC:damaged;computer;grafic;card;caught;fire;
+from_object_detection:window;land vehicle;vehicle;building;poster;house;auto part;
+from_image_classification:scoreboard;balance beam;beam;chip;microchip;micro chip;silicon chip;microprocessor chip;microprocessor;central processing unit;cpu;c.p.u.;central processor;processor;mainframe;printed circuit;cpu board;mother board;circuitry;cache;memory cache;digital display;alphanumeric display;canary;canary bird;timer;

@@ -1,0 +1,11 @@
+boxes_1.jpg;quilted bedspread:0.6883885860443115;velour,velours:0.05828981101512909;
+boxes_10.jpg;quilted bedspread:0.5712105631828308;velour,velours:0.11194362491369247;
+boxes_2.jpg;quilted bedspread:0.5712105631828308;velour,velours:0.11194362491369247;
+boxes_3.jpg;quilted bedspread:0.5712105631828308;velour,velours:0.11194362491369247;
+boxes_4.jpg;velveteen:0.202841117978096;quilted bedspread:0.17864494025707245;velour,velours:0.13238178193569183;cotton flannel,Canton flannel:0.0878269374370575;
+boxes_5.jpg;velveteen:0.46469271183013916;velvet:0.1899506002664566;suede cloth,suede:0.06882075220346451;
+boxes_6.jpg;quilted bedspread:0.6381725072860718;velour,velours:0.08016964793205261;
+boxes_7.jpg;quilted bedspread:0.6655721664428711;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.13862739503383636;quilt,comforter,comfort,puff:0.061480794101953506;
+boxes_8.jpg;velveteen:0.5864324569702148;velvet:0.09379438310861588;suede cloth,suede:0.09325281530618668;
+boxes_9.jpg;quilted bedspread:0.6444219350814819;velour,velours:0.09972384572029114;
+img_559.jpg;quilted bedspread:0.4096795618534088;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.32501155138015747;quilt,comforter,comfort,puff:0.1543591171503067;

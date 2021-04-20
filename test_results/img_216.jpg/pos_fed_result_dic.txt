@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;red;poppy;meadow;
+from_object_detection:flower;rose;
+from_image_classification:blue poppy;meconopsis betonicifolia;poppy;prickly poppy;argemone;white thistle;devil's fig;common grape hyacinth;muscari neglectum;tassel hyacinth;muscari comosum;love-in-a-mist;running pop;wild water lemon;passiflora foetida;nigella damascena;nigella;grape hyacinth;flower;indigo;cytomegalovirus;cmv;blue pea;butterfly pea;clitoria turnatea;diplococcus;perforation;benthos;benthic division;benthonic zone;squill;purplish blue;royal blue;globe thistle;negative;chicory;chicory root;coral reef;voile;

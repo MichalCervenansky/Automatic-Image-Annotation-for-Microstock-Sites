@@ -1,0 +1,12 @@
+boxes_1.jpg;clothing:0.6741878
+boxes_2.jpg;pancake:0.6480345
+boxes_3.jpg;dessert:0.38872534
+boxes_4.jpg;baked goods:0.30093545
+boxes_5.jpg;tableware:0.196358
+boxes_6.jpg;snack:0.19101606
+boxes_7.jpg;footwear:0.105453745
+boxes_8.jpg;person:0.08404134
+boxes_9.jpg;bowl:0.07374767
+boxes_10.jpg;dessert:0.06238592
+boxes_11.jpg;pastry:0.05853245
+boxes_12.jpg;pancake:0.056879565

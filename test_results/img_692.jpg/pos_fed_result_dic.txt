@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;rare;colorful;sea;slug;elysia;crispata;;
+from_object_detection:animal;plant;seahorse;invertebrate;flower;marine invertebrates;fish;tree;
+from_image_classification:sea slug;nudibranch;hydrozoan;hydroid;benthos;sea anemone;anemone;benthic division;benthonic zone;siphonophore;zooid;zooplankton;portuguese man-of-war;man-of-war;jellyfish;ice;water ice;sea pen;

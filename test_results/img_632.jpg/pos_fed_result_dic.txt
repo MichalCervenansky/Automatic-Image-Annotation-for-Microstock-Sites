@@ -1,0 +1,3 @@
+from_image_IPTC:autumn;meadow;flower;macro;blurry;background;
+from_object_detection:plant;flower;tree;
+from_image_classification:ice;water ice;umbel;air bubble;dusty miller;centaurea cineraria;centaurea gymnocarpa;crottle;crottal;crotal;senecio cineraria;cineraria maritima;fringe tree;dickeybird;dickey-bird;dickybird;dicky-bird;

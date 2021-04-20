@@ -1,0 +1,5 @@
+boxes_1.jpg;gamboge,lemon,lemon yellow,maize:0.22851909697055817;bulb:0.1725720912218094;water:0.09714233130216599;yellow,yellowness:0.0772198811173439;
+boxes_2.jpg;bulb:0.2886400818824768;gamboge,lemon,lemon yellow,maize:0.20010529458522797;water:0.054985519498586655;
+boxes_3.jpg;gamboge,lemon,lemon yellow,maize:0.24347783625125885;water:0.11484254896640778;bulb:0.08265746384859085;frozen orange juice,orange-juice concentrate:0.05217437818646431;
+boxes_4.jpg;gamboge,lemon,lemon yellow,maize:0.21333982050418854;water:0.1590714454650879;bulb:0.1276618093252182;
+img_933.jpg;gamboge,lemon,lemon yellow,maize:0.2740592360496521;bulb:0.22567670047283173;water:0.12279817461967468;

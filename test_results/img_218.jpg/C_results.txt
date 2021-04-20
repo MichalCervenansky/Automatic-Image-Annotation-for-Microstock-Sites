@@ -1,0 +1,10 @@
+boxes_1.jpg;verdigris:0.3284658193588257;planter:0.08354001492261887;pot,flowerpot:0.06280425935983658;
+boxes_2.jpg;memorial,monument:0.16424112021923065;stemma:0.10112251341342926;stele,stela:0.10044915229082108;pargeting,pargetting,pargetry:0.062001124024391174;
+boxes_3.jpg;imprint:0.6113185882568359;plughole:0.07795976847410202;
+boxes_4.jpg;pargeting,pargetting,pargetry:0.23047269880771637;quadrate:0.1281793862581253;stele,stela:0.08047811686992645;memorial,monument:0.06597933173179626;
+boxes_5.jpg;verdigris:0.7169325351715088;memorial,monument:0.12023623287677765;
+boxes_6.jpg;imprint:0.4553472399711609;frieze:0.21047253906726837;
+boxes_7.jpg;memorial,monument:0.578508734703064;verdigris:0.14526154100894928;gravestone,headstone,tombstone:0.09140906482934952;
+boxes_8.jpg;quadrate:0.41338038444519043;stemma:0.14280296862125397;memorial,monument:0.07276978343725204;
+boxes_9.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.05041591450572014;
+img_218.jpg;gravestone,headstone,tombstone:0.2245638519525528;memorial,monument:0.13676680624485016;verdigris:0.12733785808086395;imprint:0.12011362612247467;bricks and mortar:0.0862744003534317;

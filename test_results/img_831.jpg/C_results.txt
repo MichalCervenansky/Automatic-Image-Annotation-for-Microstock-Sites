@@ -1,0 +1,12 @@
+boxes_1.jpg;spume:0.29346969723701477;seashore,coast,seacoast,sea-coast:0.08009538799524307;
+boxes_10.jpg;
+boxes_11.jpg;seashore,coast,seacoast,sea-coast:0.06000899896025658;
+boxes_2.jpg;outfall:0.21435368061065674;seashore,coast,seacoast,sea-coast:0.11693312227725983;sunniness:0.07775741070508957;strand:0.05414656177163124;
+boxes_3.jpg;spume:0.2464173138141632;seashore,coast,seacoast,sea-coast:0.059438880532979965;wave,undulation:0.05109981819987297;
+boxes_4.jpg;
+boxes_5.jpg;riverbank,riverside:0.1630719155073166;deadwood:0.07250658422708511;snag:0.07099372148513794;
+boxes_6.jpg;wave,undulation:0.13771137595176697;seashore,coast,seacoast,sea-coast:0.09190898388624191;streambed,creek bed:0.056843120604753494;
+boxes_7.jpg;casuarina:0.10185172408819199;Torrey pine,Torrey's pine,soledad pine,grey-leaf pine,sabine pine,Pinus torreyana:0.0589473657310009;
+boxes_8.jpg;riverbank,riverside:0.07448389381170273;
+boxes_9.jpg;elephant tree,Bursera microphylla:0.07713045924901962;
+img_831.jpg;spume:0.17058779299259186;wave,undulation:0.06979402154684067;seashore,coast,seacoast,sea-coast:0.060778893530368805;

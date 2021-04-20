@@ -1,0 +1,3 @@
+from_image_IPTC:autumn;leave;rugged;asphalt;
+from_object_detection:maple;mushroom;plant;insect;
+from_image_classification:moth;emperor butterfly;emperor;butterfly;ice mass;lodestone;loadstone;sea fan;benthos;benthic division;benthonic zone;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;glacier;outcrop;outcropping;rock outcrop;moth miller;miller;blue;arctiid;arctiid moth;negative;

@@ -1,0 +1,17 @@
+boxes_1.jpg;cineraria,Pericallis cruenta,Senecio cruentus:0.1946907788515091;composite,composite plant:0.15952835977077484;cudweed:0.07822341471910477;
+boxes_10.jpg;umbel:0.30873584747314453;composite,composite plant:0.10071934014558792;sand sage,silvery wormwood,Artemisia filifolia:0.0889035165309906;cudweed:0.06251125782728195;
+boxes_11.jpg;composite,composite plant:0.13139310479164124;umbel:0.10158959776163101;
+boxes_12.jpg;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.4262530505657196;dusty miller,Senecio cineraria,Cineraria maritima:0.3841867446899414;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.05884527042508125;
+boxes_13.jpg;
+boxes_14.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.26893627643585205;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.14707593619823456;umbel:0.10649964213371277;sand sage,silvery wormwood,Artemisia filifolia:0.07943126559257507;cudweed:0.06696972250938416;bud brush,bud sagebrush,Artemis spinescens:0.05920979008078575;composite,composite plant:0.05738118663430214;
+boxes_15.jpg;sea slug,nudibranch:0.2452542632818222;
+boxes_16.jpg;composite,composite plant:0.24197334051132202;umbel:0.15166015923023224;pearly everlasting,cottonweed,Anaphalis margaritacea:0.10191230475902557;
+boxes_2.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.36528006196022034;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.1459328681230545;
+boxes_3.jpg;woolly aphid,woolly plant louse:0.05166054517030716;
+boxes_4.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.20506374537944794;cudweed:0.09875429421663284;pearly everlasting,cottonweed,Anaphalis margaritacea:0.08350428193807602;composite,composite plant:0.0765463262796402;umbel:0.05909089371562004;sand sage,silvery wormwood,Artemisia filifolia:0.05857827141880989;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.053092535585165024;
+boxes_5.jpg;squill:0.10568021237850189;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.08340156823396683;dusty miller,Senecio cineraria,Cineraria maritima:0.08082371950149536;cineraria,Pericallis cruenta,Senecio cruentus:0.06574934720993042;monarch,monarch butterfly,milkweed butterfly,Danaus plexippus:0.05531012639403343;
+boxes_6.jpg;umbel:0.2618192732334137;sand sage,silvery wormwood,Artemisia filifolia:0.1116974800825119;cudweed:0.07707293331623077;composite,composite plant:0.0755653828382492;
+boxes_7.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.4335538148880005;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.13621069490909576;cudweed:0.06483335793018341;
+boxes_8.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.24048805236816406;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.12848778069019318;umbel:0.10541542619466782;cudweed:0.09992020577192307;bud brush,bud sagebrush,Artemis spinescens:0.06504331529140472;sand sage,silvery wormwood,Artemisia filifolia:0.06337548047304153;
+boxes_9.jpg;
+img_469.jpg;umbel:0.44786086678504944;pearly everlasting,cottonweed,Anaphalis margaritacea:0.087082140147686;composite,composite plant:0.06354590505361557;sand sage,silvery wormwood,Artemisia filifolia:0.056739695370197296;

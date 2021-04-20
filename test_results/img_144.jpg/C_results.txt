@@ -1,0 +1,2 @@
+boxes_1.jpg;grasshopper,hopper:0.5168956518173218;locust:0.22054384648799896;migratory locust,Locusta migratoria:0.11641847342252731;exoskeleton:0.05459537357091904;
+img_144.jpg;grasshopper,hopper:0.6505008339881897;exoskeleton:0.09463243186473846;migratory locust,Locusta migratoria:0.09211015701293945;locust:0.0560828261077404;

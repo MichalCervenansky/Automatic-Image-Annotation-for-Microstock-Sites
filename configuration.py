@@ -20,14 +20,14 @@ USE_OD = True
 
 OD_PATH = os.path.join("resources", "NN_models", "openimages_v4_inception_resnet_v2")
 OD_MAX_BOXES = 999999
-OD_PRECISION_THRESHOLD = 0.03
+OD_PRECISION_THRESHOLD = 0.05
 
 """Settings for Classification"""
 USE_CL = True
 
 C_PATH = os.path.join("resources", "NN_models", "ImageNet_21k_BiT_M")
 C_MAX_CLASSES = 999999
-C_PRECISION_THRESHOLD = 0.01
+C_PRECISION_THRESHOLD = 0.05
 
 """Settings for MUFIN Anotation"""
 ANNOTATOR_URL = "http://disa.fi.muni.cz/anfb/v2/annotate?"

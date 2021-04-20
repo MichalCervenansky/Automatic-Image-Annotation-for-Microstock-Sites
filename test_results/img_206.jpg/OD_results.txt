@@ -1,0 +1,31 @@
+boxes_1.jpg;parrot:0.98079497
+boxes_2.jpg;parrot:0.9565974
+boxes_3.jpg;man:0.70048845
+boxes_4.jpg;clothing:0.5479501
+boxes_5.jpg;clothing:0.42106065
+boxes_6.jpg;man:0.33848885
+boxes_7.jpg;clothing:0.33121827
+boxes_8.jpg;person:0.2841999
+boxes_9.jpg;person:0.25099146
+boxes_10.jpg;human face:0.21699432
+boxes_11.jpg;table:0.20168927
+boxes_12.jpg;person:0.1236675
+boxes_13.jpg;human face:0.11767853
+boxes_14.jpg;person:0.11173963
+boxes_15.jpg;building:0.109520204
+boxes_16.jpg;furniture:0.108512394
+boxes_17.jpg;footwear:0.09813735
+boxes_18.jpg;man:0.08800932
+boxes_19.jpg;clothing:0.08671132
+boxes_20.jpg;convenience store:0.08369647
+boxes_21.jpg;window:0.07456281
+boxes_22.jpg;jeans:0.074406125
+boxes_23.jpg;woman:0.06774579
+boxes_24.jpg;woman:0.061781522
+boxes_25.jpg;man:0.06004238
+boxes_26.jpg;person:0.056852777
+boxes_27.jpg;person:0.056553833
+boxes_28.jpg;man:0.056358337
+boxes_29.jpg;human hair:0.05626303
+boxes_30.jpg;desk:0.05035056
+boxes_31.jpg;man:0.050119355

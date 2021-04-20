@@ -1,0 +1,3 @@
+from_image_IPTC:artistic;shot;train;rails;heading;nazi;concentration;camp;poland;
+from_object_detection:tree;stairs;plant;building;house;vehicle;watercraft;
+from_image_classification:tie;railroad tie;crosstie;sleeper;pier;rail;car bomb;housetop;glutton;gulo gulo;wolverine;

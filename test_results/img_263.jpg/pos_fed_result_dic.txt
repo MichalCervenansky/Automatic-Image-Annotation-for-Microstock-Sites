@@ -1,0 +1,3 @@
+from_image_IPTC:sunset;throught;coniferous;tree;brno;city;
+from_object_detection:tree;maple;house;window;vehicle;
+from_image_classification:western white pine;silver pine;mountain pine;pinus monticola;hemlock;hemlock tree;sunniness;mexican cypress;cedar of goa;portuguese cypress;cupressus lusitanica;glint;banyan;banyan tree;banian;banian tree;indian banyan;east indian fig tree;ficus bengalensis;flask;arizona cypress;cupressus arizonica;giraffe;camelopard;giraffa camelopardalis;seal;harp seal;pagophilus groenlandicus;stone pine;umbrella pine;european nut pine;pinus pinea;stinking cedar;stinking yew;torrey tree;torreya taxifolia;pinetum;deodar;deodar cedar;himalayan cedar;cedrus deodara;

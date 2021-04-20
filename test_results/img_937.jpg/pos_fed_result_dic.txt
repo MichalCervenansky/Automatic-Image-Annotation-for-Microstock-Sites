@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;memorial;romanian;writings;orange;brick;wall;holiday;
+from_object_detection:knife;building;skateboard;tool;house;stairs;kitchen knife;
+from_image_classification:brick;university;school;schoolhouse;window;clinker;clinker brick;

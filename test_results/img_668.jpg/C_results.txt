@@ -1,0 +1,10 @@
+boxes_1.jpg;ski slope:0.06488928198814392;skiing:0.057077739387750626;
+boxes_2.jpg;air bubble:0.08770465850830078;negative:0.05187961831688881;
+boxes_3.jpg;snowdrift:0.051742468029260635;
+boxes_4.jpg;
+boxes_5.jpg;gown,surgical gown,scrubs:0.12764093279838562;
+boxes_6.jpg;bobsledding:0.07181871682405472;
+boxes_7.jpg;
+boxes_8.jpg;snowdrift:0.052889131009578705;
+boxes_9.jpg;cellophane:0.1120518296957016;
+img_668.jpg;air bubble:0.092939592897892;

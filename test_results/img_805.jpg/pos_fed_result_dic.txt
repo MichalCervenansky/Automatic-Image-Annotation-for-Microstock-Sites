@@ -1,0 +1,3 @@
+from_image_IPTC:young;pomegranate;granate;apple;tree;
+from_object_detection:tree;plant;
+from_image_classification:dusty miller;centaurea cineraria;centaurea gymnocarpa;pot;flowerpot;seashore;coast;seacoast;sea-coast;wild china tree;sapindus drumondii;sapindus marginatus;star apple;caimito;chrysophyllum cainito;chinese parasol tree;chinese parasol;japanese varnish tree;phoenix tree;firmiana simplex;common mugwort;artemisia vulgaris;silver-lace;silver lace;tanacetum ptarmiciflorum;chrysanthemum ptarmiciflorum;

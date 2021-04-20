@@ -1,0 +1,4 @@
+boxes_1.jpg;migratory locust,Locusta migratoria:0.6991422176361084;locust:0.09807747602462769;
+boxes_2.jpg;migratory locust,Locusta migratoria:0.34021779894828796;locust:0.17590823769569397;insect:0.1472383737564087;grasshopper,hopper:0.06217793747782707;short-horned grasshopper,acridid:0.05547826364636421;
+boxes_3.jpg;migratory locust,Locusta migratoria:0.6108078956604004;locust:0.1860320121049881;
+img_465.jpg;locust:0.2533280849456787;migratory locust,Locusta migratoria:0.2397785186767578;grasshopper,hopper:0.2381167709827423;

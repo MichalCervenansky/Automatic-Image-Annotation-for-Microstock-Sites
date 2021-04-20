@@ -1,0 +1,9 @@
+boxes_1.jpg;tortoise:0.9551823
+boxes_2.jpg;plant:0.18301253
+boxes_3.jpg;plant:0.14424947
+boxes_4.jpg;sea turtle:0.11637743
+boxes_5.jpg;tortoise:0.11432346
+boxes_6.jpg;flower:0.09616025
+boxes_7.jpg;plant:0.072215594
+boxes_8.jpg;plant:0.05372753
+boxes_9.jpg;plant:0.053399824

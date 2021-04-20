@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;water;drop;hitting;level;
+from_object_detection:lamp;rose;candle;flower;
+from_image_classification:blue;blueness;drinking water;water;air bubble;plughole;bubble;

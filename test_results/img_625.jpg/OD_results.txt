@@ -1,0 +1,72 @@
+boxes_1.jpg;chair:0.85889155
+boxes_2.jpg;chair:0.8134757
+boxes_3.jpg;kitchen & dining room table:0.81343997
+boxes_4.jpg;chair:0.6834947
+boxes_5.jpg;house:0.567423
+boxes_6.jpg;cabinetry:0.5557954
+boxes_7.jpg;washing machine:0.5528523
+boxes_8.jpg;cabinetry:0.55185395
+boxes_9.jpg;chair:0.51991737
+boxes_10.jpg;clothing:0.5151262
+boxes_11.jpg;cupboard:0.4896838
+boxes_12.jpg;picture frame:0.45867172
+boxes_13.jpg;chair:0.44137192
+boxes_14.jpg;curtain:0.42087072
+boxes_15.jpg;cabinetry:0.41760653
+boxes_16.jpg;cabinetry:0.41172394
+boxes_17.jpg;person:0.39988756
+boxes_18.jpg;cabinetry:0.34096345
+boxes_19.jpg;house:0.31995988
+boxes_20.jpg;clothing:0.31673747
+boxes_21.jpg;chair:0.3163478
+boxes_22.jpg;furniture:0.28579152
+boxes_23.jpg;person:0.28292033
+boxes_24.jpg;person:0.27065027
+boxes_25.jpg;chair:0.24319075
+boxes_26.jpg;chair:0.23085003
+boxes_27.jpg;table:0.21933621
+boxes_28.jpg;chair:0.21401085
+boxes_29.jpg;chest of drawers:0.20999283
+boxes_30.jpg;chair:0.19168732
+boxes_31.jpg;table:0.17500247
+boxes_32.jpg;window:0.17383303
+boxes_33.jpg;chair:0.17094465
+boxes_34.jpg;chair:0.1658295
+boxes_35.jpg;picture frame:0.16211085
+boxes_36.jpg;coffee table:0.15937555
+boxes_37.jpg;person:0.15276885
+boxes_38.jpg;building:0.15244201
+boxes_39.jpg;human face:0.15217903
+boxes_40.jpg;cabinetry:0.14791523
+boxes_41.jpg;building:0.14733258
+boxes_42.jpg;clothing:0.13637961
+boxes_43.jpg;person:0.11662695
+boxes_44.jpg;clothing:0.11607796
+boxes_45.jpg;cabinetry:0.10388657
+boxes_46.jpg;table:0.10107184
+boxes_47.jpg;book:0.09734438
+boxes_48.jpg;cupboard:0.0927688
+boxes_49.jpg;clothing:0.090519406
+boxes_50.jpg;cabinetry:0.09041079
+boxes_51.jpg;desk:0.090125374
+boxes_52.jpg;furniture:0.09007941
+boxes_53.jpg;chair:0.08591519
+boxes_54.jpg;chair:0.07516605
+boxes_55.jpg;man:0.07445905
+boxes_56.jpg;clothing:0.07287693
+boxes_57.jpg;woman:0.071576804
+boxes_58.jpg;chair:0.070339665
+boxes_59.jpg;person:0.068614356
+boxes_60.jpg;woman:0.066382535
+boxes_61.jpg;chair:0.06576901
+boxes_62.jpg;drawer:0.065649465
+boxes_63.jpg;furniture:0.063867904
+boxes_64.jpg;chair:0.06353758
+boxes_65.jpg;chest of drawers:0.060121033
+boxes_66.jpg;home appliance:0.058890916
+boxes_67.jpg;man:0.05859931
+boxes_68.jpg;cupboard:0.05745446
+boxes_69.jpg;shelf:0.057377256
+boxes_70.jpg;person:0.055657033
+boxes_71.jpg;human face:0.054591715
+boxes_72.jpg;nightstand:0.05053515

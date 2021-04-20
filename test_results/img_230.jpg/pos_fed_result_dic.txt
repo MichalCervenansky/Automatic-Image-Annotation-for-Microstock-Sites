@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sea;snail;shell;rock;
+from_object_detection:snail;
+from_image_classification:seasnail;moon shell;moonshell;edible snail;helix pomatia;shell;snail;garden snail;brown snail;helix aspersa;

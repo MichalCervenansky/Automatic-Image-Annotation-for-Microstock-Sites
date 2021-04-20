@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:tree;plant;
+from_image_classification:negative;gorge;shore;foothill;adit;ascent;acclivity;rise;raise;climb;upgrade;mountainside;versant;descent;declivity;fall;decline;declination;declension;downslope;geological formation;formation;arroyo;outcrop;outcropping;rock outcrop;climber;alpinist;sprinkler system;sprinkler;seashore;coast;seacoast;sea-coast;ridge;ice mass;mountain;mount;alpine glacier;alpine type of glacier;crag;smoke screen;smokescreen;lakeside;lakeshore;lodestone;loadstone;kiss;candy kiss;cellophane;bin liner;plastic wrap;bighorn;bighorn sheep;cimarron;rocky mountain bighorn;rocky mountain sheep;ovis canadensis;polar glacier;ice;water ice;spume;icecap;ice cap;slope;incline;side;

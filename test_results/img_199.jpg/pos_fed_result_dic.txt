@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;white;flower;turkey;mountains;
+from_object_detection:flower;tree;plant;
+from_image_classification:stephanotis;valerian;verticillium;flower;downy mildew;false mildew;toothbrush;soup-strainer;water violet;hottonia palustris;common lilac;syringa vulgaris;common valerian;garden heliotrope;valeriana officinalis;streptomyces;morula;plasmodium;plasmodium vivax;malaria parasite;mealybug;mealy bug;bumblebee;humblebee;

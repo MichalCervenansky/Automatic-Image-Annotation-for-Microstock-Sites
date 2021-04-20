@@ -1,0 +1,12 @@
+boxes_1.jpg;hunting dog:0.46041446924209595;bird dog:0.17522026598453522;sporting dog,gun dog:0.0927422046661377;coursing:0.07597943395376205;coondog:0.06311626732349396;
+boxes_10.jpg;wild ass:0.05427445098757744;
+boxes_11.jpg;hunting dog:0.18514582514762878;vizsla,Hungarian pointer:0.1817709505558014;Weimaraner:0.1286230981349945;ducking,duck hunting:0.08490041643381119;
+boxes_2.jpg;ball:0.1462460160255432;ball:0.1277911514043808;basketball equipment:0.12081760168075562;spheroid,ellipsoid of revolution:0.07325855642557144;rugby ball:0.06906237453222275;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;ball:0.07090592384338379;
+boxes_7.jpg;
+boxes_8.jpg;hunting dog:0.30742576718330383;vizsla,Hungarian pointer:0.16055545210838318;Weimaraner:0.09165708720684052;ducking,duck hunting:0.06711308658123016;
+boxes_9.jpg;
+img_652.jpg;vizsla,Hungarian pointer:0.3319737911224365;Weimaraner:0.13556227087974548;hunting dog:0.08745908737182617;Doberman,Doberman pinscher:0.08421675115823746;ducking,duck hunting:0.07192613929510117;

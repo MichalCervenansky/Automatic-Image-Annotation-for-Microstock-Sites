@@ -1,0 +1,3 @@
+boxes_1.jpg;seaside,seaboard:0.2695888876914978;barge,flatboat,hoy,lighter:0.15245413780212402;river boat:0.12883810698986053;seashore,coast,seacoast,sea-coast:0.06043458729982376;
+boxes_2.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.0773642435669899;adit:0.051153019070625305;
+img_192.jpg;sandbank:0.486904501914978;sandbar,sand bar:0.06842372566461563;seashore,coast,seacoast,sea-coast:0.05732280761003494;

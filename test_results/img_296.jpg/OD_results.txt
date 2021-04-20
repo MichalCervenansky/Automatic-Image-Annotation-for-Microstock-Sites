@@ -1,0 +1,13 @@
+boxes_1.jpg;camel:0.996725
+boxes_2.jpg;plant:0.2151277
+boxes_3.jpg;plant:0.21134488
+boxes_4.jpg;plant:0.16510013
+boxes_5.jpg;plant:0.14125519
+boxes_6.jpg;plant:0.13440086
+boxes_7.jpg;plant:0.11212994
+boxes_8.jpg;plant:0.10521848
+boxes_9.jpg;animal:0.10331597
+boxes_10.jpg;plant:0.09352299
+boxes_11.jpg;cattle:0.06928776
+boxes_12.jpg;alpaca:0.06915956
+boxes_13.jpg;tree:0.05038438

@@ -1,0 +1,16 @@
+boxes_1.jpg;volcanic crater,crater:0.1499052345752716;
+boxes_10.jpg;
+boxes_11.jpg;atoll:0.17143797874450684;barrier reef:0.11271387338638306;reef:0.07330065220594406;shore:0.07066275179386139;coral reef:0.05903510004281998;
+boxes_12.jpg;barrier reef:0.19355711340904236;reef:0.18436186015605927;atoll:0.1687891185283661;coral reef:0.11204590648412704;
+boxes_13.jpg;
+boxes_14.jpg;coral reef:0.40468746423721313;reef:0.12580591440200806;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.07329588383436203;barrier reef:0.06874207407236099;
+boxes_15.jpg;screen,CRT screen:0.15237142145633698;
+boxes_2.jpg;steel arch bridge:0.7694070339202881;bridge,span:0.08032087236642838;
+boxes_3.jpg;steel arch bridge:0.5506896376609802;abutment:0.15801547467708588;bridge,span:0.1496431827545166;
+boxes_4.jpg;cornetfish:0.23267999291419983;
+boxes_5.jpg;casing,case:0.060578443109989166;
+boxes_6.jpg;
+boxes_7.jpg;nonsmoker,nonsmoking car:0.07098067551851273;
+boxes_8.jpg;scuba diving:0.07710227370262146;
+boxes_9.jpg;adit:0.07222286611795425;
+img_90.jpg;steel arch bridge:0.4671620726585388;bridge,span:0.12805311381816864;abutment:0.10416185110807419;box beam,box girder:0.055678702890872955;gusset,gusset plate:0.054971568286418915;

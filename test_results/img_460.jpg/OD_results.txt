@@ -1,0 +1,15 @@
+boxes_1.jpg;lamp:0.7620435
+boxes_2.jpg;flower:0.61702585
+boxes_3.jpg;person:0.48648867
+boxes_4.jpg;light bulb:0.34191683
+boxes_5.jpg;man:0.288632
+boxes_6.jpg;plant:0.2731685
+boxes_7.jpg;clothing:0.1845
+boxes_8.jpg;ball:0.1540818
+boxes_9.jpg;fashion accessory:0.086698376
+boxes_10.jpg;plant:0.085268475
+boxes_11.jpg;drink:0.08162131
+boxes_12.jpg;toy:0.06270173
+boxes_13.jpg;human face:0.062435593
+boxes_14.jpg;plant:0.058284055
+boxes_15.jpg;wine glass:0.053290337

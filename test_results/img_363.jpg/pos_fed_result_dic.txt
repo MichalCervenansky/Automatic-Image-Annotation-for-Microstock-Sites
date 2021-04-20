@@ -1,0 +1,3 @@
+from_image_IPTC:flower;rock;near;sea;nerezine;croatia;
+from_object_detection:flower;plant;
+from_image_classification:wild leek;levant garlic;kurrat;allium ampeloprasum;ice;water ice;fur seal;crabeater seal;crab-eating seal;adelie;adelie penguin;pygoscelis adeliae;emperor penguin;aptenodytes forsteri;squill;scilla;

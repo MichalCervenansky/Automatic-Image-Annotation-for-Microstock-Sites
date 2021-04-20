@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;shot;flying;eagle;looking;pray;
+from_object_detection:bird;eagle;falcon;plant;
+from_image_classification:bird;pigeon;aviary;bird sanctuary;volary;wood pigeon;ringdove;cushat;columba palumbus;

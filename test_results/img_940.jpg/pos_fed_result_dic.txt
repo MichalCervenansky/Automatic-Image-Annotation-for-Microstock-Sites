@@ -1,0 +1,3 @@
+from_image_IPTC:prague;czech;republic;;may;6th;2017;book;reading;holiday;asapkowski;witcher;
+from_object_detection:book;
+from_image_classification:book;desk dictionary;collegiate dictionary;breviary;wordbook;newspaper;paper;

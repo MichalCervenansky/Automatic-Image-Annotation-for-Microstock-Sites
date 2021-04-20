@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;water;shot;orange;starfish;croatian;sea;
+from_object_detection:starfish;marine invertebrates;plant;invertebrate;
+from_image_classification:coral reef;benthos;benthic division;benthonic zone;tunicate;urochordate;urochord;sea feather;echinoderm;sea anemone;anemone;staghorn coral;stag's-horn coral;sea cucumber;holothurian;siphonophore;starfish;sea star;star;reef;supernova;interplanetary space;aphelion;mucor;ameba;amoeba;skin-diver;aquanaut;spume;ctenophore;comb jelly;cell;pearl oyster;pinctada margaritifera;stony coral;madrepore;madriporian coral;air bubble;soapsuds;suds;lather;pulsar;portuguese man-of-war;man-of-war;jellyfish;white marlin;makaira albida;black marlin;makaira mazara;makaira marlina;sea squirt;sponge;poriferan;parazoan;

@@ -1,0 +1,14 @@
+boxes_1.jpg;grape hyacinth:0.8871098160743713;
+boxes_10.jpg;grape hyacinth:0.5347391963005066;loosestrife:0.06535676121711731;
+boxes_11.jpg;Venus' slipper,Venus's slipper,Venus's shoe:0.09379154443740845;
+boxes_12.jpg;grape hyacinth:0.8010877370834351;
+boxes_13.jpg;pipsissewa,prince's pine:0.17381317913532257;coral root:0.09934234619140625;
+boxes_2.jpg;embryo,conceptus,fertilized egg:0.12496036291122437;daphnia,water flea:0.11185146123170853;hydra:0.09505100548267365;schistosome,blood fluke:0.09483499079942703;fetus,foetus:0.06719230115413666;
+boxes_3.jpg;cotton candy,spun sugar,candyfloss:0.06584654003381729;tampon:0.060321323573589325;hot-water bottle,hot-water bag:0.05293929949402809;
+boxes_4.jpg;hearing aid,ear trumpet:0.11154498904943466;hearing aid,deaf-aid:0.05496684089303017;
+boxes_5.jpg;bleeding heart,lyreflower,lyre-flower,Dicentra spectabilis:0.06489310413599014;nodding onion,nodding wild onion,lady's leek,Allium cernuum:0.051116835325956345;
+boxes_6.jpg;grape hyacinth:0.46992865204811096;red-hot poker,Kniphofia praecox:0.09771163016557693;poker plant,Kniphofia uvaria:0.08293653279542923;
+boxes_7.jpg;grape hyacinth:0.6233651041984558;
+boxes_8.jpg;bleeding heart,lyreflower,lyre-flower,Dicentra spectabilis:0.07941828668117523;winter heath,spring heath,Erica carnea:0.07215708494186401;physostegia:0.05002462491393089;
+boxes_9.jpg;winter heath,spring heath,Erica carnea:0.19527855515480042;Medinilla magnifica:0.06211535260081291;
+img_945.jpg;grape hyacinth:0.8809990882873535;

@@ -1,0 +1,8 @@
+boxes_1.jpg;parachute:0.94883084
+boxes_2.jpg;parachute:0.26278213
+boxes_3.jpg;parachute:0.1752864
+boxes_4.jpg;vehicle:0.15117171
+boxes_5.jpg;parachute:0.08767114
+boxes_6.jpg;parachute:0.08762679
+boxes_7.jpg;parachute:0.055804122
+boxes_8.jpg;parachute:0.054870207

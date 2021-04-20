@@ -1,0 +1,17 @@
+boxes_1.jpg;tree:0.9603747
+boxes_2.jpg;tree:0.8916508
+boxes_3.jpg;building:0.5876893
+boxes_4.jpg;tree:0.5323518
+boxes_5.jpg;tree:0.31620514
+boxes_6.jpg;tree:0.3062533
+boxes_7.jpg;tree:0.22295488
+boxes_8.jpg;house:0.13508002
+boxes_9.jpg;tree:0.110134676
+boxes_10.jpg;tree:0.08619244
+boxes_11.jpg;tree:0.080458336
+boxes_12.jpg;tree:0.08042787
+boxes_13.jpg;tree:0.078890525
+boxes_14.jpg;tree:0.078266926
+boxes_15.jpg;tree:0.07078487
+boxes_16.jpg;tree:0.06525929
+boxes_17.jpg;tree:0.0635191

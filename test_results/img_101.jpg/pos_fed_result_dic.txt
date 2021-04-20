@@ -1,0 +1,3 @@
+from_image_IPTC:hungry;homeless;abandoned;dog;looking;help;jajce;
+from_object_detection:dog;carnivore;plant;tree;animal;
+from_image_classification:watchdog;guard dog;bitch;hunting dog;takin;gnu goat;budorcas taxicolor;striped hyena;hyaena hyaena;brown hyena;strand wolf;hyaena brunnea;hyena;hyaena;capybara;capibara;hydrochoerus hydrochaeris;wombat;river otter;lutra canadensis;otter;feline;felid;

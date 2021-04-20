@@ -1,0 +1,14 @@
+boxes_1.jpg;motorcycle:0.9573613
+boxes_2.jpg;tree:0.7033305
+boxes_3.jpg;wheel:0.6304829
+boxes_4.jpg;wheel:0.5557432
+boxes_5.jpg;tire:0.500361
+boxes_6.jpg;tire:0.46147498
+boxes_7.jpg;tree:0.37385505
+boxes_8.jpg;helmet:0.36808854
+boxes_9.jpg;land vehicle:0.10862597
+boxes_10.jpg;tree:0.08416391
+boxes_11.jpg;tree:0.07440798
+boxes_12.jpg;wheel:0.06514468
+boxes_13.jpg;wheel:0.05952834
+boxes_14.jpg;motorcycle:0.0568504

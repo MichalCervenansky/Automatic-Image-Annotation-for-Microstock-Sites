@@ -1,0 +1,9 @@
+boxes_1.jpg;reindeer moss,reindeer lichen,arctic moss,Cladonia rangiferina:0.17344710230827332;verdigris:0.12698133289813995;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.07148648798465729;pythium:0.05337638407945633;
+boxes_2.jpg;
+boxes_3.jpg;western fence lizard,swift,blue-belly,Sceloporus occidentalis:0.06834760308265686;
+boxes_4.jpg;
+boxes_5.jpg;verdigris:0.07797124236822128;reindeer moss,reindeer lichen,arctic moss,Cladonia rangiferina:0.07366575300693512;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.07068734616041183;
+boxes_6.jpg;verdigris:0.2935396134853363;reindeer moss,reindeer lichen,arctic moss,Cladonia rangiferina:0.06662285327911377;
+boxes_7.jpg;
+boxes_8.jpg;verdigris:0.16628167033195496;reindeer moss,reindeer lichen,arctic moss,Cladonia rangiferina:0.11916390061378479;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10307323932647705;mildew:0.05358970910310745;
+img_546.jpg;verdigris:0.14902770519256592;reindeer moss,reindeer lichen,arctic moss,Cladonia rangiferina:0.11244307458400726;mildew:0.05543522909283638;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.05459408834576607;

@@ -1,0 +1,3 @@
+from_image_IPTC:damaged;computer;grafic;card;caught;fire;
+from_object_detection:computer keyboard;remote control;poster;calculator;vehicle;toy;corded phone;building;office supplies;person;
+from_image_classification:circuit;electrical circuit;electric circuit;cpu board;mother board;circuitry;peripheral;computer peripheral;peripheral device;module;heat sink;fuel injection;fuel injection system;

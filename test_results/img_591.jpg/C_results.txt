@@ -1,0 +1,4 @@
+boxes_1.jpg;cellular telephone,cellular phone,cellphone,cell,mobile phone:0.19081714749336243;cigarette case:0.11928949505090714;
+boxes_2.jpg;cigarette case:0.2606421709060669;cellular telephone,cellular phone,cellphone,cell,mobile phone:0.07515273988246918;
+boxes_3.jpg;cigarette case:0.23637768626213074;lighter,light,igniter,ignitor:0.1281234622001648;cigar lighter,cigarette lighter,pocket lighter:0.07619025558233261;
+img_591.jpg;cellular telephone,cellular phone,cellphone,cell,mobile phone:0.1430143415927887;appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget:0.10487916320562363;lighter,light,igniter,ignitor:0.09756926447153091;

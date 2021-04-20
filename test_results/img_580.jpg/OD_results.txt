@@ -1,0 +1,16 @@
+boxes_1.jpg;insect:0.92233986
+boxes_2.jpg;insect:0.5493183
+boxes_3.jpg;moths and butterflies:0.3469221
+boxes_4.jpg;plant:0.3092795
+boxes_5.jpg;plant:0.2910495
+boxes_6.jpg;plant:0.23666427
+boxes_7.jpg;insect:0.16804384
+boxes_8.jpg;plant:0.13398397
+boxes_9.jpg;caterpillar:0.1175912
+boxes_10.jpg;plant:0.11509872
+boxes_11.jpg;insect:0.10392744
+boxes_12.jpg;food:0.09014228
+boxes_13.jpg;plant:0.08143735
+boxes_14.jpg;plant:0.07777505
+boxes_15.jpg;animal:0.059119206
+boxes_16.jpg;plant:0.051491037

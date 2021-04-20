@@ -1,0 +1,17 @@
+boxes_1.jpg;boat:0.93745774
+boxes_2.jpg;boat:0.33224866
+boxes_3.jpg;tree:0.32001975
+boxes_4.jpg;tree:0.29314253
+boxes_5.jpg;tree:0.16398811
+boxes_6.jpg;tree:0.16182552
+boxes_7.jpg;tree:0.1400896
+boxes_8.jpg;tree:0.13363862
+boxes_9.jpg;person:0.0819068
+boxes_10.jpg;tree:0.08097967
+boxes_11.jpg;tree:0.074838616
+boxes_12.jpg;tree:0.07240717
+boxes_13.jpg;train:0.07120737
+boxes_14.jpg;tree:0.07015022
+boxes_15.jpg;tree:0.064447545
+boxes_16.jpg;tree:0.06324422
+boxes_17.jpg;tree:0.054920252

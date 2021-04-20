@@ -1,0 +1,12 @@
+boxes_1.jpg;artemisia:0.13680201768875122;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.11643315851688385;foothill:0.09905346482992172;mountainside,versant:0.08085132390260696;ridge:0.061807673424482346;
+boxes_10.jpg;dustmop,dust mop,dry mop:0.22983868420124054;dustcloth,dustrag,duster:0.053511589765548706;
+boxes_11.jpg;pinon,pinyon:0.07105843722820282;saltbush:0.06379718333482742;sea wormwood,Seriphidium maritimum,Artemisia maritima:0.05199121683835983;bayberry,bay-rum tree,Jamaica bayberry,wild cinnamon,Pimenta acris:0.05056998133659363;
+boxes_2.jpg;foothill:0.1194644346833229;mountainside,versant:0.10884495079517365;bayberry,bay-rum tree,Jamaica bayberry,wild cinnamon,Pimenta acris:0.09920622408390045;
+boxes_3.jpg;windmill,aerogenerator,wind generator:0.9135506749153137;
+boxes_4.jpg;barrier reef:0.1092606857419014;reef:0.06126295402646065;
+boxes_5.jpg;windmill,aerogenerator,wind generator:0.892229437828064;
+boxes_6.jpg;foothill:0.2429671287536621;pinon,pinyon:0.09816242009401321;saltbush:0.06813229620456696;
+boxes_7.jpg;windmill,aerogenerator,wind generator:0.4023529589176178;dustmop,dust mop,dry mop:0.06601635366678238;
+boxes_8.jpg;verdigris:0.0625251978635788;sea feather:0.05874592065811157;
+boxes_9.jpg;manatee,Trichechus manatus:0.16791656613349915;Pacific ridley,olive ridley,Lepidochelys olivacea:0.05161745101213455;
+img_384.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.2886372208595276;mountainside,versant:0.10162561386823654;hillside:0.08332759141921997;slope,incline,side:0.07220172137022018;

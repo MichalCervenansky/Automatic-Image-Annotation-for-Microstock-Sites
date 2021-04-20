@@ -1,0 +1,6 @@
+boxes_1.jpg;edible snail,Helix pomatia:0.9935327768325806;
+boxes_2.jpg;edible snail,Helix pomatia:0.9987720847129822;
+boxes_3.jpg;edible snail,Helix pomatia:0.9983662962913513;
+boxes_4.jpg;edible snail,Helix pomatia:0.9980611205101013;
+boxes_5.jpg;edible snail,Helix pomatia:0.9984636306762695;
+img_267.jpg;edible snail,Helix pomatia:0.9960164427757263;

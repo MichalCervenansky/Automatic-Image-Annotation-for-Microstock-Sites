@@ -1,0 +1,2 @@
+boxes_1.jpg;crab:0.9825415
+boxes_2.jpg;crab:0.25130746

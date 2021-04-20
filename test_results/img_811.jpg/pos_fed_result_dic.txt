@@ -1,0 +1,3 @@
+from_image_IPTC:pine;tree;branch;shot;sun;
+from_object_detection:tree;
+from_image_classification:timber tree;australian pine;casuarina equisetfolia;bird;snag;gray;grayness;grey;greyness;longleaf pine;pitch pine;southern yellow pine;georgia pine;pinus palustris;

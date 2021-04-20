@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;rare;cuttlefish;croatian;sea;udeer;water;shot;
+from_object_detection:fish;marine invertebrates;animal;plant;squid;
+from_image_classification:cuttlefish;cuttle;stonefish;synanceja verrucosa;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;ormer;sea-ear;haliotis tuberculata;electric ray;crampfish;numbfish;torpedo;sea hare;aplysia punctata;butterfly ray;cell;supernova;nitrate bacterium;nitric bacterium;ameba;amoeba;pulsar;benthos;benthic division;benthonic zone;portuguese man-of-war;man-of-war;jellyfish;neutrophil;neutrophile;sporozoan;endameba;conger;conger eel;porcupinefish;porcupine fish;diodon hystrix;jawfish;shrimpfish;shrimp-fish;gunnel;bracketed blenny;needlefish;gar;billfish;

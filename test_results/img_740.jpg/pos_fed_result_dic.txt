@@ -1,0 +1,3 @@
+from_image_IPTC:old;lamp;hanging;ancient;brick;palace;building;great;britain;
+from_object_detection:tree;building;street light;house;lamp;window;door;tower;
+from_image_classification:streetlight;street lamp;post;lantern;gray;grayness;grey;greyness;high-rise;tower block;rendering;gas lamp;customhouse;customshouse;

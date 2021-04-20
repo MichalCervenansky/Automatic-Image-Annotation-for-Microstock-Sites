@@ -1,0 +1,14 @@
+boxes_1.jpg;hunting dog:0.4972849190235138;coursing:0.2946122884750366;
+boxes_10.jpg;timber wolf,grey wolf,gray wolf,Canis lupus:0.1565384715795517;hunting dog:0.09637391567230225;coursing:0.07067842036485672;dog,domestic dog,Canis familiaris:0.0642668828368187;
+boxes_11.jpg;
+boxes_12.jpg;sprinkler:0.12680242955684662;
+boxes_13.jpg;
+boxes_2.jpg;sprinkler:0.0976490005850792;
+boxes_3.jpg;lesser panda,red panda,panda,bear cat,cat bear,Ailurus fulgens:0.16604939103126526;
+boxes_4.jpg;windowsill:0.05445856228470802;
+boxes_5.jpg;
+boxes_6.jpg;watchdog,guard dog:0.22341786324977875;dog,domestic dog,Canis familiaris:0.10685788840055466;cur,mongrel,mutt:0.10142401605844498;hunting dog:0.058714162558317184;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;
+img_651.jpg;cur,mongrel,mutt:0.1008010134100914;watchdog,guard dog:0.09869152307510376;hunting dog:0.08666451275348663;malinois:0.057437121868133545;

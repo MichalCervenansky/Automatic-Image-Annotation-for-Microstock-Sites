@@ -1,0 +1,11 @@
+boxes_1.jpg;plant:0.9125264
+boxes_2.jpg;plant:0.1923809
+boxes_3.jpg;plant:0.18189402
+boxes_4.jpg;plant:0.122393735
+boxes_5.jpg;animal:0.1191058
+boxes_6.jpg;reptile:0.09533135
+boxes_7.jpg;insect:0.08425596
+boxes_8.jpg;tree:0.07641878
+boxes_9.jpg;food:0.07035128
+boxes_10.jpg;animal:0.066694416
+boxes_11.jpg;marine invertebrates:0.058118533

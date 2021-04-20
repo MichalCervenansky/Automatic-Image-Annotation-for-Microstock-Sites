@@ -1,0 +1,5 @@
+boxes_1.jpg;sea anemone,anemone:0.9896092414855957;
+boxes_2.jpg;sea anemone,anemone:0.992655873298645;
+boxes_3.jpg;sea anemone,anemone:0.9938384890556335;
+boxes_4.jpg;sea anemone,anemone:0.9870347380638123;
+img_694.jpg;sea anemone,anemone:0.9851896166801453;

@@ -1,0 +1,16 @@
+boxes_1.jpg;building:0.8316925
+boxes_2.jpg;window:0.5270343
+boxes_3.jpg;window:0.5175181
+boxes_4.jpg;window:0.4975025
+boxes_5.jpg;window:0.3935787
+boxes_6.jpg;window:0.35963556
+boxes_7.jpg;window:0.3153048
+boxes_8.jpg;window:0.25152537
+boxes_9.jpg;window:0.16993263
+boxes_10.jpg;window:0.14016573
+boxes_11.jpg;window:0.1148031
+boxes_12.jpg;house:0.103449315
+boxes_13.jpg;window:0.102015324
+boxes_14.jpg;window:0.06353028
+boxes_15.jpg;window:0.057727784
+boxes_16.jpg;building:0.056197572

@@ -1,0 +1,4 @@
+boxes_1.jpg;emerald:0.4581558406352997;lavaliere,lavalier,lavalliere:0.35218533873558044;ringlet:0.059422269463539124;
+boxes_2.jpg;lavaliere,lavalier,lavalliere:0.48124954104423523;emerald:0.3784705698490143;
+boxes_3.jpg;lavaliere,lavalier,lavalliere:0.4075784981250763;emerald:0.3760809302330017;
+img_588.jpg;emerald:0.9723318219184875;

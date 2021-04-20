@@ -1,0 +1,14 @@
+boxes_1.jpg;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.4002748727798462;snag:0.0564059354364872;
+boxes_10.jpg;
+boxes_11.jpg;dip,plunge:0.16279123723506927;water polo:0.07935657352209091;hot spring,thermal spring:0.06347943097352982;breaststroker:0.0590621642768383;
+boxes_12.jpg;mud brick:0.08449957519769669;praetorium,pretorium:0.07767967134714127;adobe,adobe brick:0.07448141276836395;stonework:0.07260716706514359;gable,gable end,gable wall:0.06004207208752632;
+boxes_13.jpg;mud brick:0.1237671971321106;praetorium,pretorium:0.10417462885379791;mountainside,versant:0.09861878305673599;ruin:0.07670651376247406;ancient:0.07475697249174118;escarpment,escarp,scarp,protective embankment:0.053184784948825836;
+boxes_2.jpg;
+boxes_3.jpg;gable,gable end,gable wall:0.20014609396457672;stonework:0.07903828471899033;stronghold,fastness:0.06688893586397171;praetorium,pretorium:0.06665553152561188;
+boxes_4.jpg;barrel vault:0.0927545502781868;
+boxes_5.jpg;barrel vault:0.13720089197158813;hole-in-the-wall:0.05049390718340874;
+boxes_6.jpg;
+boxes_7.jpg;cove:0.058442916721105576;
+boxes_8.jpg;oil paint:0.0706491470336914;
+boxes_9.jpg;mountainside,versant:0.4109942615032196;escarpment,escarp,scarp,protective embankment:0.17431378364562988;geological formation,formation:0.05240175500512123;
+img_765.jpg;mountainside,versant:0.3011951744556427;escarpment,escarp,scarp,protective embankment:0.16035811603069305;mud brick:0.11872132867574692;escarpment,scarp:0.056595608592033386;praetorium,pretorium:0.05231545865535736;

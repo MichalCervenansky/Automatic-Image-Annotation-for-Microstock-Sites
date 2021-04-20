@@ -1,0 +1,3 @@
+from_image_IPTC:valuable;sea;shell;slime;conch;
+from_object_detection:invertebrate;shellfish;animal;snail;
+from_image_classification:shell;ark shell;cockle;nerita;river limpet;freshwater limpet;ancylus fluviatilis;edible mussel;mytilus edulis;giant conch;strombus gigas;oyster shell;moon shell;moonshell;seashell;

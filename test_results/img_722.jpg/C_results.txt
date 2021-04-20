@@ -1,0 +1,9 @@
+boxes_1.jpg;European spider crab,king crab,Maja squinado:0.3498120605945587;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.1748122274875641;fiddler crab:0.10323969274759293;
+boxes_2.jpg;blowtorch,torch,blowlamp:0.20296554267406464;
+boxes_3.jpg;false scorpion,pseudoscorpion:0.08964362740516663;
+boxes_4.jpg;scorpion:0.225568026304245;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.1867259293794632;European spider crab,king crab,Maja squinado:0.13720853626728058;fiddler crab:0.06793250888586044;blue crab,Callinectes sapidus:0.05188816785812378;
+boxes_5.jpg;
+boxes_6.jpg;common louse,Pediculus humanus:0.18167373538017273;head louse,Pediculus capitis:0.1483483612537384;brine shrimp,Artemia salina:0.050006456673145294;
+boxes_7.jpg;scorpion:0.25762102007865906;European spider crab,king crab,Maja squinado:0.18424135446548462;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.11768000572919846;
+boxes_8.jpg;African clawed frog,Xenopus laevis:0.10677895694971085;loach:0.05933952331542969;topminnow,poeciliid fish,poeciliid,live-bearer:0.05178041383624077;
+img_722.jpg;blue crab,Callinectes sapidus:0.3226586878299713;amphipod:0.10056699067354202;rock crab,Cancer irroratus:0.07941597700119019;decapod crustacean,decapod:0.07640417665243149;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.051440417766571045;

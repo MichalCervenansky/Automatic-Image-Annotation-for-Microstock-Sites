@@ -1,0 +1,4 @@
+boxes_1.jpg;field thistle,Cirsium discolor:0.2775769531726837;cotton thistle,woolly thistle,Scotch thistle,Onopordum acanthium,Onopordon acanthium:0.06932949274778366;bull thistle,boar thistle,spear thistle,Cirsium vulgare,Cirsium lanceolatum:0.06307535618543625;fig marigold,pebble plant:0.05892082303762436;
+boxes_2.jpg;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.46789583563804626;umbel:0.05854775011539459;
+boxes_3.jpg;
+img_388.jpg;cottage pink,grass pink,Dianthus plumarius:0.10824771225452423;lavender:0.10252546519041061;field thistle,Cirsium discolor:0.05951513722538948;thistledown:0.055639833211898804;

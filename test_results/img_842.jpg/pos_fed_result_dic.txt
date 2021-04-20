@@ -1,0 +1,3 @@
+from_image_IPTC:artistic;shot;spiked;wall;nazi;concentration;camp;poland;
+from_object_detection:tree;street light;palm tree;fish;vehicle;
+from_image_classification:mast;tree;pylon;mainmast;telecommunication;telecom;post;barbed wire;barbwire;streetlight;street lamp;violin;fiddle;slipknot;

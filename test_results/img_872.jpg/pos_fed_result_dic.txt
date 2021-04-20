@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;canyon;forest;yellowstone;national;park;usa;
+from_object_detection:tree;plant;
+from_image_classification:mountainside;versant;negative;snowdrift;ascent;acclivity;rise;raise;climb;upgrade;slope;incline;side;escarpment;scarp;chasm;

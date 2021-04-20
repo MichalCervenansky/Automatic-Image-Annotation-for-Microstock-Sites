@@ -1,0 +1,18 @@
+boxes_1.jpg;benthos,benthic division,benthonic zone:0.6124081015586853;aposematic coloration,warning coloration:0.07123146951198578;
+boxes_10.jpg;aposematic coloration,warning coloration:0.19318713247776031;lobster:0.14669229090213776;benthos,benthic division,benthonic zone:0.07075897604227066;spiny lobster,langouste,rock lobster,crawfish,crayfish,sea crawfish:0.0528951995074749;
+boxes_11.jpg;skin-diver,aquanaut:0.2750820815563202;benthos,benthic division,benthonic zone:0.10076529532670975;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.08103402704000473;coral reef:0.07397770136594772;
+boxes_12.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.15212462842464447;
+boxes_13.jpg;polyp:0.1374049037694931;stony coral,madrepore,madriporian coral:0.08916905522346497;damselfish,demoiselle:0.0623922199010849;sea fan:0.060922786593437195;porkfish,pork-fish,Anisotremus virginicus:0.05815652012825012;
+boxes_14.jpg;brittle star,brittle-star,serpent star:0.16017304360866547;gorgonian,gorgonian coral:0.11150338500738144;tunicate,urochordate,urochord:0.09783516079187393;European lobster,Homarus vulgaris:0.05209832638502121;
+boxes_15.jpg;sea slug,nudibranch:0.4284380078315735;aposematic coloration,warning coloration:0.19866448640823364;benthos,benthic division,benthonic zone:0.1520911157131195;
+boxes_16.jpg;benthos,benthic division,benthonic zone:0.5602437853813171;benthos:0.06645666807889938;
+boxes_17.jpg;sea feather:0.20723585784435272;tunicate,urochordate,urochord:0.1685849279165268;sea squirt:0.1653830111026764;polyp:0.08063890039920807;
+boxes_2.jpg;benthos,benthic division,benthonic zone:0.45471298694610596;aposematic coloration,warning coloration:0.2675093114376068;benthos:0.07777895778417587;
+boxes_3.jpg;benthos,benthic division,benthonic zone:0.2100258469581604;skin-diver,aquanaut:0.13296319544315338;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.12858396768569946;coral reef:0.08765209466218948;benthos:0.0565020889043808;
+boxes_4.jpg;aquarium,fish tank,marine museum:0.14096525311470032;brown algae:0.07701698690652847;alga,algae:0.05515872687101364;
+boxes_5.jpg;sea slug,nudibranch:0.0585213340818882;
+boxes_6.jpg;pulsar:0.09052145481109619;
+boxes_7.jpg;benthos,benthic division,benthonic zone:0.16193458437919617;gorgonian,gorgonian coral:0.13474991917610168;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.11353380233049393;benthos:0.0621294230222702;coral reef:0.06068536639213562;
+boxes_8.jpg;porkfish,pork-fish,Anisotremus virginicus:0.16616611182689667;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10060170292854309;benthos,benthic division,benthonic zone:0.060609519481658936;rock beauty,Holocanthus tricolor:0.05588927119970322;
+boxes_9.jpg;benthos,benthic division,benthonic zone:0.5144268274307251;aposematic coloration,warning coloration:0.18806031346321106;benthos:0.08890026062726974;
+img_683.jpg;dragonet:0.1480712741613388;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1383572816848755;sea squirt:0.09476913511753082;sea slug,nudibranch:0.0530930794775486;

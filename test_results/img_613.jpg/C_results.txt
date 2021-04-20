@@ -1,0 +1,8 @@
+boxes_1.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.4382340610027313;dandelion green:0.06390217691659927;paramecium,paramecia:0.05974220857024193;heliozoan:0.050331637263298035;
+boxes_2.jpg;negative:0.8238186836242676;
+boxes_3.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.48752468824386597;heliozoan:0.08328168094158173;
+boxes_4.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.39527687430381775;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.20114661753177643;
+boxes_5.jpg;thistledown:0.4306700825691223;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.37948018312454224;
+boxes_6.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.7257377505302429;
+boxes_7.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.6214379668235779;dandelion green:0.06524371355772018;
+img_613.jpg;negative:0.23787587881088257;ameba,amoeba:0.15866634249687195;cell:0.08804699778556824;zoospore:0.07066986709833145;paramecium,paramecia:0.06264906376600266;

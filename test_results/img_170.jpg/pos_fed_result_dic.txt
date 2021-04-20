@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;white;tree;flower;
+from_object_detection:flower;tree;
+from_image_classification:negative;diapensia;shaving foam;jellyfish;streptomyces;trailing arbutus;mayflower;epigaea repens;virginia bluebell;virginia cowslip;mertensia virginica;candle;taper;wax light;surgeon;operating surgeon;sawbones;rose chafer;rose beetle;cetonia aurata;candytuft;flower cluster;cape jasmine;cape jessamine;gardenia jasminoides;gardenia augusta;mozzarella;bladder campion;silene uniflora;silene vulgaris;eukaryote;eucaryote;

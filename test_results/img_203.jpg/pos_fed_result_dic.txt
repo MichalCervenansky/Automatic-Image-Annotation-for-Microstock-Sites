@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;white;flower;turkey;mountains;
+from_object_detection:flower;lily;plant;
+from_image_classification:star-of-bethlehem;easter lily;bermuda lily;white trumpet lily;lilium longiflorum;

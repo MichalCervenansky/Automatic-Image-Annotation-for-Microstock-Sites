@@ -1,0 +1,14 @@
+boxes_1.jpg;pleat,plait:0.44682392477989197;
+boxes_10.jpg;pleat,plait:0.15160886943340302;slat,spline:0.05288642272353172;
+boxes_11.jpg;pleat,plait:0.18059787154197693;pillow sham:0.12694081664085388;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.06978035718202591;
+boxes_12.jpg;pleat,plait:0.33668452501296997;carpet pad,rug pad,underlay,underlayment:0.07246091216802597;
+boxes_13.jpg;pleat,plait:0.3884603679180145;pinstripe:0.06200123578310013;smocking:0.05401023477315903;
+boxes_2.jpg;pleat,plait:0.38506022095680237;smocking:0.10762868076562881;
+boxes_3.jpg;pleat,plait:0.39665764570236206;smocking:0.1304679661989212;
+boxes_4.jpg;pleat,plait:0.32548022270202637;smocking:0.1681673377752304;
+boxes_5.jpg;pleat,plait:0.13017195463180542;basking shark,Cetorhinus maximus:0.06746761500835419;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.0647248774766922;
+boxes_6.jpg;pleat,plait:0.26301196217536926;smocking:0.19560803472995758;
+boxes_7.jpg;smocking:0.26407378911972046;pleat,plait:0.20346446335315704;
+boxes_8.jpg;pleat,plait:0.41315019130706787;batik:0.09117944538593292;pinstripe:0.06803569197654724;
+boxes_9.jpg;smocking:0.21836423873901367;pleat,plait:0.20086424052715302;
+img_564.jpg;pleat,plait:0.3342420756816864;smocking:0.17644944787025452;

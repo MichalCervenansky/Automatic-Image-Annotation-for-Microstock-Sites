@@ -1,0 +1,11 @@
+boxes_1.jpg;carriageway:0.17024892568588257;autobahn:0.12074693292379379;overpass,flyover:0.11574304103851318;divided highway,dual carriageway:0.08691984415054321;
+boxes_10.jpg;
+boxes_2.jpg;
+boxes_3.jpg;car bomb:0.09066089987754822;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;sprinkler system:0.057185862213373184;sprinkler:0.053009554743766785;
+boxes_8.jpg;
+boxes_9.jpg;sluice,sluiceway,penstock:0.3287947475910187;bascule:0.14408093690872192;drawbridge,lift bridge:0.11319714039564133;abutment:0.09328452497720718;lockage:0.0726860985159874;gate:0.05265821889042854;
+img_75.jpg;bascule:0.3120943009853363;pier:0.17181843519210815;steel arch bridge:0.07394297420978546;drawbridge,lift bridge:0.0693388432264328;

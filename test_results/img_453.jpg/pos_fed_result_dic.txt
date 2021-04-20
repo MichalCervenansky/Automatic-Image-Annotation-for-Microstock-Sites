@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;panorama;landscape;frozen;slovak;country;hidden;snow;
+from_object_detection:plant;tree;
+from_image_classification:ice mass;pinniped mammal;pinniped;pinnatiped;harp seal;pagophilus groenlandicus;weir;plastic wrap;cling film;clingfilm;saran wrap;cellophane;snowdrift;sunniness;byway;bypath;byroad;

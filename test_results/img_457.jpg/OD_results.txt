@@ -1,0 +1,11 @@
+boxes_1.jpg;bird:0.97342867
+boxes_2.jpg;flower:0.70716417
+boxes_3.jpg;tree:0.22473145
+boxes_4.jpg;tree:0.099376746
+boxes_5.jpg;canary:0.0923003
+boxes_6.jpg;plant:0.08622786
+boxes_7.jpg;plant:0.07347237
+boxes_8.jpg;plant:0.07037048
+boxes_9.jpg;tree:0.063100494
+boxes_10.jpg;tree:0.057706337
+boxes_11.jpg;tree:0.056767154

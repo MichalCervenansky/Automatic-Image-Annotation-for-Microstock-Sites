@@ -1,0 +1,3 @@
+from_image_IPTC:rough;croatian;coastline;nerezineforth;
+from_object_detection:harbor seal;marine mammal;sea lion;
+from_image_classification:elephant seal;sea elephant;harbor seal;common seal;phoca vitulina;seal;beach;seashore;coast;seacoast;sea-coast;sunniness;seaside;seaboard;

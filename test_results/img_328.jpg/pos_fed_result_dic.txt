@@ -1,0 +1,3 @@
+from_image_IPTC:small;watermills;rural;bosna;hercegovina;
+from_object_detection:house;plant;tree;
+from_image_classification:hovel;hut;hutch;shack;shanty;army hut;field hut;lake dwelling;pile dwelling;flume;kennel;doghouse;dog house;dormer;dormer window;housetop;corncrib;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;cold frame;back porch;chicken coop;coop;hencoop;henhouse;henroost;riparian forest;alga;algae;reindeer moss;reindeer lichen;arctic moss;cladonia rangiferina;roof;seagrass;sea green;machete;matchet;panga;terrarium;messuage;

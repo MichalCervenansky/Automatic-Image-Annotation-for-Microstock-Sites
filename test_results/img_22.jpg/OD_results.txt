@@ -1,0 +1,2 @@
+boxes_1.jpg;dog:0.9924625
+boxes_2.jpg;tree:0.062973976

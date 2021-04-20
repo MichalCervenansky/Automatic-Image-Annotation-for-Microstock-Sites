@@ -1,0 +1,3 @@
+from_image_IPTC:majestic;army;helicopter;sunny;day;
+from_object_detection:helicopter;wheel;
+from_image_classification:rotor blade;rotary wing;helicopter;chopper;whirlybird;eggbeater;deathwatch beetle;deathwatch;xestobium rufovillosum;sawyer;sawyer beetle;flour beetle;flour weevil;click beetle;skipjack;snapping beetle;

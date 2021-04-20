@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;fresh;pink;flower;beeeared;bee;
+from_object_detection:flower;rose;
+from_image_classification:purple;purpleness;flower;peony;paeony;pink-and-white everlasting;pink paper daisy;acroclinium roseum;negative;petri dish;sea lavender;marsh rosemary;statice;

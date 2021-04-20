@@ -1,0 +1,14 @@
+boxes_1.jpg;Indian crocus:0.6863669157028198;negative:0.06949256360530853;
+boxes_10.jpg;negative:0.3247728645801544;pinwheel,pinwheel wind collector:0.24174454808235168;candle,taper,wax light:0.07904282957315445;
+boxes_11.jpg;negative:0.7734881639480591;
+boxes_12.jpg;Texas horned lizard,Phrynosoma cornutum:0.077529177069664;
+boxes_13.jpg;crapaud,South American bullfrog,Leptodactylus pentadactylus:0.1233430728316307;
+boxes_2.jpg;Indian crocus:0.7419248819351196;
+boxes_3.jpg;windshield,windscreen:0.41093146800994873;windshield wiper,windscreen wiper,wiper,wiper blade:0.05038582906126976;
+boxes_4.jpg;Texas horned lizard,Phrynosoma cornutum:0.06243131309747696;
+boxes_5.jpg;scilla,squill:0.08299781382083893;dogtooth violet,dogtooth,dog's-tooth violet:0.06553918868303299;
+boxes_6.jpg;Indian crocus:0.7130690217018127;scilla,squill:0.07288356870412827;negative:0.05120325833559036;
+boxes_7.jpg;verdigris:0.6306155920028687;negative:0.1290692538022995;
+boxes_8.jpg;Indian crocus:0.42779234051704407;negative:0.30382731556892395;scilla,squill:0.06444299966096878;
+boxes_9.jpg;kangaroo rat,desert rat,Dipodomys phillipsii:0.06110822781920433;
+img_647.jpg;negative:0.6691887974739075;

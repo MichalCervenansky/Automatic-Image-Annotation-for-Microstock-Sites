@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:snack;towel;cake;food;clothing;baked goods;book;office supplies;plant;
+from_image_classification:pleat;plait;slat;spline;pillow sham;bedspread;bedcover;bed cover;bed covering;counterpane;spread;carpet pad;rug pad;underlay;underlayment;pinstripe;smocking;basking shark;cetorhinus maximus;batik;

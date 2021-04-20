@@ -1,0 +1,15 @@
+boxes_1.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.7548321485519409;dandelion green:0.07570583373308182;thistledown:0.05164941027760506;
+boxes_10.jpg;fritillary,checkered lily:0.10464013367891312;
+boxes_11.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.45903024077415466;thistledown:0.3037559390068054;dandelion green:0.1582176387310028;
+boxes_12.jpg;common grape hyacinth,Muscari neglectum:0.17739400267601013;tassel hyacinth,Muscari comosum:0.07941785454750061;Spanish iris,xiphium iris,Iris xiphium:0.05567268282175064;
+boxes_13.jpg;thistledown:0.4517916142940521;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.32788461446762085;dandelion green:0.15635839104652405;
+boxes_14.jpg;
+boxes_2.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.48568037152290344;thistledown:0.39712944626808167;dandelion green:0.07148700952529907;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;common grape hyacinth,Muscari neglectum:0.2415444552898407;Spanish iris,xiphium iris,Iris xiphium:0.1466178447008133;tassel hyacinth,Muscari comosum:0.07382544875144958;
+boxes_6.jpg;
+boxes_7.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.5864798426628113;thistledown:0.27337387204170227;dandelion green:0.07433505356311798;
+boxes_8.jpg;common grape hyacinth,Muscari neglectum:0.0811183825135231;Spanish iris,xiphium iris,Iris xiphium:0.05360444635152817;
+boxes_9.jpg;thistledown:0.6359966397285461;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.18259213864803314;dandelion green:0.11748318374156952;
+img_211.jpg;thistledown:0.4642678499221802;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.3387928307056427;dandelion green:0.1245383620262146;

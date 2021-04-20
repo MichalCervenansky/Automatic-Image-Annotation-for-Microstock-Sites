@@ -1,0 +1,5 @@
+boxes_1.jpg;cat:0.9944323
+boxes_2.jpg;plant:0.17138185
+boxes_3.jpg;carnivore:0.09629344
+boxes_4.jpg;animal:0.09320903
+boxes_5.jpg;rabbit:0.092112124

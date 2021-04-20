@@ -1,0 +1,9 @@
+boxes_1.jpg;carpenter bee:0.9871113896369934;
+boxes_2.jpg;coral reef:0.4591778814792633;staghorn coral,stag's-horn coral:0.13035014271736145;reef:0.07399430871009827;
+boxes_3.jpg;negative:0.6446239948272705;
+boxes_4.jpg;coral reef:0.5439333319664001;staghorn coral,stag's-horn coral:0.06934152543544769;reef:0.06587909162044525;
+boxes_5.jpg;ctenophore,comb jelly:0.24833334982395172;negative:0.07841771841049194;
+boxes_6.jpg;stony coral,madrepore,madriporian coral:0.8379219770431519;
+boxes_7.jpg;Persian iris,Iris persica:0.09745322912931442;Japanese iris,Iris kaempferi:0.07951399683952332;musk rose,Rosa moschata:0.06505230069160461;water violet,Hottonia palustris:0.0626930445432663;
+boxes_8.jpg;negative:0.35298576951026917;chambered nautilus,pearly nautilus,nautilus:0.10379493981599808;
+img_818.jpg;coral reef:0.5617206692695618;reef:0.08103553205728531;staghorn coral,stag's-horn coral:0.07233928889036179;

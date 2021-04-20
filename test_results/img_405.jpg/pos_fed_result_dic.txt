@@ -1,0 +1,3 @@
+from_image_IPTC:sharp;cool;waterdrops;dew;leaves;
+from_object_detection:plant;tree;fruit;flower;maple;
+from_image_classification:dewdrop;waterleaf;mildew;erose leaf;water-mint;water mint;mentha aquatica;gastrula;spherule;marble;morula;plughole;leaf shape;leaf form;pythium;

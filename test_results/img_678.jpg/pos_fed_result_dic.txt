@@ -1,0 +1,3 @@
+from_image_IPTC:winter;shot;tree;branch;snowed;over;
+from_object_detection:tree;bird;flower;plant;
+from_image_classification:snowdrift;rowanberry;snow;snowfall;fieldfare;snowbird;turdus pilaris;snowcap;ice mass;gin and tonic;ice;water ice;gin and it;

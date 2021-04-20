@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;aspendos;turkish;coloseum;
+from_object_detection:building;window;tree;plant;castle;house;
+from_image_classification:amphitheater;amphitheatre;coliseum;hot tub;toggle switch;toggle;on-off switch;on/off switch;unknown soldier;colonnade;igloo;iglu;

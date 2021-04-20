@@ -1,0 +1,3 @@
+from_image_IPTC:majestic;army;helicopter;sunny;day;
+from_object_detection:helicopter;
+from_image_classification:rotor blade;rotary wing;tail rotor;anti-torque rotor;helicopter;chopper;whirlybird;eggbeater;aircraft;shuttle helicopter;

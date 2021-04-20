@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;cannon;beach;oregon;
+from_object_detection:
+from_image_classification:seashore;coast;seacoast;sea-coast;coastland;promontory;headland;head;foreland;littoral;litoral;littoral zone;sands;

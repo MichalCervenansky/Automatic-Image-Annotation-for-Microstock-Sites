@@ -1,0 +1,3 @@
+from_image_IPTC:wireless;black;stylish;computer;mouse;lying;table;
+from_object_detection:computer mouse;computer keyboard;table;laptop;desk;
+from_image_classification:mouse button;mouse;computer mouse;computer keyboard;keypad;data input device;input device;keyboard;control key;command key;keyboard buffer;

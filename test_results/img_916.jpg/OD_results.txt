@@ -1,0 +1,22 @@
+boxes_1.jpg;footwear:0.4078301
+boxes_2.jpg;clothing:0.39298657
+boxes_3.jpg;footwear:0.28377807
+boxes_4.jpg;clothing:0.18126923
+boxes_5.jpg;poster:0.1637161
+boxes_6.jpg;clothing:0.15287514
+boxes_7.jpg;person:0.1319047
+boxes_8.jpg;footwear:0.11962264
+boxes_9.jpg;person:0.11126033
+boxes_10.jpg;clothing:0.10834272
+boxes_11.jpg;fashion accessory:0.08111574
+boxes_12.jpg;clothing:0.07812199
+boxes_13.jpg;book:0.07781438
+boxes_14.jpg;footwear:0.075675875
+boxes_15.jpg;table:0.06427237
+boxes_16.jpg;person:0.0641128
+boxes_17.jpg;person:0.060325414
+boxes_18.jpg;clothing:0.05815061
+boxes_19.jpg;fashion accessory:0.056295026
+boxes_20.jpg;clothing:0.053535283
+boxes_21.jpg;bottle:0.053534467
+boxes_22.jpg;musical instrument:0.053491067

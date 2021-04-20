@@ -1,0 +1,10 @@
+boxes_1.jpg;dust storm,duster,sandstorm,sirocco:0.11798294633626938;steppe:0.07874345034360886;dune,sand dune:0.059827208518981934;
+boxes_2.jpg;lander:0.17116521298885345;saltpan:0.10399212688207626;saltworks:0.061300668865442276;dune,sand dune:0.055809635668992996;
+boxes_3.jpg;passe-partout:0.0782766118645668;
+boxes_4.jpg;
+boxes_5.jpg;dust storm,duster,sandstorm,sirocco:0.23877862095832825;dune,sand dune:0.06378919631242752;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;dust storm,duster,sandstorm,sirocco:0.1863207370042801;ice mass:0.06374741345643997;
+boxes_9.jpg;floating,natation:0.05773744732141495;water polo:0.056083548814058304;breaststroker:0.05027315765619278;
+img_119.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.1377689093351364;ice floe,floe:0.08487805724143982;seashore,coast,seacoast,sea-coast:0.08026644587516785;ice mass:0.06471318006515503;ben:0.059317927807569504;

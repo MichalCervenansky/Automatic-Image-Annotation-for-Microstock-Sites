@@ -1,0 +1,18 @@
+boxes_1.jpg;color wash,colour wash:0.07793484628200531;powder:0.05104895681142807;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;
+boxes_13.jpg;swimming,swim:0.14168517291545868;powder:0.08924451470375061;chenille:0.07290330529212952;
+boxes_14.jpg;
+boxes_15.jpg;color wash,colour wash:0.06987250596284866;powder:0.06362245976924896;
+boxes_16.jpg;swimming,swim:0.11348439753055573;
+boxes_17.jpg;ice floe,floe:0.19723722338676453;
+boxes_2.jpg;color wash,colour wash:0.09333928674459457;ice floe,floe:0.05954905226826668;
+boxes_3.jpg;color wash,colour wash:0.1278630942106247;barrier reef:0.09921615570783615;marbleization,marbleisation,marbleizing,marbleising:0.05199412629008293;
+boxes_4.jpg;color wash,colour wash:0.08656949549913406;ice floe,floe:0.07742665708065033;vertical stabilizer,vertical stabiliser,vertical fin,tail fin,tailfin:0.052197083830833435;
+boxes_5.jpg;color wash,colour wash:0.21686704456806183;
+boxes_6.jpg;barrier reef:0.10637689381837845;color wash,colour wash:0.05544070899486542;
+boxes_7.jpg;ice floe,floe:0.2345869541168213;color wash,colour wash:0.08557557314634323;
+boxes_8.jpg;ice floe,floe:0.1626158505678177;color wash,colour wash:0.10391455888748169;
+boxes_9.jpg;barrier reef:0.06604190915822983;color wash,colour wash:0.05644628405570984;
+img_04.jpg;color wash,colour wash:0.11505407094955444;powder:0.10679057985544205;

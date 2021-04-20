@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;clouds;sky;striking;lightnings;
+from_object_detection:tree;
+from_image_classification:smoke screen;smokescreen;seashore;coast;seacoast;sea-coast;coastland;oceanfront;

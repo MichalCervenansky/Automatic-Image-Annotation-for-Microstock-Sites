@@ -1,0 +1,39 @@
+boxes_1.jpg;motorcycle:0.9512636
+boxes_2.jpg;bicycle:0.8323049
+boxes_3.jpg;wheel:0.6448298
+boxes_4.jpg;man:0.64478034
+boxes_5.jpg;wheel:0.63572395
+boxes_6.jpg;tree:0.5299422
+boxes_7.jpg;person:0.43546674
+boxes_8.jpg;bicycle wheel:0.3940189
+boxes_9.jpg;tire:0.38872978
+boxes_10.jpg;tire:0.3800856
+boxes_11.jpg;wheel:0.34562057
+boxes_12.jpg;clothing:0.29631433
+boxes_13.jpg;clothing:0.29420036
+boxes_14.jpg;bicycle:0.28768215
+boxes_15.jpg;tire:0.26535642
+boxes_16.jpg;tree:0.2373637
+boxes_17.jpg;tire:0.23501004
+boxes_18.jpg;person:0.17194848
+boxes_19.jpg;wheel:0.16132139
+boxes_20.jpg;tire:0.15726626
+boxes_21.jpg;wheel:0.1453975
+boxes_22.jpg;tree:0.13686952
+boxes_23.jpg;man:0.13649486
+boxes_24.jpg;wheel:0.13469657
+boxes_25.jpg;woman:0.13210775
+boxes_26.jpg;human face:0.11801264
+boxes_27.jpg;motorcycle:0.106762335
+boxes_28.jpg;tree:0.101515055
+boxes_29.jpg;wheel:0.09992715
+boxes_30.jpg;tire:0.09542483
+boxes_31.jpg;tree:0.084207214
+boxes_32.jpg;tree:0.08077522
+boxes_33.jpg;wheel:0.074437514
+boxes_34.jpg;tire:0.064540036
+boxes_35.jpg;tire:0.06183392
+boxes_36.jpg;bicycle wheel:0.060612198
+boxes_37.jpg;tire:0.0517564
+boxes_38.jpg;land vehicle:0.05158849
+boxes_39.jpg;tire:0.050918635

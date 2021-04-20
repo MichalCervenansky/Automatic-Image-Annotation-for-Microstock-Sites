@@ -1,0 +1,18 @@
+boxes_1.jpg;streetlight,street lamp:0.6839339137077332;post:0.11750032007694244;
+boxes_10.jpg;streetlight,street lamp:0.5745040774345398;lantern:0.3859182298183441;
+boxes_11.jpg;gray,grayness,grey,greyness:0.31571605801582336;high-rise,tower block:0.1288878619670868;rendering:0.06695692241191864;
+boxes_12.jpg;streetlight,street lamp:0.2728366255760193;post:0.23558373749256134;
+boxes_13.jpg;streetlight,street lamp:0.8338850736618042;lantern:0.05636626109480858;
+boxes_14.jpg;streetlight,street lamp:0.25673913955688477;post:0.15713024139404297;gas lamp:0.06565914303064346;
+boxes_15.jpg;streetlight,street lamp:0.8554995656013489;lantern:0.0983680933713913;
+boxes_16.jpg;streetlight,street lamp:0.8389613032341003;
+boxes_17.jpg;streetlight,street lamp:0.6630496382713318;lantern:0.10817892104387283;
+boxes_2.jpg;streetlight,street lamp:0.7887952327728271;
+boxes_3.jpg;streetlight,street lamp:0.9355738759040833;lantern:0.055881425738334656;
+boxes_4.jpg;streetlight,street lamp:0.7656184434890747;lantern:0.09505870938301086;
+boxes_5.jpg;streetlight,street lamp:0.7837134599685669;lantern:0.08061540126800537;
+boxes_6.jpg;streetlight,street lamp:0.9756684303283691;
+boxes_7.jpg;gray,grayness,grey,greyness:0.411308228969574;customhouse,customshouse:0.07391172647476196;rendering:0.07345908135175705;
+boxes_8.jpg;streetlight,street lamp:0.9548075795173645;
+boxes_9.jpg;streetlight,street lamp:0.8044754862785339;
+img_740.jpg;streetlight,street lamp:0.708177924156189;lantern:0.051817864179611206;

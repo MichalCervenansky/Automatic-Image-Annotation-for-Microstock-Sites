@@ -1,0 +1,5 @@
+boxes_1.jpg;mouse,computer mouse:0.9034479260444641;mouse button:0.06019846349954605;
+boxes_2.jpg;mouse,computer mouse:0.9572173953056335;
+boxes_3.jpg;mouse,computer mouse:0.953382670879364;
+boxes_4.jpg;mouse,computer mouse:0.9532334804534912;
+img_586.jpg;mouse,computer mouse:0.941678524017334;

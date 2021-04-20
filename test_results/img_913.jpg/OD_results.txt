@@ -1,0 +1,15 @@
+boxes_1.jpg;coin:0.69215506
+boxes_2.jpg;clothing:0.6863001
+boxes_3.jpg;coin:0.6767626
+boxes_4.jpg;fashion accessory:0.3708465
+boxes_5.jpg;coin:0.349989
+boxes_6.jpg;fashion accessory:0.25646073
+boxes_7.jpg;clothing:0.18418701
+boxes_8.jpg;food:0.1653214
+boxes_9.jpg;clothing:0.1501316
+boxes_10.jpg;coin:0.12035539
+boxes_11.jpg;fashion accessory:0.08918599
+boxes_12.jpg;person:0.080272876
+boxes_13.jpg;coin:0.061303664
+boxes_14.jpg;fashion accessory:0.05891309
+boxes_15.jpg;coin:0.055104833

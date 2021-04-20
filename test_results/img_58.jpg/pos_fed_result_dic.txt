@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;pasta;scrampi;square;plate;
+from_object_detection:lobster;shrimp;food;clothing;fast food;seafood;pasta;tableware;
+from_image_classification:ultramarine;tangle;sea anemone;anemone;zooid;scarf;norway lobster;nephrops norvegicus;scorpion;crayfish;crawfish;crawdad;crawdaddy;european lobster;homarus vulgaris;finger-painting;

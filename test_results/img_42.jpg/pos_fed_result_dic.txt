@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:building;window;house;
+from_image_classification:quoin;coign;coigne;convent;barrel vault;round arch;bell gable;moorish arch;horseshoe arch;palace;picture frame;salver;tray;overmantel;pier glass;pier mirror;mantel;mantelpiece;mantle;mantlepiece;chimneypiece;balcony;presbytery;ministry;building;edifice;town hall;chancellery;casing;case;window;monastery;pediment;church tower;

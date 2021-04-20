@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;plant;kite;bird;
+from_image_classification:negative;ridge;oil paint;mountain;mount;swamp birch;water birch;mountain birch;western paper birch;western birch;betula fontinalis;silver tree;tarrietia argyrodendron;grey birch;gray birch;american grey birch;american gray birch;betula populifolia;glutton;gulo gulo;wolverine;elk;european elk;moose;alces alces;snowcap;ski slope;sunniness;gaff topsail;fore-and-aft topsail;felucca;ski tow;ski lift;lift;snowdrift;

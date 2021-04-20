@@ -1,0 +1,13 @@
+boxes_1.jpg;jolly boat,jolly:0.5467697978019714;rowing boat:0.18708787858486176;small boat:0.07911790907382965;
+boxes_10.jpg;lakeside,lakeshore:0.16698889434337616;shore:0.053813233971595764;seashore,coast,seacoast,sea-coast:0.05086836218833923;
+boxes_11.jpg;small boat:0.16603291034698486;rowing boat:0.1621864140033722;
+boxes_12.jpg;wood chisel:0.05777830258011818;
+boxes_2.jpg;waterside:0.30721285939216614;small boat:0.15633372962474823;
+boxes_3.jpg;Australian pine,Casuarina equisetfolia:0.0579998716711998;slope,incline,side:0.05029528588056564;
+boxes_4.jpg;small boat:0.15158389508724213;water scooter,sea scooter,scooter:0.09196814149618149;tender,ship's boat,pinnace,cutter:0.0839502364397049;aquaplane:0.07302484661340714;troll,trolling:0.0723208338022232;outboard motor,outboard:0.06288251280784607;outboard motorboat,outboard:0.059071555733680725;
+boxes_5.jpg;canoe:0.8373413681983948;kayak:0.05716071277856827;
+boxes_6.jpg;canoe:0.5271459817886353;skeg:0.08332838863134384;kayak:0.06398563086986542;
+boxes_7.jpg;
+boxes_8.jpg;outboard motorboat,outboard:0.19939152896404266;outboard motor,outboard:0.1405656337738037;small boat:0.09418531507253647;tender,ship's boat,pinnace,cutter:0.08047487586736679;troll,trolling:0.07551004737615585;water scooter,sea scooter,scooter:0.0589507557451725;aquaplane:0.05819207429885864;
+boxes_9.jpg;sculling:0.08123812824487686;small boat:0.07606854289770126;wherry:0.05642520263791084;rowing boat:0.055337004363536835;
+img_498.jpg;seashore,coast,seacoast,sea-coast:0.5129035115242004;waterside:0.060167346149683;

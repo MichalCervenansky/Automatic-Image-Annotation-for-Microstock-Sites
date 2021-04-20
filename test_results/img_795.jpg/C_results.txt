@@ -1,0 +1,12 @@
+boxes_1.jpg;sailboat,sailing boat:0.28858327865600586;boat:0.26409637928009033;small boat:0.1277320832014084;
+boxes_10.jpg;canoe:0.7360555529594421;
+boxes_11.jpg;
+boxes_2.jpg;dinghy,dory,rowboat:0.4900226294994354;small boat:0.17387056350708008;rowing boat:0.11362147331237793;
+boxes_3.jpg;nautilus,nuclear submarine,nuclear-powered submarine:0.2940785586833954;sandbank:0.09431121498346329;fleet ballistic missile submarine:0.08734891563653946;
+boxes_4.jpg;canoe:0.8761237263679504;
+boxes_5.jpg;nautilus,nuclear submarine,nuclear-powered submarine:0.3327218294143677;attack submarine:0.11013900488615036;
+boxes_6.jpg;
+boxes_7.jpg;canoe:0.862691342830658;
+boxes_8.jpg;canoe:0.5484680533409119;banana boat:0.06580522656440735;
+boxes_9.jpg;crabeater seal,crab-eating seal:0.2216145247220993;sandbank:0.08935033529996872;ice floe,floe:0.0818512812256813;nautilus,nuclear submarine,nuclear-powered submarine:0.05821606516838074;saltpan:0.05690912902355194;
+img_795.jpg;seashore,coast,seacoast,sea-coast:0.18649226427078247;landfall:0.0985812097787857;sailboat,sailing boat:0.08719924837350845;

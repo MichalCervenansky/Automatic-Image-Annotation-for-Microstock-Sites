@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;romanian;ruins;turkey;
+from_object_detection:tree;building;plant;castle;
+from_image_classification:ridge;slope;incline;side;geological formation;formation;stronghold;fastness;hillside;coal seam;bluff;snowplow;snowplough;snow thrower;snow blower;escarpment;escarp;scarp;protective embankment;ben;alp;snowmobile;musher;ice;water ice;mountain sheep;river otter;lutra canadensis;sea lion;floating;natation;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;cellophane;voile;abutment;windshield;windscreen;whinstone;whin;riverbank;riverside;

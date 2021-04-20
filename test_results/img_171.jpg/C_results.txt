@@ -1,0 +1,13 @@
+boxes_1.jpg;thistledown:0.8617119193077087;
+boxes_10.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.12091193348169327;
+boxes_11.jpg;composite,composite plant:0.22562989592552185;luffa,dishcloth gourd,sponge gourd,rag gourd,strainer vine:0.11794725060462952;loofah,vegetable sponge,Luffa cylindrica:0.07342836260795593;friar's-cowl,Arisarum vulgare:0.07226492464542389;
+boxes_12.jpg;red clover,purple clover,Trifolium pratense:0.14013105630874634;alfalfa:0.11381492018699646;mildew:0.08054273575544357;
+boxes_2.jpg;thistledown:0.9212928414344788;
+boxes_3.jpg;thistledown:0.21450446546077728;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.16621769964694977;dandelion green:0.10084439069032669;flower:0.09119043499231339;sow thistle,milk thistle:0.05878037214279175;negative:0.058476243168115616;
+boxes_4.jpg;thistledown:0.4423919916152954;negative:0.17671240866184235;dandelion green:0.056657686829566956;
+boxes_5.jpg;
+boxes_6.jpg;composite,composite plant:0.2884693741798401;
+boxes_7.jpg;thistledown:0.6234114170074463;dandelion green:0.12889842689037323;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.06348033249378204;
+boxes_8.jpg;
+boxes_9.jpg;
+img_171.jpg;thistledown:0.6308932900428772;dandelion green:0.0635681226849556;

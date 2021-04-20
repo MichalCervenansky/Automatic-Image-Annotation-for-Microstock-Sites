@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;porec;hrvatia;night;
+from_object_detection:tower;crocodile;boat;skyscraper;building;vehicle;tree;
+from_image_classification:negative;smoke screen;smokescreen;vivarium;rock;stone;glacier;seashore;coast;seacoast;sea-coast;shore;riverbank;riverside;iceberg;berg;skating;light;light source;rink;skating rink;source of illumination;booster;booster rocket;booster unit;takeoff booster;takeoff rocket;rocket;rocket engine;spacecraft;ballistic capsule;space vehicle;test rocket;research rocket;test instrument vehicle;living quarters;quarters;ship;poop deck;waterfront;

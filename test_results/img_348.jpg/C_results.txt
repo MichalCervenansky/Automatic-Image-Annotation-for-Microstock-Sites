@@ -1,0 +1,8 @@
+boxes_1.jpg;moneran,moneron:0.06296709179878235;
+boxes_2.jpg;swimming,swim:0.23276647925376892;plughole:0.2205248326063156;breaststroker:0.06620334833860397;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;silverpoint:0.07237736880779266;
+boxes_7.jpg;
+img_348.jpg;sidewalk,pavement:0.4456077218055725;

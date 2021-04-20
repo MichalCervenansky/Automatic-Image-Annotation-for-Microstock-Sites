@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;shot;large;working;ants;
+from_object_detection:ant;tree;insect;
+from_image_classification:ant;emmet;pismire;leaf-cutting bee;leaf-cutter;leaf-cutter bee;sanguinary ant;formica sanguinea;army ant;driver ant;legionary ant;fire ant;doodlebug;ant lion;antlion;citrus mealybug;planococcus citri;mucor;geological formation;formation;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;black widow;latrodectus mactans;cobweb;comb-footed spider;theridiid;formica fusca;

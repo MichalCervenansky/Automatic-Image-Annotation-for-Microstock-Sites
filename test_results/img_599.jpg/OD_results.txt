@@ -1,0 +1,5 @@
+boxes_1.jpg;computer keyboard:0.9899041
+boxes_2.jpg;desk:0.09540856
+boxes_3.jpg;office supplies:0.08700408
+boxes_4.jpg;table:0.08420191
+boxes_5.jpg;auto part:0.061226383

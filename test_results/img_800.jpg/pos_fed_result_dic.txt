@@ -1,0 +1,3 @@
+from_image_IPTC:fresh;fish;beach;prepared;cook;
+from_object_detection:fish;food;
+from_image_classification:porgy;croaker;black bream;chrysophrys australis;robalo;horse mackerel;saurel;trachurus trachurus;sea bream;bream;king whiting;menticirrhus americanus;food fish;smelt;saury;billfish;scomberesox saurus;hake;white croaker;chenfish;kingfish;genyonemus lineatus;whiting;ice mass;marshmallow;alabaster;silver perch;mademoiselle;bairdiella chrysoura;bottom-feeder;bottom-dweller;

@@ -1,0 +1,8 @@
+boxes_1.jpg;boat:0.96730876
+boxes_2.jpg;vehicle:0.73093027
+boxes_3.jpg;street light:0.42791638
+boxes_4.jpg;street light:0.42247286
+boxes_5.jpg;penguin:0.2861384
+boxes_6.jpg;vehicle:0.082763284
+boxes_7.jpg;land vehicle:0.059938207
+boxes_8.jpg;watercraft:0.050829917

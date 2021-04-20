@@ -1,0 +1,3 @@
+from_image_IPTC:leaves;rocks;carried;along;water;melted;snow;
+from_object_detection:animal;food;dessert;
+from_image_classification:watercourse;rock;stone;spring water;branch water;arroyo;bubble shell;

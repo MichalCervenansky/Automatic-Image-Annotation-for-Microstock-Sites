@@ -1,0 +1,17 @@
+boxes_1.jpg;roll-on roll-off:0.48944348096847534;shipping,cargo ships,merchant marine,merchant vessels:0.07200460880994797;warship,war vessel,combat ship:0.06479042768478394;
+boxes_10.jpg;
+boxes_11.jpg;hovercraft,ground-effect machine:0.43466928601264954;ferry,ferryboat:0.06901773810386658;
+boxes_12.jpg;fireboat:0.1254505068063736;ferry,ferryboat:0.11316657066345215;dredger:0.09272854775190353;hovercraft,ground-effect machine:0.09221281111240387;trawler,dragger:0.06504577398300171;
+boxes_13.jpg;newsreader,news reader:0.07197635620832443;television receiver,television,television set,tv,tv set,idiot box,boob tube,telly,goggle box:0.05088300630450249;
+boxes_14.jpg;
+boxes_15.jpg;
+boxes_16.jpg;trailer truck,tractor trailer,trucking rig,rig,articulated lorry,semi:0.2748582065105438;freight liner,liner train:0.053323496133089066;
+boxes_2.jpg;converging lens,convex lens:0.09889549762010574;
+boxes_3.jpg;hovercraft,ground-effect machine:0.20765361189842224;fireboat:0.06825610250234604;poop deck:0.059008896350860596;hurricane deck,hurricane roof,promenade deck,awning deck:0.05705485865473747;
+boxes_4.jpg;hovercraft,ground-effect machine:0.160512775182724;ferry,ferryboat:0.12352779507637024;
+boxes_5.jpg;
+boxes_6.jpg;roll-on roll-off:0.29839494824409485;warship,war vessel,combat ship:0.10765621066093445;surface ship:0.08774485439062119;shipping,cargo ships,merchant marine,merchant vessels:0.0761164203286171;
+boxes_7.jpg;Zamboni:0.2625468969345093;
+boxes_8.jpg;ultraviolet lamp,ultraviolet source:0.06849200278520584;
+boxes_9.jpg;roll-on roll-off:0.2909853756427765;warship,war vessel,combat ship:0.11714661121368408;tender,supply ship:0.06642676889896393;shipping,cargo ships,merchant marine,merchant vessels:0.05713711678981781;
+img_891.jpg;pier:0.308146595954895;riverbank,riverside:0.05656297877430916;outfall:0.05379853397607803;

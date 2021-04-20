@@ -1,0 +1,14 @@
+boxes_1.jpg;fish:0.97353894
+boxes_2.jpg;marine invertebrates:0.8264164
+boxes_3.jpg;marine invertebrates:0.5286209
+boxes_4.jpg;marine invertebrates:0.2779135
+boxes_5.jpg;plant:0.18914181
+boxes_6.jpg;marine invertebrates:0.13899262
+boxes_7.jpg;marine invertebrates:0.11218311
+boxes_8.jpg;marine invertebrates:0.10555178
+boxes_9.jpg;marine invertebrates:0.101197906
+boxes_10.jpg;marine invertebrates:0.0939847
+boxes_11.jpg;fish:0.08527273
+boxes_12.jpg;plant:0.06833953
+boxes_13.jpg;marine invertebrates:0.06520184
+boxes_14.jpg;marine invertebrates:0.05903963

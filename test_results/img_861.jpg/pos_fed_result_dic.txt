@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;
+from_image_classification:mountain;mount;alp;sunniness;ridge;col;gap;western white pine;silver pine;mountain pine;pinus monticola;sled dog;sledge dog;snowmobile;ski slope;mountainside;versant;piste;langlaufer;virginia deer;white tail;whitetail;white-tailed deer;whitetail deer;odocoileus virginianus;elk;european elk;moose;alces alces;windshield;windscreen;snow thrower;snow blower;snowdrift;telpherage;telferage;strongbox;deedbox;oil paint;alpine fir;subalpine fir;abies lasiocarpa;hot tub;negative;byway;bypath;byroad;road;route;

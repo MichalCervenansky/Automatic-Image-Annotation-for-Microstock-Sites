@@ -1,0 +1,3 @@
+from_image_IPTC:student;notes;took;class;school;
+from_object_detection:bird;kite;
+from_image_classification:obtuse triangle;obtuse-angled triangle;hypotenuse;triangle;trigon;trilateral;acute triangle;acute-angled triangle;quadrate;

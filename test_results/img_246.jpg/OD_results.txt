@@ -1,0 +1,11 @@
+boxes_1.jpg;food:0.81614685
+boxes_2.jpg;food:0.691007
+boxes_3.jpg;dessert:0.27640903
+boxes_4.jpg;baked goods:0.14343202
+boxes_5.jpg;tortoise:0.09978715
+boxes_6.jpg;shellfish:0.079270795
+boxes_7.jpg;dessert:0.07881578
+boxes_8.jpg;turtle:0.076461904
+boxes_9.jpg;turtle:0.06827468
+boxes_10.jpg;snack:0.063555874
+boxes_11.jpg;sea turtle:0.0634656

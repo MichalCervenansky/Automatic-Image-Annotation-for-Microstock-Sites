@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;foggy;forest;heart;czech;republic;
+from_object_detection:tree;
+from_image_classification:arizona cypress;cupressus arizonica;spanish elm;equador laurel;salmwood;cypre;princewood;cordia alliodora;roe deer;capreolus capreolus;mountain sheep;elk;european elk;moose;alces alces;wapiti;american elk;cervus elaphus canadensis;sunniness;ridge;hillside;dust storm;duster;sandstorm;sirocco;stag;iron horse;verticillium;mildew;artemisia;riverbank;riverside;caribou;reindeer;greenland caribou;rangifer tarandus;woodland caribou;rangifer caribou;snowdrift;musher;smoke screen;smokescreen;negative;hemlock;hemlock tree;

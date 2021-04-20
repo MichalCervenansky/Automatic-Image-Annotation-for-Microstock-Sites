@@ -1,0 +1,7 @@
+boxes_1.jpg;African monitor,Varanus niloticus:0.9353744983673096;
+boxes_2.jpg;African monitor,Varanus niloticus:0.9080904126167297;
+boxes_3.jpg;
+boxes_4.jpg;African monitor,Varanus niloticus:0.8937616348266602;
+boxes_5.jpg;African monitor,Varanus niloticus:0.8626667857170105;
+boxes_6.jpg;chameleon,chamaeleon:0.18019793927669525;collared lizard:0.15548361837863922;tailed frog,bell toad,ribbed toad,tailed toad,Ascaphus trui:0.05575817450881004;
+img_639.jpg;African monitor,Varanus niloticus:0.8848045468330383;

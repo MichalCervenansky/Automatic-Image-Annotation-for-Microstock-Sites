@@ -1,0 +1,3 @@
+from_image_IPTC:tired;dog;sleeping;sofa;rhodesian;ridgeback;
+from_object_detection:dog;couch;dog bed;curtain;furniture;chair;studio couch;sofa bed;
+from_image_classification:great dane;cur;mongrel;mutt;watchdog;guard dog;couch;dog;domestic dog;canis familiaris;sofa;lounge;labrador retriever;german short-haired pointer;covered couch;hunting dog;coonhound;easy chair;lounge chair;overstuffed chair;bitch;male;

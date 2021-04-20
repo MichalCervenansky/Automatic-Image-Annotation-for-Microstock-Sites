@@ -1,0 +1,12 @@
+boxes_1.jpg;shellfish:0.91828
+boxes_2.jpg;shellfish:0.85421604
+boxes_3.jpg;insect:0.81077015
+boxes_4.jpg;shellfish:0.70981044
+boxes_5.jpg;shellfish:0.45928288
+boxes_6.jpg;invertebrate:0.3319766
+boxes_7.jpg;animal:0.2276264
+boxes_8.jpg;invertebrate:0.15882695
+boxes_9.jpg;isopod:0.106326945
+boxes_10.jpg;insect:0.09749659
+boxes_11.jpg;shellfish:0.07424376
+boxes_12.jpg;invertebrate:0.050562758

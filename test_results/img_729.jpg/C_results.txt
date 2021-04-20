@@ -1,0 +1,14 @@
+boxes_1.jpg;gorgonian,gorgonian coral:0.5057427883148193;sea anemone,anemone:0.24468021094799042;benthos:0.10153763741254807;benthos,benthic division,benthonic zone:0.05911776050925255;
+boxes_10.jpg;sponge,poriferan,parazoan:0.11237115412950516;sea fan:0.06683548539876938;reef:0.058812499046325684;
+boxes_11.jpg;coral reef:0.2405487596988678;sea anemone,anemone:0.16699019074440002;
+boxes_12.jpg;sea anemone,anemone:0.6654332876205444;benthos:0.11228105425834656;actinia,actinian,actiniarian:0.066392682492733;benthos,benthic division,benthonic zone:0.06080218404531479;anthozoan,actinozoan:0.05556870996952057;
+boxes_13.jpg;spiny lobster,langouste,rock lobster,crawfish,crayfish,sea crawfish:0.19349749386310577;sea anemone,anemone:0.05124649405479431;
+boxes_2.jpg;sea anemone,anemone:0.8834074139595032;actinia,actinian,actiniarian:0.06543475389480591;
+boxes_3.jpg;sea anemone,anemone:0.9317125678062439;
+boxes_4.jpg;stony coral,madrepore,madriporian coral:0.0786333680152893;sea fan:0.06249169260263443;
+boxes_5.jpg;sea anemone,anemone:0.6168124675750732;benthos:0.13082295656204224;anthozoan,actinozoan:0.07872240990400314;benthos,benthic division,benthonic zone:0.062210772186517715;gorgonian,gorgonian coral:0.052358925342559814;
+boxes_6.jpg;sea anemone,anemone:0.9962822794914246;
+boxes_7.jpg;sea anemone,anemone:0.8405439257621765;
+boxes_8.jpg;sea anemone,anemone:0.43020394444465637;gorgonian,gorgonian coral:0.23580721020698547;benthos:0.13054287433624268;benthos,benthic division,benthonic zone:0.0773446187376976;anthozoan,actinozoan:0.06571568548679352;
+boxes_9.jpg;ciliate,ciliated protozoan,ciliophoran:0.6109969615936279;ameba,amoeba:0.0831717699766159;
+img_729.jpg;gorgonian,gorgonian coral:0.4687116742134094;sea anemone,anemone:0.33659934997558594;

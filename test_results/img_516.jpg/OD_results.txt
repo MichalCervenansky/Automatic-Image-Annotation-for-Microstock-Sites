@@ -1,0 +1,22 @@
+boxes_1.jpg;wheel:0.7886914
+boxes_2.jpg;land vehicle:0.66840476
+boxes_3.jpg;car:0.42257303
+boxes_4.jpg;auto part:0.29642236
+boxes_5.jpg;land vehicle:0.28090006
+boxes_6.jpg;auto part:0.22451042
+boxes_7.jpg;vehicle:0.20922166
+boxes_8.jpg;wheel:0.15860027
+boxes_9.jpg;train:0.15271407
+boxes_10.jpg;wheel:0.15191293
+boxes_11.jpg;land vehicle:0.12311111
+boxes_12.jpg;auto part:0.11453243
+boxes_13.jpg;auto part:0.103264876
+boxes_14.jpg;tire:0.083634146
+boxes_15.jpg;land vehicle:0.07259636
+boxes_16.jpg;car:0.06908991
+boxes_17.jpg;vehicle:0.06812217
+boxes_18.jpg;auto part:0.05987256
+boxes_19.jpg;auto part:0.058548223
+boxes_20.jpg;wheel:0.05456771
+boxes_21.jpg;vehicle:0.05409698
+boxes_22.jpg;car:0.052453138

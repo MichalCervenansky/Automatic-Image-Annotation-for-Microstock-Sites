@@ -1,0 +1,3 @@
+from_image_IPTC:delicious;chicken;meat;sweet;corn;mashed;potatoes;cucumber;homemade;
+from_object_detection:food;cucumber;zucchini;vegetable;snack;
+from_image_classification:streptomyces;photomicrograph;ice floe;floe;top;cover;lather;soapsuds;suds;bracteole;bractlet;icetray;octagon;bath salts;bedpan;yeast;ice water;coconut milk;coconut cream;sitz bath;hip bath;plughole;hand lotion;soapbox;icing sugar;saccharin;polygon;polygonal shape;negative;special;dumpling;greenish blue;aqua;aquamarine;turquoise;cobalt blue;peacock blue;

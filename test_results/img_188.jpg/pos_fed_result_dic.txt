@@ -1,0 +1,3 @@
+from_image_IPTC:palm;tree;beach;turkey;
+from_object_detection:palm tree;tree;plant;
+from_image_classification:palmyra;palmyra palm;toddy palm;wine palm;lontar;longar palm;borassus flabellifer;negative;fan palm;grugru;gri-gri;grugru palm;macamba;acrocomia aculeata;silversword;argyroxiphium sandwicense;cabbage palm;roystonea oleracea;palmetto;ice;water ice;caranday;caranda;caranda palm;wax palm;copernicia australis;copernicia alba;african oil palm;elaeis guineensis;

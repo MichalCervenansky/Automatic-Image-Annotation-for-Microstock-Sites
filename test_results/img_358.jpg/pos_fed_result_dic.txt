@@ -1,0 +1,3 @@
+from_image_IPTC:narrow;street;croatian;village;nerezine;
+from_object_detection:window;tree;stairs;building;house;
+from_image_classification:breeder;stock breeder;backstairs;sunniness;irrigation ditch;arroyo;

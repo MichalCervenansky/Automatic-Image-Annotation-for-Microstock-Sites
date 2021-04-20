@@ -1,0 +1,6 @@
+boxes_1.jpg;reptile:0.7323859
+boxes_2.jpg;lizard:0.6773407
+boxes_3.jpg;plant:0.3336788
+boxes_4.jpg;crocodile:0.26970652
+boxes_5.jpg;reptile:0.09790289
+boxes_6.jpg;plant:0.06186123

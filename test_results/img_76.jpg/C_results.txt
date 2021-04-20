@@ -1,0 +1,12 @@
+boxes_1.jpg;ferry,ferryboat:0.32394447922706604;superstructure:0.07320550829172134;hurricane deck,hurricane roof,promenade deck,awning deck:0.052046697586774826;vessel,watercraft:0.05100591480731964;
+boxes_10.jpg;
+boxes_11.jpg;skidder:0.4188753068447113;harvester,reaper:0.06332611292600632;
+boxes_2.jpg;snowplow,snowplough:0.11073433607816696;tramline,tramway,streetcar track:0.08766356855630875;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;drawbridge,lift bridge:0.9255104064941406;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;windshield,windscreen:0.08883890509605408;
+img_76.jpg;drawbridge,lift bridge:0.9832292199134827;

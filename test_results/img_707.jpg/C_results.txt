@@ -1,0 +1,14 @@
+boxes_1.jpg;cuttlefish,cuttle:0.9974802136421204;
+boxes_10.jpg;giant clam,Tridacna gigas:0.8946086168289185;
+boxes_11.jpg;sea slug,nudibranch:0.05810919404029846;
+boxes_12.jpg;triggerfish:0.08712659031152725;damselfish,demoiselle:0.08703795820474625;cornetfish:0.06725307554006577;jawfish:0.061840008944272995;coral reef:0.05352868512272835;
+boxes_13.jpg;cuttlefish,cuttle:0.9845126271247864;
+boxes_2.jpg;cuttlefish,cuttle:0.9851019382476807;
+boxes_3.jpg;giant clam,Tridacna gigas:0.07404446601867676;jawfish:0.07271182537078857;lizardfish,snakefish,snake-fish:0.07029183954000473;
+boxes_4.jpg;giant clam,Tridacna gigas:0.1496964544057846;cornetfish:0.08983804285526276;triggerfish:0.07286763936281204;porcupinefish,porcupine fish,Diodon hystrix:0.05131461098790169;
+boxes_5.jpg;sea slug,nudibranch:0.30463194847106934;giant clam,Tridacna gigas:0.05329257249832153;
+boxes_6.jpg;cuttlefish,cuttle:0.9963913559913635;
+boxes_7.jpg;jellyfish:0.21257518231868744;salp,salpa:0.14376294612884521;sea slug,nudibranch:0.06835201382637024;zooid:0.06306716054677963;tunicate,urochordate,urochord:0.05757715925574303;
+boxes_8.jpg;cuttlefish,cuttle:0.997285008430481;
+boxes_9.jpg;endameba:0.39386025071144104;ciliate,ciliated protozoan,ciliophoran:0.09083811938762665;
+img_707.jpg;cuttlefish,cuttle:0.63397616147995;giant clam,Tridacna gigas:0.16413792967796326;stonefish,Synanceja verrucosa:0.13791480660438538;

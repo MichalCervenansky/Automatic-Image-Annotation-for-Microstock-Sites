@@ -1,0 +1,3 @@
+from_image_IPTC:charging;white;smart;phone;graphite;desk;
+from_object_detection:mobile phone;headphones;
+from_image_classification:booster;booster amplifier;booster station;relay link;relay station;relay transmitter;modem;wireless;converter;convertor;ipod;wireless local area network;wlan;wireless fidelity;wifi;rediffusion;

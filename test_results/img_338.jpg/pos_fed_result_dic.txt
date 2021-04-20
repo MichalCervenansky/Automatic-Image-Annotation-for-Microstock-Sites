@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;homemade;kebab;vegetables;chicken;meat;second;
+from_object_detection:food;taco;pizza;baked goods;fast food;salad;
+from_image_classification:dish;arame;batter;ultramarine;coloring;colouring;food coloring;food colouring;food color;food colour;tessera;garnish;blue;blueness;jello;jell-o;

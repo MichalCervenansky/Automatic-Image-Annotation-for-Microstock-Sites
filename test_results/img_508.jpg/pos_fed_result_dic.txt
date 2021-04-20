@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tire;person;plant;man;window;clothing;tree;
+from_image_classification:sedan;saloon;beach wagon;station wagon;wagon;estate car;beach waggon;station waggon;waggon;bodywork;hubcap;windshield;windscreen;frock;revers;revere;pedal pusher;toreador pants;car door;backseat;call center;call centre;tailpipe;foglamp;bumper;bumper guard;spotlight;spot;flood;floodlight;flood lamp;photoflood;emerald;horse racing;car seat;headlight;headlamp;loaner;outside mirror;hot rod;hot-rod;

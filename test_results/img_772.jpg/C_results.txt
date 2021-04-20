@@ -1,0 +1,11 @@
+boxes_1.jpg;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.12914887070655823;bayberry,bay-rum tree,Jamaica bayberry,wild cinnamon,Pimenta acris:0.05955936759710312;
+boxes_10.jpg;Virginia deer,white tail,whitetail,white-tailed deer,whitetail deer,Odocoileus Virginianus:0.054385408759117126;
+boxes_2.jpg;bayberry,bay-rum tree,Jamaica bayberry,wild cinnamon,Pimenta acris:0.06511403620243073;black cottonwood,Western balsam poplar,Populus trichocarpa:0.06258144974708557;black mangrove,Aegiceras majus:0.06018650904297829;
+boxes_3.jpg;sea lion:0.06629785895347595;
+boxes_4.jpg;bayberry,bay-rum tree,Jamaica bayberry,wild cinnamon,Pimenta acris:0.08369164168834686;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.06599768251180649;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;housetop:0.1082669347524643;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.06374534964561462;
+boxes_8.jpg;glacier:0.06159321963787079;
+boxes_9.jpg;
+img_772.jpg;slate roof:0.7870808839797974;housetop:0.11067425459623337;

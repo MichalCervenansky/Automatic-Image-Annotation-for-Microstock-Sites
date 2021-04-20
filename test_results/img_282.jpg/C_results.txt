@@ -1,0 +1,5 @@
+boxes_1.jpg;wild boar,boar,Sus scrofa:0.3588641583919525;boar:0.3387301564216614;hog,pig,grunter,squealer,Sus scrofa:0.08501847088336945;
+boxes_2.jpg;peccary,musk hog:0.297902375459671;collared peccary,javelina,Tayassu angulatus,Tayassu tajacu,Peccari angulatus:0.263692170381546;takin,gnu goat,Budorcas taxicolor:0.05825620889663696;
+boxes_3.jpg;collared peccary,javelina,Tayassu angulatus,Tayassu tajacu,Peccari angulatus:0.4128020107746124;peccary,musk hog:0.2530564069747925;silver fox:0.0771557092666626;
+boxes_4.jpg;collared peccary,javelina,Tayassu angulatus,Tayassu tajacu,Peccari angulatus:0.41324618458747864;peccary,musk hog:0.2048722207546234;red fox,Vulpes vulpes:0.06224723905324936;
+img_282.jpg;boar:0.32045164704322815;wild boar,boar,Sus scrofa:0.3003681004047394;pig bed,pig:0.1333768218755722;hog,pig,grunter,squealer,Sus scrofa:0.05224187672138214;

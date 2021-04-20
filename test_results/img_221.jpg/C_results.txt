@@ -1,0 +1,14 @@
+boxes_1.jpg;amphitheater,amphitheatre:0.9427870512008667;amphitheater,amphitheatre,coliseum:0.05530262738466263;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;amphitheater,amphitheatre:0.9900464415550232;
+boxes_13.jpg;hot tub:0.1006513237953186;
+boxes_2.jpg;amphitheater,amphitheatre:0.8297319412231445;amphitheater,amphitheatre,coliseum:0.1663159430027008;
+boxes_3.jpg;amphitheater,amphitheatre:0.9872146844863892;
+boxes_4.jpg;toggle switch,toggle,on-off switch,on/off switch:0.06479334086179733;
+boxes_5.jpg;Unknown Soldier:0.06710095703601837;
+boxes_6.jpg;colonnade:0.9465066194534302;
+boxes_7.jpg;igloo,iglu:0.9897568821907043;
+boxes_8.jpg;hot tub:0.3004959523677826;
+boxes_9.jpg;amphitheater,amphitheatre:0.9437353610992432;amphitheater,amphitheatre,coliseum:0.054085809737443924;
+img_221.jpg;amphitheater,amphitheatre:0.9589517712593079;

@@ -1,0 +1,14 @@
+boxes_1.jpg;silver fir:0.15806032717227936;douglas fir:0.09748464822769165;oriental spruce,Picea orientalis:0.07238858938217163;pinetum:0.052537329494953156;
+boxes_10.jpg;gray,grayness,grey,greyness:0.8725066781044006;
+boxes_11.jpg;gray,grayness,grey,greyness:0.26343226432800293;sunniness:0.101897694170475;Sitka spruce,Picea sitchensis:0.09453678876161575;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.061780136078596115;douglas fir:0.05726001784205437;
+boxes_12.jpg;deodar,deodar cedar,Himalayan cedar,Cedrus deodara:0.1968761831521988;Colorado spruce,Colorado blue spruce,silver spruce,Picea pungens:0.13165175914764404;silver fir:0.11261621862649918;hemlock,hemlock tree:0.1087062880396843;
+boxes_13.jpg;willow,willow tree:0.17868725955486298;
+boxes_2.jpg;gray,grayness,grey,greyness:0.1244114488363266;hemlock,hemlock tree:0.09073624014854431;deodar,deodar cedar,Himalayan cedar,Cedrus deodara:0.07178676873445511;
+boxes_3.jpg;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.16001267731189728;silver fir:0.123912014067173;douglas fir:0.0914207473397255;pinetum:0.07678896188735962;
+boxes_4.jpg;gray,grayness,grey,greyness:0.4484049379825592;
+boxes_5.jpg;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.14281867444515228;silver fir:0.13371378183364868;douglas fir:0.10897756367921829;Colorado spruce,Colorado blue spruce,silver spruce,Picea pungens:0.059656109660863876;pinetum:0.0593242421746254;
+boxes_6.jpg;
+boxes_7.jpg;pinetum:0.12245306372642517;douglas fir:0.08587043732404709;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.06639401614665985;Sitka spruce,Picea sitchensis:0.0594269335269928;
+boxes_8.jpg;
+boxes_9.jpg;smoke screen,smokescreen:0.05681580305099487;gray,grayness,grey,greyness:0.05044851452112198;
+img_630.jpg;gray,grayness,grey,greyness:0.6940797567367554;

@@ -1,0 +1,3 @@
+from_image_IPTC:cute;little;fat;cat;turkish;street;
+from_object_detection:cat;tree;plant;
+from_image_classification:domestic cat;house cat;felis domesticus;felis catus;tom;tomcat;alley cat;encolure;simian;elephant;groenendael;angora;angora cat;black squirrel;tapir;malayan tapir;indian tapir;tapirus indicus;sloth bear;melursus ursinus;ursus ursinus;menagerie;zoo;zoological garden;cat;true cat;

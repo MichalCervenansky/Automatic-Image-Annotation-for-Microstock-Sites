@@ -1,0 +1,7 @@
+boxes_1.jpg;duck:0.94418776
+boxes_2.jpg;duck:0.7969651
+boxes_3.jpg;animal:0.2218688
+boxes_4.jpg;duck:0.19260582
+boxes_5.jpg;goose:0.08105545
+boxes_6.jpg;marine mammal:0.073468134
+boxes_7.jpg;bird:0.05915421

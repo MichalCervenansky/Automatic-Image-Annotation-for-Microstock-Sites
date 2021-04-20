@@ -1,0 +1,10 @@
+boxes_1.jpg;
+boxes_2.jpg;stony coral,madrepore,madriporian coral:0.12220390886068344;Aspergillus fumigatus:0.07415212690830231;
+boxes_3.jpg;shore:0.4000057876110077;riverbank,riverside:0.23340646922588348;
+boxes_4.jpg;sand sage,silvery wormwood,Artemisia filifolia:0.41063427925109863;artemisia:0.09859885275363922;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.09667213261127472;
+boxes_5.jpg;sand sage,silvery wormwood,Artemisia filifolia:0.12536440789699554;saltbush:0.09469334781169891;cider gum,Eucalypt gunnii:0.0837249755859375;
+boxes_6.jpg;ocean:0.1427953541278839;shore:0.1400991976261139;waterside:0.06368375569581985;barrier reef:0.06363826990127563;
+boxes_7.jpg;
+boxes_8.jpg;shore:0.7015342712402344;glacier:0.07023371011018753;
+boxes_9.jpg;polar glacier:0.0916849747300148;
+img_291.jpg;shore:0.1595057249069214;ocean:0.1571406126022339;iceberg,berg:0.1295619010925293;barrier reef:0.10175415873527527;seashore,coast,seacoast,sea-coast:0.059376511722803116;ice,water ice:0.05128627270460129;

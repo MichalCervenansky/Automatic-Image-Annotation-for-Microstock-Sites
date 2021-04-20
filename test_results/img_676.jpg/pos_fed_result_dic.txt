@@ -1,0 +1,3 @@
+from_image_IPTC:car;wrackage;water;grown;sea;weed;
+from_object_detection:tree;plant;tortoise;sea turtle;turtle;animal;
+from_image_classification:wreck;shipwreck;harp seal;pagophilus groenlandicus;crabeater seal;crab-eating seal;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;gudgeon;gobio gobio;sunfish;centrarchid;anchor;ground tackle;beam;post;triangle;trigon;trilateral;mosquitofish;gambusia affinis;hind;

@@ -1,0 +1,12 @@
+boxes_1.jpg;person:0.9075333
+boxes_2.jpg;human hand:0.3332647
+boxes_3.jpg;human foot:0.20219523
+boxes_4.jpg;human arm:0.18350026
+boxes_5.jpg;fish:0.12938017
+boxes_6.jpg;swimming pool:0.124573015
+boxes_7.jpg;human leg:0.09327549
+boxes_8.jpg;human hand:0.08640465
+boxes_9.jpg;plant:0.07121701
+boxes_10.jpg;fish:0.069471985
+boxes_11.jpg;person:0.06581911
+boxes_12.jpg;person:0.05023326

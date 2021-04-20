@@ -1,0 +1,16 @@
+boxes_1.jpg;negative:0.05742330849170685;
+boxes_10.jpg;
+boxes_11.jpg;gorge:0.1839592158794403;chasm:0.11539505422115326;
+boxes_12.jpg;glacier:0.06529216468334198;
+boxes_13.jpg;arroyo:0.32432058453559875;gorge:0.10880652070045471;descent,declivity,fall,decline,declination,declension,downslope:0.08230530470609665;valley,vale:0.0745086669921875;branch water:0.056501951068639755;
+boxes_14.jpg;branch water:0.10646627098321915;cobweb:0.06336706876754761;
+boxes_15.jpg;
+boxes_2.jpg;smoke screen,smokescreen:0.38232624530792236;
+boxes_3.jpg;ice mass:0.2541036307811737;branch water:0.1252279132604599;Alpine glacier,Alpine type of glacier:0.10554096102714539;descent,declivity,fall,decline,declination,declension,downslope:0.10037878900766373;
+boxes_4.jpg;
+boxes_5.jpg;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.11412924528121948;
+boxes_6.jpg;ski lodge:0.06057493016123772;ski slope:0.050400711596012115;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;ridge:0.07145858556032181;
+img_93.jpg;ice mass:0.22469669580459595;Alpine glacier,Alpine type of glacier:0.11597083508968353;descent,declivity,fall,decline,declination,declension,downslope:0.07835601270198822;branch water:0.07665343582630157;mountain,mount:0.07183679193258286;continental glacier:0.053684864193201065;

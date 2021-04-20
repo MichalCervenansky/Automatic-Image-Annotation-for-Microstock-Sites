@@ -1,0 +1,42 @@
+boxes_1.jpg;chair:0.9458231
+boxes_2.jpg;chair:0.8900086
+boxes_3.jpg;window:0.8458208
+boxes_4.jpg;house:0.62307125
+boxes_5.jpg;chair:0.6101486
+boxes_6.jpg;furniture:0.60097945
+boxes_7.jpg;chair:0.45721683
+boxes_8.jpg;coffee table:0.38566607
+boxes_9.jpg;table:0.32832676
+boxes_10.jpg;nightstand:0.32442743
+boxes_11.jpg;kitchen & dining room table:0.27610093
+boxes_12.jpg;cabinetry:0.2579788
+boxes_13.jpg;building:0.2519457
+boxes_14.jpg;table:0.249119
+boxes_15.jpg;furniture:0.24544989
+boxes_16.jpg;furniture:0.22774762
+boxes_17.jpg;table:0.21773122
+boxes_18.jpg;nightstand:0.20011805
+boxes_19.jpg;door:0.17500234
+boxes_20.jpg;cabinetry:0.14624603
+boxes_21.jpg;furniture:0.13566983
+boxes_22.jpg;chair:0.10345229
+boxes_23.jpg;chair:0.09973044
+boxes_24.jpg;table:0.098563254
+boxes_25.jpg;desk:0.09087712
+boxes_26.jpg;chair:0.08915814
+boxes_27.jpg;cabinetry:0.08731777
+boxes_28.jpg;cabinetry:0.083665416
+boxes_29.jpg;desk:0.08330857
+boxes_30.jpg;door:0.0810166
+boxes_31.jpg;chair:0.06953679
+boxes_32.jpg;table:0.06753861
+boxes_33.jpg;chest of drawers:0.06433331
+boxes_34.jpg;furniture:0.06389546
+boxes_35.jpg;desk:0.061659373
+boxes_36.jpg;chair:0.06117649
+boxes_37.jpg;kitchen & dining room table:0.057754185
+boxes_38.jpg;desk:0.057255685
+boxes_39.jpg;chair:0.054101076
+boxes_40.jpg;chair:0.052753568
+boxes_41.jpg;building:0.051723678
+boxes_42.jpg;chair:0.05142889

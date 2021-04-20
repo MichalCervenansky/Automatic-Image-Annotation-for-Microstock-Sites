@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;plant;
+from_image_classification:mountain;mount;alp;snowcap;oil paint;ridge;plastic wrap;cellophane;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;ridgeline;plastic bag;alpine glacier;alpine type of glacier;

@@ -1,0 +1,10 @@
+boxes_1.jpg;blue orchid,Vanda caerulea:0.4813389778137207;orchid,orchidaceous plant:0.2409203201532364;
+boxes_2.jpg;blue orchid,Vanda caerulea:0.3201155960559845;orchid,orchidaceous plant:0.2505582869052887;Indian crocus:0.05637567117810249;tangle orchid:0.053491100668907166;fly orchid:0.05041421949863434;
+boxes_3.jpg;orchid,orchidaceous plant:0.6874701380729675;purple-fringed orchid,purple-fringed orchis,Habenaria fimbriata:0.12413769960403442;blue orchid,Vanda caerulea:0.11188427358865738;
+boxes_4.jpg;blue orchid,Vanda caerulea:0.30612102150917053;orchid,orchidaceous plant:0.19820979237556458;pansy orchid:0.19162040948867798;Indian crocus:0.051347970962524414;
+boxes_5.jpg;blue orchid,Vanda caerulea:0.3333317041397095;orchid,orchidaceous plant:0.12793482840061188;spider orchid,Brassia verrucosa:0.0746970921754837;
+boxes_6.jpg;blue orchid,Vanda caerulea:0.3053114116191864;pansy orchid:0.1606799066066742;orchid,orchidaceous plant:0.0850367397069931;vanda:0.06352286040782928;moth orchid,moth plant:0.05569419264793396;
+boxes_7.jpg;blue orchid,Vanda caerulea:0.6055006384849548;orchid,orchidaceous plant:0.18953590095043182;
+boxes_8.jpg;blue orchid,Vanda caerulea:0.38404232263565063;orchid,orchidaceous plant:0.24285951256752014;Venus' slipper,Venus's slipper,Venus's shoe:0.07671742141246796;tangle orchid:0.0561487153172493;
+boxes_9.jpg;blue orchid,Vanda caerulea:0.7804880738258362;
+img_968.jpg;blue orchid,Vanda caerulea:0.8800153136253357;

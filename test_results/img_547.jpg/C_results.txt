@@ -1,0 +1,10 @@
+boxes_1.jpg;benthos,benthic division,benthonic zone:0.09944700449705124;ascospore:0.08843833953142166;zooid:0.06051734834909439;negative:0.06001117452979088;
+boxes_2.jpg;benthos,benthic division,benthonic zone:0.32518887519836426;zooid:0.09829818457365036;negative:0.08911022543907166;sea feather:0.07652056217193604;
+boxes_3.jpg;ascospore:0.10616171360015869;benthos,benthic division,benthonic zone:0.08434717357158661;acrocarp,acrocarpous moss:0.07084183394908905;Aspergillus fumigatus:0.06341929733753204;ciliate,ciliated protozoan,ciliophoran:0.05369863286614418;
+boxes_4.jpg;zooid:0.05408399924635887;
+boxes_5.jpg;negative:0.24961988627910614;dewdrop:0.10145280510187149;sea feather:0.05339508503675461;
+boxes_6.jpg;negative:0.11822129786014557;sea feather:0.07082666456699371;Aspergillus fumigatus:0.05426201969385147;
+boxes_7.jpg;negative:0.2479800283908844;dewdrop:0.15597021579742432;purple,purpleness:0.07274655997753143;
+boxes_8.jpg;brush:0.28775754570961;dustcloth,dustrag,duster:0.050892967730760574;
+boxes_9.jpg;soup-strainer,toothbrush:0.15562014281749725;
+img_547.jpg;brush:0.08943022787570953;ciliate,ciliated protozoan,ciliophoran:0.08145087212324142;negative:0.06907970458269119;benthos,benthic division,benthonic zone:0.05405779927968979;ascospore:0.051370128989219666;

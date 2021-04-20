@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:swimming pool;plant;tree;
+from_image_classification:outfall;irrigation ditch;waterside;arroyo;bank;milldam;hot spring;thermal spring;casting;cast;fly casting;

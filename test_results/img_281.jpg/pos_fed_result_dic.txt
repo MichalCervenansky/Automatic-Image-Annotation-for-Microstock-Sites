@@ -1,0 +1,3 @@
+from_image_IPTC:elk;deer;snow;ground;zoo;garden;
+from_object_detection:deer;antelope;goat;
+from_image_classification:stag;fallow deer;dama dama;buck;caribou;reindeer;greenland caribou;rangifer tarandus;negative;blackbuck;black buck;antilope cervicapra;wild ass;woodland caribou;rangifer caribou;wapiti;elk;american elk;cervus elaphus canadensis;

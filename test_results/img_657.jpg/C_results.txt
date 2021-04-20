@@ -1,0 +1,14 @@
+boxes_1.jpg;circuit,electrical circuit,electric circuit:0.13555124402046204;CPU board,mother board:0.1195305585861206;circuitry:0.08084485679864883;peripheral,computer peripheral,peripheral device:0.07509444653987885;
+boxes_10.jpg;circuit,electrical circuit,electric circuit:0.514951765537262;circuitry:0.12518630921840668;CPU board,mother board:0.1245778426527977;
+boxes_11.jpg;circuit,electrical circuit,electric circuit:0.4383860230445862;CPU board,mother board:0.21318823099136353;circuitry:0.15767866373062134;
+boxes_12.jpg;circuit,electrical circuit,electric circuit:0.4523785412311554;CPU board,mother board:0.15848028659820557;circuitry:0.13418713212013245;module:0.05511723831295967;
+boxes_13.jpg;heat sink:0.09368991106748581;fuel injection,fuel injection system:0.058043282479047775;
+boxes_2.jpg;circuit,electrical circuit,electric circuit:0.48984748125076294;CPU board,mother board:0.11608027666807175;circuitry:0.11420193314552307;
+boxes_3.jpg;circuit,electrical circuit,electric circuit:0.23489239811897278;circuitry:0.14921587705612183;CPU board,mother board:0.056412991136312485;
+boxes_4.jpg;circuit,electrical circuit,electric circuit:0.5268965363502502;CPU board,mother board:0.13359621167182922;circuitry:0.11943856626749039;
+boxes_5.jpg;circuit,electrical circuit,electric circuit:0.3597324788570404;circuitry:0.20130249857902527;CPU board,mother board:0.06306537240743637;
+boxes_6.jpg;circuit,electrical circuit,electric circuit:0.4523785412311554;CPU board,mother board:0.15848028659820557;circuitry:0.13418713212013245;module:0.05511723831295967;
+boxes_7.jpg;circuit,electrical circuit,electric circuit:0.48620519042015076;circuitry:0.1585393100976944;CPU board,mother board:0.11351662874221802;
+boxes_8.jpg;circuit,electrical circuit,electric circuit:0.5103684067726135;circuitry:0.166673943400383;CPU board,mother board:0.11458318680524826;
+boxes_9.jpg;circuit,electrical circuit,electric circuit:0.4243584871292114;circuitry:0.19538961350917816;CPU board,mother board:0.12352246046066284;
+img_657.jpg;circuit,electrical circuit,electric circuit:0.41609832644462585;circuitry:0.19913941621780396;CPU board,mother board:0.14242622256278992;module:0.05816536024212837;

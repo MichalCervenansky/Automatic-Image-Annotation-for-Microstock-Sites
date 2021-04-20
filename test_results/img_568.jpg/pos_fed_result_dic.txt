@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:pillow;clothing;flag;flower;dress;
+from_image_classification:percale;eiderdown;duvet;continental quilt;sheeting;blanket;cover;quilt;comforter;comfort;puff;star;hemstitch;hemstitching;chintz;pillow sham;patchwork;patchwork quilt;trophozoite;plasmodium;plasmodium vivax;malaria parasite;sideroblast;neutrophil;neutrophile;sporozoan;lymphocyte;lymph cell;cotton flannel;canton flannel;triangle;trigon;trilateral;acute triangle;acute-angled triangle;right triangle;right-angled triangle;pillow;

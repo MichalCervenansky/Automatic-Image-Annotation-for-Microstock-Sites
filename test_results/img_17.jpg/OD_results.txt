@@ -1,0 +1,13 @@
+boxes_1.jpg;office supplies:0.74127907
+boxes_2.jpg;human hand:0.6627152
+boxes_3.jpg;pen:0.60719305
+boxes_4.jpg;office supplies:0.38704774
+boxes_5.jpg;person:0.32486534
+boxes_6.jpg;medical equipment:0.24739593
+boxes_7.jpg;pen:0.17908971
+boxes_8.jpg;drinking straw:0.12604742
+boxes_9.jpg;office supplies:0.115180716
+boxes_10.jpg;medical equipment:0.10074782
+boxes_11.jpg;human arm:0.05927787
+boxes_12.jpg;chopsticks:0.05758414
+boxes_13.jpg;human hand:0.05704606

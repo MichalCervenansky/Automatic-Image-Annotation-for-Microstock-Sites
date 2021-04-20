@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;tree;wheel;tire;house;
+from_image_classification:sedan;saloon;vehicle;pedestrian crossing;zebra crossing;motor vehicle;automotive vehicle;used-car;secondhand car;hatchback;tailpipe;conveyance;transport;body;convertible;bumper;two-hitter;2-hitter;goalpost;armored vehicle;armoured vehicle;basket oak;cow oak;quercus prinus;quercus montana;windshield;windscreen;gendarme;nonsmoker;nonsmoking car;foglamp;spoiler;snow;snowfall;car;auto;automobile;machine;motorcar;

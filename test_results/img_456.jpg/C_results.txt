@@ -1,0 +1,6 @@
+boxes_1.jpg;bath salts:0.13196513056755066;moquette:0.12263118475675583;ice,water ice:0.09585937857627869;sugar,refined sugar:0.06877721101045609;
+boxes_2.jpg;bath salts:0.14750657975673676;sugar,refined sugar:0.11769349128007889;ice,water ice:0.0950314998626709;
+boxes_3.jpg;sugar,refined sugar:0.6374738216400146;ice,water ice:0.28434282541275024;
+boxes_4.jpg;shag rug:0.19624213874340057;ice,water ice:0.07352966070175171;carpet pad,rug pad,underlay,underlayment:0.060260605067014694;bath salts:0.06019607186317444;
+boxes_5.jpg;sugar,refined sugar:0.5720120668411255;ice,water ice:0.3239651024341583;
+img_456.jpg;sugar,refined sugar:0.5093863010406494;bath salts:0.14165131747722626;ice,water ice:0.05538173019886017;

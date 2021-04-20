@@ -1,0 +1,3 @@
+boxes_1.jpg;rotor blade,rotary wing:0.7702349424362183;helicopter,chopper,whirlybird,eggbeater:0.10977671295404434;
+boxes_2.jpg;deathwatch beetle,deathwatch,Xestobium rufovillosum:0.1411544680595398;sawyer,sawyer beetle:0.13858091831207275;flour beetle,flour weevil:0.12525050342082977;click beetle,skipjack,snapping beetle:0.09853409230709076;
+img_278.jpg;rotor blade,rotary wing:0.6716316938400269;helicopter,chopper,whirlybird,eggbeater:0.18717068433761597;

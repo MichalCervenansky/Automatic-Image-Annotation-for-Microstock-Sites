@@ -1,0 +1,18 @@
+boxes_1.jpg;toilet seat:0.30709928274154663;flush toilet,lavatory:0.13298682868480682;potty seat,potty chair:0.13290856778621674;men's room,men's:0.05702104791998863;toilet bowl:0.054122768342494965;
+boxes_10.jpg;screen:0.5270251035690308;blackboard,chalkboard:0.10017772763967514;
+boxes_11.jpg;blackboard,chalkboard:0.7097156643867493;teacher,instructor:0.0845378115773201;lector,lecturer,reader:0.05822314694523811;
+boxes_12.jpg;toilet seat:0.20222502946853638;potty seat,potty chair:0.14779935777187347;flush toilet,lavatory:0.08210323005914688;
+boxes_13.jpg;teacher,instructor:0.2228887975215912;lector,lecturer,reader:0.12130142748355865;number theorist:0.07850674539804459;reading teacher:0.05519005283713341;
+boxes_14.jpg;lector,lecturer,reader:0.1956178843975067;teacher,instructor:0.15450957417488098;postdoc,post doc:0.07643047720193863;
+boxes_15.jpg;screen:0.3074755072593689;blackboard,chalkboard:0.2865538001060486;paneling,panelling,pane:0.07190690189599991;
+boxes_16.jpg;blackboard,chalkboard:0.556019127368927;teacher,instructor:0.11643628776073456;reading teacher:0.05538232624530792;
+boxes_17.jpg;blackboard,chalkboard:0.7021779417991638;teacher,instructor:0.08917781710624695;
+boxes_2.jpg;blackboard,chalkboard:0.6879603266716003;teacher,instructor:0.10246468335390091;
+boxes_3.jpg;blackboard,chalkboard:0.7661700248718262;teacher,instructor:0.05520670861005783;
+boxes_4.jpg;blackboard,chalkboard:0.709324300289154;teacher,instructor:0.0919656902551651;
+boxes_5.jpg;blackboard,chalkboard:0.6755099296569824;teacher,instructor:0.09132920205593109;lector,lecturer,reader:0.08951354771852493;
+boxes_6.jpg;blackboard,chalkboard:0.8569864630699158;
+boxes_7.jpg;blackboard,chalkboard:0.7447483539581299;teacher,instructor:0.06119389832019806;
+boxes_8.jpg;blackboard,chalkboard:0.5392687916755676;teacher,instructor:0.10829965025186539;
+boxes_9.jpg;toilet seat:0.18243543803691864;potty seat,potty chair:0.12495233118534088;flush toilet,lavatory:0.12274251133203506;men's room,men's:0.08158507943153381;toilet bowl:0.07355914264917374;toilet,lavatory,lav,can,john,privy,bathroom:0.06536858528852463;washroom:0.055689964443445206;
+img_671.jpg;blackboard,chalkboard:0.767733097076416;teacher,instructor:0.0723525658249855;

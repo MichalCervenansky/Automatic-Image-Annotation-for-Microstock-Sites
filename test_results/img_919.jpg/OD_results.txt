@@ -1,0 +1,5 @@
+boxes_1.jpg;insect:0.95538944
+boxes_2.jpg;tree:0.6313026
+boxes_3.jpg;tree:0.28943357
+boxes_4.jpg;moths and butterflies:0.064692706
+boxes_5.jpg;insect:0.059939876

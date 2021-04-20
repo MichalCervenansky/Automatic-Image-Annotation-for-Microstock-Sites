@@ -1,0 +1,39 @@
+boxes_1.jpg;car:0.95995206
+boxes_2.jpg;wheel:0.7005841
+boxes_3.jpg;wheel:0.61732286
+boxes_4.jpg;wheel:0.5401085
+boxes_5.jpg;clothing:0.51735806
+boxes_6.jpg;person:0.426216
+boxes_7.jpg;man:0.42457312
+boxes_8.jpg;person:0.381468
+boxes_9.jpg;clothing:0.37537333
+boxes_10.jpg;clothing:0.36491778
+boxes_11.jpg;tire:0.35016447
+boxes_12.jpg;man:0.3480123
+boxes_13.jpg;person:0.3210852
+boxes_14.jpg;human face:0.31967697
+boxes_15.jpg;man:0.2800908
+boxes_16.jpg;person:0.24399444
+boxes_17.jpg;tire:0.20861094
+boxes_18.jpg;tire:0.20473172
+boxes_19.jpg;person:0.20054545
+boxes_20.jpg;man:0.17786011
+boxes_21.jpg;man:0.16649935
+boxes_22.jpg;person:0.16432092
+boxes_23.jpg;man:0.1586305
+boxes_24.jpg;human face:0.15671602
+boxes_25.jpg;clothing:0.12901953
+boxes_26.jpg;plant:0.11450104
+boxes_27.jpg;clothing:0.112400465
+boxes_28.jpg;clothing:0.11175693
+boxes_29.jpg;plant:0.106222145
+boxes_30.jpg;person:0.10332209
+boxes_31.jpg;land vehicle:0.10249321
+boxes_32.jpg;human face:0.0938107
+boxes_33.jpg;person:0.08736941
+boxes_34.jpg;person:0.08565394
+boxes_35.jpg;plant:0.07694242
+boxes_36.jpg;woman:0.07111059
+boxes_37.jpg;human arm:0.06831765
+boxes_38.jpg;plant:0.062452964
+boxes_39.jpg;plant:0.057344507

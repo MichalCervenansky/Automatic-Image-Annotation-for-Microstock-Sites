@@ -1,0 +1,15 @@
+boxes_1.jpg;human face:0.88918096
+boxes_2.jpg;bronze sculpture:0.6002995
+boxes_3.jpg;table:0.40571263
+boxes_4.jpg;person:0.39187157
+boxes_5.jpg;coffee table:0.3841573
+boxes_6.jpg;clothing:0.30343467
+boxes_7.jpg;bust:0.23539574
+boxes_8.jpg;sculpture:0.145797
+boxes_9.jpg;furniture:0.14508982
+boxes_10.jpg;human head:0.11153803
+boxes_11.jpg;man:0.11075906
+boxes_12.jpg;door:0.10567371
+boxes_13.jpg;human hair:0.10370335
+boxes_14.jpg;bronze sculpture:0.10148824
+boxes_15.jpg;woman:0.094962694

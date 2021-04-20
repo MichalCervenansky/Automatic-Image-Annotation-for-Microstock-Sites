@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;little;soft;flower;rocks;
+from_object_detection:flower;
+from_image_classification:umbel;panicle;monarch;monarch butterfly;milkweed butterfly;danaus plexippus;

@@ -1,0 +1,4 @@
+boxes_1.jpg;boat:0.8001602
+boxes_2.jpg;vehicle:0.34336814
+boxes_3.jpg;boat:0.19225562
+boxes_4.jpg;boat:0.050707065

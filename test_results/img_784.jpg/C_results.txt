@@ -1,0 +1,11 @@
+boxes_1.jpg;
+boxes_10.jpg;benthos:0.05068418011069298;
+boxes_2.jpg;geological formation,formation:0.07238572090864182;
+boxes_3.jpg;windshield,windscreen:0.07405371963977814;
+boxes_4.jpg;ridge:0.1456231027841568;geological formation,formation:0.12525129318237305;arroyo:0.08366017788648605;cliff,drop,drop-off:0.05348304286599159;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;benthos:0.06014910712838173;
+boxes_9.jpg;
+img_784.jpg;Alpine glacier,Alpine type of glacier:0.42803633213043213;glacier:0.10530968010425568;coal seam:0.050268832594156265;

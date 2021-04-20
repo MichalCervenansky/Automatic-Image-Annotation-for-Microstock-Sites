@@ -1,0 +1,7 @@
+boxes_1.jpg;external drive:0.07519728690385818;backup system:0.06216079741716385;three-way calling:0.05405789613723755;
+boxes_2.jpg;three-way calling:0.19972288608551025;external drive:0.12025600671768188;removable disk:0.055044688284397125;
+boxes_3.jpg;external drive:0.13393765687942505;removable disk:0.09853445738554001;three-way calling:0.09267167001962662;
+boxes_4.jpg;three-way calling:0.1506439596414566;removable disk:0.08192801475524902;Rediffusion:0.052442654967308044;
+boxes_5.jpg;three-way calling:0.16006453335285187;external drive:0.14086928963661194;removable disk:0.08409485220909119;
+boxes_6.jpg;external drive:0.15396329760551453;three-way calling:0.12740997970104218;removable disk:0.1026788055896759;
+img_594.jpg;removable disk:0.1464296579360962;three-way calling:0.1157623901963234;

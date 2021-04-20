@@ -1,0 +1,2 @@
+boxes_1.jpg;flower:0.81176794
+boxes_2.jpg;lily:0.41774747

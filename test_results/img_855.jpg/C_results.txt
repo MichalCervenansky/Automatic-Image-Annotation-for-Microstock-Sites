@@ -1,0 +1,18 @@
+boxes_1.jpg;smoke screen,smokescreen:0.17406703531742096;ski slope:0.12765295803546906;snag:0.06830427050590515;westland pine,silver pine,Lagarostrobus colensoi:0.06690751761198044;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;smoke screen,smokescreen:0.16145072877407074;snowdrift:0.1484961211681366;ski slope:0.05497996136546135;
+boxes_13.jpg;
+boxes_14.jpg;mountain,mount:0.16523925960063934;ski slope:0.0932479128241539;snowdrift:0.07232143729925156;ridge:0.06901521980762482;
+boxes_15.jpg;westland pine,silver pine,Lagarostrobus colensoi:0.164808452129364;black beech,Nothofagus solanderi:0.10059959441423416;
+boxes_16.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.20148083567619324;mountain,mount:0.1623053401708603;ridge:0.15093767642974854;sunniness:0.077512226998806;
+boxes_17.jpg;roe deer,Capreolus capreolus:0.12261871248483658;musher:0.07335498929023743;
+boxes_2.jpg;gusher:0.1664469838142395;smoke screen,smokescreen:0.08494017273187637;
+boxes_3.jpg;ski slope:0.10988796502351761;mountain,mount:0.10542154312133789;cross:0.07774058729410172;smoke screen,smokescreen:0.07395797222852707;ridge:0.05157970264554024;
+boxes_4.jpg;elk,European elk,moose,Alces alces:0.16612572968006134;Virginia deer,white tail,whitetail,white-tailed deer,whitetail deer,Odocoileus Virginianus:0.07709243893623352;wapiti,elk,American elk,Cervus elaphus canadensis:0.05125328525900841;
+boxes_5.jpg;westland pine,silver pine,Lagarostrobus colensoi:0.14562064409255981;
+boxes_6.jpg;mountain,mount:0.13848765194416046;ski slope:0.09226703643798828;smoke screen,smokescreen:0.08484560251235962;mountainside,versant:0.06357897073030472;alp:0.05071112886071205;
+boxes_7.jpg;smoke screen,smokescreen:0.13198934495449066;oil paint:0.06793471425771713;
+boxes_8.jpg;cross:0.0866163894534111;ski slope:0.07951901853084564;mountain,mount:0.06427450478076935;snag:0.05885785445570946;smoke screen,smokescreen:0.05234704166650772;
+boxes_9.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.5980838537216187;ridge:0.12803679704666138;mountain,mount:0.06231534481048584;
+img_855.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.3329697251319885;ridge:0.2740465998649597;

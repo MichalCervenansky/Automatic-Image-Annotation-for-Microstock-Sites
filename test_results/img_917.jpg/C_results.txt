@@ -1,0 +1,7 @@
+boxes_1.jpg;tiercel,tercel,tercelet:0.2565179467201233;ern,erne,grey sea eagle,gray sea eagle,European sea eagle,white-tailed sea eagle,Haliatus albicilla:0.23329411447048187;scapular:0.07213014364242554;
+boxes_2.jpg;sea lion:0.09327907860279083;
+boxes_3.jpg;tiercel,tercel,tercelet:0.40265336632728577;ern,erne,grey sea eagle,gray sea eagle,European sea eagle,white-tailed sea eagle,Haliatus albicilla:0.12271315604448318;currawong,bell magpie:0.07180997729301453;scapular:0.06173187866806984;falconer,hawker:0.0561983585357666;
+boxes_4.jpg;phoebe,phoebe bird,Sayornis phoebe:0.05923963338136673;
+boxes_5.jpg;
+boxes_6.jpg;
+img_917.jpg;grackle,crow blackbird:0.41344451904296875;American crow,Corvus brachyrhyncos:0.3931637406349182;crow:0.06361709535121918;

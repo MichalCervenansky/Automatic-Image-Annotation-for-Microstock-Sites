@@ -1,0 +1,3 @@
+from_image_IPTC:texture;orange;rusted;metal;plate;
+from_object_detection:bread;food;baked goods;dessert;bee;coffee;snack;pizza;dairy;cheese;
+from_image_classification:autoradiograph;cell;photomicrograph;dendrite;

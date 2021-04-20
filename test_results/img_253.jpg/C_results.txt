@@ -1,0 +1,12 @@
+boxes_1.jpg;contact,contact lens:0.9978296160697937;
+boxes_10.jpg;contact,contact lens:0.9974669218063354;
+boxes_11.jpg;contact,contact lens:0.9986422657966614;
+boxes_2.jpg;contact,contact lens:0.9991058707237244;
+boxes_3.jpg;contact,contact lens:0.9966393709182739;
+boxes_4.jpg;contact,contact lens:0.998934805393219;
+boxes_5.jpg;contact,contact lens:0.9988992214202881;
+boxes_6.jpg;contact,contact lens:0.999016284942627;
+boxes_7.jpg;contact,contact lens:0.9986631870269775;
+boxes_8.jpg;contact,contact lens:0.998414158821106;
+boxes_9.jpg;contact,contact lens:0.9941903352737427;
+img_253.jpg;contact,contact lens:0.9991822838783264;

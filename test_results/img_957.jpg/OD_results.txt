@@ -1,0 +1,7 @@
+boxes_1.jpg;flower:0.92543435
+boxes_2.jpg;flower:0.88471997
+boxes_3.jpg;flower:0.7591868
+boxes_4.jpg;flower:0.6687828
+boxes_5.jpg;rose:0.17751905
+boxes_6.jpg;flower:0.08755008
+boxes_7.jpg;flower:0.054635495

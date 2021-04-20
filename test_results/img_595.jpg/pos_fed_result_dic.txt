@@ -1,0 +1,3 @@
+from_image_IPTC:sleek;stylish;silver;ultra;notebook;desk;
+from_object_detection:laptop;computer keyboard;television;computer monitor;home appliance;desk;
+from_image_classification:notebook;notebook computer;portable computer;space bar;keyboard buffer;shift key;shift;monitor;personal computer;pc;microcomputer;medicine chest;medicine cabinet;ice maker;thermostat;thermoregulator;

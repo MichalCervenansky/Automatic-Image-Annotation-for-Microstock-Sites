@@ -1,0 +1,17 @@
+boxes_1.jpg;mildew:0.12334346771240234;oil paint:0.09324688464403152;mountainside,versant:0.050986580550670624;
+boxes_10.jpg;stony coral,madrepore,madriporian coral:0.06029577553272247;damselfish,demoiselle:0.05172489956021309;
+boxes_11.jpg;mountainside,versant:0.07251796126365662;bush:0.05209622159600258;
+boxes_12.jpg;weatherman,weather forecaster:0.08650126308202744;
+boxes_13.jpg;
+boxes_14.jpg;mealybug,mealy bug:0.07922028750181198;
+boxes_15.jpg;mountainside,versant:0.1563466340303421;bush:0.050899382680654526;
+boxes_16.jpg;mountainside,versant:0.100226491689682;oil paint:0.09858754277229309;bush:0.0723661333322525;
+boxes_2.jpg;bush:0.07034771144390106;mountainside,versant:0.06940670311450958;branch water:0.05569828301668167;
+boxes_3.jpg;oil paint:0.11684264242649078;mildew:0.10190191119909286;mountainside,versant:0.050784267485141754;
+boxes_4.jpg;mountainside,versant:0.11795453727245331;oil paint:0.07423513382673264;mildew:0.060502782464027405;
+boxes_5.jpg;
+boxes_6.jpg;mountainside,versant:0.135178342461586;branch water:0.06070131063461304;
+boxes_7.jpg;irrigation ditch:0.060260750353336334;mountainside,versant:0.060008469969034195;bush:0.05785302072763443;
+boxes_8.jpg;oil paint:0.22429107129573822;mildew:0.11263583600521088;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06052901968359947;
+boxes_9.jpg;
+img_393.jpg;mildew:0.16096536815166473;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06683515012264252;alga,algae:0.06527693569660187;

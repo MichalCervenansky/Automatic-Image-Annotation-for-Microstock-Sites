@@ -1,0 +1,8 @@
+boxes_1.jpg;patchwork,patchwork quilt:0.9759681224822998;
+boxes_2.jpg;patchwork,patchwork quilt:0.9688668251037598;
+boxes_3.jpg;patchwork,patchwork quilt:0.97068190574646;
+boxes_4.jpg;patchwork,patchwork quilt:0.962209939956665;
+boxes_5.jpg;patchwork,patchwork quilt:0.7629932761192322;
+boxes_6.jpg;patchwork,patchwork quilt:0.9867169857025146;
+boxes_7.jpg;patchwork,patchwork quilt:0.9897130727767944;
+img_577.jpg;patchwork,patchwork quilt:0.9962550401687622;

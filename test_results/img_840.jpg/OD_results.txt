@@ -1,0 +1,13 @@
+boxes_1.jpg;tree:0.938189
+boxes_2.jpg;tree:0.33577713
+boxes_3.jpg;tree:0.28381988
+boxes_4.jpg;tree:0.13949849
+boxes_5.jpg;window:0.12863101
+boxes_6.jpg;tree:0.10812501
+boxes_7.jpg;tree:0.10060971
+boxes_8.jpg;tree:0.09989306
+boxes_9.jpg;tree:0.08731509
+boxes_10.jpg;tree:0.08701066
+boxes_11.jpg;tree:0.07372806
+boxes_12.jpg;vehicle:0.054693364
+boxes_13.jpg;tree:0.05354719

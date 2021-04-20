@@ -1,0 +1,5 @@
+boxes_1.jpg;human face:0.2514748
+boxes_2.jpg;human head:0.170867
+boxes_3.jpg;footwear:0.095036976
+boxes_4.jpg;person:0.056643173
+boxes_5.jpg;snowboard:0.056225948

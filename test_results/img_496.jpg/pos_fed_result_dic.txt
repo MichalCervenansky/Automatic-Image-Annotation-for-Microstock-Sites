@@ -1,0 +1,3 @@
+from_image_IPTC:valuable;sea;shell;slime;conch;
+from_object_detection:food;snail;shellfish;invertebrate;dessert;egg;oyster;
+from_image_classification:ormer;sea-ear;haliotis tuberculata;cannikin;oyster shell;nerita;ark shell;cockle;scallop shell;shell;bivalve;pelecypod;lamellibranch;

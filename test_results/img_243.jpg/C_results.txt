@@ -1,0 +1,14 @@
+boxes_1.jpg;blue poppy,Meconopsis betonicifolia:0.6911013722419739;
+boxes_10.jpg;Spanish iris,xiphium iris,Iris xiphium:0.8647595047950745;
+boxes_11.jpg;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.2295340597629547;
+boxes_12.jpg;peach bells,peach bell,willow bell,Campanula persicifolia:0.16697748005390167;blue pea,butterfly pea,Clitoria turnatea:0.13627994060516357;negative:0.0741356611251831;
+boxes_13.jpg;
+boxes_2.jpg;blue poppy,Meconopsis betonicifolia:0.0684129148721695;
+boxes_3.jpg;beardless iris:0.10115894675254822;blue pea,butterfly pea,Clitoria turnatea:0.09940305352210999;blue orchid,Vanda caerulea:0.08947646617889404;negative:0.06719830632209778;Spanish iris,xiphium iris,Iris xiphium:0.06403742730617523;Dutch iris,Iris filifolia:0.05394235625863075;
+boxes_4.jpg;grape hyacinth:0.17696741223335266;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.11288966238498688;
+boxes_5.jpg;negative:0.1253628432750702;blue orchid,Vanda caerulea:0.09868450462818146;blue pea,butterfly pea,Clitoria turnatea:0.09363340586423874;blue poppy,Meconopsis betonicifolia:0.06795670837163925;peach bells,peach bell,willow bell,Campanula persicifolia:0.051216624677181244;
+boxes_6.jpg;blue poppy,Meconopsis betonicifolia:0.07480154931545258;blue pea,butterfly pea,Clitoria turnatea:0.05601274222135544;
+boxes_7.jpg;Spanish iris,xiphium iris,Iris xiphium:0.2348695695400238;
+boxes_8.jpg;negative:0.06033341959118843;
+boxes_9.jpg;
+img_243.jpg;blue poppy,Meconopsis betonicifolia:0.31549572944641113;closed gentian,blind gentian,Gentiana clausa:0.08929890394210815;California bluebell,Phacelia campanularia:0.06479265540838242;flower:0.050418879836797714;

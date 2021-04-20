@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;fresh;yellow;dandelion;morning;dew;
+from_object_detection:flower;sunflower;
+from_image_classification:fig marigold;pebble plant;livingstone daisy;dorotheanthus bellidiformis;blue daisy;blue marguerite;felicia amelloides;stokes' aster;cornflower aster;stokesia laevis;china aster;callistephus chinensis;sea aster;sea starwort;aster tripolium;mealybug;mealy bug;greenish blue;aqua;aquamarine;turquoise;cobalt blue;peacock blue;

@@ -1,0 +1,9 @@
+boxes_1.jpg;caterpillar:0.77341765
+boxes_2.jpg;invertebrate:0.21074817
+boxes_3.jpg;marine invertebrates:0.10050259
+boxes_4.jpg;marine invertebrates:0.09647966
+boxes_5.jpg;seahorse:0.08682104
+boxes_6.jpg;tree:0.0848674
+boxes_7.jpg;marine invertebrates:0.07470586
+boxes_8.jpg;plant:0.06749563
+boxes_9.jpg;plant:0.06360532

@@ -1,0 +1,17 @@
+boxes_1.jpg;pimpernel:0.9659373164176941;
+boxes_10.jpg;negative:0.9211496710777283;
+boxes_11.jpg;endameba:0.0737306997179985;ameba,amoeba:0.0518009327352047;
+boxes_12.jpg;negative:0.6002650260925293;
+boxes_13.jpg;
+boxes_14.jpg;endameba:0.27615806460380554;ameba,amoeba:0.0941808894276619;blastocyst,blastodermic vessicle:0.05830087512731552;
+boxes_15.jpg;
+boxes_16.jpg;pimpernel:0.9523869156837463;
+boxes_2.jpg;Venus' slipper,Venus's slipper,Venus's shoe:0.05152931809425354;
+boxes_3.jpg;mildew:0.12430105358362198;
+boxes_4.jpg;pimpernel:0.9341999292373657;
+boxes_5.jpg;pimpernel:0.6853270530700684;scarlet pimpernel,red pimpernel,poor man's weatherglass,Anagallis arvensis:0.05213705450296402;
+boxes_6.jpg;negative:0.4089796245098114;powdery mildew:0.0672696903347969;
+boxes_7.jpg;pimpernel:0.8328143358230591;scarlet pimpernel,red pimpernel,poor man's weatherglass,Anagallis arvensis:0.0756068304181099;
+boxes_8.jpg;
+boxes_9.jpg;pimpernel:0.8722779154777527;scarlet pimpernel,red pimpernel,poor man's weatherglass,Anagallis arvensis:0.0510123036801815;
+img_228.jpg;pimpernel:0.925354540348053;

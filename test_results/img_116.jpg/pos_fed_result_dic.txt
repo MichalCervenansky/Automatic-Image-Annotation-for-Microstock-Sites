@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ancient;city;fortess;pocitelj;
+from_object_detection:tree;building;house;tower;skyscraper;
+from_image_classification:oxbow;foothill;saltbush;ascent;acclivity;rise;raise;climb;upgrade;mountainside;versant;ridge;hill;dome;domed stadium;covered stadium;sea fan;cornetfish;anchor;ground tackle;messuage;mosque;sultanate;observation dome;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;benthos;benthic division;benthonic zone;glacier;shelter;stony coral;madrepore;madriporian coral;coral reef;observatory;saltwort;barilla;glasswort;kali;kelpwort;salsola kali;salsola soda;oil paint;kasbah;casbah;country house;minaret;

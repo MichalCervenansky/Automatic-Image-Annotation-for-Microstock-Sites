@@ -1,0 +1,3 @@
+from_image_IPTC:pack;pink;pill;drugs;2;eaten;
+from_object_detection:candle;food;candy;dessert;baked goods;toy;
+from_image_classification:blister pack;bubble pack;soap dish;capsule;contact;contact lens;jar;beaker;phial;vial;ampule;ampul;ampoule;erlenmeyer flask;nipple;gelatin;jelly;ultramarine;ink bottle;inkpot;vitamin pill;dietary supplement;lozenge;petri dish;

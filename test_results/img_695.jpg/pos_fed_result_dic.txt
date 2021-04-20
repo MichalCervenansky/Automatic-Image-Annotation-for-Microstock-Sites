@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;inconspicuous;fish;croatian;sea;diving;
+from_object_detection:fish;marine invertebrates;plant;animal;food;invertebrate;
+from_image_classification:sleeper;sleeper goby;lizardfish;snakefish;snake-fish;goby;gudgeon;flounder;glacier;dragonet;spume;skin-diver;aquanaut;porthole;powder;powdered sugar;flour;ice;water ice;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;jawfish;sledding;polar glacier;

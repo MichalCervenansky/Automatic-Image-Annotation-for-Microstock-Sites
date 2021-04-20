@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;croatian;coastline;
+from_object_detection:boat;tree;canoe;vehicle;watercraft;
+from_image_classification:jolly boat;jolly;rowing boat;small boat;lakeside;lakeshore;shore;seashore;coast;seacoast;sea-coast;wood chisel;waterside;australian pine;casuarina equisetfolia;slope;incline;side;water scooter;sea scooter;scooter;tender;ship's boat;pinnace;cutter;aquaplane;troll;trolling;outboard motor;outboard;outboard motorboat;canoe;kayak;skeg;sculling;wherry;

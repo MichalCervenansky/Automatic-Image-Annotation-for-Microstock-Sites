@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;water;drop;hitting;level;
+from_object_detection:rays and skates;plant;animal;auto part;vehicle;fish;flower;marine invertebrates;
+from_image_classification:plughole;silk;taffeta;satin;swimming;swim;

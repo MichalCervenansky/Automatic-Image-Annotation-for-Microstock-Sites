@@ -1,0 +1,9 @@
+boxes_1.jpg;buffalo grass,Buchloe dactyloides:0.09175218641757965;
+boxes_2.jpg;hammock,sack:0.06199599802494049;
+boxes_3.jpg;footwear:0.13033263385295868;buffalo grass,Buchloe dactyloides:0.06562287360429764;
+boxes_4.jpg;
+boxes_5.jpg;buffalo grass,Buchloe dactyloides:0.16174347698688507;tall oat grass,tall meadow grass,evergreen grass,false oat,French rye,Arrhenatherum elatius:0.09489889442920685;
+boxes_6.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.09343549609184265;sprinkler:0.09078899770975113;moorhen,Gallinula chloropus:0.06332726776599884;
+boxes_7.jpg;spoon:0.10588624328374863;scoop:0.08216764777898788;
+boxes_8.jpg;buffalo grass,Buchloe dactyloides:0.0629398301243782;hammock,sack:0.059204574674367905;
+img_36.jpg;buffalo grass,Buchloe dactyloides:0.05400661379098892;

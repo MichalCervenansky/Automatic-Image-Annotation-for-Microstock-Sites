@@ -1,0 +1,10 @@
+boxes_1.jpg;screen,CRT screen:0.2382960468530655;display panel,display board,board:0.10513623803853989;visual display unit,VDU:0.055881768465042114;
+boxes_2.jpg;screen,CRT screen:0.2547905743122101;display panel,display board,board:0.0918489322066307;computer screen,computer display:0.055821508169174194;
+boxes_3.jpg;screen,CRT screen:0.20529575645923615;display panel,display board,board:0.08731532841920853;computer screen,computer display:0.05870622396469116;visual display unit,VDU:0.05413130298256874;
+boxes_4.jpg;screen,CRT screen:0.24988174438476562;display panel,display board,board:0.087057925760746;computer screen,computer display:0.059569768607616425;
+boxes_5.jpg;screen,CRT screen:0.30338215827941895;display panel,display board,board:0.13377957046031952;visual display unit,VDU:0.09176059067249298;computer screen,computer display:0.06085490435361862;
+boxes_6.jpg;screen,CRT screen:0.2382960468530655;display panel,display board,board:0.10513623803853989;visual display unit,VDU:0.055881768465042114;
+boxes_7.jpg;computer system,computing system,automatic data processing system,ADP system,ADPS:0.42531704902648926;screen,CRT screen:0.12705981731414795;network,electronic network:0.05974395573139191;
+boxes_8.jpg;screen,CRT screen:0.2201904058456421;computer system,computing system,automatic data processing system,ADP system,ADPS:0.08348017930984497;display panel,display board,board:0.06631934642791748;computer screen,computer display:0.06631176918745041;network,electronic network:0.06030592694878578;
+boxes_9.jpg;computer system,computing system,automatic data processing system,ADP system,ADPS:0.3954792022705078;screen,CRT screen:0.11725728213787079;network,electronic network:0.07124356180429459;
+img_583.jpg;screen,CRT screen:0.2252127230167389;display panel,display board,board:0.12621363997459412;

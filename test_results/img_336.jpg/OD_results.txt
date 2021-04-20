@@ -1,0 +1,5 @@
+boxes_1.jpg;food:0.9612302
+boxes_2.jpg;plate:0.14508174
+boxes_3.jpg;food:0.1437675
+boxes_4.jpg;tableware:0.081571676
+boxes_5.jpg;food:0.05731355

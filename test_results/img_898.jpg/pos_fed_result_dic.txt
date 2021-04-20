@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;pancakes;made;girlfriend;holidays;
+from_object_detection:clothing;pancake;dessert;baked goods;tableware;snack;footwear;person;bowl;pastry;
+from_image_classification:rummer;oyster shell;pearl oyster;pinctada margaritifera;ice;water ice;blue;blueness;soapsuds;suds;lather;water faucet;water tap;tap;hydrant;plughole;cesspool;cesspit;sink;sump;faucet;spigot;soap dish;voile;sheet;bed sheet;basin;tub;vat;negative;ultramarine;

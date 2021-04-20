@@ -1,0 +1,7 @@
+boxes_1.jpg;silversword,Argyroxiphium sandwicense:0.5250915288925171;benthos,benthic division,benthonic zone:0.1875634491443634;
+boxes_2.jpg;silversword,Argyroxiphium sandwicense:0.48871544003486633;benthos,benthic division,benthonic zone:0.14954997599124908;benthos:0.08553611487150192;sea anemone,anemone:0.05799879506230354;
+boxes_3.jpg;supernova:0.0659581869840622;
+boxes_4.jpg;
+boxes_5.jpg;supernova:0.3176189661026001;pulsar:0.2296893447637558;yeast:0.0591515451669693;
+boxes_6.jpg;sea anemone,anemone:0.7696256041526794;benthos,benthic division,benthonic zone:0.143729567527771;
+img_688.jpg;silversword,Argyroxiphium sandwicense:0.5649968385696411;sea anemone,anemone:0.11436827480792999;benthos,benthic division,benthonic zone:0.1014442890882492;sea feather:0.0528273805975914;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;orange;flowers;turkish;beach;
+from_object_detection:flower;sunflower;
+from_image_classification:blue daisy;blue marguerite;felicia amelloides;painted daisy;pyrethrum;tanacetum coccineum;chrysanthemum coccineum;jade vine;emerald creeper;strongylodon macrobotrys;stokes' aster;cornflower aster;stokesia laevis;honeybee;apis mellifera;negative;

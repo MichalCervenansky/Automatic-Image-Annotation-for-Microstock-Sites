@@ -1,0 +1,32 @@
+boxes_1.jpg;clothing:0.6636846
+boxes_2.jpg;person:0.63216686
+boxes_3.jpg;clothing:0.47896382
+boxes_4.jpg;mushroom:0.46161953
+boxes_5.jpg;food:0.3730288
+boxes_6.jpg;picnic basket:0.26969782
+boxes_7.jpg;mushroom:0.26222184
+boxes_8.jpg;mushroom:0.24906476
+boxes_9.jpg;person:0.24751732
+boxes_10.jpg;wheel:0.21770859
+boxes_11.jpg;food:0.20224994
+boxes_12.jpg;vegetable:0.17865586
+boxes_13.jpg;food:0.17471235
+boxes_14.jpg;tire:0.17210598
+boxes_15.jpg;food:0.11764814
+boxes_16.jpg;mushroom:0.11680578
+boxes_17.jpg;fruit:0.1146482
+boxes_18.jpg;clothing:0.11431794
+boxes_19.jpg;vegetable:0.11138536
+boxes_20.jpg;food:0.10030483
+boxes_21.jpg;snack:0.091361165
+boxes_22.jpg;man:0.08924331
+boxes_23.jpg;fast food:0.08213754
+boxes_24.jpg;clothing:0.0806242
+boxes_25.jpg;mushroom:0.07584394
+boxes_26.jpg;clothing:0.07188964
+boxes_27.jpg;mushroom:0.0717114
+boxes_28.jpg;fruit:0.06849834
+boxes_29.jpg;food:0.06491717
+boxes_30.jpg;food:0.05357121
+boxes_31.jpg;vegetable:0.051371
+boxes_32.jpg;man:0.051094383

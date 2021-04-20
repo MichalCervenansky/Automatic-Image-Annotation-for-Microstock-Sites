@@ -1,0 +1,10 @@
+boxes_1.jpg;street light:0.63821095
+boxes_2.jpg;tree:0.30140364
+boxes_3.jpg;tree:0.16486236
+boxes_4.jpg;tree:0.102174215
+boxes_5.jpg;tree:0.07689244
+boxes_6.jpg;tree:0.07450042
+boxes_7.jpg;tree:0.059436202
+boxes_8.jpg;boat:0.052130103
+boxes_9.jpg;tower:0.05031139
+boxes_10.jpg;tree:0.050168265

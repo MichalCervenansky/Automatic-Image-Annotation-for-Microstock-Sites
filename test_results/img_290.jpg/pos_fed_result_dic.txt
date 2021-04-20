@@ -1,0 +1,3 @@
+from_image_IPTC:old;ancient;ruined;tower;lighthouse;island;zakythos;greece;
+from_object_detection:castle;tree;plant;window;tower;flowerpot;building;
+from_image_classification:stupa;tope;radome;radar dome;martello tower;windmill;memorial;monument;bell tower;column;pillar;header;lintel;baptismal font;baptistry;baptistery;font;socle;sundial;climber;steep;canopy;cold frame;canvas tent;canvas;canvass;harp seal;pagophilus groenlandicus;crabeater seal;crab-eating seal;ice;water ice;alaskan brown bear;kodiak bear;kodiak;ursus middendorffi;ursus arctos middendorffi;bell;mausoleum;western white pine;silver pine;mountain pine;pinus monticola;windshield;windscreen;cross;round arch;recess;niche;extrados;stucco;

@@ -1,0 +1,3 @@
+from_image_IPTC:autumn;leave;rugged;asphalt;
+from_object_detection:maple;
+from_image_classification:azure;cerulean;sapphire;lazuline;sky-blue;leaf shape;leaf form;blue;blueness;red maple;scarlet maple;swamp maple;acer rubrum;negative;

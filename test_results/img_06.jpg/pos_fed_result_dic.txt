@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;winter;forest;landscape;
+from_object_detection:tree;
+from_image_classification:park bench;sunniness;beech;beech tree;white;snow;snowfall;snowdrift;gray;grayness;grey;greyness;downy birch;white birch;betula pubescens;silver tree;tarrietia argyrodendron;swamp birch;water birch;mountain birch;western paper birch;western birch;betula fontinalis;snow thrower;snow blower;snowplow;snowplough;stele;stela;ski slope;

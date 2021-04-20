@@ -1,0 +1,15 @@
+boxes_1.jpg;horned violet,tufted pansy,Viola cornuta:0.591969907283783;pansy orchid:0.32408392429351807;
+boxes_10.jpg;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.08174420893192291;negative:0.0811927393078804;Japanese morning glory,Ipomoea nil:0.05272481217980385;
+boxes_11.jpg;honeycreeper:0.12057565897703171;honeycreeper,Hawaiian honeycreeper:0.10593470185995102;
+boxes_12.jpg;negative:0.18039178848266602;squill:0.06490911543369293;
+boxes_13.jpg;negative:0.3469580411911011;
+boxes_14.jpg;horned violet,tufted pansy,Viola cornuta:0.466696172952652;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.33168143033981323;two-eyed violet,heartsease,Viola ocellata:0.08392859250307083;field pansy,heartsease,Viola arvensis:0.05534062534570694;
+boxes_2.jpg;imperial Japanese morning glory,Ipomoea imperialis:0.08917346596717834;Spanish iris,xiphium iris,Iris xiphium:0.07377006113529205;blue poppy,Meconopsis betonicifolia:0.05478892847895622;
+boxes_3.jpg;negative:0.16491395235061646;
+boxes_4.jpg;honeycreeper,Hawaiian honeycreeper:0.13642944395542145;honeycreeper:0.1091594249010086;
+boxes_5.jpg;negative:0.8026902079582214;
+boxes_6.jpg;negative:0.5974807143211365;blue poppy,Meconopsis betonicifolia:0.062305793166160583;
+boxes_7.jpg;negative:0.06551877409219742;rocket larkspur,Consolida ambigua,Delphinium ajacis:0.061938781291246414;
+boxes_8.jpg;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.5896455645561218;horned violet,tufted pansy,Viola cornuta:0.2617899775505066;two-eyed violet,heartsease,Viola ocellata:0.061805181205272675;
+boxes_9.jpg;negative:0.07385249435901642;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.05329803004860878;
+img_946.jpg;horned violet,tufted pansy,Viola cornuta:0.396409809589386;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.19140110909938812;field pansy,heartsease,Viola arvensis:0.18659712374210358;two-eyed violet,heartsease,Viola ocellata:0.1243419498205185;

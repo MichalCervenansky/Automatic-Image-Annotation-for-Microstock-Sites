@@ -1,0 +1,3 @@
+from_image_IPTC:audi;sline;badge;a4;2007;car;shot;
+from_object_detection:auto part;guitar;musical instrument;wheel;musical keyboard;piano;land vehicle;office supplies;vehicle registration plate;car;organ;stairs;vehicle;
+from_image_classification:grille;radiator grille;headlight;headlamp;foglamp;bumper;gray;grayness;grey;greyness;maildrop;cash machine;cash dispenser;automated teller machine;automatic teller machine;automated teller;automatic teller;atm;reset button;air conditioner;air conditioning;loaner;tread;

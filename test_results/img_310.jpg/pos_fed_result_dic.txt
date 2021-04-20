@@ -1,0 +1,3 @@
+from_image_IPTC:girl;playing;lovely;small;cute;kitten;
+from_object_detection:cat;flower;plant;
+from_image_classification:jungle cat;felis chaus;cat thyme;marum;teucrium marum;tom;tomcat;kitten;kitty;alley cat;

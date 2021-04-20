@@ -1,0 +1,13 @@
+boxes_1.jpg;computer keyboard:0.4843755
+boxes_2.jpg;computer keyboard:0.38615197
+boxes_3.jpg;remote control:0.33374536
+boxes_4.jpg;poster:0.26745698
+boxes_5.jpg;calculator:0.25474808
+boxes_6.jpg;vehicle:0.10685372
+boxes_7.jpg;remote control:0.08751036
+boxes_8.jpg;toy:0.08286314
+boxes_9.jpg;corded phone:0.07930761
+boxes_10.jpg;calculator:0.07610311
+boxes_11.jpg;building:0.05342151
+boxes_12.jpg;office supplies:0.051220786
+boxes_13.jpg;person:0.05010166

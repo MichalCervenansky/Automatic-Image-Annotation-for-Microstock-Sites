@@ -1,0 +1,7 @@
+boxes_1.jpg;fruit:0.77675664
+boxes_2.jpg;tree:0.73141456
+boxes_3.jpg;plant:0.28098366
+boxes_4.jpg;maple:0.20074274
+boxes_5.jpg;plant:0.08712675
+boxes_6.jpg;plant:0.0552322
+boxes_7.jpg;grape:0.053712294

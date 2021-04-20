@@ -1,0 +1,3 @@
+from_image_IPTC:lots;poisonous;mushrooms;forest;
+from_object_detection:mushroom;tree;plant;vegetable;shellfish;coconut;
+from_image_classification:club fungus;sac fungus;horse mushroom;agaricus arvensis;volva;gill fungus;basidiocarp;booby;negative;oil paint;ice;water ice;giant clam;tridacna gigas;dugout canoe;dugout;pirogue;bird;mescal button;sacred mushroom;magic mushroom;mushroom;spruce grouse;canachites canadensis;stinkhorn;carrion fungus;mealybug;mealy bug;jellyfish;ctenophore;comb jelly;ballet dancer;true fungus;steel blue;ark shell;

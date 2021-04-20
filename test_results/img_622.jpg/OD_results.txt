@@ -1,0 +1,30 @@
+boxes_1.jpg;barrel:0.85605407
+boxes_2.jpg;table:0.70026743
+boxes_3.jpg;barrel:0.6344962
+boxes_4.jpg;barrel:0.6026711
+boxes_5.jpg;building:0.54637307
+boxes_6.jpg;building:0.52898043
+boxes_7.jpg;clothing:0.34565365
+boxes_8.jpg;table:0.33778617
+boxes_9.jpg;table:0.32129124
+boxes_10.jpg;barrel:0.27827972
+boxes_11.jpg;person:0.25295758
+boxes_12.jpg;barrel:0.25291774
+boxes_13.jpg;furniture:0.20745847
+boxes_14.jpg;table:0.18516566
+boxes_15.jpg;book:0.17529687
+boxes_16.jpg;ceiling fan:0.17227739
+boxes_17.jpg;barrel:0.14818877
+boxes_18.jpg;table:0.14360584
+boxes_19.jpg;person:0.123555094
+boxes_20.jpg;furniture:0.11884033
+boxes_21.jpg;barrel:0.10484204
+boxes_22.jpg;furniture:0.1038411
+boxes_23.jpg;person:0.0938794
+boxes_24.jpg;picture frame:0.08679998
+boxes_25.jpg;poster:0.08597178
+boxes_26.jpg;furniture:0.07845801
+boxes_27.jpg;clothing:0.07325424
+boxes_28.jpg;table:0.06071132
+boxes_29.jpg;furniture:0.05139655
+boxes_30.jpg;clothing:0.05000862

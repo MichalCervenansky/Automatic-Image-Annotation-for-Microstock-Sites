@@ -1,0 +1,3 @@
+from_image_IPTC:spring;lively;treetops;green;leaves;cler;blue;sky;
+from_object_detection:tree;maple;
+from_image_classification:sunniness;negative;silver tree;tarrietia argyrodendron;canyon oak;canyon live oak;maul oak;iron oak;quercus chrysolepis;jade green;jade;balsam poplar;hackmatack;tacamahac;populus balsamifera;ivory tree;conessi;kurchi;kurchee;holarrhena pubescens;holarrhena antidysenterica;tree;

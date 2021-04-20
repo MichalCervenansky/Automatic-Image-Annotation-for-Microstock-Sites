@@ -1,0 +1,14 @@
+boxes_1.jpg;building:0.9724715
+boxes_2.jpg;building:0.47577497
+boxes_3.jpg;person:0.35649958
+boxes_4.jpg;person:0.3122529
+boxes_5.jpg;building:0.26659408
+boxes_6.jpg;window:0.13852836
+boxes_7.jpg;person:0.13436714
+boxes_8.jpg;woman:0.117728785
+boxes_9.jpg;person:0.10657128
+boxes_10.jpg;window:0.105095126
+boxes_11.jpg;clothing:0.0814018
+boxes_12.jpg;building:0.07698891
+boxes_13.jpg;clothing:0.06866842
+boxes_14.jpg;person:0.057284463

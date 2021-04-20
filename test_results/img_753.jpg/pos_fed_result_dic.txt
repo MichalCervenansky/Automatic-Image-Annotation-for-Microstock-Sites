@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;rural;jajce;waterfall;bosna;hercegovina;
+from_object_detection:tree;maple;window;
+from_image_classification:japanese beech;hemlock;hemlock tree;american beech;white beech;red beech;fagus grandifolia;fagus americana;western white pine;silver pine;mountain pine;pinus monticola;china tree;false dogwood;jaboncillo;chinaberry;sapindus saponaria;beech;beech tree;mountain hemlock;black hemlock;tsuga mertensiana;mountainside;versant;descent;declivity;fall;decline;declination;declension;downslope;copper beech;purple beech;fagus sylvatica atropunicea;fagus purpurea;fagus sylvatica purpurea;pin oak;swamp oak;quercus palustris;negative;sea lion;hot tub;

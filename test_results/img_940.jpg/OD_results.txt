@@ -1,0 +1,4 @@
+boxes_1.jpg;book:0.99814427
+boxes_2.jpg;book:0.94343597
+boxes_3.jpg;book:0.44854534
+boxes_4.jpg;book:0.3126331

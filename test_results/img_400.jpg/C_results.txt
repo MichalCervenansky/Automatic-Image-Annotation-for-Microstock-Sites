@@ -1,0 +1,9 @@
+boxes_1.jpg;sunniness:0.1836698055267334;bridle path,bridle road:0.1767100989818573;
+boxes_2.jpg;sunniness:0.12607154250144958;bridle path,bridle road:0.10321015119552612;negative:0.0673571452498436;tarmacadam,tarmac,macadam:0.06558629125356674;
+boxes_3.jpg;negative:0.1662076711654663;sunniness:0.09067997336387634;tarmacadam,tarmac,macadam:0.05681590363383293;snow,snowfall:0.05414516478776932;
+boxes_4.jpg;negative:0.8068042993545532;
+boxes_5.jpg;bridle path,bridle road:0.27409857511520386;snow,snowfall:0.10711413621902466;road,route:0.08708230406045914;
+boxes_6.jpg;canyon oak,canyon live oak,maul oak,iron oak,Quercus chrysolepis:0.17762728035449982;live oak:0.1436236947774887;California white oak,valley oak,valley white oak,roble,Quercus lobata:0.08848994225263596;California black oak,Quercus kelloggii:0.05843137949705124;
+boxes_7.jpg;negative:0.266469806432724;Brazilian rosewood,caviuna wood,jacaranda,Dalbergia nigra:0.05133028328418732;
+boxes_8.jpg;blind curve,blind bend:0.10961494594812393;uphill:0.05169536918401718;
+img_400.jpg;bridle path,bridle road:0.294949471950531;uphill:0.13598203659057617;tarmacadam,tarmac,macadam:0.13297826051712036;

@@ -1,0 +1,6 @@
+boxes_1.jpg;thistledown:0.4222160875797272;smoke screen,smokescreen:0.1574854850769043;negative:0.10073105990886688;ash grey,ash gray,silver,silver grey,silver gray:0.07044003158807755;
+boxes_2.jpg;thistledown:0.3448503613471985;ash grey,ash gray,silver,silver grey,silver gray:0.17741648852825165;smoke screen,smokescreen:0.1747535914182663;negative:0.06841415911912918;
+boxes_3.jpg;tick:0.15080071985721588;sheep-tick,sheep tick,Ixodes ricinus:0.10373932868242264;head louse,Pediculus capitis:0.07262209057807922;
+boxes_4.jpg;thistledown:0.3333887755870819;smoke screen,smokescreen:0.11721750348806381;ash grey,ash gray,silver,silver grey,silver gray:0.11560262739658356;negative:0.0629805475473404;
+boxes_5.jpg;thistledown:0.3448503613471985;ash grey,ash gray,silver,silver grey,silver gray:0.17741648852825165;smoke screen,smokescreen:0.1747535914182663;negative:0.06841415911912918;
+img_20.jpg;thistledown:0.5416621565818787;smoke screen,smokescreen:0.11659644544124603;ash grey,ash gray,silver,silver grey,silver gray:0.07553166896104813;

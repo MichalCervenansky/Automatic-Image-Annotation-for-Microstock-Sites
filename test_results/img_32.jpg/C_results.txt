@@ -1,0 +1,4 @@
+boxes_1.jpg;feline,felid:0.7333853840827942;quadruped:0.10712718218564987;
+boxes_2.jpg;sea green:0.056602686643600464;ovoid:0.05429990589618683;
+boxes_3.jpg;coati,coati-mondi,coati-mundi,coon cat,Nasua narica:0.8840636610984802;
+img_32.jpg;feline,felid:0.8007424473762512;tom,tomcat:0.059912197291851044;

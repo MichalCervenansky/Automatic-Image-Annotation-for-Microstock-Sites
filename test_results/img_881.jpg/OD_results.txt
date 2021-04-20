@@ -1,0 +1,21 @@
+boxes_1.jpg;tree:0.6798564
+boxes_2.jpg;tree:0.47796902
+boxes_3.jpg;wheel:0.44484258
+boxes_4.jpg;tree:0.42920947
+boxes_5.jpg;vehicle:0.33842328
+boxes_6.jpg;wheel:0.31321287
+boxes_7.jpg;tree:0.30140808
+boxes_8.jpg;tree:0.29995874
+boxes_9.jpg;airplane:0.24942563
+boxes_10.jpg;plant:0.18257688
+boxes_11.jpg;tree:0.13725586
+boxes_12.jpg;flowerpot:0.13486084
+boxes_13.jpg;parachute:0.11893389
+boxes_14.jpg;tree:0.09040341
+boxes_15.jpg;land vehicle:0.07430133
+boxes_16.jpg;tree:0.07339216
+boxes_17.jpg;tree:0.06705918
+boxes_18.jpg;houseplant:0.06196728
+boxes_19.jpg;houseplant:0.06079149
+boxes_20.jpg;tree:0.05452575
+boxes_21.jpg;tree:0.050069835

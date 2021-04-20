@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;scenery;norway;fishing;village;hidden;deep;fjords;
+from_object_detection:tree;house;boat;vehicle;
+from_image_classification:frigate;waterside;boathouse;waterfront;seaside;seaboard;hillside;oceanfront;watercourse;lockage;canvas tent;canvas;canvass;lakeside;lakeshore;lakefront;saltbox;lake dwelling;pile dwelling;craft;passenger ship;trawler;vessel;watercraft;langlaufer;snow thrower;snow blower;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;riverbank;riverside;mountain;mount;bluff;

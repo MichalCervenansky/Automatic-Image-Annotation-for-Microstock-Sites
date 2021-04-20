@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;little;soft;flower;rocks;
+from_object_detection:flower;artichoke;plant;
+from_image_classification:black mallee;black sally;black gum;eucalytus stellulata;involucre;european woolly thistle;cirsium eriophorum;cotton thistle;woolly thistle;scotch thistle;onopordum acanthium;onopordon acanthium;logwood;logwood tree;campeachy;bloodwood tree;haematoxylum campechianum;perianth;chlamys;floral envelope;perigone;perigonium;protea;bract;rhinoceros beetle;boll weevil;anthonomus grandis;sweet sultan;amberboa moschata;centaurea moschata;

@@ -1,0 +1,2 @@
+boxes_1.jpg;bitch:0.5435231924057007;dog,domestic dog,Canis familiaris:0.06353104114532471;
+img_650.jpg;bitch:0.44308868050575256;dog,domestic dog,Canis familiaris:0.10742531716823578;

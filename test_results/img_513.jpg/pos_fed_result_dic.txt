@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:wheel;car;land vehicle;auto part;clothing;
+from_image_classification:steering wheel;wheel;splashboard;splasher;dashboard;cockpit;helm;fascia;purifier;tailgate;tailboard;equalizer;equaliser;control panel;instrument panel;control board;board;panel;rocker arm;valve rocker;ignition switch;gasoline gauge;gasoline gage;gas gauge;gas gage;petrol gauge;petrol gage;car door;glove compartment;gearshift;gearstick;shifter;gear lever;tachometer;tach;vacuum gauge;vacuum gage;ammeter;odometer;hodometer;mileometer;milometer;fuel gauge;fuel indicator;variometer;horn button;voltmeter;pyrometer;water gauge;water gage;water glass;

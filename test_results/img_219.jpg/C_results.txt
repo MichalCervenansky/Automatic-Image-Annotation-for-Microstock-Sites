@@ -1,0 +1,5 @@
+boxes_1.jpg;burial chamber,sepulcher,sepulchre,sepulture:0.3505811095237732;backstairs:0.10304035991430283;truncated pyramid:0.061232056468725204;
+boxes_2.jpg;burial chamber,sepulcher,sepulchre,sepulture:0.18133589625358582;bricks and mortar:0.09742439538240433;truncated pyramid:0.07185719162225723;backstairs:0.056737594306468964;
+boxes_3.jpg;backstairs:0.7472311854362488;
+boxes_4.jpg;burial chamber,sepulcher,sepulchre,sepulture:0.4619010388851166;backstairs:0.12043851613998413;
+img_219.jpg;backstairs:0.2037343680858612;burial chamber,sepulcher,sepulchre,sepulture:0.18605968356132507;truncated pyramid:0.051424846053123474;

@@ -1,0 +1,3 @@
+from_image_IPTC:harbour;ships;small;croatian;village;
+from_object_detection:boat;building;
+from_image_classification:schooner;rigging;tackle;mainmast;foresail;backstay;stay;hull;sprit;trimaran;bareboat;headsail;sloop;catamaran;royal mast;

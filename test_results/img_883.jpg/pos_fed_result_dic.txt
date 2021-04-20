@@ -1,0 +1,3 @@
+from_image_IPTC:view;london;eye;river;themes;
+from_object_detection:wheel;tree;skyscraper;building;tower;vehicle;
+from_image_classification:ferris wheel;smoke screen;smokescreen;high-rise;tower block;press of sail;press of canvas;waterfront;fireboat;wheel;armored vehicle;armoured vehicle;craft;armored personnel carrier;armoured personnel carrier;apc;cabin cruiser;cruiser;pleasure boat;pleasure craft;personnel carrier;patrol boat;patrol ship;jolly boat;jolly;catboat;lateen;lateen sail;sieve;screen;funnel;masher;skimmer;royal tennis;real tennis;court tennis;radio telescope;radio reflector;radio interferometer;starting gate;starting stall;river boat;showboat;

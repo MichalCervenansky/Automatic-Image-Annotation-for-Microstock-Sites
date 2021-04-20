@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;pancakes;whipped;cream;pear;peach;homemade;
+from_object_detection:food;dairy;dessert;salad;baked goods;plate;ice cream;
+from_image_classification:marshmallow fluff;ultramarine;heavy cream;icing sugar;star;ice mass;ice;water ice;kiss;candy kiss;blue;blueness;yogurt;yoghurt;yoghourt;marshmallow;

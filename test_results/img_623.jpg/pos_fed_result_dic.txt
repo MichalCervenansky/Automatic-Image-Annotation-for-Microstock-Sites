@@ -1,0 +1,3 @@
+from_image_IPTC:canons;stara;lubovna;castle;
+from_object_detection:cannon;wheel;tire;plant;cart;vehicle;
+from_image_classification:gun carriage;artillery;heavy weapon;gun;ordnance;culverin;cannon;field artillery;field gun;stern chaser;naval gun;gatling gun;cucking stool;ducking stool;barbette carriage;limber;clamshell;grapple;gnomon;windshield;windscreen;dredging bucket;thresher;thrasher;threshing machine;tracked vehicle;skidder;salver;pawn;waterwheel;water wheel;catapult;launcher;lathe;tailstock;mortar;howitzer;trench mortar;long tom;cultivator;tiller;plow;plough;

@@ -1,0 +1,7 @@
+boxes_1.jpg;tree:0.69666094
+boxes_2.jpg;palm tree:0.27513358
+boxes_3.jpg;tree:0.20642075
+boxes_4.jpg;plant:0.18624584
+boxes_5.jpg;person:0.064410746
+boxes_6.jpg;tree:0.06312837
+boxes_7.jpg;person:0.058474403

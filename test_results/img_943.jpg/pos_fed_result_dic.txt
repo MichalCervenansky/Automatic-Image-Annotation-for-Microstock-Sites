@@ -1,0 +1,3 @@
+from_image_IPTC:disassambled;damage;computer;grafic;card;circuit;board;damaged;high;temperature;
+from_object_detection:auto part;office supplies;toy;musical keyboard;
+from_image_classification:cpu board;mother board;computer circuit;circuit;electrical circuit;electric circuit;module;transistor;junction transistor;electronic transistor;control;controller;capacitor;capacitance;condenser;electrical condenser;heat sink;

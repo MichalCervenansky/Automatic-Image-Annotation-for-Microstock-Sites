@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;yellow;coral;chimneys;croatian;sea;
+from_object_detection:marine invertebrates;plant;
+from_image_classification:coral reef;club fungus;coral;staghorn coral;stag's-horn coral;dead-man's-fingers;dead-men's-fingers;xylaria polymorpha;sponge;poriferan;parazoan;sea anemone;anemone;anemone fish;zooid;clown anemone fish;amphiprion percula;sea fan;damselfish;demoiselle;moneran;moneron;sea urchin;glass sponge;sea squirt;choanocyte;collar cell;

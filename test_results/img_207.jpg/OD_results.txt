@@ -1,0 +1,30 @@
+boxes_1.jpg;food:0.81017894
+boxes_2.jpg;food:0.31641206
+boxes_3.jpg;food:0.26620668
+boxes_4.jpg;food:0.23523751
+boxes_5.jpg;sushi:0.21654639
+boxes_6.jpg;snack:0.20448786
+boxes_7.jpg;food:0.1991535
+boxes_8.jpg;snack:0.18054786
+boxes_9.jpg;food:0.17978469
+boxes_10.jpg;food:0.17641638
+boxes_11.jpg;baked goods:0.14698303
+boxes_12.jpg;fast food:0.14683095
+boxes_13.jpg;dessert:0.13317294
+boxes_14.jpg;sushi:0.12679918
+boxes_15.jpg;snack:0.12538846
+boxes_16.jpg;bottle:0.121220455
+boxes_17.jpg;fast food:0.12069385
+boxes_18.jpg;drink:0.114332154
+boxes_19.jpg;snack:0.10580214
+boxes_20.jpg;fast food:0.10038185
+boxes_21.jpg;food:0.08854135
+boxes_22.jpg;dessert:0.08764895
+boxes_23.jpg;countertop:0.07603157
+boxes_24.jpg;food:0.0679809
+boxes_25.jpg;tableware:0.062213294
+boxes_26.jpg;baked goods:0.059114415
+boxes_27.jpg;snack:0.05849369
+boxes_28.jpg;bottle:0.05466257
+boxes_29.jpg;sushi:0.052020255
+boxes_30.jpg;food:0.051350035

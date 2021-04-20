@@ -1,0 +1,7 @@
+boxes_1.jpg;boat:0.89037174
+boxes_2.jpg;person:0.5694835
+boxes_3.jpg;surfboard:0.11879493
+boxes_4.jpg;footwear:0.10927662
+boxes_5.jpg;flag:0.102919556
+boxes_6.jpg;watercraft:0.10009046
+boxes_7.jpg;sports equipment:0.051860623

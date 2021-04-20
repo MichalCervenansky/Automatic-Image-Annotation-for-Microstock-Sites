@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;rare;colorful;sea;slug;elysia;crispata;;
+from_object_detection:flower;marine invertebrates;plant;invertebrate;insect;
+from_image_classification:negative;hermissenda crassicornis;hydrozoan;hydroid;zooplankton;dendrite;rhizopus;

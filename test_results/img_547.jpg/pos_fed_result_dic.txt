@@ -1,0 +1,3 @@
+from_image_IPTC:icy;snow;green;moss;forest;macro;
+from_object_detection:plant;flower;
+from_image_classification:benthos;benthic division;benthonic zone;ascospore;zooid;negative;sea feather;acrocarp;acrocarpous moss;aspergillus fumigatus;ciliate;ciliated protozoan;ciliophoran;dewdrop;purple;purpleness;brush;dustcloth;dustrag;duster;soup-strainer;toothbrush;

@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;homemade;kebab;vegetables;chicken;meat;
+from_object_detection:food;taco;fast food;vegetable;burrito;seafood;
+from_image_classification:carpet pad;rug pad;underlay;underlayment;petal;flower petal;bedpan;cone;conoid;cone shape;acute triangle;acute-angled triangle;conch;giant conch;strombus gigas;oyster shell;shell;earplug;vitamin pill;toothbrush;seasnail;handkerchief;hankie;hanky;hankey;

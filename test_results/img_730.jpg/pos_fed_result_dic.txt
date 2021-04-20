@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;hrvatian;coast;sea;side;
+from_object_detection:tree;tower;house;building;
+from_image_classification:craft;hull;solar dish;solar collector;solar furnace;showjumping;stadium jumping;waterside;guildhall;presbytery;snow thrower;snow blower;snowplow;snowplough;beach house;bedpan;soapbox;solar house;amphibian;amphibious vehicle;fireboat;hovercraft;ground-effect machine;tollbooth;tolbooth;tollhouse;campanile;belfry;houseboat;ski lodge;ferry;ferryboat;motorcyclist;oceanfront;seaside;seaboard;harbor;harbour;seashore;coast;seacoast;sea-coast;sprinkler system;penal institution;penal facility;spume;sandbar;sand bar;

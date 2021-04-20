@@ -1,0 +1,14 @@
+boxes_1.jpg;breeder,stock breeder:0.09738171845674515;
+boxes_10.jpg;backstairs:0.9482367038726807;
+boxes_11.jpg;backstairs:0.9188741445541382;
+boxes_12.jpg;backstairs:0.8920808434486389;sunniness:0.08502852916717529;
+boxes_13.jpg;backstairs:0.9335687160491943;
+boxes_2.jpg;
+boxes_3.jpg;backstairs:0.9467911124229431;
+boxes_4.jpg;backstairs:0.8537909388542175;sunniness:0.09340675175189972;
+boxes_5.jpg;backstairs:0.8812112212181091;sunniness:0.07058756053447723;
+boxes_6.jpg;breeder,stock breeder:0.13237042725086212;
+boxes_7.jpg;backstairs:0.9171090722084045;
+boxes_8.jpg;breeder,stock breeder:0.09221643954515457;irrigation ditch:0.08023295551538467;arroyo:0.05360499396920204;
+boxes_9.jpg;backstairs:0.8901532888412476;sunniness:0.08499614149332047;
+img_358.jpg;backstairs:0.8228092789649963;sunniness:0.09096600860357285;

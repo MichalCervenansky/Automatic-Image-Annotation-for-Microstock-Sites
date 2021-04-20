@@ -1,0 +1,3 @@
+from_image_IPTC:small;soft;beautiful;rock;flower;near;sea;
+from_object_detection:flower;insect;plant;spider;tree;animal;
+from_image_classification:umbel;cow parsley;wild chervil;anthriscus sylvestris;garden angelica;archangel;angelica archangelica;angelica;hydra;dendrite;wild angelica;angelica sylvestris;negative;sea spider;pycnogonid;chalk;beard lichen;beard moss;usnea barbata;flower cluster;jellyfish;hippodamia convergens;rose chafer;rose beetle;cetonia aurata;twayblade;bullock's oriole;icterus galbula bullockii;

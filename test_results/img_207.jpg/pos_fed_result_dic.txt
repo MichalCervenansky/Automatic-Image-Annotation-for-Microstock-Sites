@@ -1,0 +1,3 @@
+from_image_IPTC:birthday;talbe;sheets;hotel;guests;
+from_object_detection:food;sushi;snack;baked goods;fast food;dessert;bottle;drink;countertop;tableware;
+from_image_classification:shrimp;trepang;holothuria edulis;rollmops;sweet roll;coffee roll;foodstuff;food product;snowdrift;sushi;tropical prawn;clambake;squid;tempura;dinner pail;dinner bucket;pestle;muller;pounder;mortar;architeuthis;giant squid;wool;woolen;woollen;ice;water ice;mineral water;japanese;nipponese;in-basket;in-tray;shoot-'em-up;negative;emperor penguin;aptenodytes forsteri;

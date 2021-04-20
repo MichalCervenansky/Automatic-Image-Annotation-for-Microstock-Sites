@@ -1,0 +1,15 @@
+boxes_1.jpg;thistledown:0.804362952709198;feather ball,Mammillaria plumosa:0.07154326140880585;
+boxes_10.jpg;thistledown:0.9262728691101074;
+boxes_11.jpg;thistledown:0.9062052369117737;
+boxes_12.jpg;thistledown:0.5074083805084229;
+boxes_13.jpg;thistledown:0.8765800595283508;
+boxes_14.jpg;heartleaf,heart-leaf,Asarum shuttleworthii:0.08625764399766922;false lily of the valley,Maianthemum bifolium:0.06683961302042007;
+boxes_2.jpg;thistledown:0.40623417496681213;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.26071494817733765;
+boxes_3.jpg;thistledown:0.9464257955551147;
+boxes_4.jpg;
+boxes_5.jpg;feather ball,Mammillaria plumosa:0.6123924851417542;chichipe,Lemaireocereus chichipe:0.06526406109333038;
+boxes_6.jpg;thistledown:0.9269390106201172;
+boxes_7.jpg;thistledown:0.1036708801984787;
+boxes_8.jpg;thistledown:0.619199275970459;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.12062690407037735;dandelion green:0.10898136347532272;
+boxes_9.jpg;early spider orchid,Ophrys sphegodes:0.0637182667851448;
+img_168.jpg;thistledown:0.7271617650985718;dandelion green:0.1440795361995697;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.07154422998428345;

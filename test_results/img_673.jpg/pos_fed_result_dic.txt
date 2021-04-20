@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;big;funny;fish;croatian;sea;diving;
+from_object_detection:fish;marine invertebrates;plant;
+from_image_classification:young fish;greenling;grunt;topminnow;poeciliid fish;poeciliid;live-bearer;stony coral;madrepore;madriporian coral;mouthbreeder;gudgeon;gobio gobio;mojarra;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;brown algae;wolffish;wolf fish;catfish;polyp;alga;algae;bottom-feeder;bottom-dweller;benthos;benthic division;benthonic zone;goby;cichlid;cichlid fish;damselfish;demoiselle;sea fan;blenny;combtooth blenny;

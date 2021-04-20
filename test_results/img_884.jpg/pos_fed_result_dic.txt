@@ -1,0 +1,3 @@
+from_image_IPTC:view;london;bridge;nice;sunny;day;dramatic;clouds;
+from_object_detection:building;tree;tower;window;skyscraper;
+from_image_classification:rendering;bascule;pilaster;modillion;high-rise;tower block;condominium;stadium;bowl;arena;sports stadium;artwork;art;graphics;nontextual matter;guildhall;oriel;oriel window;waterfront;mausoleum;hurricane deck;hurricane roof;promenade deck;awning deck;ski jump;fleet street;corbel;truss;university;ministry;college;building;edifice;clerestory;clearstory;tabloid;rag;sheet;philatelist;stamp collector;plate rack;dish rack;mosque;church tower;cornice;scoreboard;castle;palace;smoke screen;smokescreen;igloo;iglu;dome;domed stadium;covered stadium;

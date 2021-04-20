@@ -1,0 +1,13 @@
+boxes_1.jpg;chicory,chicory root:0.30586645007133484;chicory,succory,chicory plant,Cichorium intybus:0.21162858605384827;stokes' aster,cornflower aster,Stokesia laevis:0.12790298461914062;composite,composite plant:0.09917926043272018;
+boxes_10.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.20126324892044067;negative:0.09485886245965958;oxygen mask:0.08595454692840576;
+boxes_11.jpg;negative:0.07123718410730362;swimming,swim:0.05276685208082199;
+boxes_12.jpg;chicory,chicory root:0.2664080858230591;blue daisy,blue marguerite,Felicia amelloides:0.12724581360816956;composite,composite plant:0.12579987943172455;stokes' aster,cornflower aster,Stokesia laevis:0.10971160233020782;chicory,succory,chicory plant,Cichorium intybus:0.061167698353528976;negative:0.050731390714645386;
+boxes_2.jpg;negative:0.23858867585659027;plastic bag:0.18673577904701233;blue,blueness:0.0665668472647667;
+boxes_3.jpg;spotlight,spot:0.05389437824487686;
+boxes_4.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.4472123384475708;
+boxes_5.jpg;negative:0.17547397315502167;
+boxes_6.jpg;covered smut:0.4176405966281891;head smut,Sphacelotheca reiliana:0.1711616814136505;pythium:0.0530601404607296;
+boxes_7.jpg;plastic bag:0.2633974254131317;blue,blueness:0.09933764487504959;negative:0.09920202940702438;
+boxes_8.jpg;
+boxes_9.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.9911260008811951;
+img_33.jpg;stokes' aster,cornflower aster,Stokesia laevis:0.2644808888435364;negative:0.0844896212220192;chicory,chicory root:0.06642452627420425;

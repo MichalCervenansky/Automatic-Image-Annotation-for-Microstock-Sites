@@ -1,0 +1,4 @@
+boxes_1.jpg;rose:0.98276615
+boxes_2.jpg;flower:0.3469472
+boxes_3.jpg;tree:0.21387085
+boxes_4.jpg;plant:0.054249164

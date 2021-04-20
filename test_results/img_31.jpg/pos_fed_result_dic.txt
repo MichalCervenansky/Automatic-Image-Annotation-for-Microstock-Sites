@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;small;cute;tasty;mushrooms;
+from_object_detection:mushroom;plant;flower;tree;
+from_image_classification:mescal button;sacred mushroom;magic mushroom;mushroom;horse mushroom;agaricus arvensis;fairy ring;fairy circle;meadow mushroom;field mushroom;agaricus campestris;grape hyacinth;jellyfish;partial veil;inky cap;inky-cap mushroom;coprinus atramentarius;entoloma aprile;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;dewdrop;sea green;cellophane;plastic wrap;mucor;

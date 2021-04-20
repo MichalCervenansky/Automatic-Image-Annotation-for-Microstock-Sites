@@ -1,0 +1,14 @@
+boxes_1.jpg;rose,rosebush:0.21260637044906616;musk rose,Rosa moschata:0.16527125239372253;negative:0.14433369040489197;peach bells,peach bell,willow bell,Campanula persicifolia:0.05003361776471138;
+boxes_10.jpg;negative:0.2794169783592224;musk rose,Rosa moschata:0.11940616369247437;rose,rosebush:0.11917411535978317;peach bells,peach bell,willow bell,Campanula persicifolia:0.07170193642377853;
+boxes_11.jpg;rose,rosebush:0.22250527143478394;flower:0.1253921538591385;musk rose,Rosa moschata:0.06744810193777084;water violet,Hottonia palustris:0.05778232961893082;peach bells,peach bell,willow bell,Campanula persicifolia:0.053592465817928314;
+boxes_12.jpg;negative:0.8942468762397766;
+boxes_13.jpg;rose,rosebush:0.6386216282844543;
+boxes_2.jpg;negative:0.13476359844207764;blue pea,butterfly pea,Clitoria turnatea:0.12832339107990265;flower:0.09323996305465698;rose,rosebush:0.09040344506502151;musk rose,Rosa moschata:0.08664249628782272;Canterbury bell,cup and saucer,Campanula medium:0.06797143071889877;
+boxes_3.jpg;blue pea,butterfly pea,Clitoria turnatea:0.6759403347969055;negative:0.06194373965263367;
+boxes_4.jpg;negative:0.567419707775116;blue pea,butterfly pea,Clitoria turnatea:0.11737388372421265;balloon flower,scented penstemon,Penstemon palmeri:0.07897893339395523;
+boxes_5.jpg;negative:0.5899520516395569;blue pea,butterfly pea,Clitoria turnatea:0.0997861847281456;purple,purpleness:0.056220170110464096;
+boxes_6.jpg;negative:0.34424594044685364;blue pea,butterfly pea,Clitoria turnatea:0.19782069325447083;flower:0.089838407933712;
+boxes_7.jpg;blue pea,butterfly pea,Clitoria turnatea:0.21336649358272552;hortensia,Hydrangea macrophylla hortensis:0.09728866070508957;balloon flower,scented penstemon,Penstemon palmeri:0.059717655181884766;Canterbury bell,cup and saucer,Campanula medium:0.05856829136610031;large periwinkle,Vinca major:0.052091680467128754;
+boxes_8.jpg;negative:0.20680734515190125;blue pea,butterfly pea,Clitoria turnatea:0.1899096816778183;peach bells,peach bell,willow bell,Campanula persicifolia:0.11076825857162476;Canterbury bell,cup and saucer,Campanula medium:0.11053396761417389;
+boxes_9.jpg;spiderwort,dayflower:0.11325764656066895;negative:0.11313048750162125;
+img_177.jpg;negative:0.3692950904369354;Canterbury bell,cup and saucer,Campanula medium:0.19608138501644135;blue pea,butterfly pea,Clitoria turnatea:0.09918900579214096;Canterbury bell,Gloxinia perennis:0.08231624960899353;

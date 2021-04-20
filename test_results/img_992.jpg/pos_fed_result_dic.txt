@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;white;cliffs;dover;landscape;uk;
+from_object_detection:boat;house;watercraft;tree;vehicle;
+from_image_classification:seashore;coast;seacoast;sea-coast;shore;rail fence;stadium;bowl;arena;sports stadium;swell;cliff;drop;drop-off;sailboat;sailing boat;wine bucket;wine cooler;ice mass;

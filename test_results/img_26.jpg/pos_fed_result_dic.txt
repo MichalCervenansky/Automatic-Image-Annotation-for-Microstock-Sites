@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;small;cute;brown;dog;landscape;
+from_object_detection:dog;tree;plant;
+from_image_classification:bitch;housedog;watchdog;guard dog;working dog;hunting dog;negative;dachshund;dachsie;badger dog;beaver;post;black-tailed deer;blacktail deer;blacktail;odocoileus hemionus columbianus;virginia deer;white tail;whitetail;white-tailed deer;whitetail deer;odocoileus virginianus;woodland caribou;rangifer caribou;wapiti;elk;american elk;cervus elaphus canadensis;

@@ -1,0 +1,17 @@
+boxes_1.jpg;palm tree:0.942548
+boxes_2.jpg;palm tree:0.34206647
+boxes_3.jpg;palm tree:0.33410075
+boxes_4.jpg;tree:0.26823708
+boxes_5.jpg;palm tree:0.2580761
+boxes_6.jpg;tree:0.14760245
+boxes_7.jpg;palm tree:0.11855687
+boxes_8.jpg;palm tree:0.11477644
+boxes_9.jpg;tree:0.11233861
+boxes_10.jpg;palm tree:0.089978
+boxes_11.jpg;plant:0.083501495
+boxes_12.jpg;tree:0.07557785
+boxes_13.jpg;tree:0.0615124
+boxes_14.jpg;palm tree:0.061498683
+boxes_15.jpg;plant:0.055901967
+boxes_16.jpg;tree:0.0512438
+boxes_17.jpg;plant:0.050115168

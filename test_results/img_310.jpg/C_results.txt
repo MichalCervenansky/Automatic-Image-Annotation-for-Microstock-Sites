@@ -1,0 +1,4 @@
+boxes_1.jpg;jungle cat,Felis chaus:0.31098052859306335;cat thyme,marum,Teucrium marum:0.09432286024093628;tom,tomcat:0.05172138288617134;kitten,kitty:0.050202466547489166;
+boxes_2.jpg;
+boxes_3.jpg;tom,tomcat:0.25982022285461426;alley cat:0.12119923532009125;kitten,kitty:0.08389199525117874;cat thyme,marum,Teucrium marum:0.059440892189741135;jungle cat,Felis chaus:0.053673647344112396;
+img_310.jpg;kitten,kitty:0.7568575739860535;alley cat:0.08687448501586914;

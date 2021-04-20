@@ -1,0 +1,2 @@
+boxes_1.jpg;
+img_993.jpg;ocean:0.16872817277908325;sunniness:0.13378557562828064;seashore,coast,seacoast,sea-coast:0.10992474108934402;shore:0.10207542032003403;

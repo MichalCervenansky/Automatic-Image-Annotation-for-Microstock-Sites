@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;colorful;brick;house;great;britan;london;
+from_object_detection:window;door;house;building;
+from_image_classification:sash;window sash;sash window;casing;case;double-hung window;storm window;storm sash;terraced house;facing;veneer;jamb;sidewall;cladding;stucco;duplex house;duplex;semidetached house;coach house;carriage house;remise;hip tile;hipped tile;hip roof;hipped roof;transom;transom window;fanlight;quoin;coign;coigne;double glazing;graining;woodgraining;slate roof;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;love;locks;bridge;jajce;
+from_object_detection:plant;box;auto part;tool;flower;land vehicle;
+from_image_classification:winder;key;lock;padlock;paper chain;chain;pina colada;ignition lock;keyhole;safety bolt;safety lock;pin;pin tumbler;doorplate;mailbox;letter box;

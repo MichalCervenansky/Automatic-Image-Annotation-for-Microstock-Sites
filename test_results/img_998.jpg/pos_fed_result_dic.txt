@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;red;fresh;strawberries;cream;
+from_object_detection:dairy;strawberry;dessert;fruit;ice cream;tart;cake;
+from_image_classification:whip;bavarian cream;ice-cream sundae;sundae;gin and tonic;gin and it;parfait;frozen custard;soft ice cream;sledding;portuguese man-of-war;man-of-war;jellyfish;igloo;iglu;cast;plaster cast;plaster bandage;cream;peach ice cream;baked alaska;ultramarine;morula;tunicate;urochordate;urochord;purplish blue;royal blue;neutrophil;neutrophile;klebsiella;microphage;ice-cream cake;icebox cake;trifle;mousse;whipping cream;light whipping cream;ice cream;icecream;

@@ -1,0 +1,12 @@
+boxes_1.jpg;swimming pool:0.5364366
+boxes_2.jpg;boat:0.18466234
+boxes_3.jpg;flower:0.15862624
+boxes_4.jpg;vehicle:0.15542097
+boxes_5.jpg;boat:0.09282554
+boxes_6.jpg;boat:0.07718037
+boxes_7.jpg;tree:0.07492731
+boxes_8.jpg;boat:0.05441636
+boxes_9.jpg;boat:0.053484697
+boxes_10.jpg;vehicle:0.05344939
+boxes_11.jpg;flower:0.053332075
+boxes_12.jpg;tree:0.0519075

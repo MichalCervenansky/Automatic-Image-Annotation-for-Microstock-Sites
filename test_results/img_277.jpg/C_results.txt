@@ -1,0 +1,4 @@
+boxes_1.jpg;helicopter,chopper,whirlybird,eggbeater:0.5001895427703857;rotor blade,rotary wing:0.272530198097229;aircraft:0.0629534050822258;
+boxes_2.jpg;helicopter,chopper,whirlybird,eggbeater:0.4268006384372711;rotor blade,rotary wing:0.3512674868106842;aircraft:0.09043707698583603;
+boxes_3.jpg;rotor blade,rotary wing:0.5276468396186829;helicopter,chopper,whirlybird,eggbeater:0.19450834393501282;aircraft:0.12012968212366104;
+img_277.jpg;helicopter,chopper,whirlybird,eggbeater:0.5401895046234131;rotor blade,rotary wing:0.19150355458259583;aircraft:0.07856041938066483;

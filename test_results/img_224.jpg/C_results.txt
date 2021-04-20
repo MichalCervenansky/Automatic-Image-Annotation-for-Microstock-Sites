@@ -1,0 +1,2 @@
+boxes_1.jpg;chuckwalla,Sauromalus obesus:0.37316229939460754;agama:0.15302594006061554;spiny lizard:0.14855574071407318;mountain devil,spiny lizard,Moloch horridus:0.05708269402384758;desert iguana,Dipsosaurus dorsalis:0.05517614260315895;
+img_224.jpg;spiny lizard:0.43184196949005127;mountain devil,spiny lizard,Moloch horridus:0.42364242672920227;

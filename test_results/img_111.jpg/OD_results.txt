@@ -1,0 +1,8 @@
+boxes_1.jpg;pomegranate:0.9079092
+boxes_2.jpg;fruit:0.5563832
+boxes_3.jpg;tree:0.5448004
+boxes_4.jpg;apple:0.1681105
+boxes_5.jpg;pear:0.16412257
+boxes_6.jpg;tree:0.085436314
+boxes_7.jpg;plant:0.0773979
+boxes_8.jpg;tree:0.07734208

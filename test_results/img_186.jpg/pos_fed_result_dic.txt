@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;shell;turkish;beach;
+from_object_detection:invertebrate;snail;shellfish;oyster;marine invertebrates;
+from_image_classification:ark shell;cockle;bubble shell;edible mussel;mytilus edulis;

@@ -1,0 +1,3 @@
+boxes_1.jpg;wood drake:0.7060078382492065;American merganser,Mergus merganser americanus:0.10346569120883942;
+boxes_2.jpg;wood drake:0.7588100433349609;American merganser,Mergus merganser americanus:0.07524464279413223;
+img_414.jpg;wood drake:0.6293962001800537;American merganser,Mergus merganser americanus:0.07404027879238129;quack-quack:0.05979360267519951;

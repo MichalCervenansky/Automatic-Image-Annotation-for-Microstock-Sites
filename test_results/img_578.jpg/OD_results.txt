@@ -1,0 +1,18 @@
+boxes_1.jpg;clothing:0.7753859
+boxes_2.jpg;flag:0.43186864
+boxes_3.jpg;clothing:0.394329
+boxes_4.jpg;clothing:0.38416004
+boxes_5.jpg;clothing:0.28107655
+boxes_6.jpg;pillow:0.27050295
+boxes_7.jpg;person:0.24809878
+boxes_8.jpg;clothing:0.16947433
+boxes_9.jpg;clothing:0.14441866
+boxes_10.jpg;clothing:0.13985904
+boxes_11.jpg;human arm:0.11091609
+boxes_12.jpg;jeans:0.10425832
+boxes_13.jpg;pillow:0.097426124
+boxes_14.jpg;human leg:0.0868851
+boxes_15.jpg;clothing:0.086295016
+boxes_16.jpg;clothing:0.07374
+boxes_17.jpg;person:0.05884918
+boxes_18.jpg;clothing:0.053581554

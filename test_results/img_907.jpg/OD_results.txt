@@ -1,0 +1,19 @@
+boxes_1.jpg;wheel:0.8020043
+boxes_2.jpg;car:0.7966055
+boxes_3.jpg;land vehicle:0.32938862
+boxes_4.jpg;wheel:0.30553132
+boxes_5.jpg;wheel:0.20312475
+boxes_6.jpg;auto part:0.13470094
+boxes_7.jpg;tire:0.13200592
+boxes_8.jpg;tire:0.13198821
+boxes_9.jpg;auto part:0.108792305
+boxes_10.jpg;land vehicle:0.09848242
+boxes_11.jpg;glasses:0.09809591
+boxes_12.jpg;wheel:0.095332205
+boxes_13.jpg;wheel:0.082546555
+boxes_14.jpg;car:0.08142459
+boxes_15.jpg;tire:0.07478234
+boxes_16.jpg;tree:0.06862525
+boxes_17.jpg;car:0.06450088
+boxes_18.jpg;sunglasses:0.060240645
+boxes_19.jpg;auto part:0.05941389

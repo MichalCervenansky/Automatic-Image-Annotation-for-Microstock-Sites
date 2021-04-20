@@ -1,0 +1,3 @@
+from_image_IPTC:interior;buchlov;castle;czech;republic;
+from_object_detection:chair;window;coffee table;kitchen & dining room table;couch;table;house;furniture;building;footwear;desk;
+from_image_classification:dining table;board;conference table;council table;council board;dinner table;dining-room furniture;chaise longue;chaise;daybed;wing chair;sheet;bed sheet;slipcover;table;tabletop;easy chair;lounge chair;overstuffed chair;velvet;velour;velours;armchair;dining area;epergne;candelabrum;candelabra;coffee table;cocktail table;pedestal table;bedpost;arm;upholstery;desk;back;backrest;

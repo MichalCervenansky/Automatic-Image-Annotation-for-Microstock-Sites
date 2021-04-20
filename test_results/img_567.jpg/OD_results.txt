@@ -1,0 +1,14 @@
+boxes_1.jpg;pillow:0.8530947
+boxes_2.jpg;pillow:0.6814069
+boxes_3.jpg;clothing:0.54630864
+boxes_4.jpg;flag:0.37976843
+boxes_5.jpg;flag:0.3675002
+boxes_6.jpg;flag:0.19399741
+boxes_7.jpg;clothing:0.18928066
+boxes_8.jpg;clothing:0.15395823
+boxes_9.jpg;flag:0.1348021
+boxes_10.jpg;pillow:0.12878616
+boxes_11.jpg;clothing:0.12336723
+boxes_12.jpg;flag:0.081248604
+boxes_13.jpg;clothing:0.06257804
+boxes_14.jpg;fashion accessory:0.061113775

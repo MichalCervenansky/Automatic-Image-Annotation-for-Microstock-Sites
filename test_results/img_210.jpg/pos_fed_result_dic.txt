@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;pink;soft;flowers;turkey;
+from_object_detection:flower;tree;
+from_image_classification:desert sand verbena;abronia villosa;sand verbena;petunia;cape primrose;venus' slipper;venus's slipper;venus's shoe;carpenter bee;moth;purple;purpleness;lantana;hortensia;hydrangea macrophylla hortensis;large white petunia;petunia axillaris;achimenes;hot water plant;streptocarpus;verbena;vervain;flower cluster;american germander;wood sage;teucrium canadense;large white;pieris brassicae;fig marigold;pebble plant;flower;

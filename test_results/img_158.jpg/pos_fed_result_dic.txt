@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;medieval;knight;armor;buchlov;castle;
+from_object_detection:door;clothing;person;helmet;human face;sculpture;man;toy;bronze sculpture;human arm;human head;
+from_image_classification:breastplate;aegis;egis;armor;armour;fauld;armor plate;armour plate;armor plating;plate armor;plate armour;body armor;body armour;suit of armor;suit of armour;coat of mail;cataphract;cuirass;tasset;tasse;heaume;armet;diving suit;diving dress;

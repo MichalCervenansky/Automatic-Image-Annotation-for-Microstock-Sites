@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;single;colorful;village;fishing;house;coast;sea;norway;mountains;background;
+from_object_detection:house;window;wheel;
+from_image_classification:beach house;gable;gable end;gable wall;saltbox;dormer window;house paint;housepaint;dormer;garbage heap;junk heap;rubbish heap;scrapheap;trash heap;junk pile;trash pile;refuse heap;beam;hovel;hut;hutch;shack;shanty;

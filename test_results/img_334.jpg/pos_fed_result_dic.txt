@@ -1,0 +1,3 @@
+from_image_IPTC:tasteful;apples;oranges;kiwi;topped;chocolate;white;plate;healthy;
+from_object_detection:dessert;food;plate;snack;salad;fruit;baked goods;
+from_image_classification:ultramarine;plughole;blue;blueness;purplish blue;royal blue;jello;jell-o;whip;mouse button;ellipse;oval;peppermint;peppermint candy;

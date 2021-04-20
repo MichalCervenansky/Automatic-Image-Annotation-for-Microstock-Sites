@@ -1,0 +1,7 @@
+boxes_1.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.19998735189437866;smoke screen,smokescreen:0.1522902250289917;Monterey pine,Pinus radiata:0.08349703252315521;
+boxes_2.jpg;ice,water ice:0.06798633933067322;low-water mark:0.05766741931438446;reservoir:0.05618240684270859;
+boxes_3.jpg;shipping,cargo ships,merchant marine,merchant vessels:0.17311090230941772;ship:0.0956176295876503;roll-on roll-off:0.09195146709680557;barge,flatboat,hoy,lighter:0.08814465254545212;low-water mark:0.08348491787910461;cargo ship,cargo vessel:0.07182192802429199;
+boxes_4.jpg;smoke screen,smokescreen:0.07857080549001694;
+boxes_5.jpg;
+boxes_6.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.6250590085983276;
+img_896.jpg;lakeside,lakeshore:0.2350977063179016;beach:0.17817865312099457;littoral,litoral,littoral zone,sands:0.13462693989276886;riverbank,riverside:0.08627936989068985;seashore,coast,seacoast,sea-coast:0.07657767832279205;

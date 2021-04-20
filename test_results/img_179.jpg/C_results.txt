@@ -1,0 +1,18 @@
+boxes_1.jpg;blue daisy,blue marguerite,Felicia amelloides:0.7908335328102112;painted daisy,pyrethrum,Tanacetum coccineum,Chrysanthemum coccineum:0.05624963715672493;
+boxes_10.jpg;
+boxes_11.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.12040677666664124;
+boxes_12.jpg;
+boxes_13.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.9866216778755188;
+boxes_14.jpg;
+boxes_15.jpg;blue daisy,blue marguerite,Felicia amelloides:0.756377637386322;
+boxes_16.jpg;
+boxes_17.jpg;
+boxes_2.jpg;blue daisy,blue marguerite,Felicia amelloides:0.9011752605438232;
+boxes_3.jpg;blue daisy,blue marguerite,Felicia amelloides:0.708598792552948;stokes' aster,cornflower aster,Stokesia laevis:0.05546249821782112;
+boxes_4.jpg;blue daisy,blue marguerite,Felicia amelloides:0.717147946357727;
+boxes_5.jpg;blue daisy,blue marguerite,Felicia amelloides:0.9526920914649963;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.34491047263145447;honeybee,Apis mellifera:0.10235383361577988;negative:0.08466628938913345;blue daisy,blue marguerite,Felicia amelloides:0.055074773728847504;
+boxes_9.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.5192670822143555;blue daisy,blue marguerite,Felicia amelloides:0.10518679022789001;negative:0.09602602571249008;stokes' aster,cornflower aster,Stokesia laevis:0.06761680543422699;
+img_179.jpg;blue daisy,blue marguerite,Felicia amelloides:0.9316366314888;

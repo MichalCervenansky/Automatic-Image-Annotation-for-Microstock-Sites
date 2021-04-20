@@ -1,0 +1,8 @@
+boxes_1.jpg;sesame seed,benniseed:0.9424622654914856;
+boxes_2.jpg;sesame seed,benniseed:0.9727118611335754;
+boxes_3.jpg;sesame seed,benniseed:0.980394721031189;
+boxes_4.jpg;sesame seed,benniseed:0.9777281284332275;
+boxes_5.jpg;sesame seed,benniseed:0.980394721031189;
+boxes_6.jpg;sesame seed,benniseed:0.9602451920509338;
+boxes_7.jpg;sesame seed,benniseed:0.9364842176437378;
+img_914.jpg;sesame seed,benniseed:0.9505765438079834;

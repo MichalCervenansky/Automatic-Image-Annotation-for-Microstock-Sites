@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;unusual;frozen;fungus;tree;bark;
+from_object_detection:mushroom;plant;tree;
+from_image_classification:ice;water ice;mountain;mount;ridge rope;polar glacier;volcanic crater;crater;alpinist;climber;felt fungus;septobasidium pseudopedicellatum;true fungus;snowdrift;birdbath;snowcap;ice mass;mucor;blastocyst;blastodermic vessicle;descent;declivity;fall;decline;declination;declension;downslope;

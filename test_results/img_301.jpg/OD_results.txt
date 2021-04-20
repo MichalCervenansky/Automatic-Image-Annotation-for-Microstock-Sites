@@ -1,0 +1,3 @@
+boxes_1.jpg;house:0.9664156
+boxes_2.jpg;window:0.28757623
+boxes_3.jpg;wheel:0.07887613

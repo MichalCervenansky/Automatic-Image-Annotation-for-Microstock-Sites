@@ -1,0 +1,16 @@
+boxes_1.jpg;boat:0.3929072
+boxes_2.jpg;lantern:0.37102047
+boxes_3.jpg;boat:0.2287232
+boxes_4.jpg;boat:0.22857581
+boxes_5.jpg;boat:0.2123567
+boxes_6.jpg;vehicle:0.13587892
+boxes_7.jpg;boat:0.122756705
+boxes_8.jpg;street light:0.098603286
+boxes_9.jpg;watercraft:0.09590902
+boxes_10.jpg;boat:0.09266744
+boxes_11.jpg;vehicle:0.08613614
+boxes_12.jpg;boat:0.077875055
+boxes_13.jpg;street light:0.06796885
+boxes_14.jpg;boat:0.06364565
+boxes_15.jpg;boat:0.05812563
+boxes_16.jpg;vehicle:0.052707102

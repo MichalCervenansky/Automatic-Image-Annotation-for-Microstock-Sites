@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:flag;snack;maple;fashion accessory;clothing;skyscraper;christmas tree;food;
+from_image_classification:silk;satin;venetian blind;voile;organza;hammock;sack;line;net;network;mesh;meshing;meshwork;

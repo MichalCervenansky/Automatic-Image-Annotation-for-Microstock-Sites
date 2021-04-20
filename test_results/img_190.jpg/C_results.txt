@@ -1,0 +1,18 @@
+boxes_1.jpg;flower:0.31596824526786804;involucre:0.13431455194950104;
+boxes_10.jpg;squill:0.08133698254823685;
+boxes_11.jpg;chives:0.8913865685462952;
+boxes_12.jpg;chives:0.843790590763092;
+boxes_13.jpg;dogtooth violet,dogtooth,dog's-tooth violet:0.11931656301021576;cyclamen,Cyclamen purpurascens:0.09858963638544083;
+boxes_14.jpg;
+boxes_15.jpg;cotton thistle,woolly thistle,Scotch thistle,Onopordum acanthium,Onopordon acanthium:0.08049697428941727;knapweed:0.06323489546775818;
+boxes_16.jpg;chives:0.1280856430530548;worker bee:0.09683924913406372;knapweed:0.07209506630897522;
+boxes_17.jpg;purple,purpleness:0.316582053899765;florist's chrysanthemum,florists' chrysanthemum,mum,Dendranthema grandifloruom,Chrysanthemum morifolium:0.08088987320661545;
+boxes_2.jpg;purple,purpleness:0.226869598031044;involucre:0.10476716607809067;
+boxes_3.jpg;honeypot,king protea,Protea cynaroides:0.22753755748271942;florist's chrysanthemum,florists' chrysanthemum,mum,Dendranthema grandifloruom,Chrysanthemum morifolium:0.11855827271938324;ice plant,icicle plant,Mesembryanthemum crystallinum:0.08436708152294159;composite,composite plant:0.07139585167169571;
+boxes_4.jpg;
+boxes_5.jpg;composite,composite plant:0.15492796897888184;florist's chrysanthemum,florists' chrysanthemum,mum,Dendranthema grandifloruom,Chrysanthemum morifolium:0.05352223664522171;
+boxes_6.jpg;flower:0.3156985938549042;composite,composite plant:0.11199073493480682;purple,purpleness:0.10078943520784378;
+boxes_7.jpg;
+boxes_8.jpg;negative:0.15824104845523834;
+boxes_9.jpg;chives:0.10917431116104126;
+img_190.jpg;purple,purpleness:0.6805753111839294;

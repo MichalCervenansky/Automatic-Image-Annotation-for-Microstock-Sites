@@ -1,0 +1,13 @@
+boxes_1.jpg;spume:0.1390688419342041;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.08966848254203796;marine animal,marine creature,sea animal,sea creature:0.07959204167127609;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.058481235057115555;support hose,support stocking:0.056932177394628525;
+boxes_10.jpg;guppy,rainbow fish,Lebistes reticulatus:0.12042798846960068;swordtail,helleri,topminnow,Xyphophorus helleri:0.11219581216573715;platy,Platypoecilus maculatus:0.09134763479232788;
+boxes_11.jpg;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.11493935436010361;spume:0.06885173171758652;support hose,support stocking:0.057084936648607254;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.053545769304037094;white whale,beluga,Delphinapterus leucas:0.05298386514186859;
+boxes_12.jpg;spume:0.10368680208921432;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.09576712548732758;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.08087731897830963;white whale,beluga,Delphinapterus leucas:0.05628179758787155;
+boxes_2.jpg;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.37258005142211914;spume:0.10360950976610184;support hose,support stocking:0.05949677154421806;
+boxes_3.jpg;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.055997081100940704;
+boxes_4.jpg;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.1564142405986786;marine animal,marine creature,sea animal,sea creature:0.1380515694618225;
+boxes_5.jpg;Camembert:0.08487851172685623;curd:0.05245128646492958;
+boxes_6.jpg;white whale,beluga,Delphinapterus leucas:0.08456900715827942;Bewick's swan,Cygnus columbianus bewickii:0.07776124030351639;dip,plunge:0.05680956318974495;
+boxes_7.jpg;marine animal,marine creature,sea animal,sea creature:0.16281460225582123;support hose,support stocking:0.1274230182170868;Atlantic bottlenose dolphin,Tursiops truncatus:0.06903260201215744;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.05762842297554016;bottlenose dolphin,bottle-nosed dolphin,bottlenose:0.051562778651714325;
+boxes_8.jpg;spume:0.14502012729644775;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.06815951317548752;nylons,nylon stocking,rayons,rayon stocking,silk stocking:0.06266409903764725;
+boxes_9.jpg;
+img_479.jpg;spume:0.1804206520318985;Bewick's swan,Cygnus columbianus bewickii:0.07002833485603333;

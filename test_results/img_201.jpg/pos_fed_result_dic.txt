@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;white;flower;turkey;mountains;
+from_object_detection:flower;tree;
+from_image_classification:common lilac;syringa vulgaris;stephanotis;flower;flower cluster;persian lilac;syringa persica;water violet;hottonia palustris;rose chafer;rose beetle;cetonia aurata;ichneumon fly;common valerian;garden heliotrope;valeriana officinalis;squill;streptomyces;diplococcus;negative;gastrula;common hyacinth;hyacinthus orientalis;pine hyacinth;clematis baldwinii;viorna baldwinii;streptocarpus;summer hyacinth;cape hyacinth;hyacinthus candicans;galtonia candicans;roman hyacinth;hyacinthus orientalis albulus;

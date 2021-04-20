@@ -1,0 +1,9 @@
+boxes_1.jpg;seaside daisy,beach aster,Erigeron glaucous:0.3688585162162781;blue daisy,blue marguerite,Felicia amelloides:0.350248247385025;stokes' aster,cornflower aster,Stokesia laevis:0.16646473109722137;
+boxes_2.jpg;globe thistle:0.5310555100440979;thistledown:0.17517836391925812;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.11245902627706528;cotton thistle,woolly thistle,Scotch thistle,Onopordum acanthium,Onopordon acanthium:0.05968387797474861;
+boxes_3.jpg;blue daisy,blue marguerite,Felicia amelloides:0.1620156466960907;stokes' aster,cornflower aster,Stokesia laevis:0.15732267498970032;China aster,Callistephus chinensis:0.14125047624111176;southern aster:0.0645989254117012;
+boxes_4.jpg;globe thistle:0.819861888885498;thistledown:0.058945782482624054;
+boxes_5.jpg;globe thistle:0.2684391736984253;thistledown:0.24675020575523376;thistle:0.11494679003953934;cotton thistle,woolly thistle,Scotch thistle,Onopordum acanthium,Onopordon acanthium:0.062336720526218414;
+boxes_6.jpg;blue daisy,blue marguerite,Felicia amelloides:0.31144222617149353;stokes' aster,cornflower aster,Stokesia laevis:0.29717639088630676;seaside daisy,beach aster,Erigeron glaucous:0.2959515154361725;
+boxes_7.jpg;stokes' aster,cornflower aster,Stokesia laevis:0.369265615940094;blue daisy,blue marguerite,Felicia amelloides:0.1692730337381363;seaside daisy,beach aster,Erigeron glaucous:0.09241260588169098;China aster,Callistephus chinensis:0.06276687979698181;southern aster:0.06003212183713913;
+boxes_8.jpg;globe thistle:0.2877409756183624;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.2333558201789856;thistledown:0.20397575199604034;
+img_423.jpg;blue daisy,blue marguerite,Felicia amelloides:0.847732663154602;stokes' aster,cornflower aster,Stokesia laevis:0.08592613786458969;

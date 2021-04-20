@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;little;soft;flower;rocks;
+from_object_detection:plant;flower;tree;
+from_image_classification:negative;saltbush;saltwort;barilla;glasswort;kali;kelpwort;salsola kali;salsola soda;batis maritima;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;artemisia;benthos;benthic division;benthonic zone;

@@ -1,0 +1,13 @@
+boxes_1.jpg;snack:0.5972633
+boxes_2.jpg;towel:0.37783584
+boxes_3.jpg;cake:0.22405642
+boxes_4.jpg;food:0.1827736
+boxes_5.jpg;cake:0.13938238
+boxes_6.jpg;clothing:0.10386897
+boxes_7.jpg;baked goods:0.097965464
+boxes_8.jpg;book:0.0895522
+boxes_9.jpg;office supplies:0.07411177
+boxes_10.jpg;food:0.07168545
+boxes_11.jpg;baked goods:0.06326675
+boxes_12.jpg;plant:0.056019574
+boxes_13.jpg;towel:0.054785825

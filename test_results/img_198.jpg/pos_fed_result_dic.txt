@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;fresh;thuja;seeds;turkish;mountains;
+from_object_detection:tree;plant;ball;egg;
+from_image_classification:juniper berry;southern white cedar;coast white cedar;atlantic white cedar;white cypress;white cedar;chamaecyparis thyoides;juniper berries;spherule;marble;spheroid;ellipsoid of revolution;jawbreaker;silver fir;oregon cedar;port orford cedar;lawson's cypress;lawson's cedar;chamaecyparis lawsoniana;deodar;deodar cedar;himalayan cedar;cedrus deodara;italian cypress;mediterranean cypress;cupressus sempervirens;apple rust;cedar-apple rust;gymnosporangium juniperi-virginianae;

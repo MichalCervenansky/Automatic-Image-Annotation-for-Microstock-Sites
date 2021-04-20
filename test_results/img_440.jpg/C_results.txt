@@ -1,0 +1,4 @@
+boxes_1.jpg;cur,mongrel,mutt:0.3067833185195923;dog,domestic dog,Canis familiaris:0.15901555120944977;bitch:0.15135209262371063;negative:0.0606025829911232;pup,whelp:0.05068444088101387;
+boxes_2.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.42487895488739014;grape hyacinth:0.05843015015125275;
+boxes_3.jpg;cur,mongrel,mutt:0.3818284273147583;bitch:0.19596217572689056;dog,domestic dog,Canis familiaris:0.14329007267951965;
+img_440.jpg;cur,mongrel,mutt:0.404727578163147;bitch:0.17899011075496674;dog,domestic dog,Canis familiaris:0.1153656467795372;negative:0.08311521261930466;

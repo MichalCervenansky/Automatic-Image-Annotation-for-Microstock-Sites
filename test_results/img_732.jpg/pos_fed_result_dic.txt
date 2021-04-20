@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;black;scorpionfish;sea;cave;croatia;
+from_object_detection:fish;marine invertebrates;animal;lizard;frog;reptile;
+from_image_classification:gudgeon;gobio gobio;blenny;combtooth blenny;sea squirt;sea slug;nudibranch;jawfish;ascidian;goby;lizardfish;snakefish;snake-fish;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;lymphocyte;lymph cell;triggerfish;rhizopus;

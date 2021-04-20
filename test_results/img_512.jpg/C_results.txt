@@ -1,0 +1,17 @@
+boxes_1.jpg;purplish blue,royal blue:0.43132877349853516;bodywork:0.3148297667503357;body:0.07861261069774628;
+boxes_10.jpg;tailpipe:0.962069034576416;
+boxes_11.jpg;tailpipe:0.7363958358764648;foglamp:0.07584362477064133;taillight,tail lamp,rear light,rear lamp:0.07437723875045776;
+boxes_12.jpg;windshield,windscreen:0.19707335531711578;trunk lid:0.15201915800571442;taillight,tail lamp,rear light,rear lamp:0.07456280291080475;purplish blue,royal blue:0.06711610406637192;
+boxes_13.jpg;purplish blue,royal blue:0.18819844722747803;indigo:0.11873376369476318;ultramarine:0.10059504210948944;trunk lid:0.09595295041799545;windshield,windscreen:0.06962483376264572;chromatic color,chromatic colour,spectral color,spectral colour:0.06728318333625793;taillight,tail lamp,rear light,rear lamp:0.0529363676905632;
+boxes_14.jpg;purplish blue,royal blue:0.24871495366096497;ultramarine:0.24106526374816895;bodywork:0.1710565835237503;rim:0.06837212294340134;
+boxes_15.jpg;street sign:0.45058900117874146;bumper:0.16712044179439545;
+boxes_16.jpg;windshield,windscreen:0.4207212030887604;outside mirror:0.12007082253694534;
+boxes_2.jpg;car wheel:0.40242886543273926;hubcap:0.12149358540773392;tread:0.10143659263849258;wheel:0.05746959522366524;
+boxes_3.jpg;tailpipe:0.9617645144462585;
+boxes_4.jpg;bumper:0.30569788813591003;spoiler:0.09273765236139297;
+boxes_5.jpg;bumper:0.30042412877082825;tailpipe:0.1464156210422516;motor vehicle,automotive vehicle:0.06943131238222122;bumper:0.06303943693637848;conveyance,transport:0.05159386619925499;
+boxes_6.jpg;car wheel:0.46388787031173706;tread:0.12908826768398285;hubcap:0.1059989184141159;
+boxes_7.jpg;tailpipe:0.8676076531410217;
+boxes_8.jpg;taillight,tail lamp,rear light,rear lamp:0.28017133474349976;foglamp:0.2546428143978119;outside mirror:0.1184372752904892;headlight,headlamp:0.11004594713449478;
+boxes_9.jpg;
+img_512.jpg;purplish blue,royal blue:0.6746940612792969;bodywork:0.10050476342439651;body:0.06842371076345444;

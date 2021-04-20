@@ -1,0 +1,13 @@
+boxes_1.jpg;breaststroker:0.24328017234802246;water polo:0.10171501338481903;
+boxes_10.jpg;lakeside,lakeshore:0.14661352336406708;shore:0.13685844838619232;foreshore:0.11792769283056259;glacier:0.07513532042503357;landfall:0.06517310440540314;
+boxes_11.jpg;breaststroker:0.05918972194194794;
+boxes_12.jpg;breaststroker:0.15476329624652863;
+boxes_2.jpg;smoke screen,smokescreen:0.1131584420800209;hydrogen bomb,H-bomb,fusion bomb,thermonuclear bomb:0.08525118976831436;atom bomb,atomic bomb,A-bomb,fission bomb,plutonium bomb:0.051284145563840866;
+boxes_3.jpg;breaststroker:0.453061044216156;Atlantic bottlenose dolphin,Tursiops truncatus:0.06829867511987686;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;soapbox:0.05191386118531227;
+boxes_7.jpg;lakeside,lakeshore:0.16692370176315308;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.10022155195474625;waterside:0.06764350086450577;riverbank,riverside:0.06710518151521683;
+boxes_8.jpg;sewer,sewerage,cloaca:0.06535260379314423;
+boxes_9.jpg;smoke screen,smokescreen:0.05015018954873085;
+img_97.jpg;waterside:0.19843558967113495;lakeside,lakeshore:0.18013274669647217;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.12154986709356308;outfall:0.0679994747042656;

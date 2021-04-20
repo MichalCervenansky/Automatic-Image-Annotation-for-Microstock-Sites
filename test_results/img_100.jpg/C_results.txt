@@ -1,0 +1,13 @@
+boxes_1.jpg;blue poppy,Meconopsis betonicifolia:0.8205373287200928;
+boxes_10.jpg;negative:0.25031664967536926;
+boxes_11.jpg;negative:0.07831589877605438;
+boxes_12.jpg;negative:0.7778565287590027;mildew:0.13879016041755676;
+boxes_2.jpg;blue pea,butterfly pea,Clitoria turnatea:0.22268466651439667;blue poppy,Meconopsis betonicifolia:0.2016323208808899;blue orchid,Vanda caerulea:0.13184787333011627;negative:0.0631408616900444;
+boxes_3.jpg;negative:0.20133839547634125;pansy orchid:0.10740407556295395;Persian iris,Iris persica:0.050825852900743484;
+boxes_4.jpg;negative:0.8308236002922058;
+boxes_5.jpg;blue poppy,Meconopsis betonicifolia:0.19817844033241272;Persian iris,Iris persica:0.10207010060548782;Iceland poppy,Papaver alpinum:0.08429659157991409;
+boxes_6.jpg;blue poppy,Meconopsis betonicifolia:0.7283591032028198;Iceland poppy,Papaver alpinum:0.05555180087685585;
+boxes_7.jpg;Persian iris,Iris persica:0.1001676693558693;blue poppy,Meconopsis betonicifolia:0.08379179239273071;Iceland poppy,Papaver alpinum:0.08270008116960526;
+boxes_8.jpg;imperial Japanese morning glory,Ipomoea imperialis:0.34689924120903015;negative:0.31319233775138855;blue orchid,Vanda caerulea:0.05448489263653755;
+boxes_9.jpg;negative:0.13995236158370972;jade vine,emerald creeper,Strongylodon macrobotrys:0.12793147563934326;
+img_100.jpg;negative:0.2740926444530487;blue poppy,Meconopsis betonicifolia:0.08577681332826614;Persian iris,Iris persica:0.08320876955986023;blue orchid,Vanda caerulea:0.05283591151237488;

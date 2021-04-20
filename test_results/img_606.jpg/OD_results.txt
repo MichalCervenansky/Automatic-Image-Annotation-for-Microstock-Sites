@@ -1,0 +1,52 @@
+boxes_1.jpg;castle:0.96630394
+boxes_2.jpg;castle:0.89619154
+boxes_3.jpg;tree:0.792207
+boxes_4.jpg;bench:0.69127893
+boxes_5.jpg;tree:0.6243261
+boxes_6.jpg;tree:0.5468098
+boxes_7.jpg;tree:0.38823974
+boxes_8.jpg;castle:0.31443912
+boxes_9.jpg;tree:0.31378055
+boxes_10.jpg;plant:0.2852278
+boxes_11.jpg;tree:0.28467426
+boxes_12.jpg;house:0.20296046
+boxes_13.jpg;tree:0.19255607
+boxes_14.jpg;building:0.1909938
+boxes_15.jpg;window:0.18840933
+boxes_16.jpg;tree:0.18750365
+boxes_17.jpg;palm tree:0.18323061
+boxes_18.jpg;tree:0.16811563
+boxes_19.jpg;tree:0.16355982
+boxes_20.jpg;tree:0.16189812
+boxes_21.jpg;tree:0.15277351
+boxes_22.jpg;tree:0.14949542
+boxes_23.jpg;tree:0.14255916
+boxes_24.jpg;window:0.13938281
+boxes_25.jpg;tree:0.1381542
+boxes_26.jpg;tree:0.12582694
+boxes_27.jpg;palm tree:0.11324063
+boxes_28.jpg;building:0.108106315
+boxes_29.jpg;tree:0.10601603
+boxes_30.jpg;tree:0.10557618
+boxes_31.jpg;building:0.10502804
+boxes_32.jpg;tree:0.0970539
+boxes_33.jpg;palm tree:0.091616444
+boxes_34.jpg;house:0.0910598
+boxes_35.jpg;tree:0.0910547
+boxes_36.jpg;tree:0.086818494
+boxes_37.jpg;tree:0.083484866
+boxes_38.jpg;furniture:0.08322115
+boxes_39.jpg;palm tree:0.07815303
+boxes_40.jpg;tree:0.076308444
+boxes_41.jpg;tree:0.07529206
+boxes_42.jpg;tree:0.07359114
+boxes_43.jpg;palm tree:0.066089295
+boxes_44.jpg;tree:0.06380311
+boxes_45.jpg;building:0.061908573
+boxes_46.jpg;plant:0.059370343
+boxes_47.jpg;window:0.057003394
+boxes_48.jpg;tree:0.055191472
+boxes_49.jpg;tree:0.05305059
+boxes_50.jpg;tree:0.05281
+boxes_51.jpg;tower:0.052508183
+boxes_52.jpg;tree:0.050104164

@@ -1,0 +1,3 @@
+from_image_IPTC:small;brown;cute;puppy;playing;young;girl;
+from_object_detection:dog;plant;
+from_image_classification:cur;mongrel;mutt;dog;domestic dog;canis familiaris;bitch;negative;pup;whelp;jade vine;emerald creeper;strongylodon macrobotrys;grape hyacinth;

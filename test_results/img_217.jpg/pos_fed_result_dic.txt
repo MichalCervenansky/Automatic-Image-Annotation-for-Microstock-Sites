@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;white;meadow;flower;
+from_object_detection:flower;rose;
+from_image_classification:blue daisy;blue marguerite;felicia amelloides;painted daisy;pyrethrum;tanacetum coccineum;chrysanthemum coccineum;daisy;seaside daisy;beach aster;erigeron glaucous;cameroonian;microprocessor;surgeon;operating surgeon;sawbones;kiss;candy kiss;hard candy;swimming;swim;breaststroker;water polo;cardiologist;heart specialist;heart surgeon;medical practitioner;medical man;vitamin pill;ice;water ice;flower;

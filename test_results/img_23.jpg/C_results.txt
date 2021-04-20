@@ -1,0 +1,10 @@
+boxes_1.jpg;Empire:0.6162979006767273;Delicious:0.15706346929073334;Pearmain:0.06122983619570732;
+boxes_2.jpg;ovoid:0.05641210824251175;
+boxes_3.jpg;
+boxes_4.jpg;common plum,Prunus domestica:0.13714158535003662;damson plum,damson plum tree,Prunus domestica insititia:0.12285240739583969;freestone:0.06312708556652069;plum:0.05123797059059143;
+boxes_5.jpg;common plum,Prunus domestica:0.15611472725868225;Pearmain:0.07972484081983566;
+boxes_6.jpg;Empire:0.5644221901893616;Delicious:0.12589484453201294;Pearmain:0.08759988844394684;apple,orchard apple tree,Malus pumila:0.05570368096232414;
+boxes_7.jpg;negative:0.417556494474411;
+boxes_8.jpg;Empire:0.2474648505449295;apple,orchard apple tree,Malus pumila:0.19192756712436676;Delicious:0.11471729725599289;Pearmain:0.10529473423957825;
+boxes_9.jpg;apple,orchard apple tree,Malus pumila:0.23839735984802246;Empire:0.18837904930114746;Pearmain:0.17307205498218536;Delicious:0.07878445088863373;
+img_23.jpg;Empire:0.2731633484363556;Delicious:0.12252678722143173;apple,orchard apple tree,Malus pumila:0.12144065648317337;

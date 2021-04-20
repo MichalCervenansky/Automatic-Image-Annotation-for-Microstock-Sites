@@ -1,0 +1,18 @@
+boxes_1.jpg;riverbank,riverside:0.4618385434150696;river boat:0.2948569357395172;barge,flatboat,hoy,lighter:0.12500622868537903;
+boxes_10.jpg;chalet:0.052318476140499115;
+boxes_11.jpg;Scotch pine,Scots pine,Scotch fir,Pinus sylvestris:0.06351081281900406;pinetum:0.056432805955410004;
+boxes_12.jpg;riverbank,riverside:0.28626784682273865;waterside:0.1068217009305954;river boat:0.05392972007393837;
+boxes_13.jpg;
+boxes_14.jpg;
+boxes_15.jpg;
+boxes_16.jpg;
+boxes_17.jpg;shelter:0.10552914440631866;lodge,indian lodge:0.07978560775518417;
+boxes_2.jpg;river boat:0.14153729379177094;cockleshell:0.11686301976442337;lockage:0.07299360632896423;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;divided highway,dual carriageway:0.13482436537742615;carriageway:0.09890110045671463;autostrada:0.090939961373806;safety rail,guardrail:0.06791183352470398;
+boxes_7.jpg;skidder:0.054543204605579376;
+boxes_8.jpg;Torrey pine,Torrey's pine,soledad pine,grey-leaf pine,sabine pine,Pinus torreyana:0.28261497616767883;
+boxes_9.jpg;
+img_631.jpg;riverbank,riverside:0.3363356590270996;river boat:0.25585049390792847;barge,flatboat,hoy,lighter:0.19261224567890167;

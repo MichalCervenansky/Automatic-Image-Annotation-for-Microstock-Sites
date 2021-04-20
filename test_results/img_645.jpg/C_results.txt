@@ -1,0 +1,14 @@
+boxes_1.jpg;negative:0.5501552820205688;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;sand sage,silvery wormwood,Artemisia filifolia:0.07738965004682541;
+boxes_13.jpg;negative:0.22131361067295074;
+boxes_2.jpg;
+boxes_3.jpg;
+boxes_4.jpg;snowdrift:0.2184230238199234;ascent,acclivity,rise,raise,climb,upgrade:0.16558822989463806;hillside:0.053121186792850494;
+boxes_5.jpg;
+boxes_6.jpg;negative:0.29903918504714966;
+boxes_7.jpg;
+boxes_8.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.24078446626663208;snowdrift:0.11266624182462692;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.08575107157230377;
+boxes_9.jpg;glacier:0.0670032948255539;floating,natation:0.06154945120215416;
+img_645.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.20470263063907623;snowdrift:0.12099484354257584;

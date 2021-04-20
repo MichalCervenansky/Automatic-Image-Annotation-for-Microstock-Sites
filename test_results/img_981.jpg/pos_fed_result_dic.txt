@@ -1,0 +1,3 @@
+from_image_IPTC:reflection;sea;water;hrvatia;croatia;
+from_object_detection:swimming pool;
+from_image_classification:green algae;chlorophyte;shoreline;shore;hot spring;thermal spring;paddlewheel;paddle wheel;

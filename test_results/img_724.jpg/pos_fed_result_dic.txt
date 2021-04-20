@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;fighting;diver;croatia;
+from_object_detection:marine invertebrates;animal;fish;invertebrate;
+from_image_classification:octopus;devilfish;scuba diving;dip;plunge;skin-diver;aquanaut;tunicate;urochordate;urochord;european spider crab;king crab;maja squinado;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;ciliate;ciliated protozoan;ciliophoran;gastrula;blastocyst;blastodermic vessicle;oocyte;ameba;amoeba;endameba;leatherback turtle;leatherback;leathery turtle;dermochelys coriacea;octopod;benthos;benthic division;benthonic zone;air bubble;goosefish;angler;anglerfish;angler fish;monkfish;lotte;allmouth;lophius americanus;electric ray;crampfish;numbfish;torpedo;giant clam;tridacna gigas;

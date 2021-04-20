@@ -1,0 +1,11 @@
+boxes_1.jpg;quilted bedspread:0.6796247959136963;
+boxes_10.jpg;quilted bedspread:0.8363383412361145;quilt,comforter,comfort,puff:0.0534696951508522;
+boxes_2.jpg;quilted bedspread:0.8079110980033875;pillow sham:0.0543820895254612;
+boxes_3.jpg;quilted bedspread:0.6999799013137817;pillow sham:0.05632111430168152;
+boxes_4.jpg;quilted bedspread:0.7502188682556152;pillow sham:0.053000807762145996;
+boxes_5.jpg;quilted bedspread:0.7401788830757141;
+boxes_6.jpg;quilted bedspread:0.8665693402290344;
+boxes_7.jpg;quilted bedspread:0.7306069135665894;
+boxes_8.jpg;quilted bedspread:0.3503468930721283;velvet:0.16054216027259827;batik:0.13257774710655212;
+boxes_9.jpg;quilted bedspread:0.669678270816803;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.06115132197737694;
+img_560.jpg;quilted bedspread:0.6893727779388428;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.058677542954683304;

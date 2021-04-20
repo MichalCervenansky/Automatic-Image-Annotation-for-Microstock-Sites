@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tire;tree;plant;
+from_image_classification:touring car;phaeton;tourer;dickey;dickie;dicky;dickey-seat;dickie-seat;dicky-seat;convertible;body;hot rod;hot-rod;car wheel;fifth wheel;spare;shooting brake;minicar;used-car;secondhand car;windshield;windscreen;luggage rack;roof rack;rumble seat;tailpipe;bumper guard;jinrikisha;ricksha;rickshaw;carriage;model t;pedicab;cycle rickshaw;windowsill;casing;case;safety rail;guardrail;nonsmoker;nonsmoking car;compact;compact car;subcompact;subcompact car;van;bumper;spoiler;bodywork;coupe;starter;starter motor;starting motor;truck;motortruck;car;auto;automobile;machine;motorcar;grille;radiator grille;

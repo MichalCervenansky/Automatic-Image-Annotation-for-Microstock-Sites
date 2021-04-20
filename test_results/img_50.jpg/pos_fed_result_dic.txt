@@ -1,0 +1,3 @@
+from_image_IPTC:interiour;old;city;hall;building;lvov;
+from_object_detection:building;stairs;table;porch;clothing;furniture;person;desk;door;house;
+from_image_classification:backstairs;baluster;stair-carpet;parapet;breastwork;voting booth;porch;pier glass;pier mirror;anteroom;antechamber;entrance hall;hall;foyer;lobby;vestibule;front porch;riser;support column;newel post;newel;mirror;wainscoting;wainscotting;ledger board;quoin;coign;coigne;organ pipe;pipe;pipework;

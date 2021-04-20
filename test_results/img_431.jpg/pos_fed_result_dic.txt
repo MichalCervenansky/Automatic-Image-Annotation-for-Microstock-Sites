@@ -1,0 +1,3 @@
+from_image_IPTC:pile;rocks;forest;made;hikers;
+from_object_detection:sculpture;plant;tree;
+from_image_classification:cairn;kea;nestor notabilis;rock hyrax;rock rabbit;procavia capensis;tuatara;sphenodon punctatum;hyrax;coney;cony;dassie;das;capercaillie;capercailzie;horse of the wood;tetrao urogallus;fur seal;tasmanian devil;ursine dasyure;sarcophilus hariisi;

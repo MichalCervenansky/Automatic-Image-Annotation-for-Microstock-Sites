@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;fighting;diver;croatia;
+from_object_detection:marine invertebrates;animal;fish;invertebrate;shellfish;squid;reptile;seahorse;lizard;
+from_image_classification:giant clam;tridacna gigas;pearl oyster;pinctada margaritifera;air bubble;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;sponge;poriferan;parazoan;octopus;devilfish;sea slug;nudibranch;volcanic crater;crater;salp;salpa;ctenophore;comb jelly;soft-shell clam;steamer;steamer clam;long-neck clam;mya arenaria;cockle;scallop;scollop;escallop;ark shell;ameba;amoeba;ciliate;ciliated protozoan;ciliophoran;eel;moray;moray eel;

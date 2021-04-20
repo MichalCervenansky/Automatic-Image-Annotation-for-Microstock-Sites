@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;rare;cuttlefish;croatian;sea;udeer;water;shot;
+from_object_detection:invertebrate;animal;marine invertebrates;insect;fish;
+from_image_classification:cuttlefish;cuttle;giant clam;tridacna gigas;sea slug;nudibranch;triggerfish;damselfish;demoiselle;cornetfish;jawfish;coral reef;lizardfish;snakefish;snake-fish;porcupinefish;porcupine fish;diodon hystrix;jellyfish;salp;salpa;zooid;tunicate;urochordate;urochord;endameba;ciliate;ciliated protozoan;ciliophoran;stonefish;synanceja verrucosa;

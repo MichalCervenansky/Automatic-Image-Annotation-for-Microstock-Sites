@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ancient;ruins;priene;turkey;
+from_object_detection:sculpture;tree;building;tower;plant;
+from_image_classification:silo;column;pillar;arcade;colonnade;olympian zeus;agora;entablature;architrave;cetacean;cetacean mammal;blower;aquaplane;atlantic bottlenose dolphin;tursiops truncatus;pacific bottlenose dolphin;tursiops gilli;temple;support column;stele;stela;

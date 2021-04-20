@@ -1,0 +1,3 @@
+from_image_IPTC:princess;shoes;hand;fan;castle;slovakia;
+from_object_detection:footwear;clothing;poster;person;fashion accessory;book;table;bottle;musical instrument;
+from_image_classification:layette;footwear;seashore;coast;seacoast;sea-coast;negative;shoe;sandal;burial garment;prayer shawl;tallith;tallis;organdy;organdie;shoot-'em-up;blister pack;bubble pack;newspaper;paper;document;written document;papers;gray;grayness;grey;greyness;jabot;espadrille;pusher;zori;foulard;coffin;casket;craft;pleat;plait;display window;shop window;shopwindow;show window;daily;delft;dishtowel;dish towel;tea towel;cleaners;dry cleaners;

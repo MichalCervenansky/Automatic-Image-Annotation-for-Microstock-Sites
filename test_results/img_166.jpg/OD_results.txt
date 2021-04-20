@@ -1,0 +1,7 @@
+boxes_1.jpg;bee:0.9800961
+boxes_2.jpg;insect:0.7294823
+boxes_3.jpg;plant:0.69477504
+boxes_4.jpg;plant:0.14998378
+boxes_5.jpg;plant:0.12169854
+boxes_6.jpg;plant:0.09710673
+boxes_7.jpg;spider:0.050817225

@@ -1,0 +1,6 @@
+boxes_1.jpg;coral reef:0.20278748869895935;benthos,benthic division,benthonic zone:0.19036507606506348;echinoderm:0.16602805256843567;reef:0.07697313278913498;sea feather:0.05974770337343216;
+boxes_2.jpg;giant clam,Tridacna gigas:0.8121680021286011;
+boxes_3.jpg;smoke screen,smokescreen:0.23878857493400574;censer,thurible:0.06366033852100372;endameba:0.056228119879961014;
+boxes_4.jpg;smoke screen,smokescreen:0.19697560369968414;endameba:0.08390873670578003;volcanic crater,crater:0.07172176241874695;moneran,moneron:0.06590275466442108;
+boxes_5.jpg;ascidian:0.2736484110355377;sea squirt:0.23755449056625366;tunicate,urochordate,urochord:0.12530267238616943;air bubble:0.09374885261058807;
+img_725.jpg;starfish,sea star:0.6604192852973938;star:0.24308040738105774;

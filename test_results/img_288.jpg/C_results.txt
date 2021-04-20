@@ -1,0 +1,9 @@
+boxes_1.jpg;trawler,dragger:0.5672346353530884;trawler:0.15850421786308289;boat:0.0971880629658699;sea boat:0.052736856043338776;
+boxes_2.jpg;descent,declivity,fall,decline,declination,declension,downslope:0.13430234789848328;knoll,mound,hillock,hummock,hammock:0.11684199422597885;dune,sand dune:0.09780625998973846;ascent,acclivity,rise,raise,climb,upgrade:0.07444723695516586;
+boxes_3.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.06766994297504425;slope,incline,side:0.05446181446313858;
+boxes_4.jpg;dune,sand dune:0.20042070746421814;ascent,acclivity,rise,raise,climb,upgrade:0.10114795714616776;knoll,mound,hillock,hummock,hammock:0.05792645364999771;slope,incline,side:0.057027336210012436;descent,declivity,fall,decline,declination,declension,downslope:0.053492091596126556;
+boxes_5.jpg;Link trainer:0.22934363782405853;canopy:0.09197375178337097;fighter pilot:0.07833652198314667;propeller plane:0.06021607294678688;
+boxes_6.jpg;Humvee,Hum-Vee:0.23957403004169464;smoke screen,smokescreen:0.12068332731723785;military vehicle:0.054552461951971054;
+boxes_7.jpg;dune,sand dune:0.12909463047981262;bulldozer,dozer:0.08457610011100769;Humvee,Hum-Vee:0.06694835424423218;smoke screen,smokescreen:0.0596851222217083;
+boxes_8.jpg;trawler,dragger:0.6037550568580627;trawler:0.17115887999534607;boat:0.08901333063840866;
+img_288.jpg;seashore,coast,seacoast,sea-coast:0.30498310923576355;harbor,harbour:0.24370571970939636;shore:0.05588817968964577;boat:0.05170905217528343;

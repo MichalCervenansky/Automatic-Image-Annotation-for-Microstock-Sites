@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:building;window;sculpture;person;
+from_image_classification:ice;water ice;snowdrift;memorial;monument;repository;post;church tower;transom;transom window;fanlight;pilaster;cenotaph;empty tomb;awning;sunshade;sunblind;frieze;sculpture;anchor;ground tackle;gramophone;acoustic gramophone;chapel;pieta;pointed arch;fan tracery;pediment;censer;thurible;

@@ -1,0 +1,8 @@
+boxes_1.jpg;negative:0.6926882266998291;
+boxes_2.jpg;negative:0.21592849493026733;soda water,carbonated water,club soda,seltzer,sparkling water:0.10785271972417831;plughole:0.059157680720090866;plumbago:0.05763093754649162;
+boxes_3.jpg;negative:0.5467135906219482;water hyacinth,water orchid,Eichhornia crassipes,Eichhornia spesiosa:0.12053567171096802;
+boxes_4.jpg;negative:0.6319509744644165;
+boxes_5.jpg;negative:0.3368421494960785;water hyacinth,water orchid,Eichhornia crassipes,Eichhornia spesiosa:0.05756666883826256;corolla:0.05117161571979523;
+boxes_6.jpg;negative:0.5477816462516785;
+boxes_7.jpg;negative:0.16277745366096497;Persian iris,Iris persica:0.057457130402326584;Venus' slipper,Venus's slipper,Venus's shoe:0.05553192272782326;
+img_958.jpg;negative:0.2038564234972;night-light:0.13694578409194946;Persian iris,Iris persica:0.06330879777669907;

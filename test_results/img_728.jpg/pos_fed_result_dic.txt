@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;young;wild;duck;grass;near;river;spring;
+from_object_detection:duck;plant;
+from_image_classification:teal;mallard;anas platyrhynchos;wild duck;dabbling duck;dabbler;bobwhite;bobwhite quail;partridge;platypus;duckbill;duckbilled platypus;duck-billed platypus;ornithorhynchus anatinus;black duck;anas rubripes;wood drake;crapaud;south american bullfrog;leptodactylus pentadactylus;shoveler;shoveller;broadbill;anas clypeata;

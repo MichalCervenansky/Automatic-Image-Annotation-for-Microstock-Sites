@@ -1,0 +1,2 @@
+boxes_1.jpg;bench:0.07559955
+boxes_2.jpg;plant:0.06424335

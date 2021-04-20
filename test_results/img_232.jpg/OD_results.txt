@@ -1,0 +1,15 @@
+boxes_1.jpg;tortoise:0.93323255
+boxes_2.jpg;tortoise:0.73808205
+boxes_3.jpg;tortoise:0.71683604
+boxes_4.jpg;tortoise:0.6378733
+boxes_5.jpg;turtle:0.15251051
+boxes_6.jpg;sea turtle:0.13723035
+boxes_7.jpg;sea turtle:0.09432904
+boxes_8.jpg;sea turtle:0.08229095
+boxes_9.jpg;tortoise:0.080107495
+boxes_10.jpg;sea turtle:0.0757788
+boxes_11.jpg;tortoise:0.07034001
+boxes_12.jpg;turtle:0.06312932
+boxes_13.jpg;tortoise:0.062955864
+boxes_14.jpg;sea turtle:0.06262464
+boxes_15.jpg;turtle:0.05499177

@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;memorial;romanian;writings;black;white;holiday;
+from_object_detection:tree;stairs;plant;porch;
+from_image_classification:socle;gravestone;headstone;tombstone;stele;stela;memorial;monument;repository;gatepost;bunker;gun emplacement;weapons emplacement;burial chamber;sepulcher;sepulchre;sepulture;base;pedestal;stand;plinth;footstall;

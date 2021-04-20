@@ -1,0 +1,23 @@
+boxes_1.jpg;starfish:0.95601475
+boxes_2.jpg;marine invertebrates:0.83684766
+boxes_3.jpg;marine invertebrates:0.4694249
+boxes_4.jpg;marine invertebrates:0.39336324
+boxes_5.jpg;marine invertebrates:0.3731871
+boxes_6.jpg;marine invertebrates:0.255163
+boxes_7.jpg;marine invertebrates:0.22723457
+boxes_8.jpg;marine invertebrates:0.18971528
+boxes_9.jpg;marine invertebrates:0.17988278
+boxes_10.jpg;marine invertebrates:0.16560872
+boxes_11.jpg;marine invertebrates:0.13425846
+boxes_12.jpg;marine invertebrates:0.11141078
+boxes_13.jpg;plant:0.10528212
+boxes_14.jpg;marine invertebrates:0.1031484
+boxes_15.jpg;marine invertebrates:0.09938678
+boxes_16.jpg;marine invertebrates:0.084187806
+boxes_17.jpg;invertebrate:0.077527955
+boxes_18.jpg;plant:0.07623039
+boxes_19.jpg;starfish:0.0760415
+boxes_20.jpg;marine invertebrates:0.07041959
+boxes_21.jpg;invertebrate:0.066159524
+boxes_22.jpg;marine invertebrates:0.0645237
+boxes_23.jpg;marine invertebrates:0.058333553

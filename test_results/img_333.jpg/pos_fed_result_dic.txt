@@ -1,0 +1,3 @@
+from_image_IPTC:outdoor;cat;beach;hvar;croatia;
+from_object_detection:cat;tiger;
+from_image_classification:negative;tom;tomcat;sand cat;egyptian cat;cat;true cat;domestic cat;house cat;felis domesticus;felis catus;

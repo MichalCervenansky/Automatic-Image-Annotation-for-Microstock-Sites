@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;croatian;harbour;
+from_object_detection:boat;tree;vehicle;canoe;
+from_image_classification:seashore;coast;seacoast;sea-coast;craft;waterfront;cabin cruiser;cruiser;pleasure boat;pleasure craft;boatyard;trimaran;sailboat;sailing boat;drawknife;drawshave;dinghy;dory;rowboat;small boat;sloop;mainsail;jibboom;luff;jolly boat;jolly;foresail;harbor;harbour;boat;police boat;harborage;harbourage;sea boat;bulwark;royal mast;hull;riverbank;riverside;production line;assembly line;line;arroyo;waterside;zamboni;lockage;local;catboat;sail;shore;bank;coastland;boat racing;catamaran;canoe;pontoon;marina;iceboat;ice yacht;scooter;skating;rink;skating rink;skiff;river boat;beach;seaside;seaboard;bumboat;barge;flatboat;hoy;lighter;spume;

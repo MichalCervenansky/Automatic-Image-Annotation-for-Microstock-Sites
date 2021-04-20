@@ -1,0 +1,11 @@
+boxes_1.jpg;boat:0.9382591
+boxes_2.jpg;tree:0.2192604
+boxes_3.jpg;tree:0.2121237
+boxes_4.jpg;boat:0.11932613
+boxes_5.jpg;tower:0.11880896
+boxes_6.jpg;tree:0.11365616
+boxes_7.jpg;tree:0.1088329
+boxes_8.jpg;vehicle:0.0984712
+boxes_9.jpg;tree:0.09243744
+boxes_10.jpg;tree:0.08274766
+boxes_11.jpg;tree:0.07123748

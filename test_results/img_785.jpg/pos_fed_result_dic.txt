@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:tree;plant;
+from_image_classification:ascent;acclivity;rise;raise;climb;upgrade;slope;incline;side;descent;declivity;fall;decline;declination;declension;downslope;negative;sunniness;artwork;art;graphics;nontextual matter;glacier;ice mass;icecap;ice cap;climber;sea lion;ridge;windshield;windscreen;arroyo;lakeside;lakeshore;microorganism;micro-organism;ciliate;ciliated protozoan;ciliophoran;alpine glacier;alpine type of glacier;alaskan brown bear;kodiak bear;kodiak;ursus middendorffi;ursus arctos middendorffi;escarpment;escarp;scarp;protective embankment;

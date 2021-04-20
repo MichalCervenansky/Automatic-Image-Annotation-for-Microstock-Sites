@@ -1,0 +1,10 @@
+boxes_1.jpg;tower:0.9589251
+boxes_2.jpg;clock:0.7812247
+boxes_3.jpg;tower:0.20387214
+boxes_4.jpg;building:0.19515991
+boxes_5.jpg;tower:0.1866255
+boxes_6.jpg;window:0.10617204
+boxes_7.jpg;sculpture:0.070959724
+boxes_8.jpg;window:0.07077221
+boxes_9.jpg;tree:0.05035874
+boxes_10.jpg;bird:0.050207824

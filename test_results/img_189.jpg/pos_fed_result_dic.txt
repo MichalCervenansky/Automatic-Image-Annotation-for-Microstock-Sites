@@ -1,0 +1,3 @@
+from_image_IPTC:turkish;flag;beach;antalya;turkey;
+from_object_detection:flag;
+from_image_classification:ensign;fanion;oriflamme;parasol;sunshade;sanitary napkin;sanitary towel;kotex;handkerchief;hankie;hanky;hankey;wand;riband;ribband;flag;

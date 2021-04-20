@@ -1,0 +1,14 @@
+boxes_1.jpg;small boat:0.43471992015838623;boat:0.15927638113498688;
+boxes_10.jpg;small boat:0.13862574100494385;canoe:0.07839874178171158;wherry:0.07637497782707214;jolly boat,jolly:0.07599034160375595;outrigger:0.06300391256809235;
+boxes_11.jpg;hippopotamus,hippo,river horse,Hippopotamus amphibius:0.6070188879966736;
+boxes_12.jpg;small boat:0.19501492381095886;banana boat:0.1361922025680542;cockleshell:0.13491690158843994;
+boxes_13.jpg;Old world white pelican,Pelecanus onocrotalus:0.3471064865589142;tundra swan,Cygnus columbianus:0.10480467975139618;trumpeter,trumpeter swan,Cygnus buccinator:0.05449453741312027;
+boxes_2.jpg;aquatic mammal:0.15566189587116241;hippopotamus,hippo,river horse,Hippopotamus amphibius:0.11339071393013;
+boxes_3.jpg;jolly boat,jolly:0.7259666323661804;dinghy,dory,rowboat:0.10016009956598282;
+boxes_4.jpg;small boat:0.12649361789226532;outrigger:0.10872530937194824;canoe:0.07193733751773834;cockleshell:0.06592553853988647;banana boat:0.06451380252838135;rowing,row:0.06231711059808731;
+boxes_5.jpg;
+boxes_6.jpg;seashore,coast,seacoast,sea-coast:0.11558543145656586;dune,sand dune:0.06268459558486938;
+boxes_7.jpg;hippopotamus,hippo,river horse,Hippopotamus amphibius:0.32227542996406555;river dolphin:0.059955447912216187;
+boxes_8.jpg;canoe:0.15773342549800873;small boat:0.12196159362792969;outrigger:0.08609622716903687;banana boat:0.05967966839671135;
+boxes_9.jpg;dinghy,dory,rowboat:0.5299457907676697;small boat:0.1364200860261917;rowing boat:0.09650465846061707;jolly boat,jolly:0.08614952862262726;
+img_126.jpg;low-water mark:0.3877452313899994;beach:0.14546222984790802;seashore,coast,seacoast,sea-coast:0.09682407230138779;sunniness:0.06703218817710876;bank:0.05760134011507034;

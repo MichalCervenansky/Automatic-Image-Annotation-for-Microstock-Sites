@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:sculpture;tree;person;bench;bronze sculpture;plant;human head;man;human face;human leg;
+from_image_classification:memorial;monument;socle;sculptor;sculpturer;carver;statue maker;oil paint;artwork;art;graphics;nontextual matter;sculpture;laurel;sea lion;steller sea lion;steller's sea lion;eumetopias jubatus;atlantic bottlenose dolphin;tursiops truncatus;malayan tapir;indian tapir;tapirus indicus;brahman;brahma;brahmin;bos indicus;bull;cattle;cows;kine;oxen;bos taurus;honduras mahogany;swietinia macrophylla;verdigris;nude;nude painting;crock;earthenware jar;

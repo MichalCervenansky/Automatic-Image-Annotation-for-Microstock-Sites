@@ -1,0 +1,19 @@
+boxes_1.jpg;food:0.6346473
+boxes_2.jpg;mushroom:0.60610884
+boxes_3.jpg;mushroom:0.52588665
+boxes_4.jpg;food:0.4804577
+boxes_5.jpg;seafood:0.3683812
+boxes_6.jpg;shrimp:0.25466686
+boxes_7.jpg;mushroom:0.23201738
+boxes_8.jpg;food:0.18477441
+boxes_9.jpg;baked goods:0.11468383
+boxes_10.jpg;food:0.11085466
+boxes_11.jpg;mushroom:0.1079261
+boxes_12.jpg;shellfish:0.08711722
+boxes_13.jpg;mushroom:0.081786565
+boxes_14.jpg;food:0.08048622
+boxes_15.jpg;dessert:0.072381236
+boxes_16.jpg;fish:0.07136952
+boxes_17.jpg;mushroom:0.0692427
+boxes_18.jpg;seafood:0.06688141
+boxes_19.jpg;mushroom:0.062613815

@@ -1,0 +1,3 @@
+boxes_1.jpg;
+boxes_2.jpg;obtuse triangle,obtuse-angled triangle:0.3746378421783447;hypotenuse:0.15714165568351746;triangle,trigon,trilateral:0.08712060749530792;acute triangle,acute-angled triangle:0.07954806089401245;
+img_664.jpg;hypotenuse:0.5790013074874878;quadrate:0.13281312584877014;acute triangle,acute-angled triangle:0.05643008276820183;

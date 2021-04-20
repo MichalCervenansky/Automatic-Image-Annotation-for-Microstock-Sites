@@ -1,0 +1,8 @@
+boxes_1.jpg;plant:0.4070186
+boxes_2.jpg;animal:0.383887
+boxes_3.jpg;insect:0.2759188
+boxes_4.jpg;plant:0.09863035
+boxes_5.jpg;plant:0.092746824
+boxes_6.jpg;plant:0.08441606
+boxes_7.jpg;plant:0.074303
+boxes_8.jpg;plant:0.066908225

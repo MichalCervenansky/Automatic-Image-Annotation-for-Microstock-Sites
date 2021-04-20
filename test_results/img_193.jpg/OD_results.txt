@@ -1,0 +1,10 @@
+boxes_1.jpg;ant:0.8082291
+boxes_2.jpg;ant:0.78073233
+boxes_3.jpg;ant:0.4781247
+boxes_4.jpg;ant:0.32015476
+boxes_5.jpg;insect:0.24205466
+boxes_6.jpg;ant:0.22459173
+boxes_7.jpg;ant:0.10225915
+boxes_8.jpg;ant:0.063590735
+boxes_9.jpg;ant:0.05716283
+boxes_10.jpg;ant:0.05443916

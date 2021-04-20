@@ -1,0 +1,18 @@
+boxes_1.jpg;car:0.9899844
+boxes_2.jpg;wheel:0.6673067
+boxes_3.jpg;wheel:0.5732791
+boxes_4.jpg;wheel:0.52444017
+boxes_5.jpg;vehicle registration plate:0.20299943
+boxes_6.jpg;wheel:0.19609663
+boxes_7.jpg;wheel:0.17062986
+boxes_8.jpg;tree:0.16189997
+boxes_9.jpg;wheel:0.14768629
+boxes_10.jpg;tire:0.12143059
+boxes_11.jpg;tire:0.11514347
+boxes_12.jpg;tire:0.0974079
+boxes_13.jpg;plant:0.08736024
+boxes_14.jpg;tree:0.07366069
+boxes_15.jpg;wheel:0.07275443
+boxes_16.jpg;tree:0.0695508
+boxes_17.jpg;tree:0.06334829
+boxes_18.jpg;flower:0.054743394

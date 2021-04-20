@@ -1,0 +1,3 @@
+from_image_IPTC:old;ancient;castle;tiles;buchlov;
+from_object_detection:honeycomb;beehive;
+from_image_classification:octagon;hexagon;stonework;linoleum;lino;gray;grayness;grey;greyness;curbstone;kerbstone;

@@ -1,0 +1,10 @@
+boxes_1.jpg;bitch:0.48699140548706055;housedog:0.07485776394605637;watchdog,guard dog:0.05976618453860283;working dog:0.05730042979121208;
+boxes_2.jpg;hunting dog:0.15370391309261322;negative:0.11448200792074203;housedog:0.09183869510889053;dachshund,dachsie,badger dog:0.0653361976146698;working dog:0.05513928085565567;
+boxes_3.jpg;beaver:0.15760290622711182;post:0.07813169062137604;
+boxes_4.jpg;black-tailed deer,blacktail deer,blacktail,Odocoileus hemionus columbianus:0.06870222836732864;Virginia deer,white tail,whitetail,white-tailed deer,whitetail deer,Odocoileus Virginianus:0.06406313925981522;
+boxes_5.jpg;
+boxes_6.jpg;woodland caribou,Rangifer caribou:0.07163916528224945;Virginia deer,white tail,whitetail,white-tailed deer,whitetail deer,Odocoileus Virginianus:0.05786570906639099;black-tailed deer,blacktail deer,blacktail,Odocoileus hemionus columbianus:0.05679258331656456;wapiti,elk,American elk,Cervus elaphus canadensis:0.05357753112912178;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;
+img_26.jpg;watchdog,guard dog:0.34503674507141113;housedog:0.10071910917758942;bitch:0.05982683598995209;

@@ -1,0 +1,3 @@
+from_image_IPTC:small;bird;sitting;tree;branch;
+from_object_detection:bird;tree;eagle;plant;falcon;
+from_image_classification:english sparrow;house sparrow;passer domesticus;sparrow;true sparrow;dickeybird;dickey-bird;dickybird;dicky-bird;bulbul;hedge sparrow;dunnock;prunella modularis;fledgling;fledgeling;mulberry;mulberry tree;black mulberry;morus nigra;sycamore;sycamore fig;mulberry fig;ficus sycomorus;

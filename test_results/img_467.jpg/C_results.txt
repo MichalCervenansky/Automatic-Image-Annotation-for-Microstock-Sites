@@ -1,0 +1,14 @@
+boxes_1.jpg;negative:0.5639097690582275;saltbush:0.1974245309829712;
+boxes_10.jpg;saltbush:0.3966981768608093;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.20081160962581635;saltwort,Batis maritima:0.06113315373659134;
+boxes_11.jpg;negative:0.8678914904594421;
+boxes_12.jpg;saltbush:0.40726348757743835;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.05642241612076759;
+boxes_13.jpg;
+boxes_2.jpg;saltbush:0.7569573521614075;
+boxes_3.jpg;negative:0.4110327959060669;saltbush:0.12635226547718048;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.110222227871418;
+boxes_4.jpg;saltbush:0.5987854599952698;
+boxes_5.jpg;negative:0.9500436186790466;
+boxes_6.jpg;negative:0.5687782764434814;artemisia:0.12044403702020645;saltbush:0.058671362698078156;
+boxes_7.jpg;saltbush:0.6687928438186646;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.0771084725856781;
+boxes_8.jpg;negative:0.7219085097312927;artemisia:0.06362947821617126;
+boxes_9.jpg;benthos,benthic division,benthonic zone:0.06446897238492966;
+img_467.jpg;saltbush:0.6069840788841248;saltwort,Batis maritima:0.0789782926440239;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.06885633617639542;

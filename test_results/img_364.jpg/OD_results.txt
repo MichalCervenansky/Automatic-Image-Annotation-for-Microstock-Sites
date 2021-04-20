@@ -1,0 +1,12 @@
+boxes_1.jpg;tree:0.85541904
+boxes_2.jpg;tree:0.48392245
+boxes_3.jpg;plant:0.4112599
+boxes_4.jpg;tree:0.2876282
+boxes_5.jpg;tree:0.24918565
+boxes_6.jpg;tree:0.12710346
+boxes_7.jpg;tree:0.11035493
+boxes_8.jpg;plant:0.09384256
+boxes_9.jpg;tree:0.09358954
+boxes_10.jpg;harbor seal:0.090693414
+boxes_11.jpg;tree:0.07700963
+boxes_12.jpg;plant:0.0761869

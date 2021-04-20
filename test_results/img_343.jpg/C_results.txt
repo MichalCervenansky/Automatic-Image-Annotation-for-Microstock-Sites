@@ -1,0 +1,18 @@
+boxes_1.jpg;ultramarine:0.9095795154571533;
+boxes_10.jpg;
+boxes_11.jpg;glacier:0.39939895272254944;polar glacier:0.1187615841627121;
+boxes_12.jpg;ultramarine:0.39962902665138245;
+boxes_13.jpg;bone china:0.5392679572105408;dish:0.05886617302894592;
+boxes_14.jpg;trepang,Holothuria edulis:0.07448261976242065;
+boxes_15.jpg;ice pack,ice bag:0.09428983926773071;mushy peas:0.05134580284357071;
+boxes_16.jpg;goosefish,angler,anglerfish,angler fish,monkfish,lotte,allmouth,Lophius Americanus:0.4896906912326813;trepang,Holothuria edulis:0.06612782180309296;
+boxes_17.jpg;
+boxes_2.jpg;ultramarine:0.42442914843559265;lodestone,loadstone:0.27420565485954285;rock,stone:0.218298077583313;
+boxes_3.jpg;dish:0.3839305639266968;plate:0.1508740931749344;
+boxes_4.jpg;dish:0.45146214962005615;plate:0.19967956840991974;bone china:0.062040600925683975;
+boxes_5.jpg;bone china:0.8504805564880371;
+boxes_6.jpg;goosefish,angler,anglerfish,angler fish,monkfish,lotte,allmouth,Lophius Americanus:0.19282925128936768;walrus,seahorse,sea horse:0.07542848587036133;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;dish:0.39679422974586487;plate:0.16132567822933197;bone china:0.11127414554357529;
+img_343.jpg;ultramarine:0.3580699861049652;indigo:0.11456384509801865;jello,Jell-O:0.07579930871725082;

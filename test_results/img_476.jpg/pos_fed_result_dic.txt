@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;croatian;coastline;
+from_object_detection:boat;tree;house;building;
+from_image_classification:small boat;sailboat;sailing boat;foresail;shore;boat;sail;headsail;sculling;boat racing;motorboat;powerboat;rowing;row;hillside;cliff;drop;drop-off;jolly boat;jolly;seashore;coast;seacoast;sea-coast;oceanfront;littoral;litoral;littoral zone;sands;seaside;seaboard;ridge;cable car;car;bungee;bungee cord;bank;waterside;outfall;

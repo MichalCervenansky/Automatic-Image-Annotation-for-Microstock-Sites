@@ -1,0 +1,7 @@
+boxes_1.jpg;beardless iris:0.11961019039154053;
+boxes_2.jpg;Spanish iris,xiphium iris,Iris xiphium:0.0968528538942337;beardless iris:0.0814768448472023;Florentine iris,orris,Iris germanica florentina,Iris florentina:0.06190909817814827;
+boxes_3.jpg;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.79444420337677;strawflower,cornflower,Uvularia grandiflora:0.062025271356105804;
+boxes_4.jpg;Florentine iris,orris,Iris germanica florentina,Iris florentina:0.1605612337589264;purplish blue,royal blue:0.05997243896126747;Dutch iris,Iris filifolia:0.05953409522771835;beardless iris:0.05531791225075722;Dutch iris,Iris tingitana:0.05421750992536545;
+boxes_5.jpg;Spanish iris,xiphium iris,Iris xiphium:0.13859735429286957;Florentine iris,orris,Iris germanica florentina,Iris florentina:0.09353359043598175;purplish blue,royal blue:0.07012227177619934;beardless iris:0.068885438144207;orrisroot,orris:0.06365332007408142;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.050163112580776215;
+boxes_6.jpg;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.5882018804550171;
+img_960.jpg;perianth,chlamys,floral envelope,perigone,perigonium:0.15567035973072052;purple heather,Brewer's mountain heather,Phyllodoce breweri:0.0598907545208931;

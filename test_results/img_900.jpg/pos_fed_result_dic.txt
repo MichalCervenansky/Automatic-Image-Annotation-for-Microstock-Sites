@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:motorcycle;bicycle;wheel;man;tree;person;bicycle wheel;tire;clothing;woman;human face;land vehicle;
+from_image_classification:motorcycle;bike;tailpipe;kick starter;kick start;push-bike;bicycle;wheel;cycle;wheelchair;safety bicycle;safety bike;bicycling;kickstand;motor scooter;scooter;mudguard;splash guard;splash-guard;bicycle wheel;pannier;pedicab;cycle rickshaw;giraffe;camelopard;giraffa camelopardalis;minute hand;big hand;mobcap;jinrikisha;ricksha;rickshaw;tricycle;trike;velocipede;sport;athletics;brake drum;drum;reflector;headlight;headlamp;chador;chadar;chaddar;chuddar;backlighting;segway;segway human transporter;segway ht;tread;felloe;felly;

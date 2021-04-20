@@ -1,0 +1,13 @@
+boxes_1.jpg;spiderwort,dayflower:0.06570464372634888;bunchberry,dwarf cornel,crackerberry,pudding berry,Cornus canadensis:0.05141598731279373;
+boxes_10.jpg;citrus,citrus tree:0.14136072993278503;orange,orange tree:0.12002712488174438;sweet orange,sweet orange tree,Citrus sinensis:0.08506634831428528;fruit:0.07872489094734192;grapefruit,Citrus paradisi:0.07619187235832214;citrus,citrus fruit,citrous fruit:0.07250764966011047;key lime:0.05518115311861038;
+boxes_11.jpg;toothbrush:0.07344718277454376;hairbrush:0.059437934309244156;
+boxes_12.jpg;axolotl,mud puppy,Ambystoma mexicanum:0.3490414023399353;sea slug,nudibranch:0.07971197366714478;
+boxes_2.jpg;citrus,citrus tree:0.3736970126628876;orange,orange tree:0.11160797625780106;grapefruit,Citrus paradisi:0.10332825779914856;sweet orange,sweet orange tree,Citrus sinensis:0.07356284558773041;
+boxes_3.jpg;citrus,citrus tree:0.3864487111568451;orange,orange tree:0.1057342141866684;grapefruit,Citrus paradisi:0.10566850006580353;lime:0.05335797742009163;
+boxes_4.jpg;citrus,citrus fruit,citrous fruit:0.2843470871448517;grapefruit,Citrus paradisi:0.12171563506126404;citrus,citrus tree:0.0943165197968483;orange,orange tree:0.059961363673210144;
+boxes_5.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.5869854688644409;
+boxes_6.jpg;citrus,citrus tree:0.4434134364128113;orange,orange tree:0.10533425956964493;grapefruit,Citrus paradisi:0.07418344914913177;sweet orange,sweet orange tree,Citrus sinensis:0.05490117892622948;
+boxes_7.jpg;citrus,citrus fruit,citrous fruit:0.2658889889717102;grapefruit,Citrus paradisi:0.12703269720077515;citrus,citrus tree:0.10217790305614471;orange,orange tree:0.07210759818553925;sweet orange,sweet orange tree,Citrus sinensis:0.053749535232782364;
+boxes_8.jpg;citrus,citrus tree:0.13031496107578278;orange,orange tree:0.11328980326652527;citrus,citrus fruit,citrous fruit:0.09517494589090347;grapefruit,Citrus paradisi:0.08874832838773727;fruit:0.08619614690542221;sweet orange,sweet orange tree,Citrus sinensis:0.06633869558572769;
+boxes_9.jpg;Venus' slipper,Venus's slipper,Venus's shoe:0.11755269020795822;star tulip,elegant cat's ears,Calochortus elegans:0.1098187267780304;
+img_222.jpg;citrus,citrus fruit,citrous fruit:0.30949997901916504;grapefruit,Citrus paradisi:0.09816888719797134;citrus,citrus tree:0.07920071482658386;orange,orange tree:0.06300705671310425;

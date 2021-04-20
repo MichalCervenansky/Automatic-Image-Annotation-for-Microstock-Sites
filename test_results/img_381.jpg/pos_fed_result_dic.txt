@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ancient;ruins;priene;turkey;
+from_object_detection:sculpture;tree;tower;skyscraper;
+from_image_classification:hoopskirt;crinoline;shell;ball gown;formalwear;eveningwear;evening dress;evening clothes;

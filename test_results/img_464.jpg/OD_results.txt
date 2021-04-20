@@ -1,0 +1,23 @@
+boxes_1.jpg;tree:0.71905
+boxes_2.jpg;fruit:0.70888376
+boxes_3.jpg;christmas tree:0.6539663
+boxes_4.jpg;tree:0.43600908
+boxes_5.jpg;fruit:0.4037177
+boxes_6.jpg;fruit:0.3458173
+boxes_7.jpg;plant:0.32421193
+boxes_8.jpg;tree:0.26746655
+boxes_9.jpg;plant:0.22659378
+boxes_10.jpg;maple:0.19563888
+boxes_11.jpg;fruit:0.19399068
+boxes_12.jpg;fruit:0.17443818
+boxes_13.jpg;fruit:0.13466646
+boxes_14.jpg;maple:0.13429333
+boxes_15.jpg;fruit:0.118448235
+boxes_16.jpg;fruit:0.0928212
+boxes_17.jpg;grape:0.08886221
+boxes_18.jpg;fruit:0.08588893
+boxes_19.jpg;fruit:0.08188693
+boxes_20.jpg;grape:0.06644904
+boxes_21.jpg;fruit:0.061552476
+boxes_22.jpg;tree:0.059288807
+boxes_23.jpg;maple:0.0524434

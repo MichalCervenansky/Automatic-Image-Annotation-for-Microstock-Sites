@@ -1,0 +1,7 @@
+boxes_1.jpg;swimming pool:0.9826987
+boxes_2.jpg;plant:0.08833785
+boxes_3.jpg;mammal:0.084865384
+boxes_4.jpg;plant:0.08460446
+boxes_5.jpg;person:0.060186747
+boxes_6.jpg;swimming pool:0.057693627
+boxes_7.jpg;plant:0.050194304

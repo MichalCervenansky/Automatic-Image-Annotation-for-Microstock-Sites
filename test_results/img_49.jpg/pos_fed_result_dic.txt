@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:tree;house;window;building;
+from_image_classification:clock tower;messuage;bell tower;church tower;gatehouse;chicken wire;round arch;stonework;lookout;observation tower;lookout station;observatory;stele;stela;portcullis;castle;monastery;high-rise;tower block;spacecraft;ballistic capsule;space vehicle;columbarium;cinerarium;tail rotor;anti-torque rotor;funambulism;tightrope walking;helicopter;chopper;whirlybird;eggbeater;funambulist;tightrope walker;blockhouse;bastion;citadel;air conditioner;air conditioning;solar cell;photovoltaic cell;observation dome;ventilation shaft;rendering;campanile;belfry;hutch;rabbit hutch;watchtower;battlement;crenelation;crenellation;

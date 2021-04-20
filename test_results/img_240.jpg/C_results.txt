@@ -1,0 +1,11 @@
+boxes_1.jpg;dip,plunge:0.10922232270240784;
+boxes_10.jpg;
+boxes_2.jpg;common water snake,banded water snake,Natrix sipedon,Nerodia sipedon:0.05535760894417763;
+boxes_3.jpg;
+boxes_4.jpg;ice mass:0.054282814264297485;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;ice mass:0.08790326118469238;glacier:0.06194082647562027;
+boxes_9.jpg;
+img_240.jpg;ice mass:0.8431892991065979;icecap,ice cap:0.07788266986608505;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;garden;green;geometric;shapes;france;
+from_object_detection:tree;building;plant;house;
+from_image_classification:castle;chateau;frieze;bailey bridge;ghat;abutment;dam;dike;dyke;pedestrian crossing;zebra crossing;embankment;riverbank;riverside;verdigris;waterside;riverbed;river bottom;paving;pavement;paving material;bridge;span;italian cypress;mediterranean cypress;cupressus sempervirens;mexican cypress;cedar of goa;portuguese cypress;cupressus lusitanica;soft tree fern;dicksonia antarctica;parapet;breastwork;california sycamore;platanus racemosa;saltwort;barilla;glasswort;kali;kelpwort;salsola kali;salsola soda;fraser fir;abies fraseri;miniature golf;watercourse;three-mile limit;artwork;art;graphics;nontextual matter;pier arch;

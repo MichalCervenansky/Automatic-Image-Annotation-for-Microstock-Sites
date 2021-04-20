@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;red;tulips;sunny;garden;
+from_object_detection:flower;lily;rose;
+from_image_classification:darwin tulip;perianth;chlamys;floral envelope;perigone;perigonium;indian crocus;purplish blue;royal blue;cottage tulip;cormous plant;orrisroot;orris;squill;saffron;sowbread;cyclamen hederifolium;cyclamen neopolitanum;dwarf tulip;tulipa armena;tulipa suaveolens;scilla;tulipa gesneriana;flower;lady tulip;candlestick tulip;tulipa clusiana;purple;purpleness;spiderwort;dayflower;spanish iris;xiphium iris;iris xiphium;jade vine;emerald creeper;strongylodon macrobotrys;wood anemone;snowdrop;anemone quinquefolia;dwarf iris;vernal iris;iris verna;iris cristata;dutch iris;iris filifolia;

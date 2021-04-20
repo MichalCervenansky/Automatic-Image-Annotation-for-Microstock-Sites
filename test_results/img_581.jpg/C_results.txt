@@ -1,0 +1,13 @@
+boxes_1.jpg;angelfish:0.8654171824455261;spadefish,angelfish,Chaetodipterus faber:0.06678738445043564;
+boxes_10.jpg;negative:0.06523998081684113;guppy,rainbow fish,Lebistes reticulatus:0.06144260987639427;mudskipper,mudspringer:0.05545162782073021;
+boxes_11.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.2243758738040924;angelfish:0.16969963908195496;negative:0.09663575142621994;boarfish,Capros aper:0.06353818625211716;
+boxes_12.jpg;toothbrush:0.10575882345438004;
+boxes_2.jpg;
+boxes_3.jpg;stolon,runner,offset:0.10849546641111374;
+boxes_4.jpg;angelfish:0.8448793888092041;
+boxes_5.jpg;
+boxes_6.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.1102830320596695;conger,conger eel:0.056647345423698425;electric ray,crampfish,numbfish,torpedo:0.055129118263721466;
+boxes_7.jpg;angelfish:0.5601035952568054;spadefish,angelfish,Chaetodipterus faber:0.36770766973495483;
+boxes_8.jpg;
+boxes_9.jpg;platypus,duckbill,duckbilled platypus,duck-billed platypus,Ornithorhynchus anatinus:0.08564063906669617;
+img_581.jpg;angelfish:0.6544764041900635;spadefish,angelfish,Chaetodipterus faber:0.2679921090602875;

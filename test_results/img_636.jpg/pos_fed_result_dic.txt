@@ -1,0 +1,3 @@
+from_image_IPTC:dangerous;toxic;dealy;lionfish;lives;egypt;sea;
+from_object_detection:fish;marine invertebrates;plant;invertebrate;jellyfish;
+from_image_classification:lionfish;fish;aquatic vertebrate;tunicate;urochordate;urochord;sea squirt;ascidian;cell;ameba;amoeba;nitrate bacterium;nitric bacterium;mudskipper;mudspringer;white crappie;pomoxis annularis;flame fish;flamefish;apogon maculatus;

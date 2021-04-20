@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;big;grasshopper;
+from_object_detection:insect;
+from_image_classification:migratory locust;locusta migratoria;locust;insect;grasshopper;hopper;short-horned grasshopper;acridid;

@@ -1,0 +1,10 @@
+boxes_1.jpg;lobster:0.43017507
+boxes_2.jpg;shrimp:0.40026644
+boxes_3.jpg;food:0.38298282
+boxes_4.jpg;shrimp:0.17915423
+boxes_5.jpg;clothing:0.15664293
+boxes_6.jpg;fast food:0.12524386
+boxes_7.jpg;shrimp:0.12208337
+boxes_8.jpg;seafood:0.086489014
+boxes_9.jpg;pasta:0.069694385
+boxes_10.jpg;tableware:0.06936415

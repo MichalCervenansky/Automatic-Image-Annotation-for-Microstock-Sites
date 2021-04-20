@@ -1,0 +1,39 @@
+boxes_1.jpg;chair:0.77154696
+boxes_2.jpg;building:0.69693017
+boxes_3.jpg;chair:0.6357662
+boxes_4.jpg;picture frame:0.59180236
+boxes_5.jpg;table:0.57273686
+boxes_6.jpg;building:0.5316416
+boxes_7.jpg;sculpture:0.50040203
+boxes_8.jpg;bookcase:0.32067043
+boxes_9.jpg;shelf:0.3159953
+boxes_10.jpg;couch:0.28474045
+boxes_11.jpg;furniture:0.25156525
+boxes_12.jpg;house:0.23562321
+boxes_13.jpg;picture frame:0.21549866
+boxes_14.jpg;house:0.20039701
+boxes_15.jpg;shelf:0.15745556
+boxes_16.jpg;window:0.1436143
+boxes_17.jpg;furniture:0.14110279
+boxes_18.jpg;furniture:0.1386004
+boxes_19.jpg;bed:0.1189251
+boxes_20.jpg;countertop:0.11715187
+boxes_21.jpg;chair:0.115905546
+boxes_22.jpg;coffee table:0.115476385
+boxes_23.jpg;furniture:0.10507806
+boxes_24.jpg;nightstand:0.10129879
+boxes_25.jpg;book:0.09563548
+boxes_26.jpg;shelf:0.09331156
+boxes_27.jpg;person:0.09193947
+boxes_28.jpg;wheel:0.08902899
+boxes_29.jpg;chair:0.08442701
+boxes_30.jpg;furniture:0.08179452
+boxes_31.jpg;window:0.07726339
+boxes_32.jpg;house:0.073874496
+boxes_33.jpg;shelf:0.07305173
+boxes_34.jpg;building:0.07050909
+boxes_35.jpg;bed:0.063071705
+boxes_36.jpg;house:0.062818006
+boxes_37.jpg;house:0.056893494
+boxes_38.jpg;window:0.055558197
+boxes_39.jpg;furniture:0.05133306

@@ -1,0 +1,3 @@
+from_image_IPTC:cute;abandoned;white;dog;beach;turkey;
+from_object_detection:dog;plant;houseplant;tree;window;carnivore;
+from_image_classification:bitch;watchdog;guard dog;dog;domestic dog;canis familiaris;great pyrenees;tree wallaby;tree kangaroo;pot;flowerpot;common staghorn fern;elkhorn fern;platycerium bifurcatum;platycerium alcicorne;bone;ivory;pearl;off-white;animal;animate being;beast;brute;creature;fauna;blue point siamese;

@@ -1,0 +1,7 @@
+boxes_1.jpg;human eye:0.85026574
+boxes_2.jpg;human face:0.43416286
+boxes_3.jpg;human eye:0.42735004
+boxes_4.jpg;cosmetics:0.31137317
+boxes_5.jpg;human eye:0.20430133
+boxes_6.jpg;human eye:0.1389752
+boxes_7.jpg;person:0.116796054

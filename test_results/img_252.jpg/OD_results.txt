@@ -1,0 +1,11 @@
+boxes_1.jpg;mammal:0.19819936
+boxes_2.jpg;surfboard:0.15387715
+boxes_3.jpg;surfboard:0.13872096
+boxes_4.jpg;mammal:0.13470186
+boxes_5.jpg;surfboard:0.13167208
+boxes_6.jpg;person:0.11808327
+boxes_7.jpg;animal:0.09628239
+boxes_8.jpg;human face:0.09141475
+boxes_9.jpg;mammal:0.0862446
+boxes_10.jpg;snowboard:0.056793638
+boxes_11.jpg;marine mammal:0.05582399

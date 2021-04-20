@@ -1,0 +1,7 @@
+boxes_1.jpg;seashore,coast,seacoast,sea-coast:0.150110125541687;shore:0.104878731071949;
+boxes_2.jpg;rail fence:0.07582174986600876;stadium,bowl,arena,sports stadium:0.05987616628408432;
+boxes_3.jpg;shore:0.2321857213973999;seashore,coast,seacoast,sea-coast:0.12949319183826447;swell:0.05379176884889603;cliff,drop,drop-off:0.051312729716300964;
+boxes_4.jpg;sailboat,sailing boat:0.05376129969954491;
+boxes_5.jpg;seashore,coast,seacoast,sea-coast:0.10335104167461395;shore:0.06939719617366791;
+boxes_6.jpg;wine bucket,wine cooler:0.10388778895139694;ice mass:0.0760684385895729;
+img_992.jpg;shore:0.6329709887504578;seashore,coast,seacoast,sea-coast:0.16234493255615234;

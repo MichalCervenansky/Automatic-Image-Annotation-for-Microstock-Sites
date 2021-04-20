@@ -1,0 +1,8 @@
+boxes_1.jpg;laptop:0.86524266
+boxes_2.jpg;laptop:0.18902737
+boxes_3.jpg;mobile phone:0.18701652
+boxes_4.jpg;office supplies:0.1088163
+boxes_5.jpg;desk:0.10191263
+boxes_6.jpg;table:0.09761258
+boxes_7.jpg;mobile phone:0.09068164
+boxes_8.jpg;office supplies:0.05394268

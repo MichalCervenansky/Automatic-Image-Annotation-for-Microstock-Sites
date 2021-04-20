@@ -1,0 +1,11 @@
+boxes_1.jpg;plughole:0.987209677696228;
+boxes_10.jpg;plughole:0.18049761652946472;water:0.1461406648159027;water strider,pond-skater,water skater:0.11145675182342529;
+boxes_2.jpg;plughole:0.9981495141983032;
+boxes_3.jpg;plughole:0.3085888624191284;water:0.09742013365030289;water strider,pond-skater,water skater:0.05982515960931778;
+boxes_4.jpg;plughole:0.16808684170246124;water:0.11119502037763596;water strider,pond-skater,water skater:0.06575997173786163;
+boxes_5.jpg;plughole:0.2736167907714844;water:0.11353150010108948;water strider,pond-skater,water skater:0.05683375895023346;
+boxes_6.jpg;plughole:0.2598520815372467;water:0.1192055493593216;
+boxes_7.jpg;plughole:0.5415688753128052;water:0.05834740027785301;
+boxes_8.jpg;water:0.1748320758342743;plughole:0.16121014952659607;water strider,pond-skater,water skater:0.0961093008518219;
+boxes_9.jpg;plughole:0.26795631647109985;water:0.08969585597515106;water strider,pond-skater,water skater:0.06780041009187698;
+img_372.jpg;water:0.2178109884262085;plughole:0.16987375915050507;water strider,pond-skater,water skater:0.0607251413166523;

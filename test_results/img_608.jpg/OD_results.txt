@@ -1,0 +1,14 @@
+boxes_1.jpg;chicken:0.9939612
+boxes_2.jpg;chicken:0.9317377
+boxes_3.jpg;window:0.7357872
+boxes_4.jpg;tree:0.30489874
+boxes_5.jpg;tree:0.27178207
+boxes_6.jpg;tree:0.2687726
+boxes_7.jpg;tree:0.18221135
+boxes_8.jpg;plant:0.13538685
+boxes_9.jpg;window:0.12805918
+boxes_10.jpg;tree:0.11725139
+boxes_11.jpg;tree:0.10949418
+boxes_12.jpg;tree:0.09436712
+boxes_13.jpg;plant:0.077466905
+boxes_14.jpg;plant:0.07283092

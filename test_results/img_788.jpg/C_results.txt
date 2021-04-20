@@ -1,0 +1,8 @@
+boxes_1.jpg;Japanese black pine,black pine,Pinus thunbergii:0.5505534410476685;pine,pine tree,true pine:0.08956283330917358;western white pine,silver pine,mountain pine,Pinus monticola:0.06907311826944351;
+boxes_2.jpg;camper,camping bus,motor home:0.12085829675197601;
+boxes_3.jpg;
+boxes_4.jpg;littoral,litoral,littoral zone,sands:0.3083319067955017;seashore,coast,seacoast,sea-coast:0.2699863910675049;bank:0.0516352616250515;
+boxes_5.jpg;seashore,coast,seacoast,sea-coast:0.11986229568719864;littoral,litoral,littoral zone,sands:0.07736002653837204;sunniness:0.059583570808172226;low-water mark:0.05340205505490303;
+boxes_6.jpg;pine,pine tree,true pine:0.24334530532360077;Japanese black pine,black pine,Pinus thunbergii:0.1152813732624054;western white pine,silver pine,mountain pine,Pinus monticola:0.05619710311293602;
+boxes_7.jpg;camper,camping bus,motor home:0.05294771492481232;
+img_788.jpg;littoral,litoral,littoral zone,sands:0.37564656138420105;seashore,coast,seacoast,sea-coast:0.23135769367218018;spume:0.06602408736944199;

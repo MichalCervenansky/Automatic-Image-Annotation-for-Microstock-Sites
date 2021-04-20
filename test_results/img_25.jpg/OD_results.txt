@@ -1,0 +1,2 @@
+boxes_1.jpg;dog:0.9955895
+boxes_2.jpg;plant:0.15514147

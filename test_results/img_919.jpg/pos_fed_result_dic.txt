@@ -1,0 +1,3 @@
+from_image_IPTC:photo;insectcicada;old;tree;italy;
+from_object_detection:insect;tree;moths and butterflies;
+from_image_classification:dog-day cicada;harvest fly;cicada;cicala;nymph;false scorpion;pseudoscorpion;vinegarroon;mastigoproctus giganteus;whip-scorpion;whip scorpion;

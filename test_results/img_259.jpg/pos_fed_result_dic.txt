@@ -1,0 +1,3 @@
+from_image_IPTC:pack;yellow;pill;drugs;2;eaten;
+from_object_detection:food;drink;bottle;tableware;musical instrument;toy;
+from_image_classification:vitamin pill;ice;water ice;empty;capsule;blister pack;bubble pack;icetray;

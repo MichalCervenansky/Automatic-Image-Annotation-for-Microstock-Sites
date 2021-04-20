@@ -1,0 +1,3 @@
+from_image_IPTC:rocky;mountain;landscape;blue;sky;vysoke;tatry;
+from_object_detection:plant;
+from_image_classification:alpine glacier;alpine type of glacier;glacier;icecap;ice cap;arete;

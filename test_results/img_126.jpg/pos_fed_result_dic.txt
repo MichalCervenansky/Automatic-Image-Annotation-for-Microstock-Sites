@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;hvar;sunset;
+from_object_detection:boat;tree;canoe;vehicle;gondola;
+from_image_classification:small boat;boat;canoe;wherry;jolly boat;jolly;outrigger;hippopotamus;hippo;river horse;hippopotamus amphibius;banana boat;cockleshell;old world white pelican;pelecanus onocrotalus;tundra swan;cygnus columbianus;trumpeter;trumpeter swan;cygnus buccinator;aquatic mammal;dinghy;dory;rowboat;rowing;row;seashore;coast;seacoast;sea-coast;dune;sand dune;river dolphin;rowing boat;low-water mark;beach;sunniness;bank;

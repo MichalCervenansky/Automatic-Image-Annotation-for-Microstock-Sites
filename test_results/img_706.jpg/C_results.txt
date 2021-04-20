@@ -1,0 +1,6 @@
+boxes_1.jpg;dolphin:0.1572188436985016;river dolphin:0.06422008574008942;
+boxes_2.jpg;surfing,surfboarding,surfriding:0.11023978143930435;shore:0.06781383603811264;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;pinniped mammal,pinniped,pinnatiped:0.22008591890335083;river dolphin:0.07875696569681168;seal:0.06200626865029335;
+img_706.jpg;saltpan:0.48893505334854126;

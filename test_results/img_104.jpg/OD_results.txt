@@ -1,0 +1,5 @@
+boxes_1.jpg;duck:0.9017056
+boxes_2.jpg;duck:0.8418144
+boxes_3.jpg;goose:0.17447966
+boxes_4.jpg;goose:0.15643762
+boxes_5.jpg;tree:0.10131692

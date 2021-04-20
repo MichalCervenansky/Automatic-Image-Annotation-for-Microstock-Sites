@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;plant;fish;
+from_image_classification:sea anemone;anemone;endameba;ciliate;ciliated protozoan;ciliophoran;ameba;amoeba;trophozoite;protozoan;protozoon;actinia;actinian;actiniarian;reef;benthos;benthic division;benthonic zone;stony coral;madrepore;madriporian coral;lizardfish;snakefish;snake-fish;flying gurnard;flying robin;butterflyfish;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;ascidian;coral reef;supernova;pulsar;interplanetary space;gurnard;conger;conger eel;

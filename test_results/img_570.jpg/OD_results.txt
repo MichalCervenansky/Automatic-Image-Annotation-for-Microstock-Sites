@@ -1,0 +1,9 @@
+boxes_1.jpg;clothing:0.5938972
+boxes_2.jpg;pillow:0.56087583
+boxes_3.jpg;pillow:0.31318173
+boxes_4.jpg;pillow:0.25694677
+boxes_5.jpg;dog bed:0.12011133
+boxes_6.jpg;clothing:0.0910416
+boxes_7.jpg;pillow:0.087950274
+boxes_8.jpg;food:0.07083948
+boxes_9.jpg;furniture:0.050851163

@@ -1,0 +1,5 @@
+boxes_1.jpg;starfish:0.99139434
+boxes_2.jpg;marine invertebrates:0.61313
+boxes_3.jpg;marine invertebrates:0.39946756
+boxes_4.jpg;marine invertebrates:0.08838592
+boxes_5.jpg;fish:0.074884295

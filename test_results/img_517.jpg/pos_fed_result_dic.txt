@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;vehicle registration plate;tree;tire;plant;flower;
+from_image_classification:vehicle;sedan;saloon;foglamp;tailpipe;bumper;body;car wheel;spoiler;car door;carrier;coupe;power steering;power-assisted steering;windshield;windscreen;headlight;headlamp;used-car;secondhand car;beach wagon;station wagon;wagon;estate car;beach waggon;station waggon;waggon;convertible;car tire;automobile tire;auto tire;rubber tire;tread;standard transmission;stick shift;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;levander;plant;rough;rocks;
+from_object_detection:flower;plant;tree;
+from_image_classification:toothbrush;aspergillus fumigatus;mucor;negative;rhizopus;saltwort;barilla;glasswort;kali;kelpwort;salsola kali;salsola soda;samphire;salicornia europaea;littoral;litoral;littoral zone;sands;geological formation;formation;ice mass;jade vine;emerald creeper;strongylodon macrobotrys;jordan almond;saltbush;westland pine;silver pine;lagarostrobus colensoi;artemisia;coral reef;waterside;mountainside;versant;steep;soil;dirt;

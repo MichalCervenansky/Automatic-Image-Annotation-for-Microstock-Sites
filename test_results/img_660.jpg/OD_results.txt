@@ -1,0 +1,19 @@
+boxes_1.jpg;vehicle:0.3964827
+boxes_2.jpg;auto part:0.3574962
+boxes_3.jpg;window:0.33982325
+boxes_4.jpg;auto part:0.31280017
+boxes_5.jpg;person:0.21479566
+boxes_6.jpg;office supplies:0.19618034
+boxes_7.jpg;poster:0.17912294
+boxes_8.jpg;vehicle:0.14595772
+boxes_9.jpg;mobile phone:0.14001746
+boxes_10.jpg;picture frame:0.125193
+boxes_11.jpg;toy:0.12267874
+boxes_12.jpg;land vehicle:0.116214305
+boxes_13.jpg;person:0.09599564
+boxes_14.jpg;auto part:0.09596037
+boxes_15.jpg;land vehicle:0.09146661
+boxes_16.jpg;building:0.083381616
+boxes_17.jpg;vehicle:0.07372322
+boxes_18.jpg;window:0.058137592
+boxes_19.jpg;picture frame:0.05725847

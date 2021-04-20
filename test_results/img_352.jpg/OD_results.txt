@@ -1,0 +1,20 @@
+boxes_1.jpg;pizza:0.7938442
+boxes_2.jpg;pizza:0.6292992
+boxes_3.jpg;vegetable:0.62359357
+boxes_4.jpg;tomato:0.43575528
+boxes_5.jpg;pizza:0.3926882
+boxes_6.jpg;tomato:0.33604842
+boxes_7.jpg;vegetable:0.29952595
+boxes_8.jpg;taco:0.27314103
+boxes_9.jpg;food:0.26274472
+boxes_10.jpg;salad:0.241808
+boxes_11.jpg;baked goods:0.23147154
+boxes_12.jpg;pizza:0.23113866
+boxes_13.jpg;pizza:0.18756352
+boxes_14.jpg;fast food:0.15891588
+boxes_15.jpg;baked goods:0.13572647
+boxes_16.jpg;vegetable:0.080084614
+boxes_17.jpg;vegetable:0.07454954
+boxes_18.jpg;pizza:0.064255804
+boxes_19.jpg;baked goods:0.054483503
+boxes_20.jpg;pizza:0.051154867

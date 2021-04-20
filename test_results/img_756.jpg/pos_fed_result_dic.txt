@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;waterfalls;near;blagaj;bosna;hercegovina;
+from_object_detection:house;tree;plant;window;building;
+from_image_classification:arroyo;riverbank;riverside;waterwheel;water wheel;mountainside;versant;negative;precipice;ridge;steep;telpherage;telferage;reed;hillside;window;messuage;stony coral;madrepore;madriporian coral;milldam;bluff;philatelist;stamp collector;geological formation;formation;adit;print;watercourse;descent;declivity;fall;decline;declination;declension;downslope;gorge;bayberry;bay-rum tree;jamaica bayberry;wild cinnamon;pimenta acris;branch water;ascent;acclivity;rise;raise;climb;upgrade;smoke screen;smokescreen;hot spring;thermal spring;polar glacier;shore;riverbed;river bottom;riparian forest;mineral water;snowdrift;

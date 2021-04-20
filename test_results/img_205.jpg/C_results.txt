@@ -1,0 +1,16 @@
+boxes_1.jpg;burial chamber,sepulcher,sepulchre,sepulture:0.4975467920303345;hole-in-the-wall:0.1688583642244339;stele,stela:0.10841420292854309;
+boxes_10.jpg;burial chamber,sepulcher,sepulchre,sepulture:0.6802228093147278;stele,stela:0.13598385453224182;
+boxes_11.jpg;verdigris:0.20880551636219025;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10103544592857361;marbleization,marbleisation,marbleizing,marbleising:0.05450165271759033;
+boxes_12.jpg;verdigris:0.49987849593162537;shore:0.05958286672830582;
+boxes_13.jpg;
+boxes_14.jpg;ice,water ice:0.18047776818275452;
+boxes_15.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.059846941381692886;
+boxes_2.jpg;
+boxes_3.jpg;precipice:0.07814127951860428;cliff,drop,drop-off:0.06874352693557739;bell tower:0.055587444454431534;
+boxes_4.jpg;cliff,drop,drop-off:0.23162758350372314;precipice:0.18765079975128174;
+boxes_5.jpg;
+boxes_6.jpg;glacier:0.18367965519428253;polar glacier:0.12423232197761536;ascent,acclivity,rise,raise,climb,upgrade:0.07038100808858871;Alpine glacier,Alpine type of glacier:0.061567384749650955;
+boxes_7.jpg;verdigris:0.692581832408905;
+boxes_8.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.14426900446414948;verdigris:0.08911974728107452;
+boxes_9.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1917625069618225;shore:0.13559508323669434;glacier:0.10804184526205063;
+img_205.jpg;burial chamber,sepulcher,sepulchre,sepulture:0.38776832818984985;stele,stela:0.22630685567855835;post and lintel:0.10774140805006027;

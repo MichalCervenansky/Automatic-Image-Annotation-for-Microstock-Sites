@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;croatia;
+from_object_detection:fish;animal;squid;invertebrate;marine invertebrates;
+from_image_classification:octopus;devilfish;atlantic salmon;salmo salar;

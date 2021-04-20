@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;rare;colorful;sea;slug;elysia;crispata;;
+from_object_detection:marine invertebrates;invertebrate;plant;
+from_image_classification:sea slug;nudibranch;benthos;benthic division;benthonic zone;hydrozoan;hydroid;plastic wrap;jellyfish;angel's trumpet;brugmansia suaveolens;datura suaveolens;negative;sea anemone;anemone;black grouse;nitrate bacterium;nitric bacterium;cell;ciliate;ciliated protozoan;ciliophoran;coral reef;sea mouse;moneran;moneron;sea fan;reef;trawl;trawl line;spiller;setline;trotline;seagrass;dragnet;trawl net;

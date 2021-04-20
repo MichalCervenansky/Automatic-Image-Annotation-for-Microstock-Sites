@@ -1,0 +1,3 @@
+from_image_IPTC:moon;still;visible;bright;daylight;
+from_object_detection:jellyfish;
+from_image_classification:background;desktop;screen background;

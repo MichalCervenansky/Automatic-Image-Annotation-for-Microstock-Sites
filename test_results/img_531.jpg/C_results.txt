@@ -1,0 +1,13 @@
+boxes_1.jpg;purple,purpleness:0.6609869599342346;peony,paeony:0.09004967659711838;
+boxes_10.jpg;purple,purpleness:0.9048953652381897;
+boxes_11.jpg;purple,purpleness:0.6376151442527771;carnation:0.07772096991539001;
+boxes_12.jpg;musk mallow,mus rose,Malva moschata:0.18515583872795105;cotton rose,Confederate rose,Confederate rose mallow,Hibiscus mutabilis:0.08897007256746292;abelmosk,musk mallow,Abelmoschus moschatus,Hibiscus moschatus:0.07417304813861847;white-leaved rockrose,Cistus albidus:0.052089884877204895;rose mallow,swamp mallow,common rose mallow,swamp rose mallow,Hibiscus moscheutos:0.05083805322647095;
+boxes_2.jpg;purple,purpleness:0.5569214224815369;carnation:0.06617727130651474;
+boxes_3.jpg;musk mallow,mus rose,Malva moschata:0.09137865900993347;opium poppy,Papaver somniferum:0.07026366889476776;mosquito net:0.06150259077548981;corn cockle,corn campion,crown-of-the-field,Agrostemma githago:0.05866216495633125;
+boxes_4.jpg;purple,purpleness:0.3067752718925476;peony,paeony:0.1141672432422638;
+boxes_5.jpg;purple,purpleness:0.6679880023002625;
+boxes_6.jpg;purple,purpleness:0.5821385383605957;peony,paeony:0.19095632433891296;
+boxes_7.jpg;peony,paeony:0.3312435448169708;purple,purpleness:0.2025539129972458;flower:0.09051062166690826;
+boxes_8.jpg;purple,purpleness:0.11144216358661652;white-leaved rockrose,Cistus albidus:0.1009020283818245;
+boxes_9.jpg;peony,paeony:0.2915300130844116;beardless iris:0.1151583343744278;Japanese pink,Dianthus chinensis heddewigii:0.07670226693153381;Japanese iris,Iris kaempferi:0.05044940486550331;
+img_531.jpg;purple,purpleness:0.6958872079849243;carnation:0.09843151271343231;

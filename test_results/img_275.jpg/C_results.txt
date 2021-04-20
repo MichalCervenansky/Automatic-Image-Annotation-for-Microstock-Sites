@@ -1,0 +1,4 @@
+boxes_1.jpg;rabbit,coney,cony:0.435489684343338;lapin:0.1588667631149292;lagomorph,gnawing mammal:0.14018508791923523;bunny,bunny rabbit:0.06793508678674698;European rabbit,Old World rabbit,Oryctolagus cuniculus:0.05739115923643112;
+boxes_2.jpg;rabbit,coney,cony:0.5033951997756958;lapin:0.1844576597213745;lagomorph,gnawing mammal:0.08557382971048355;bunny,bunny rabbit:0.07121547311544418;
+boxes_3.jpg;rabbit,coney,cony:0.48673877120018005;lapin:0.17132355272769928;lagomorph,gnawing mammal:0.10185927897691727;bunny,bunny rabbit:0.07198022305965424;
+img_275.jpg;lapin:0.31591692566871643;lagomorph,gnawing mammal:0.1428290456533432;European rabbit,Old World rabbit,Oryctolagus cuniculus:0.13778899610042572;bunny,bunny rabbit:0.10683194547891617;rabbit,coney,cony:0.09725113958120346;rabbit ears:0.06573256850242615;

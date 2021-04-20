@@ -1,0 +1,6 @@
+boxes_1.jpg;rabbit:0.89216506
+boxes_2.jpg;cat:0.5421023
+boxes_3.jpg;squirrel:0.4105457
+boxes_4.jpg;dog:0.32310072
+boxes_5.jpg;carnivore:0.19504513
+boxes_6.jpg;mouse:0.181201

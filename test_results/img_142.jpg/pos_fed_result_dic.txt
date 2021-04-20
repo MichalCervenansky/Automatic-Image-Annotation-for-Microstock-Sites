@@ -1,0 +1,3 @@
+from_image_IPTC:night;landscape;moon;reflection;sea;hvar;
+from_object_detection:boat;tree;vehicle;street light;canoe;
+from_image_classification:anchor;ground tackle;small boat;shipwreck;wreck;lateen;lateen sail;sailboat;sailing boat;dugout canoe;dugout;pirogue;canoe;birchbark canoe;birchbark;birch bark;kayak;littoral;litoral;littoral zone;sands;denture;dental plate;plate;prosthesis;prosthetic device;capacitor;capacitance;condenser;electrical condenser;light-emitting diode;led;smoke screen;smokescreen;seashore;coast;seacoast;sea-coast;beach;shore;promontory;headland;head;foreland;sea boat;surf casting;surf fishing;aura;aureole;halo;nimbus;glory;gloriole;parhelion;mock sun;sundog;glint;ketch;outfall;

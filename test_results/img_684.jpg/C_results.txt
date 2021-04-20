@@ -1,0 +1,8 @@
+boxes_1.jpg;young fish:0.2902260422706604;minnow,Phoxinus phoxinus:0.28334254026412964;
+boxes_2.jpg;great barracuda,Sphyraena barracuda:0.21920481324195862;porcupinefish,porcupine fish,Diodon hystrix:0.08185459673404694;lizardfish,snakefish,snake-fish:0.07442934811115265;
+boxes_3.jpg;sea slug,nudibranch:0.08167511969804764;
+boxes_4.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.0859442874789238;
+boxes_5.jpg;gudgeon,Gobio gobio:0.05455148592591286;
+boxes_6.jpg;tunicate,urochordate,urochord:0.18882593512535095;sea hare,Aplysia punctata:0.05209190398454666;
+boxes_7.jpg;pulsar:0.46542707085609436;supernova:0.05813057720661163;
+img_684.jpg;young fish:0.2193068414926529;gudgeon,Gobio gobio:0.093289814889431;pollack,pollock,Pollachius pollachius:0.052068114280700684;

@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;rohace;slovak;republic;
+from_object_detection:tree;plant;
+from_image_classification:ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;angel shark;angelfish;squatina squatina;monkfish;strand;stony coral;madrepore;madriporian coral;sea squirt;arete;talus;scree;ben;polar glacier;cirque;corrie;cwm;ridge;ledge;shelf;mountainside;versant;shore;atoll;seashore;coast;seacoast;sea-coast;sandbar;sand bar;bank;foothill;alpine glacier;alpine type of glacier;drumlin;lakeside;lakeshore;waterside;riverbank;riverside;meander;negative;coral reef;barrier reef;

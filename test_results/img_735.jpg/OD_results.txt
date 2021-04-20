@@ -1,0 +1,24 @@
+boxes_1.jpg;marine invertebrates:0.85867316
+boxes_2.jpg;marine invertebrates:0.82623136
+boxes_3.jpg;marine invertebrates:0.5835781
+boxes_4.jpg;marine invertebrates:0.385633
+boxes_5.jpg;marine invertebrates:0.34596404
+boxes_6.jpg;marine invertebrates:0.3421101
+boxes_7.jpg;marine invertebrates:0.2562691
+boxes_8.jpg;plant:0.19375777
+boxes_9.jpg;marine invertebrates:0.17887415
+boxes_10.jpg;marine invertebrates:0.14899497
+boxes_11.jpg;marine invertebrates:0.14448766
+boxes_12.jpg;marine invertebrates:0.13335733
+boxes_13.jpg;marine invertebrates:0.116755545
+boxes_14.jpg;marine invertebrates:0.10133025
+boxes_15.jpg;plant:0.09999034
+boxes_16.jpg;marine invertebrates:0.09331529
+boxes_17.jpg;marine invertebrates:0.092832446
+boxes_18.jpg;marine invertebrates:0.07706401
+boxes_19.jpg;animal:0.07542545
+boxes_20.jpg;marine invertebrates:0.07353136
+boxes_21.jpg;fruit:0.06661486
+boxes_22.jpg;marine invertebrates:0.060178075
+boxes_23.jpg;marine invertebrates:0.059318732
+boxes_24.jpg;marine invertebrates:0.059031352

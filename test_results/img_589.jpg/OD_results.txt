@@ -1,0 +1,4 @@
+boxes_1.jpg;laptop:0.72825265
+boxes_2.jpg;box:0.6641719
+boxes_3.jpg;mobile phone:0.4917632
+boxes_4.jpg;tablet computer:0.06225692

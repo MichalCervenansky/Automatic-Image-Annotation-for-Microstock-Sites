@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ripe;red;apple;tree;;
+from_object_detection:apple;tree;maple;fruit;
+from_image_classification:empire;delicious;pearmain;ovoid;common plum;prunus domestica;damson plum;damson plum tree;prunus domestica insititia;freestone;plum;apple;orchard apple tree;malus pumila;negative;

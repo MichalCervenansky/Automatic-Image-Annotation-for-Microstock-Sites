@@ -1,0 +1,16 @@
+boxes_1.jpg;sculpture:0.4076940715312958;negative:0.21133458614349365;sculptor,sculpturer,carver,statue maker:0.11796014755964279;silverpoint:0.05035011097788811;
+boxes_10.jpg;sculpture:0.5102103352546692;sculptor,sculpturer,carver,statue maker:0.0733029916882515;verdigris:0.07287474721670151;negative:0.06904284656047821;
+boxes_11.jpg;sculpture:0.4964892566204071;sculptor,sculpturer,carver,statue maker:0.211701437830925;socle:0.13403311371803284;
+boxes_12.jpg;
+boxes_13.jpg;negative:0.40387052297592163;sculpture:0.14608870446681976;soapsuds,suds,lather:0.05596077814698219;
+boxes_14.jpg;sculpture:0.2863679528236389;socle:0.2580253779888153;gray,grayness,grey,greyness:0.07381674647331238;sculptor,sculpturer,carver,statue maker:0.0717325508594513;
+boxes_15.jpg;sculpture:0.6100941896438599;sculptor,sculpturer,carver,statue maker:0.2117324322462082;socle:0.08035629242658615;
+boxes_2.jpg;sculpture:0.518457293510437;socle:0.2616187036037445;sculptor,sculpturer,carver,statue maker:0.0957651436328888;
+boxes_3.jpg;gray,grayness,grey,greyness:0.37327811121940613;sculptor,sculpturer,carver,statue maker:0.07721056044101715;artifact,artefact:0.05531619116663933;
+boxes_4.jpg;sculpture:0.650687575340271;sculptor,sculpturer,carver,statue maker:0.16596147418022156;socle:0.08533177524805069;
+boxes_5.jpg;gray,grayness,grey,greyness:0.22036969661712646;inkstand:0.07931198924779892;socle:0.07492713630199432;
+boxes_6.jpg;sculpture:0.20054137706756592;breastplate,aegis,egis:0.1259862184524536;masterpiece,chef-d'oeuvre:0.08581142872571945;sculptor,sculpturer,carver,statue maker:0.06495539844036102;
+boxes_7.jpg;sculpture:0.6474266648292542;socle:0.236660435795784;
+boxes_8.jpg;sculpture:0.4551791846752167;socle:0.18889328837394714;sculptor,sculpturer,carver,statue maker:0.1487174779176712;
+boxes_9.jpg;gray,grayness,grey,greyness:0.13134349882602692;inkstand:0.12531150877475739;artifact,artefact:0.06239916384220123;inkwell,inkstand:0.05988176167011261;sculptor,sculpturer,carver,statue maker:0.050747085362672806;
+img_157.jpg;sculpture:0.1806866079568863;socle:0.1670427918434143;masterpiece,chef-d'oeuvre:0.08777132630348206;coffer:0.08533181995153427;gray,grayness,grey,greyness:0.06060127168893814;memorial,monument:0.058590129017829895;

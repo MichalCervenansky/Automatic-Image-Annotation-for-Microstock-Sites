@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;womens;girl;lips;
+from_object_detection:human face;person;man;human hand;cosmetics;human mouth;
+from_image_classification:background;desktop;screen background;lip;ice;water ice;peach bells;peach bell;willow bell;campanula persicifolia;squill;contact;contact lens;organza;

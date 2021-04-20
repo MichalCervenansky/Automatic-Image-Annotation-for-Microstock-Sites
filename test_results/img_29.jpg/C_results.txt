@@ -1,0 +1,13 @@
+boxes_1.jpg;Barberton daisy,Transvaal daisy,Gerbera jamesonii:0.2626209557056427;Swan River daisy,Brachycome Iberidifolia:0.1854163557291031;blue daisy,blue marguerite,Felicia amelloides:0.09273926913738251;
+boxes_10.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.072748564183712;
+boxes_11.jpg;honeybee,Apis mellifera:0.07083101570606232;caterpillar:0.061753787100315094;
+boxes_12.jpg;
+boxes_2.jpg;ichneumon fly:0.061616960912942886;digger wasp:0.05242476239800453;
+boxes_3.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.2924480438232422;kangaroo paw,kangaroo's paw,kangaroo's-foot,kangaroo-foot plant,Australian sword lily,Anigozanthus manglesii:0.11069349944591522;
+boxes_4.jpg;alfalfa:0.06399945169687271;wild pea:0.060600973665714264;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.1476311981678009;
+boxes_8.jpg;negative:0.07915661484003067;mealybug,mealy bug:0.06961442530155182;
+boxes_9.jpg;tendril:0.4207276403903961;sweet scabious,pincushion flower,mournful widow,Scabiosa atropurpurea:0.1554941087961197;
+img_29.jpg;blue daisy,blue marguerite,Felicia amelloides:0.15465089678764343;daisy:0.11947961896657944;Barberton daisy,Transvaal daisy,Gerbera jamesonii:0.08617335557937622;

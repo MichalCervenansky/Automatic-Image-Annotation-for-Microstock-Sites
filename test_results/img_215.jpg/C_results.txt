@@ -1,0 +1,14 @@
+boxes_1.jpg;ant,emmet,pismire:0.40496450662612915;leaf-cutting bee,leaf-cutter,leaf-cutter bee:0.17503951489925385;sanguinary ant,Formica sanguinea:0.05050351098179817;
+boxes_10.jpg;ant,emmet,pismire:0.49234941601753235;army ant,driver ant,legionary ant:0.1731567531824112;sanguinary ant,Formica sanguinea:0.0795058161020279;
+boxes_11.jpg;fire ant:0.10567335784435272;sanguinary ant,Formica sanguinea:0.09436234831809998;ant,emmet,pismire:0.06295368075370789;
+boxes_12.jpg;ant,emmet,pismire:0.6513261795043945;sanguinary ant,Formica sanguinea:0.05430645868182182;
+boxes_13.jpg;ant,emmet,pismire:0.42920199036598206;army ant,driver ant,legionary ant:0.18189637362957;leaf-cutting bee,leaf-cutter,leaf-cutter bee:0.09977103769779205;doodlebug,ant lion,antlion:0.08228954672813416;
+boxes_2.jpg;ant,emmet,pismire:0.7323647737503052;citrus mealybug,Planococcus citri:0.051188673824071884;
+boxes_3.jpg;mucor:0.7289459109306335;
+boxes_4.jpg;ant,emmet,pismire:0.6121350526809692;army ant,driver ant,legionary ant:0.13012941181659698;leaf-cutting bee,leaf-cutter,leaf-cutter bee:0.06013418361544609;
+boxes_5.jpg;ant,emmet,pismire:0.7151135802268982;sanguinary ant,Formica sanguinea:0.07893825322389603;leaf-cutting bee,leaf-cutter,leaf-cutter bee:0.05159621685743332;
+boxes_6.jpg;geological formation,formation:0.12573911249637604;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10415568202733994;
+boxes_7.jpg;ant,emmet,pismire:0.7946091890335083;
+boxes_8.jpg;ant,emmet,pismire:0.22847463190555573;black widow,Latrodectus mactans:0.12455129623413086;sanguinary ant,Formica sanguinea:0.12224597483873367;cobweb:0.11822375655174255;comb-footed spider,theridiid:0.08677680790424347;Formica fusca:0.052817635238170624;
+boxes_9.jpg;ant,emmet,pismire:0.4345228970050812;
+img_215.jpg;ant,emmet,pismire:0.649223804473877;army ant,driver ant,legionary ant:0.11859690397977829;sanguinary ant,Formica sanguinea:0.07963503897190094;

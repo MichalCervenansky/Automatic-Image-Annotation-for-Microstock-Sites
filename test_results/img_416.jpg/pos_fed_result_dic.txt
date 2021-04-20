@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;rohace;slovak;republic;
+from_object_detection:plant;
+from_image_classification:glacier;alpine glacier;alpine type of glacier;talus;scree;polar glacier;

@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;white;flower;turkey;mountains;
+from_object_detection:flower;tree;
+from_image_classification:streptocarpus;stephanotis;water violet;hottonia palustris;common lilac;syringa vulgaris;virginia bluebell;virginia cowslip;mertensia virginica;squill;fig marigold;pebble plant;grape hyacinth;tassel hyacinth;muscari comosum;plumbago;negative;cape primrose;

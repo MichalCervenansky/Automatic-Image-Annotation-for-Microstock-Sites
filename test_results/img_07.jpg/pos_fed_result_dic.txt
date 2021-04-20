@@ -1,0 +1,3 @@
+from_image_IPTC:deep;footmarks;footsteps;freezing;snow;
+from_object_detection:human face;human head;footwear;person;snowboard;
+from_image_classification:alabaster;corbel;truss;snowdrift;igloo;iglu;spoor;silverpoint;imprint;

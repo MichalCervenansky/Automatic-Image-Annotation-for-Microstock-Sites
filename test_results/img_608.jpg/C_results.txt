@@ -1,0 +1,15 @@
+boxes_1.jpg;pullet:0.8136365413665771;brood hen,broody,broody hen,setting hen,sitter:0.063243567943573;
+boxes_10.jpg;black wattle,Acacia auriculiformis:0.28451773524284363;looking glass tree,Heritiera macrophylla:0.09264837950468063;
+boxes_11.jpg;windowsill:0.1552017629146576;casing,case:0.06805691123008728;
+boxes_12.jpg;muntjac,barking deer:0.06263624131679535;
+boxes_13.jpg;organdy,organdie:0.07522851228713989;cold frame:0.07245437055826187;
+boxes_14.jpg;
+boxes_2.jpg;pullet:0.6395606994628906;
+boxes_3.jpg;aviary,bird sanctuary,volary:0.7604402899742126;
+boxes_4.jpg;windowsill:0.06252814084291458;
+boxes_5.jpg;black wattle,Acacia auriculiformis:0.11099157482385635;golden fig,Florida strangler fig,strangler fig,wild fig,Ficus aurea:0.06704739481210709;
+boxes_6.jpg;chicken yard,hen yard,chicken run,fowl run:0.3722422420978546;pullet:0.26278722286224365;Plymouth Rock:0.058075305074453354;
+boxes_7.jpg;pullet:0.8122884631156921;
+boxes_8.jpg;pullet:0.2820427417755127;game fowl:0.10168732702732086;rhea,nandu,Pterocnemia pennata:0.09932951629161835;
+boxes_9.jpg;aviary,bird sanctuary,volary:0.3088195025920868;
+img_608.jpg;pullet:0.8050305843353271;chicken yard,hen yard,chicken run,fowl run:0.0644201785326004;

@@ -1,0 +1,3 @@
+from_image_IPTC:bark;ancient;three;shot;forest;czech;republic;holiday;black;white;
+from_object_detection:tree;
+from_image_classification:gray;grayness;grey;greyness;soil horizon;cliff;drop;drop-off;inclined fault;marbleization;marbleisation;marbleizing;marbleising;adit;descent;declivity;fall;decline;declination;declension;downslope;precipice;

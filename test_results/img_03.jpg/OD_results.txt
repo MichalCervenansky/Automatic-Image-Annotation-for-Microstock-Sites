@@ -1,0 +1,17 @@
+boxes_1.jpg;tree:0.91822624
+boxes_2.jpg;tree:0.88446486
+boxes_3.jpg;tree:0.84558773
+boxes_4.jpg;tree:0.6150165
+boxes_5.jpg;tree:0.599182
+boxes_6.jpg;tree:0.59910816
+boxes_7.jpg;tree:0.5717959
+boxes_8.jpg;tree:0.4872603
+boxes_9.jpg;tree:0.30620146
+boxes_10.jpg;tree:0.2937087
+boxes_11.jpg;tree:0.2529181
+boxes_12.jpg;tree:0.16148767
+boxes_13.jpg;tree:0.11229163
+boxes_14.jpg;plant:0.10950983
+boxes_15.jpg;tree:0.10625785
+boxes_16.jpg;plant:0.097026564
+boxes_17.jpg;plant:0.058660705

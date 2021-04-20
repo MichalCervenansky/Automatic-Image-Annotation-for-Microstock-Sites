@@ -1,0 +1,3 @@
+from_image_IPTC:mixed;pizza;vegetables;sea;creatures;mushrooms;olives;italy;
+from_object_detection:pizza;vegetable;tomato;taco;food;salad;baked goods;fast food;
+from_image_classification:dish;toilet seat;pentagon;ultramarine;blue;blueness;easter egg;giant clam;tridacna gigas;jello;jell-o;tunicate;urochordate;urochord;sea squirt;cell;

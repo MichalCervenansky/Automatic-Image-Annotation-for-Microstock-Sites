@@ -1,0 +1,9 @@
+boxes_1.jpg;parachute,chute:0.08266056329011917;drogue,drogue chute,drogue parachute:0.06576785445213318;bass drum,gran casa:0.06102953106164932;bathing cap,swimming cap:0.058163680136203766;
+boxes_2.jpg;sport kite,stunt kite:0.7730812430381775;parasail:0.09712734818458557;
+boxes_3.jpg;band:0.2716617286205292;bracteole,bractlet:0.19809910655021667;
+boxes_4.jpg;bottle-nosed whale,bottlenose whale,bottlenose,Hyperoodon ampullatus:0.0606769435107708;
+boxes_5.jpg;snowboard:0.18417805433273315;parachute,chute:0.12401752173900604;parasail:0.07345149666070938;drogue,drogue chute,drogue parachute:0.0612710677087307;
+boxes_6.jpg;sport kite,stunt kite:0.3981436789035797;water sport,aquatics:0.2057342827320099;parasail:0.1511390507221222;aquaplane:0.07926331460475922;
+boxes_7.jpg;sport kite,stunt kite:0.47120174765586853;snowboard:0.22069713473320007;
+boxes_8.jpg;bracteole,bractlet:0.07225564867258072;
+img_935.jpg;parasail:0.26253730058670044;sport kite,stunt kite:0.20759469270706177;surfing,surfboarding,surfriding:0.11723963916301727;seashore,coast,seacoast,sea-coast:0.07011628150939941;water sport,aquatics:0.06310950219631195;

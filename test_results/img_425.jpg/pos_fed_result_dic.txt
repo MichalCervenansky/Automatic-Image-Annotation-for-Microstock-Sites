@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;rohacsky;vodopad;high;tatras;
+from_object_detection:person;clothing;plant;tree;mammal;woman;
+from_image_classification:cliff diving;steep;escarpment;escarp;scarp;protective embankment;descent;declivity;fall;decline;declination;declension;downslope;ascent;acclivity;rise;raise;climb;upgrade;geological formation;formation;spring water;branch water;moneran;moneron;supernova;cell;protozoan;protozoon;rock hyrax;rock rabbit;procavia capensis;green peafowl;pavo muticus;verdigris;green june beetle;figeater;arroyo;gorge;valley;vale;chuckwalla;sauromalus obesus;agama;kea;nestor notabilis;crag;fur seal;cliff;drop;drop-off;monal;monaul;sea lion;guadalupe fur seal;arctocephalus philippi;paramecium;paramecia;endameba;

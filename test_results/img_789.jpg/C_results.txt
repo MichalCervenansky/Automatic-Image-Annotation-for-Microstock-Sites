@@ -1,0 +1,15 @@
+boxes_1.jpg;toothbrush:0.5725803375244141;
+boxes_10.jpg;Aspergillus fumigatus:0.22507211565971375;mucor:0.1595701426267624;negative:0.12558670341968536;rhizopus:0.053238123655319214;
+boxes_11.jpg;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.193034827709198;glasswort,samphire,Salicornia europaea:0.09479449689388275;littoral,litoral,littoral zone,sands:0.059057384729385376;geological formation,formation:0.055824898183345795;
+boxes_12.jpg;
+boxes_13.jpg;ice mass:0.10031811147928238;
+boxes_14.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.7923727035522461;Jordan almond:0.06548679620027542;
+boxes_2.jpg;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.8356145024299622;saltbush:0.06456458568572998;
+boxes_3.jpg;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.338704913854599;saltbush:0.1515161246061325;westland pine,silver pine,Lagarostrobus colensoi:0.0752168670296669;artemisia:0.05811886116862297;
+boxes_4.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.9975080490112305;
+boxes_5.jpg;coral reef:0.34261560440063477;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.15843121707439423;waterside:0.07493321597576141;
+boxes_6.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.9744700789451599;
+boxes_7.jpg;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.4068159759044647;glasswort,samphire,Salicornia europaea:0.13663527369499207;saltbush:0.08222557604312897;
+boxes_8.jpg;mountainside,versant:0.42348650097846985;steep:0.05024993419647217;
+boxes_9.jpg;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.7391634583473206;saltbush:0.0826672688126564;
+img_789.jpg;saltwort,barilla,glasswort,kali,kelpwort,Salsola kali,Salsola soda:0.3224324882030487;soil,dirt:0.18653376400470734;

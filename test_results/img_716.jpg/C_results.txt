@@ -1,0 +1,9 @@
+boxes_1.jpg;starfish,sea star:0.951776385307312;
+boxes_2.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.335510790348053;amphipod:0.1367536336183548;ctenophore,comb jelly:0.050866927951574326;
+boxes_3.jpg;scallop,scollop,escallop:0.19303694367408752;brachiopod,lamp shell,lampshell:0.07745589315891266;Brussels lace:0.055702757090330124;
+boxes_4.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.401443213224411;amphipod:0.10285164415836334;ctenophore,comb jelly:0.06267714500427246;
+boxes_5.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.7017476558685303;ctenophore,comb jelly:0.05063473805785179;
+boxes_6.jpg;scallop,scollop,escallop:0.14692364633083344;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.11977945268154144;common limpet,Patella vulgata:0.07411331683397293;microfossil:0.0664651170372963;ormer,sea-ear,Haliotis tuberculata:0.059698015451431274;
+boxes_7.jpg;
+boxes_8.jpg;scallop,scollop,escallop:0.13030728697776794;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.08447230607271194;microfossil:0.06504834443330765;ormer,sea-ear,Haliotis tuberculata:0.05320635065436363;common limpet,Patella vulgata:0.05279748514294624;
+img_716.jpg;starfish,sea star:0.9954067468643188;

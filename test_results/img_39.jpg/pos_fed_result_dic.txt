@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:building;window;tree;house;clothing;
+from_image_classification:ministry;building;edifice;college;embassy;round arch;guildhall;window;louvered window;jalousie;customhouse;customshouse;quoin;coign;coigne;courthouse;chancellery;establishment;window frame;jobcentre;town hall;portico;church tower;gray;grayness;grey;greyness;

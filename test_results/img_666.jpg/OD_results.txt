@@ -1,0 +1,12 @@
+boxes_1.jpg;window:0.6109752
+boxes_2.jpg;land vehicle:0.4764514
+boxes_3.jpg;window:0.41093028
+boxes_4.jpg;vehicle:0.40083438
+boxes_5.jpg;vehicle:0.17565466
+boxes_6.jpg;building:0.13206923
+boxes_7.jpg;land vehicle:0.1197574
+boxes_8.jpg;poster:0.101109594
+boxes_9.jpg;house:0.092149295
+boxes_10.jpg;window:0.088551
+boxes_11.jpg;building:0.08329918
+boxes_12.jpg;auto part:0.06001588

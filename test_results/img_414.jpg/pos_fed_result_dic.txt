@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ducks;high;mountain;ponds;rohace;
+from_object_detection:duck;goose;
+from_image_classification:wood drake;american merganser;mergus merganser americanus;quack-quack;

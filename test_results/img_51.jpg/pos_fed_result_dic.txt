@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;old;ruins;cachticky;hrad;
+from_object_detection:tree;castle;plant;flower;building;
+from_image_classification:hillside;negative;breaststroker;verdigris;stucco;marbleization;marbleisation;marbleizing;marbleising;pampas grass;cortaderia selloana;sand sage;silvery wormwood;artemisia filifolia;john dory;zeus faber;feather ball;mammillaria plumosa;saltbush;stronghold;fastness;slope;incline;side;mountainside;versant;ascent;acclivity;rise;raise;climb;upgrade;geological formation;formation;ridge;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;

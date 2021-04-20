@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;old;croatian;fishing;village;island;hvar;
+from_object_detection:boat;tree;vehicle;
+from_image_classification:seashore;coast;seacoast;sea-coast;sailboat;sailing boat;boatyard;marina;small boat;boathouse;sewage disposal plant;disposal plant;dip;plunge;waterside;harbor;harbour;ice floe;floe;cabin cruiser;cruiser;pleasure boat;pleasure craft;speedboat;jolly boat;jolly;motorboat;powerboat;pontoon;outboard motorboat;outboard;lockage;dispensary;incubator;brooder;ice mass;shore;littoral;litoral;littoral zone;sands;riverbank;riverside;spume;shoreline;seaside;seaboard;

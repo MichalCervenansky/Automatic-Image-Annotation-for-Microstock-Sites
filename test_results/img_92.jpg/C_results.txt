@@ -1,0 +1,10 @@
+boxes_1.jpg;descent,declivity,fall,decline,declination,declension,downslope:0.35772883892059326;gorge:0.15615135431289673;
+boxes_2.jpg;ice mass:0.2532796263694763;precipice:0.13035905361175537;branch water:0.12407048791646957;
+boxes_3.jpg;
+boxes_4.jpg;ridge:0.09445314109325409;geological formation,formation:0.05114193260669708;
+boxes_5.jpg;
+boxes_6.jpg;Alpine glacier,Alpine type of glacier:0.11593086272478104;polar glacier:0.10154245048761368;glacier:0.07597238570451736;ridge:0.0702979564666748;
+boxes_7.jpg;sprinkler:0.16833318769931793;sprinkler system:0.10956841707229614;
+boxes_8.jpg;geological formation,formation:0.08217545598745346;ridge:0.06454598903656006;
+boxes_9.jpg;
+img_92.jpg;precipice:0.25735342502593994;branch water:0.15392640233039856;geological formation,formation:0.07030010223388672;descent,declivity,fall,decline,declination,declension,downslope:0.05862688645720482;

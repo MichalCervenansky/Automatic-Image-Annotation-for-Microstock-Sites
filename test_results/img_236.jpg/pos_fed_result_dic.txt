@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;tasty;healthy;orange;fruit;
+from_object_detection:orange;banana;grapefruit;pear;lemon;peach;pomegranate;fruit;mango;
+from_image_classification:blue;blueness;lemon;boiled egg;coddled egg;egg;eggs;easter egg;candy egg;purplish blue;royal blue;mesocarp;cell;jawbreaker;gum ball;bocce ball;bocci ball;boccie ball;navel orange;grapefruit;bergamot;bergamot orange;citrus bergamia;ovoid;spherule;jordan almond;candida;marshmallow;ultramarine;ball;vitamin c;c;ascorbic acid;citrus;citrus fruit;citrous fruit;morula;ping-pong ball;vitamin pill;

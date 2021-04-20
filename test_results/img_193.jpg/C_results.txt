@@ -1,0 +1,11 @@
+boxes_1.jpg;ant,emmet,pismire:0.6696567535400391;mucor:0.06758660078048706;army ant,driver ant,legionary ant:0.06698428839445114;
+boxes_10.jpg;ant,emmet,pismire:0.2614273726940155;citrus mealybug,Planococcus citri:0.08718526363372803;
+boxes_2.jpg;mucor:0.3932054042816162;cell:0.10022509843111038;
+boxes_3.jpg;ant,emmet,pismire:0.5489113330841064;fire ant:0.10996891558170319;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;ant,emmet,pismire:0.4353589117527008;fire ant:0.08111867308616638;myrmecophile:0.07704046368598938;sanguinary ant,Formica sanguinea:0.06065824627876282;
+boxes_7.jpg;ant,emmet,pismire:0.05867131054401398;Mediterranean fruit fly,medfly,Ceratitis capitata:0.05459430813789368;
+boxes_8.jpg;ant,emmet,pismire:0.3820303976535797;myrmecophile:0.15010328590869904;fire ant:0.13488353788852692;army ant,driver ant,legionary ant:0.056362658739089966;
+boxes_9.jpg;ant,emmet,pismire:0.6507421135902405;
+img_193.jpg;sinkhole,sink,swallow hole:0.7605159282684326;pothole,chuckhole:0.05541417375206947;

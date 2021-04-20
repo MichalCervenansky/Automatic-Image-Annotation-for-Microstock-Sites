@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;plant;
+from_image_classification:sea anemone;anemone;benthos;benthic division;benthonic zone;myxobacteria;myxobacterium;myxobacter;gliding bacteria;slime bacteria;ciliate;ciliated protozoan;ciliophoran;sea urchin;microorganism;micro-organism;

@@ -1,0 +1,8 @@
+boxes_1.jpg;food:0.8219009
+boxes_2.jpg;food:0.69777
+boxes_3.jpg;taco:0.37680325
+boxes_4.jpg;food:0.16336563
+boxes_5.jpg;fast food:0.12609269
+boxes_6.jpg;vegetable:0.122567594
+boxes_7.jpg;burrito:0.115224294
+boxes_8.jpg;seafood:0.06205628

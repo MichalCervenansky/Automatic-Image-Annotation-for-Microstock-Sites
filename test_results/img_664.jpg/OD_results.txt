@@ -1,0 +1,2 @@
+boxes_1.jpg;bird:0.17404662
+boxes_2.jpg;kite:0.12825148

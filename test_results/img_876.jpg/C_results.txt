@@ -1,0 +1,7 @@
+boxes_1.jpg;superhighway,information superhighway:0.24880529940128326;windshield,windscreen:0.11830095201730728;line:0.1034058928489685;autostrada:0.05767081677913666;divided highway,dual carriageway:0.05635140463709831;autobahn:0.05535636469721794;
+boxes_2.jpg;superhighway,information superhighway:0.24636127054691315;divided highway,dual carriageway:0.15862272679805756;carriageway:0.08099538087844849;line:0.07279117405414581;autobahn:0.0565032884478569;
+boxes_3.jpg;superhighway,information superhighway:0.3457322120666504;divided highway,dual carriageway:0.13412311673164368;carriageway:0.10725346207618713;
+boxes_4.jpg;superhighway,information superhighway:0.21166767179965973;line:0.09781289845705032;carriageway:0.09241239726543427;divided highway,dual carriageway:0.07689636200666428;autobahn:0.07180940359830856;autostrada:0.0503300242125988;
+boxes_5.jpg;superhighway,information superhighway:0.39987635612487793;divided highway,dual carriageway:0.18402673304080963;windshield,windscreen:0.09063363820314407;autobahn:0.08758925646543503;autostrada:0.07450717687606812;
+boxes_6.jpg;superhighway,information superhighway:0.3475181758403778;divided highway,dual carriageway:0.11359146237373352;autobahn:0.09086785465478897;windshield,windscreen:0.08876176923513412;autostrada:0.07653804123401642;
+img_876.jpg;line:0.3146909475326538;carriageway:0.11311738193035126;superhighway,information superhighway:0.061807338148355484;divided highway,dual carriageway:0.05106641352176666;

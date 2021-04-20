@@ -1,0 +1,15 @@
+boxes_1.jpg;cuttlefish,cuttle:0.2599777281284332;stonefish,Synanceja verrucosa:0.17867490649223328;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10910992324352264;ormer,sea-ear,Haliotis tuberculata:0.058582134544849396;
+boxes_10.jpg;cuttlefish,cuttle:0.3119344115257263;electric ray,crampfish,numbfish,torpedo:0.16208970546722412;sea hare,Aplysia punctata:0.05476752668619156;butterfly ray:0.05274047330021858;
+boxes_11.jpg;cell:0.1120700091123581;supernova:0.06893768906593323;nitrate bacterium,nitric bacterium:0.060599423944950104;ameba,amoeba:0.059507548809051514;pulsar:0.05360203608870506;
+boxes_12.jpg;stonefish,Synanceja verrucosa:0.15265265107154846;benthos,benthic division,benthonic zone:0.13519330322742462;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06510630249977112;
+boxes_13.jpg;cell:0.1140354573726654;Portuguese man-of-war,man-of-war,jellyfish:0.1121486946940422;nitrate bacterium,nitric bacterium:0.0698130801320076;neutrophil,neutrophile:0.058779217302799225;sporozoan:0.05596558749675751;endameba:0.055957406759262085;
+boxes_14.jpg;
+boxes_2.jpg;conger,conger eel:0.5722865462303162;electric ray,crampfish,numbfish,torpedo:0.1686549186706543;
+boxes_3.jpg;cuttlefish,cuttle:0.9692473411560059;
+boxes_4.jpg;porcupinefish,porcupine fish,Diodon hystrix:0.06734612584114075;stonefish,Synanceja verrucosa:0.06155700981616974;jawfish:0.05570187792181969;
+boxes_5.jpg;cuttlefish,cuttle:0.6351506114006042;
+boxes_6.jpg;shrimpfish,shrimp-fish:0.0699116587638855;
+boxes_7.jpg;conger,conger eel:0.6506015658378601;gunnel,bracketed blenny:0.05442583188414574;
+boxes_8.jpg;needlefish,gar,billfish:0.062380727380514145;
+boxes_9.jpg;cuttlefish,cuttle:0.215590700507164;stonefish,Synanceja verrucosa:0.21084344387054443;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.15700457990169525;
+img_708.jpg;cuttlefish,cuttle:0.9332447648048401;

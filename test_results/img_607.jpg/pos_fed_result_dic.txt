@@ -1,0 +1,3 @@
+from_image_IPTC:castle;palace;beautiful;green;garden;england;great;britain;
+from_object_detection:building;castle;house;window;tree;
+from_image_classification:quad;quadrangle;quoin;coign;coigne;college;forecourt;guildhall;hall of residence;frieze;lancet window;lancet arch;lancet;ogee arch;keel arch;rood screen;sash;window sash;storm window;storm sash;casement;double-hung window;transom;transom window;fanlight;window frame;window;dormer window;casing;case;palace;

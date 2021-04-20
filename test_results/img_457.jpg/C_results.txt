@@ -1,0 +1,12 @@
+boxes_1.jpg;lark:0.09959441423416138;roller:0.07374193519353867;wood swallow,swallow shrike:0.07183057814836502;pitta:0.07136505097150803;bush shrike:0.06385008245706558;
+boxes_10.jpg;spruce grouse,Canachites canadensis:0.14567451179027557;blackbird,merl,merle,ouzel,ousel,European blackbird,Turdus merula:0.06659124791622162;crossbill,Loxia curvirostra:0.06360138952732086;
+boxes_11.jpg;hawfinch,Coccothraustes coccothraustes:0.3127268850803375;pitta:0.26526981592178345;roller:0.06538918614387512;
+boxes_2.jpg;blackpoll,Dendroica striate:0.20389005541801453;Old World warbler,true warbler:0.09087274968624115;warbler:0.05520337074995041;honeycreeper:0.054953403770923615;indigo bunting,indigo finch,indigo bird,Passerina cyanea:0.05123145505785942;
+boxes_3.jpg;hawfinch,Coccothraustes coccothraustes:0.18894816935062408;pitta:0.14503885805606842;
+boxes_4.jpg;pitta:0.36624059081077576;hawfinch,Coccothraustes coccothraustes:0.09240925312042236;
+boxes_5.jpg;pitta:0.09946733713150024;bush shrike:0.07750485092401505;oscine,oscine bird:0.07730719447135925;wood swallow,swallow shrike:0.06972309947013855;
+boxes_6.jpg;manakin:0.08451047539710999;chipping sparrow,Spizella passerina:0.07226362079381943;dickeybird,dickey-bird,dickybird,dicky-bird:0.055021993815898895;
+boxes_7.jpg;hawfinch,Coccothraustes coccothraustes:0.1792190819978714;pitta:0.1293790638446808;wood swallow,swallow shrike:0.07575768977403641;
+boxes_8.jpg;pitta:0.376522034406662;roller:0.06823211163282394;European roller,Coracias garrulus:0.053759727627038956;
+boxes_9.jpg;pitta:0.12190642207860947;chipping sparrow,Spizella passerina:0.07692068815231323;manakin:0.06615356355905533;wood swallow,swallow shrike:0.05098821222782135;blackpoll,Dendroica striate:0.05037849023938179;
+img_457.jpg;hawfinch,Coccothraustes coccothraustes:0.1351485252380371;bobolink,ricebird,reedbird,Dolichonyx oryzivorus:0.11077021062374115;dickeybird,dickey-bird,dickybird,dicky-bird:0.10672707855701447;broadbill:0.051245082169771194;

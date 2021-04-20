@@ -1,0 +1,4 @@
+boxes_1.jpg;thistledown:0.8623540997505188;dandelion green:0.0943726897239685;
+boxes_2.jpg;dandelion green:0.7239470481872559;thistledown:0.20048272609710693;
+boxes_3.jpg;dandelion green:0.6196343302726746;thistledown:0.3106679916381836;
+img_395.jpg;dandelion green:0.5668684244155884;thistledown:0.4174190163612366;

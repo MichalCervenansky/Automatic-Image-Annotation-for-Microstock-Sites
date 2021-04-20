@@ -1,0 +1,3 @@
+from_image_IPTC:palace;versailles;fountain;
+from_object_detection:tree;building;palm tree;castle;house;
+from_image_classification:rendering;manor;manor house;palace;castle;stately home;chateau;girandole;girandola;socle;verdigris;gatepost;waterfront;skating;palmyra;palmyra palm;toddy palm;wine palm;lontar;longar palm;borassus flabellifer;topiary;lakefront;waterside;

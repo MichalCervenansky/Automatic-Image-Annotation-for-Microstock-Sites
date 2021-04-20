@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;panorama;paris;eifell;tower;
+from_object_detection:tower;tree;
+from_image_classification:tower;supporting tower;weathercock;vane;memorial;monument;hill;pinnacle;church tower;bell gable;lookout;observation tower;lookout station;observatory;windmill;refinery;blue;blueness;outfall;oil refinery;petroleum refinery;

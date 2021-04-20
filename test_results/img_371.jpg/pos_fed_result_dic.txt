@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;water;drop;hitting;level;
+from_object_detection:rays and skates;sink;fountain;tableware;toilet;vehicle;swimming pool;car;plate;mammal;
+from_image_classification:water;plughole;drinking water;

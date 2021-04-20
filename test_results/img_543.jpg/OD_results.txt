@@ -1,0 +1,12 @@
+boxes_1.jpg;stairs:0.98404515
+boxes_2.jpg;stairs:0.8309814
+boxes_3.jpg;stairs:0.44806623
+boxes_4.jpg;stairs:0.3780829
+boxes_5.jpg;stairs:0.2894922
+boxes_6.jpg;stairs:0.22341655
+boxes_7.jpg;stairs:0.21856199
+boxes_8.jpg;stairs:0.14553759
+boxes_9.jpg;stairs:0.073298834
+boxes_10.jpg;building:0.05707691
+boxes_11.jpg;house:0.054055776
+boxes_12.jpg;picture frame:0.0522205

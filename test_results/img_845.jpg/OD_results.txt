@@ -1,0 +1,38 @@
+boxes_1.jpg;tree:0.94196755
+boxes_2.jpg;tree:0.93218416
+boxes_3.jpg;tree:0.59633595
+boxes_4.jpg;tree:0.5113138
+boxes_5.jpg;tree:0.30049136
+boxes_6.jpg;tree:0.28095374
+boxes_7.jpg;tree:0.2777293
+boxes_8.jpg;tree:0.23965089
+boxes_9.jpg;tree:0.21231182
+boxes_10.jpg;tree:0.19959864
+boxes_11.jpg;tree:0.19476087
+boxes_12.jpg;house:0.19313973
+boxes_13.jpg;tree:0.18757859
+boxes_14.jpg;house:0.18440475
+boxes_15.jpg;tree:0.17326687
+boxes_16.jpg;land vehicle:0.1636182
+boxes_17.jpg;house:0.1614315
+boxes_18.jpg;tree:0.15354437
+boxes_19.jpg;tree:0.14650342
+boxes_20.jpg;tree:0.14401211
+boxes_21.jpg;tree:0.12620656
+boxes_22.jpg;tree:0.12262321
+boxes_23.jpg;building:0.111503415
+boxes_24.jpg;tree:0.098097436
+boxes_25.jpg;tree:0.08994662
+boxes_26.jpg;tree:0.085698634
+boxes_27.jpg;house:0.08493862
+boxes_28.jpg;tree:0.08465918
+boxes_29.jpg;house:0.06573529
+boxes_30.jpg;tree:0.06225291
+boxes_31.jpg;palm tree:0.05968274
+boxes_32.jpg;tree:0.05925361
+boxes_33.jpg;tree:0.05899407
+boxes_34.jpg;tree:0.057234306
+boxes_35.jpg;building:0.053126864
+boxes_36.jpg;house:0.051924773
+boxes_37.jpg;tree:0.051801726
+boxes_38.jpg;palm tree:0.050369173

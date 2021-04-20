@@ -1,0 +1,13 @@
+boxes_1.jpg;whiting:0.2112983912229538;king whiting,Menticirrhus americanus:0.13189198076725006;corbina,Menticirrhus undulatus:0.12137013673782349;whiting:0.11375567317008972;northern whiting,Menticirrhus saxatilis:0.061928555369377136;
+boxes_10.jpg;mulloway,jewfish,Sciaena antarctica:0.10093294084072113;food fish:0.09855680167675018;silver perch,mademoiselle,Bairdiella chrysoura:0.06839165836572647;whiting:0.0668351873755455;
+boxes_11.jpg;corbina,Menticirrhus undulatus:0.34785690903663635;whiting:0.21573558449745178;whiting:0.06583976745605469;robalo:0.05562148243188858;
+boxes_12.jpg;steering system,steering mechanism:0.0622544065117836;
+boxes_2.jpg;corbina,Menticirrhus undulatus:0.16414251923561096;whiting:0.14259077608585358;silver perch,mademoiselle,Bairdiella chrysoura:0.0965958833694458;robalo:0.09486740827560425;king whiting,Menticirrhus americanus:0.060701385140419006;whiting:0.05317366495728493;northern whiting,Menticirrhus saxatilis:0.05254482477903366;
+boxes_3.jpg;whiting:0.33833640813827515;whiting:0.18998275697231293;corbina,Menticirrhus undulatus:0.12844766676425934;king whiting,Menticirrhus americanus:0.06752870976924896;croaker:0.05468723550438881;northern whiting,Menticirrhus saxatilis:0.0539894625544548;
+boxes_4.jpg;robalo:0.16928750276565552;silver perch,mademoiselle,Bairdiella chrysoura:0.11773568391799927;whitefish:0.07255710661411285;lake whitefish,Coregonus clupeaformis:0.06755588948726654;white croaker,chenfish,kingfish,Genyonemus lineatus:0.053439412266016006;king whiting,Menticirrhus americanus:0.05098594352602959;
+boxes_5.jpg;
+boxes_6.jpg;robalo:0.20663943886756897;silver perch,mademoiselle,Bairdiella chrysoura:0.14729568362236023;white croaker,chenfish,kingfish,Genyonemus lineatus:0.07989392429590225;
+boxes_7.jpg;whiting:0.16554544866085052;whiting:0.16239488124847412;king whiting,Menticirrhus americanus:0.1447385996580124;whitefish:0.06980935484170914;lake whitefish,Coregonus clupeaformis:0.059940751641988754;northern whiting,Menticirrhus saxatilis:0.05755317583680153;croaker:0.05530500411987305;silver perch,mademoiselle,Bairdiella chrysoura:0.05290842801332474;
+boxes_8.jpg;corbina,Menticirrhus undulatus:0.3643461763858795;whiting:0.2568807601928711;whiting:0.06860952079296112;robalo:0.055649008601903915;
+boxes_9.jpg;whiting:0.22154679894447327;whiting:0.13806267082691193;corbina,Menticirrhus undulatus:0.08727515488862991;northern whiting,Menticirrhus saxatilis:0.06738061457872391;lake whitefish,Coregonus clupeaformis:0.0647137388586998;whitefish:0.06442420184612274;king whiting,Menticirrhus americanus:0.059728171676397324;
+img_799.jpg;croaker:0.33510586619377136;king whiting,Menticirrhus americanus:0.07186830788850784;smelt:0.054212093353271484;whiting:0.053497787564992905;

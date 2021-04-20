@@ -1,0 +1,3 @@
+from_image_IPTC:old;chalk;blackboard;school;gymnazium;
+from_object_detection:book;door;poster;
+from_image_classification:blackboard;chalkboard;

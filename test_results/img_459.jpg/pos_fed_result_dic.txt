@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;christmas;decoration;tree;
+from_object_detection:fashion accessory;human face;flower;christmas tree;plant;person;doll;human head;mammal;clothing;woman;toy;fruit;animal;food;
+from_image_classification:organza;air bubble;negative;cell;woolly adelgid;fir;fir tree;true fir;amabilis fir;white fir;pacific silver fir;red silver fir;christmas tree;abies amabilis;ctenophore;comb jelly;tunicate;urochordate;urochord;jellyfish;salp;salpa;sea squirt;larvacean;doll;dolly;thistledown;woolly aphid;woolly plant louse;portuguese man-of-war;man-of-war;spherule;endameba;alpine fir;subalpine fir;abies lasiocarpa;sitka spruce;picea sitchensis;contour feather;night-light;smoke screen;smokescreen;ice;water ice;

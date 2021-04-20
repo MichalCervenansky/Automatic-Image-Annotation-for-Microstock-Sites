@@ -1,0 +1,18 @@
+boxes_1.jpg;oxbow:0.4327753186225891;meander:0.36558082699775696;riparian forest:0.06735570728778839;
+boxes_10.jpg;silver tree,Tarrietia argyrodendron:0.16545332968235016;arborvitae:0.12399850785732269;westland pine,silver pine,Lagarostrobus colensoi:0.07573112100362778;
+boxes_11.jpg;pitch pine,northern pitch pine,Pinus rigida:0.2530052661895752;Swiss pine,Swiss stone pine,arolla pine,cembra nut tree,Pinus cembra:0.11137538403272629;Japanese black pine,black pine,Pinus thunbergii:0.10804463922977448;red pine,Canadian red pine,Pinus resinosa:0.06726806610822678;
+boxes_12.jpg;atoll:0.9156049489974976;
+boxes_13.jpg;silver tree,Tarrietia argyrodendron:0.20893079042434692;pitch pine,northern pitch pine,Pinus rigida:0.05693591386079788;oriental spruce,Picea orientalis:0.05675380304455757;
+boxes_14.jpg;oxbow:0.565281093120575;meander:0.23823587596416473;riparian forest:0.06974929571151733;
+boxes_15.jpg;stony coral,madrepore,madriporian coral:0.24355675280094147;gorgonian,gorgonian coral:0.09833478182554245;
+boxes_16.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1282922923564911;
+boxes_17.jpg;windbreak,shelterbelt:0.13632257282733917;
+boxes_2.jpg;atoll:0.2559569180011749;
+boxes_3.jpg;
+boxes_4.jpg;oxbow:0.6053839325904846;riparian forest:0.08758250623941422;atoll:0.07295140624046326;
+boxes_5.jpg;pitch pine,northern pitch pine,Pinus rigida:0.22408656775951385;Swiss pine,Swiss stone pine,arolla pine,cembra nut tree,Pinus cembra:0.06624972075223923;Scotch pine,Scots pine,Scotch fir,Pinus sylvestris:0.06376449018716812;Japanese black pine,black pine,Pinus thunbergii:0.05175083130598068;
+boxes_6.jpg;atoll:0.9156049489974976;
+boxes_7.jpg;pitch pine,northern pitch pine,Pinus rigida:0.37561485171318054;Japanese black pine,black pine,Pinus thunbergii:0.34102070331573486;
+boxes_8.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.10820779949426651;
+boxes_9.jpg;
+img_990.jpg;meander:0.6519613862037659;oxbow:0.08393112570047379;bush:0.05825658142566681;

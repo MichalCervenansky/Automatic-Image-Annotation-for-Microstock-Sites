@@ -1,0 +1,14 @@
+boxes_1.jpg;scilla,squill:0.7433571815490723;squill:0.1991581916809082;
+boxes_10.jpg;squill:0.2126481533050537;scilla,squill:0.1358494758605957;wild hyacinth,indigo squill,Camassia scilloides:0.0829896330833435;Spanish iris,xiphium iris,Iris xiphium:0.050087664276361465;
+boxes_11.jpg;wild hyacinth,indigo squill,Camassia scilloides:0.3618868887424469;scilla,squill:0.1744515299797058;squill:0.14493893086910248;negative:0.09222112596035004;
+boxes_12.jpg;squill:0.901969313621521;scilla,squill:0.05175137519836426;
+boxes_13.jpg;African lily,African tulip,blue African lily,Agapanthus africanus:0.712346076965332;
+boxes_2.jpg;wild hyacinth,indigo squill,Camassia scilloides:0.5675839185714722;African lily,African tulip,blue African lily,Agapanthus africanus:0.07756683230400085;squill:0.05639097839593887;scilla,squill:0.05255865305662155;
+boxes_3.jpg;wild hyacinth,indigo squill,Camassia scilloides:0.7248055338859558;
+boxes_4.jpg;wild hyacinth,indigo squill,Camassia scilloides:0.7344943284988403;
+boxes_5.jpg;swizzle stick:0.16768988966941833;
+boxes_6.jpg;wild hyacinth,indigo squill,Camassia scilloides:0.6089680790901184;negative:0.07306627184152603;
+boxes_7.jpg;wild hyacinth,indigo squill,Camassia scilloides:0.5531045794487;
+boxes_8.jpg;
+boxes_9.jpg;scilla,squill:0.4456633925437927;wild hyacinth,indigo squill,Camassia scilloides:0.15888750553131104;squill:0.15693554282188416;negative:0.09431897848844528;
+img_242.jpg;negative:0.18727907538414001;wild hyacinth,indigo squill,Camassia scilloides:0.147093266248703;common camas,Camassia quamash:0.1209983304142952;squill:0.08090823888778687;camas,camass,quamash,camosh,camash:0.08064115047454834;scilla,squill:0.06061393395066261;

@@ -1,0 +1,6 @@
+boxes_1.jpg;deer:0.8765982
+boxes_2.jpg;deer:0.7497674
+boxes_3.jpg;antelope:0.5306689
+boxes_4.jpg;antelope:0.29958966
+boxes_5.jpg;deer:0.20708188
+boxes_6.jpg;goat:0.06951493

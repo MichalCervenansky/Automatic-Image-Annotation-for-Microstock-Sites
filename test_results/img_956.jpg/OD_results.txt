@@ -1,0 +1,21 @@
+boxes_1.jpg;auto part:0.4985382
+boxes_2.jpg;guitar:0.49762672
+boxes_3.jpg;musical instrument:0.41597593
+boxes_4.jpg;musical instrument:0.37640664
+boxes_5.jpg;guitar:0.37228712
+boxes_6.jpg;auto part:0.2866559
+boxes_7.jpg;wheel:0.2684779
+boxes_8.jpg;musical keyboard:0.24295132
+boxes_9.jpg;piano:0.19031094
+boxes_10.jpg;land vehicle:0.15133874
+boxes_11.jpg;musical instrument:0.14219017
+boxes_12.jpg;auto part:0.11743845
+boxes_13.jpg;guitar:0.09069946
+boxes_14.jpg;office supplies:0.087132595
+boxes_15.jpg;vehicle registration plate:0.08291985
+boxes_16.jpg;wheel:0.06833301
+boxes_17.jpg;car:0.060842775
+boxes_18.jpg;organ:0.058314618
+boxes_19.jpg;land vehicle:0.057468858
+boxes_20.jpg;stairs:0.054226402
+boxes_21.jpg;vehicle:0.050512496

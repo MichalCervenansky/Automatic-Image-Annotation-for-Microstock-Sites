@@ -1,0 +1,11 @@
+boxes_1.jpg;Darwin tulip:0.5772918462753296;lady tulip,candlestick tulip,Tulipa clusiana:0.10061679035425186;
+boxes_10.jpg;Darwin tulip:0.27984750270843506;scilla,squill:0.2755846679210663;flower cluster:0.06962916254997253;grape hyacinth:0.0695970356464386;
+boxes_2.jpg;scilla,squill:0.24652433395385742;Darwin tulip:0.15106922388076782;saffron:0.11097891628742218;blue,blueness:0.08743210136890411;lady tulip,candlestick tulip,Tulipa clusiana:0.08622075617313385;
+boxes_3.jpg;negative:0.4314573109149933;jade vine,emerald creeper,Strongylodon macrobotrys:0.05585157871246338;scilla,squill:0.05451493337750435;
+boxes_4.jpg;Darwin tulip:0.7248322367668152;scilla,squill:0.05312066152691841;
+boxes_5.jpg;Darwin tulip:0.8537327647209167;
+boxes_6.jpg;saffron:0.2109115570783615;scilla,squill:0.16087624430656433;lady tulip,candlestick tulip,Tulipa clusiana:0.14397579431533813;Darwin tulip:0.14308391511440277;
+boxes_7.jpg;scilla,squill:0.6921238899230957;Darwin tulip:0.07109031826257706;
+boxes_8.jpg;Darwin tulip:0.4783444404602051;scilla,squill:0.07971120625734329;cottage tulip:0.05957282334566116;saffron:0.05315248295664787;lady tulip,candlestick tulip,Tulipa clusiana:0.05222490802407265;Spanish iris,xiphium iris,Iris xiphium:0.05060131847858429;
+boxes_9.jpg;negative:0.48808103799819946;jade vine,emerald creeper,Strongylodon macrobotrys:0.13575997948646545;
+img_963.jpg;scilla,squill:0.19930672645568848;Indian crocus:0.17384223639965057;squill:0.09493405371904373;common grape hyacinth,Muscari neglectum:0.057824525982141495;

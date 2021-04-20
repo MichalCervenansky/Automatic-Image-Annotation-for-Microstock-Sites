@@ -1,0 +1,30 @@
+boxes_1.jpg;dairy:0.8738862
+boxes_2.jpg;footwear:0.85481733
+boxes_3.jpg;footwear:0.8510588
+boxes_4.jpg;footwear:0.6343753
+boxes_5.jpg;ice cream:0.5973353
+boxes_6.jpg;footwear:0.49307388
+boxes_7.jpg;baked goods:0.44350678
+boxes_8.jpg;shorts:0.38746747
+boxes_9.jpg;man:0.3462965
+boxes_10.jpg;man:0.29832798
+boxes_11.jpg;person:0.2714575
+boxes_12.jpg;clothing:0.2682876
+boxes_13.jpg;dessert:0.24481414
+boxes_14.jpg;person:0.23810372
+boxes_15.jpg;flower:0.21216157
+boxes_16.jpg;footwear:0.15065397
+boxes_17.jpg;dessert:0.14083157
+boxes_18.jpg;man:0.12570573
+boxes_19.jpg;cake:0.12247654
+boxes_20.jpg;shorts:0.10824295
+boxes_21.jpg;clothing:0.10609531
+boxes_22.jpg;footwear:0.101377755
+boxes_23.jpg;baked goods:0.09875466
+boxes_24.jpg;footwear:0.09756828
+boxes_25.jpg;bread:0.09231063
+boxes_26.jpg;cake:0.07561151
+boxes_27.jpg;person:0.074625775
+boxes_28.jpg;dairy:0.06375817
+boxes_29.jpg;person:0.052899282
+boxes_30.jpg;human leg:0.0514109

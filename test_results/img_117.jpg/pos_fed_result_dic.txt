@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;toy;doll;holiday;croatia;
+from_object_detection:toy;flower;human leg;fashion accessory;clothing;mammal;pumpkin;person;animal;dog;doll;food;teddy bear;human hand;human face;
+from_image_classification:plush;pinata;sunbonnet;nipple;layette;swaddling clothes;swaddling bands;negative;brim;security blanket;tulle;cockhorse;pinwheel;pinwheel wind collector;splint;organdy;organdie;tampon;toothbrush;jack-in-the-box;star;

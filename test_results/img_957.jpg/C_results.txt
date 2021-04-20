@@ -1,0 +1,8 @@
+boxes_1.jpg;Darwin tulip:0.49464190006256104;cottage tulip:0.10693333297967911;dwarf tulip,Tulipa armena,Tulipa suaveolens:0.053838592022657394;
+boxes_2.jpg;Darwin tulip:0.7442927360534668;cottage tulip:0.1075790598988533;
+boxes_3.jpg;French lavender,Lavandula stoechas:0.46194836497306824;
+boxes_4.jpg;French lavender,Lavandula stoechas:0.14947541058063507;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.12150707095861435;globe amaranth,bachelor's button,Gomphrena globosa:0.06202235445380211;
+boxes_5.jpg;Darwin tulip:0.7192317843437195;cottage tulip:0.12890030443668365;
+boxes_6.jpg;
+boxes_7.jpg;Darwin tulip:0.7610750198364258;purple,purpleness:0.2089354544878006;
+img_957.jpg;purple,purpleness:0.7652909159660339;Darwin tulip:0.12007420510053635;

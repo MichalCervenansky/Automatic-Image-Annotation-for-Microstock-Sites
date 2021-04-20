@@ -1,0 +1,12 @@
+boxes_1.jpg;Scotch pine,Scots pine,Scotch fir,Pinus sylvestris:0.4091593027114868;Torrey pine,Torrey's pine,soledad pine,grey-leaf pine,sabine pine,Pinus torreyana:0.12686921656131744;pitch pine,northern pitch pine,Pinus rigida:0.11109833419322968;
+boxes_10.jpg;
+boxes_11.jpg;riverbank,riverside:0.06080997735261917;watercourse:0.05180095136165619;riverbed,river bottom:0.051270171999931335;
+boxes_2.jpg;
+boxes_3.jpg;shooting brake:0.06874160468578339;
+boxes_4.jpg;amphibian,amphibious vehicle:0.054353490471839905;
+boxes_5.jpg;pitch pine,northern pitch pine,Pinus rigida:0.1855340301990509;Scotch pine,Scots pine,Scotch fir,Pinus sylvestris:0.13550952076911926;
+boxes_6.jpg;stony coral,madrepore,madriporian coral:0.05572953075170517;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;bank:0.0901312306523323;branch water:0.05724027007818222;
+img_362.jpg;barrier reef:0.5473080277442932;reef:0.201985701918602;coral reef:0.10187290608882904;

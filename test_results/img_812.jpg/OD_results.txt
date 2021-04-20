@@ -1,0 +1,12 @@
+boxes_1.jpg;tree:0.97588986
+boxes_2.jpg;tree:0.6716289
+boxes_3.jpg;fruit:0.3899416
+boxes_4.jpg;tree:0.31636322
+boxes_5.jpg;tree:0.20566384
+boxes_6.jpg;flower:0.19222054
+boxes_7.jpg;strawberry:0.13582142
+boxes_8.jpg;tree:0.10256409
+boxes_9.jpg;tree:0.101643145
+boxes_10.jpg;tree:0.070162706
+boxes_11.jpg;tree:0.06694897
+boxes_12.jpg;plant:0.052005485

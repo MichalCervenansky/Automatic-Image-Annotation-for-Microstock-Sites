@@ -1,0 +1,7 @@
+boxes_1.jpg;star-of-Bethlehem:0.9901440143585205;
+boxes_2.jpg;star-of-Bethlehem:0.9864592552185059;
+boxes_3.jpg;star-of-Bethlehem:0.7796221971511841;Easter lily,Bermuda lily,white trumpet lily,Lilium longiflorum:0.10895557701587677;
+boxes_4.jpg;star-of-Bethlehem:0.7837530374526978;Easter lily,Bermuda lily,white trumpet lily,Lilium longiflorum:0.12108089029788971;
+boxes_5.jpg;star-of-Bethlehem:0.992249608039856;
+boxes_6.jpg;star-of-Bethlehem:0.8453317284584045;
+img_203.jpg;star-of-Bethlehem:0.9389464855194092;

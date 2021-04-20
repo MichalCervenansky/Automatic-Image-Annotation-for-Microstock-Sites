@@ -1,0 +1,12 @@
+boxes_1.jpg;patchwork,patchwork quilt:0.3614363372325897;quilted bedspread:0.19643566012382507;pillow sham:0.150490403175354;eiderdown:0.12410614639520645;
+boxes_10.jpg;quilted bedspread:0.2764406204223633;eiderdown:0.23483063280582428;patchwork,patchwork quilt:0.2006465345621109;pillow sham:0.12944990396499634;
+boxes_11.jpg;patchwork,patchwork quilt:0.27352914214134216;eiderdown:0.19054217636585236;quilted bedspread:0.17239145934581757;pillow sham:0.1615876406431198;
+boxes_2.jpg;patchwork,patchwork quilt:0.37457287311553955;eiderdown:0.20601658523082733;quilted bedspread:0.1895417422056198;pillow sham:0.07488791644573212;
+boxes_3.jpg;quilted bedspread:0.39902132749557495;patchwork,patchwork quilt:0.18479830026626587;quilt,comforter,comfort,puff:0.12496139854192734;eiderdown:0.06407741457223892;pillow sham:0.05214966461062431;
+boxes_4.jpg;eiderdown:0.3897199332714081;patchwork,patchwork quilt:0.22947584092617035;pillow sham:0.09470728784799576;quilted bedspread:0.08624259382486343;quilt,comforter,comfort,puff:0.059542082250118256;
+boxes_5.jpg;patchwork,patchwork quilt:0.6141767501831055;quilted bedspread:0.23586368560791016;
+boxes_6.jpg;patchwork,patchwork quilt:0.4836784899234772;quilted bedspread:0.16824489831924438;eiderdown:0.12055332213640213;eiderdown,duvet,continental quilt:0.07575247436761856;pillow sham:0.05778425186872482;
+boxes_7.jpg;pocket-handkerchief:0.45007801055908203;drugget:0.07372575998306274;hemstitch,hemstitching:0.05602279305458069;
+boxes_8.jpg;patchwork,patchwork quilt:0.3055306375026703;quilted bedspread:0.19268524646759033;eiderdown:0.1624365746974945;pillow sham:0.1533442884683609;crazy quilt:0.05693842098116875;
+boxes_9.jpg;patchwork,patchwork quilt:0.3174052834510803;eiderdown:0.21853457391262054;quilted bedspread:0.18550480902194977;pillow sham:0.10840584337711334;
+img_571.jpg;pillow sham:0.24851839244365692;patchwork,patchwork quilt:0.2399362474679947;quilted bedspread:0.17779022455215454;eiderdown:0.13587240874767303;

@@ -1,0 +1,3 @@
+from_image_IPTC:rocky;mountain;landscape;blue;sky;vysoke;tatry;
+from_object_detection:plant;tree;
+from_image_classification:ice mass;ice floe;floe;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;glacier;polar glacier;arete;icecap;ice cap;crag;steep;precipice;volcanic crater;crater;narwhal;narwal;narwhale;monodon monoceros;hot tub;surfing;surfboarding;surfriding;paddle;boat paddle;common dolphin;delphinus delphis;alpine glacier;alpine type of glacier;seal;breaststroker;swimming;swim;delta;marbleization;marbleisation;marbleizing;marbleising;grey whale;gray whale;devilfish;eschrichtius gibbosus;eschrichtius robustus;ascent;acclivity;rise;raise;climb;upgrade;

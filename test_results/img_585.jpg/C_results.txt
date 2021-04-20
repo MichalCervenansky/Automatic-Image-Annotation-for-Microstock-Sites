@@ -1,0 +1,5 @@
+boxes_1.jpg;external drive:0.19601880013942719;portable computer:0.1493813693523407;auxiliary storage,external storage,secondary storage:0.08918937295675278;hard disc,hard disk,fixed disk:0.08326705545186996;scale,weighing machine:0.06434763222932816;
+boxes_2.jpg;external drive:0.5307176113128662;auxiliary storage,external storage,secondary storage:0.127106174826622;drive:0.0598326250910759;
+boxes_3.jpg;external drive:0.1695549488067627;portable computer:0.12214537709951401;auxiliary storage,external storage,secondary storage:0.09623833745718002;hard disc,hard disk,fixed disk:0.06638167053461075;cigarette case:0.0618104562163353;scale,weighing machine:0.055263131856918335;
+boxes_4.jpg;external drive:0.16469210386276245;portable computer:0.15158551931381226;cigarette case:0.09691188484430313;hard disc,hard disk,fixed disk:0.0836150199174881;auxiliary storage,external storage,secondary storage:0.08017818629741669;
+img_585.jpg;external drive:0.3099965751171112;hard disc,hard disk,fixed disk:0.12131474912166595;auxiliary storage,external storage,secondary storage:0.11468145996332169;

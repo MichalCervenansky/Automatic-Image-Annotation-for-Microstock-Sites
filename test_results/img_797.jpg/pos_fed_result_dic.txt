@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;grasshopper;wall;
+from_object_detection:insect;animal;
+from_image_classification:migratory locust;locusta migratoria;locust;

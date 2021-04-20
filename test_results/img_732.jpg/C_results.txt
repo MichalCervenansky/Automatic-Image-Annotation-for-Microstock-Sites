@@ -1,0 +1,15 @@
+boxes_1.jpg;gudgeon,Gobio gobio:0.8499283194541931;
+boxes_10.jpg;gudgeon,Gobio gobio:0.892889142036438;blenny,combtooth blenny:0.05050347372889519;
+boxes_11.jpg;sea squirt:0.15200430154800415;sea slug,nudibranch:0.09959466010332108;jawfish:0.09834346920251846;
+boxes_12.jpg;jawfish:0.378888875246048;
+boxes_13.jpg;gudgeon,Gobio gobio:0.8010965585708618;blenny,combtooth blenny:0.06737552583217621;
+boxes_14.jpg;ascidian:0.9517119526863098;
+boxes_2.jpg;jawfish:0.24822621047496796;goby,gudgeon:0.14948102831840515;blenny,combtooth blenny:0.12822943925857544;lizardfish,snakefish,snake-fish:0.07870129495859146;gudgeon,Gobio gobio:0.07112902402877808;
+boxes_3.jpg;jawfish:0.2902294099330902;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.055433489382267;
+boxes_4.jpg;gudgeon,Gobio gobio:0.8558911681175232;blenny,combtooth blenny:0.05764823034405708;
+boxes_5.jpg;lymphocyte,lymph cell:0.42466098070144653;
+boxes_6.jpg;sea slug,nudibranch:0.25906091928482056;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.15709954500198364;ascidian:0.11366797983646393;
+boxes_7.jpg;gudgeon,Gobio gobio:0.8686382174491882;
+boxes_8.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.13791953027248383;jawfish:0.07680504024028778;triggerfish:0.06408187747001648;
+boxes_9.jpg;rhizopus:0.13605666160583496;ascidian:0.10005317628383636;
+img_732.jpg;goby,gudgeon:0.9130077958106995;

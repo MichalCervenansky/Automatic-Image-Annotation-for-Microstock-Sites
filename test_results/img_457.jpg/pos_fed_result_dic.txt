@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;small;tit;bird;feeding;hard;winter;times;
+from_object_detection:bird;flower;tree;canary;plant;
+from_image_classification:lark;roller;wood swallow;swallow shrike;pitta;bush shrike;spruce grouse;canachites canadensis;blackbird;merl;merle;ouzel;ousel;european blackbird;turdus merula;crossbill;loxia curvirostra;hawfinch;coccothraustes coccothraustes;blackpoll;dendroica striate;old world warbler;true warbler;warbler;honeycreeper;indigo bunting;indigo finch;indigo bird;passerina cyanea;oscine;oscine bird;manakin;chipping sparrow;spizella passerina;dickeybird;dickey-bird;dickybird;dicky-bird;european roller;coracias garrulus;bobolink;ricebird;reedbird;dolichonyx oryzivorus;broadbill;

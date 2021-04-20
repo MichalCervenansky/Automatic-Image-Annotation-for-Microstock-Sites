@@ -1,0 +1,8 @@
+boxes_1.jpg;surfing,surfboarding,surfriding:0.9619912505149841;
+boxes_2.jpg;lateen,lateen sail:0.1788308471441269;luff:0.06748738139867783;headsail:0.057775579392910004;gaff topsail,fore-and-aft topsail:0.053175024688243866;
+boxes_3.jpg;sloop:0.10207732021808624;lateen,lateen sail:0.09942778199911118;headsail:0.07586303353309631;luff:0.07443837076425552;topsail:0.053328923881053925;
+boxes_4.jpg;bait,decoy,lure:0.0817212238907814;
+boxes_5.jpg;skating:0.09213860332965851;parasol,sunshade:0.08247822523117065;
+boxes_6.jpg;surfing,surfboarding,surfriding:0.9717288613319397;
+boxes_7.jpg;lateen,lateen sail:0.15076212584972382;topsail:0.11422998458147049;gaff topsail,fore-and-aft topsail:0.09826214611530304;luff:0.06576986610889435;
+img_928.jpg;surfing,surfboarding,surfriding:0.8538796901702881;

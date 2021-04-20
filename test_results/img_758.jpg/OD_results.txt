@@ -1,0 +1,16 @@
+boxes_1.jpg;tree:0.960527
+boxes_2.jpg;fruit:0.72562957
+boxes_3.jpg;tree:0.33379298
+boxes_4.jpg;flower:0.26109615
+boxes_5.jpg;tree:0.26023468
+boxes_6.jpg;tree:0.21304046
+boxes_7.jpg;maple:0.19411033
+boxes_8.jpg;flower:0.15688384
+boxes_9.jpg;tree:0.15156081
+boxes_10.jpg;maple:0.1475203
+boxes_11.jpg;tree:0.0804117
+boxes_12.jpg;grape:0.07389379
+boxes_13.jpg;maple:0.06486093
+boxes_14.jpg;flower:0.05544047
+boxes_15.jpg;flower:0.052596007
+boxes_16.jpg;flower:0.050574623

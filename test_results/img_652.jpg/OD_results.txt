@@ -1,0 +1,11 @@
+boxes_1.jpg;dog:0.99714357
+boxes_2.jpg;ball:0.7546405
+boxes_3.jpg;plant:0.43243134
+boxes_4.jpg;flowerpot:0.13980676
+boxes_5.jpg;plant:0.13659064
+boxes_6.jpg;football:0.09029091
+boxes_7.jpg;plant:0.086849995
+boxes_8.jpg;plant:0.07192559
+boxes_9.jpg;tree:0.07163136
+boxes_10.jpg;tree:0.062851116
+boxes_11.jpg;plant:0.051413123

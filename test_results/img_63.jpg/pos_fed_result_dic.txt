@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;vista;house;oregon;state;
+from_object_detection:tree;
+from_image_classification:western white pine;silver pine;mountain pine;pinus monticola;mountain hemlock;black hemlock;tsuga mertensiana;green douglas fir;douglas spruce;douglas pine;douglas hemlock;oregon fir;oregon pine;pseudotsuga menziesii;silver fir;lowland fir;lowland white fir;giant fir;grand fir;abies grandis;oriental spruce;picea orientalis;bluejack oak;turkey oak;quercus incana;fir;fir tree;true fir;douglas fir;windshield;windscreen;smoke screen;smokescreen;ski slope;sunniness;hemlock;hemlock tree;snowplow;snowplough;descent;declivity;fall;decline;declination;declension;downslope;blind curve;blind bend;mountainside;versant;

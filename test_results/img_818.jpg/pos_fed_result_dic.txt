@@ -1,0 +1,3 @@
+from_image_IPTC:small;plants;moss;fly;
+from_object_detection:insect;tree;flower;plant;
+from_image_classification:carpenter bee;coral reef;staghorn coral;stag's-horn coral;reef;negative;ctenophore;comb jelly;stony coral;madrepore;madriporian coral;persian iris;iris persica;japanese iris;iris kaempferi;musk rose;rosa moschata;water violet;hottonia palustris;chambered nautilus;pearly nautilus;nautilus;

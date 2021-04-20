@@ -1,0 +1,14 @@
+boxes_1.jpg;olive tree:0.3737492561340332;olive,European olive tree,Olea europaea:0.16380776464939117;chokecherry,chokecherry tree,Prunus virginiana:0.051575735211372375;
+boxes_10.jpg;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.09444250166416168;olive,European olive tree,Olea europaea:0.08795768767595291;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.07102110236883163;olive tree:0.055436208844184875;
+boxes_11.jpg;olive tree:0.4171874225139618;olive,European olive tree,Olea europaea:0.321340948343277;
+boxes_12.jpg;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.133576899766922;dusty miller,Senecio cineraria,Cineraria maritima:0.0666612759232521;olive,European olive tree,Olea europaea:0.061896901577711105;
+boxes_13.jpg;olive tree:0.49722421169281006;olive,European olive tree,Olea europaea:0.10368334501981735;
+boxes_2.jpg;olive,European olive tree,Olea europaea:0.4459320902824402;olive tree:0.29628393054008484;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.061059895902872086;
+boxes_3.jpg;olive,European olive tree,Olea europaea:0.6664705872535706;olive tree:0.17985554039478302;
+boxes_4.jpg;olive tree:0.21761184930801392;chokecherry,chokecherry tree,Prunus virginiana:0.05575418844819069;
+boxes_5.jpg;olive tree:0.5273074507713318;olive,European olive tree,Olea europaea:0.16705244779586792;
+boxes_6.jpg;
+boxes_7.jpg;olive,European olive tree,Olea europaea:0.29762500524520874;olive tree:0.05872076377272606;black mangrove,Avicennia marina:0.052262917160987854;
+boxes_8.jpg;olive tree:0.7391757369041443;olive,European olive tree,Olea europaea:0.19277335703372955;
+boxes_9.jpg;rock wallaby,rock kangaroo:0.21457141637802124;arroyo:0.08224498480558395;sloth bear,Melursus ursinus,Ursus ursinus:0.050958361476659775;
+img_816.jpg;olive tree:0.3777632713317871;olive,European olive tree,Olea europaea:0.11941999942064285;

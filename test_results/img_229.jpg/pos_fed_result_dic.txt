@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;roman;ruins;near;anthalya;
+from_object_detection:tree;plant;
+from_image_classification:ice;water ice;geological formation;formation;arroyo;hole-in-the-wall;windshield;windscreen;branch water;artwork;art;graphics;nontextual matter;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;oil paint;natural elevation;elevation;cairn;polar glacier;ice mass;glacier;peacock;negative;igloo;iglu;rock;stone;fur seal;cellophane;ascent;acclivity;rise;raise;climb;upgrade;mountainside;versant;mountain;mount;sinkhole;sink;swallow hole;adit;

@@ -1,0 +1,10 @@
+boxes_1.jpg;computer monitor:0.96863896
+boxes_2.jpg;desk:0.8868879
+boxes_3.jpg;office building:0.8080516
+boxes_4.jpg;desk:0.27436146
+boxes_5.jpg;television:0.21559942
+boxes_6.jpg;table:0.19498737
+boxes_7.jpg;house:0.11513973
+boxes_8.jpg;computer monitor:0.09051767
+boxes_9.jpg;building:0.079346426
+boxes_10.jpg;lamp:0.05227014

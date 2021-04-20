@@ -1,0 +1,3 @@
+from_image_IPTC:colorful;orange;stones;sea;water;nerezine;croatia;
+from_object_detection:animal;insect;plant;beetle;flower;
+from_image_classification:lymphocyte;lymph cell;neutrophil;neutrophile;morula;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;anchor;ground tackle;breaststroker;common dolphin;delphinus delphis;atlantic bottlenose dolphin;tursiops truncatus;pacific bottlenose dolphin;tursiops gilli;cellophane;mucor;marbleization;marbleisation;marbleizing;marbleising;rock;stone;arroyo;fur seal;sea lion;skin-diver;aquanaut;ice floe;floe;

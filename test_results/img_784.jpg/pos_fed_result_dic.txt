@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:plant;
+from_image_classification:benthos;geological formation;formation;windshield;windscreen;ridge;arroyo;cliff;drop;drop-off;alpine glacier;alpine type of glacier;glacier;coal seam;

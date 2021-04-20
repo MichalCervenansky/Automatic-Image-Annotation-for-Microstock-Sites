@@ -1,0 +1,3 @@
+from_image_IPTC:interior;buchlov;castle;czech;republic;
+from_object_detection:chair;window;house;furniture;coffee table;table;nightstand;kitchen & dining room table;cabinetry;building;door;desk;chest of drawers;
+from_image_classification:dining table;board;table;furniture;piece of furniture;article of furniture;credenza;credence;cabinet;sideboard;cupboard;closet;kitchen table;refectory table;armoire;paneling;panelling;pane;wardrobe;press;bed;desk;screen;dinner table;breakfast table;refectory;gateleg table;trestle table;confessional;prie-dieu;partition;divider;pier glass;pier mirror;reception room;sleigh bed;four-poster;drop-leaf table;writing desk;living room;living-room;sitting room;front room;parlor;parlour;window;window frame;dining-room furniture;dining area;study;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;lovely;ducks;portland;centre;park;
+from_object_detection:goose;duck;cattle;swan;
+from_image_classification:goose;common brant goose;branta bernicla;honker;canada goose;canadian goose;branta canadensis;blue goose;chen caerulescens;gander;barnacle goose;barnacle;branta leucopsis;

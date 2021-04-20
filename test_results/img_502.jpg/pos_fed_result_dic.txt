@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tree;tire;
+from_image_classification:roadster;runabout;two-seater;convertible;car wheel;coupe;body;fifth wheel;spare;tailpipe;bumper;cellophane;candied apple;candy apple;taffy apple;caramel apple;toffee apple;windshield;windscreen;electric;electric automobile;electric car;car;elevator car;hot rod;hot-rod;

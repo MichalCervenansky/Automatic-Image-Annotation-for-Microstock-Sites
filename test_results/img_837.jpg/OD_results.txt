@@ -1,0 +1,19 @@
+boxes_1.jpg;boat:0.9268532
+boxes_2.jpg;tree:0.6343045
+boxes_3.jpg;tree:0.38377583
+boxes_4.jpg;tree:0.200882
+boxes_5.jpg;tree:0.15844618
+boxes_6.jpg;tree:0.11894105
+boxes_7.jpg;tree:0.114637256
+boxes_8.jpg;house:0.097845815
+boxes_9.jpg;window:0.092781864
+boxes_10.jpg;tree:0.08451165
+boxes_11.jpg;tree:0.08131144
+boxes_12.jpg;tree:0.08109416
+boxes_13.jpg;watercraft:0.07579788
+boxes_14.jpg;palm tree:0.06859447
+boxes_15.jpg;house:0.060879473
+boxes_16.jpg;tree:0.057423458
+boxes_17.jpg;tree:0.055708088
+boxes_18.jpg;palm tree:0.054378282
+boxes_19.jpg;tree:0.050808612

@@ -1,0 +1,13 @@
+boxes_1.jpg;clothing:0.6598372
+boxes_2.jpg;food:0.16814815
+boxes_3.jpg;cake:0.13393725
+boxes_4.jpg;snack:0.12267727
+boxes_5.jpg;pencil case:0.10847801
+boxes_6.jpg;baked goods:0.07915587
+boxes_7.jpg;pencil case:0.0701354
+boxes_8.jpg;fashion accessory:0.068501316
+boxes_9.jpg;clothing:0.063270465
+boxes_10.jpg;book:0.057904873
+boxes_11.jpg;furniture:0.057739407
+boxes_12.jpg;flag:0.05401204
+boxes_13.jpg;clothing:0.052021

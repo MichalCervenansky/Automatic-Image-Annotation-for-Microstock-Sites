@@ -1,0 +1,60 @@
+boxes_1.jpg;footwear:0.95138955
+boxes_2.jpg;footwear:0.9380705
+boxes_3.jpg;footwear:0.86898947
+boxes_4.jpg;footwear:0.8654067
+boxes_5.jpg;footwear:0.8409892
+boxes_6.jpg;footwear:0.8015203
+boxes_7.jpg;jeans:0.8014193
+boxes_8.jpg;footwear:0.7993954
+boxes_9.jpg;footwear:0.7907199
+boxes_10.jpg;footwear:0.75019443
+boxes_11.jpg;footwear:0.7471723
+boxes_12.jpg;jeans:0.49003968
+boxes_13.jpg;footwear:0.43761116
+boxes_14.jpg;person:0.4241834
+boxes_15.jpg;jeans:0.36094233
+boxes_16.jpg;person:0.35573322
+boxes_17.jpg;footwear:0.27018476
+boxes_18.jpg;human leg:0.26565933
+boxes_19.jpg;jeans:0.26507136
+boxes_20.jpg;human leg:0.26351377
+boxes_21.jpg;person:0.26261428
+boxes_22.jpg;human leg:0.23752257
+boxes_23.jpg;human leg:0.22983347
+boxes_24.jpg;person:0.22779182
+boxes_25.jpg;person:0.22719854
+boxes_26.jpg;person:0.21123002
+boxes_27.jpg;jeans:0.20427385
+boxes_28.jpg;person:0.19830906
+boxes_29.jpg;human leg:0.1542666
+boxes_30.jpg;human leg:0.14207411
+boxes_31.jpg;footwear:0.13900438
+boxes_32.jpg;human leg:0.13791287
+boxes_33.jpg;human leg:0.13780215
+boxes_34.jpg;human leg:0.13285647
+boxes_35.jpg;footwear:0.12686619
+boxes_36.jpg;jeans:0.12617436
+boxes_37.jpg;human leg:0.113809764
+boxes_38.jpg;footwear:0.10863872
+boxes_39.jpg;person:0.10698907
+boxes_40.jpg;clothing:0.10438945
+boxes_41.jpg;human leg:0.09692418
+boxes_42.jpg;person:0.09646413
+boxes_43.jpg;human leg:0.09611293
+boxes_44.jpg;footwear:0.08764325
+boxes_45.jpg;woman:0.07938605
+boxes_46.jpg;human leg:0.07668541
+boxes_47.jpg;footwear:0.074632995
+boxes_48.jpg;footwear:0.07392073
+boxes_49.jpg;human leg:0.0708797
+boxes_50.jpg;person:0.065203846
+boxes_51.jpg;human leg:0.06452388
+boxes_52.jpg;footwear:0.061985247
+boxes_53.jpg;human leg:0.061952557
+boxes_54.jpg;clothing:0.058428004
+boxes_55.jpg;man:0.05693354
+boxes_56.jpg;person:0.055054963
+boxes_57.jpg;man:0.053558543
+boxes_58.jpg;person:0.053083032
+boxes_59.jpg;footwear:0.052293953
+boxes_60.jpg;human leg:0.051292982

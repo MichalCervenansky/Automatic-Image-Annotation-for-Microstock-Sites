@@ -1,0 +1,14 @@
+boxes_1.jpg;fish:0.9512522
+boxes_2.jpg;marine invertebrates:0.4854699
+boxes_3.jpg;marine invertebrates:0.41592544
+boxes_4.jpg;animal:0.27000615
+boxes_5.jpg;marine invertebrates:0.21009226
+boxes_6.jpg;marine invertebrates:0.20159738
+boxes_7.jpg;lizard:0.1306772
+boxes_8.jpg;marine invertebrates:0.1277529
+boxes_9.jpg;marine invertebrates:0.10034907
+boxes_10.jpg;frog:0.0709933
+boxes_11.jpg;animal:0.0637459
+boxes_12.jpg;marine invertebrates:0.059868127
+boxes_13.jpg;reptile:0.05915702
+boxes_14.jpg;marine invertebrates:0.057871997

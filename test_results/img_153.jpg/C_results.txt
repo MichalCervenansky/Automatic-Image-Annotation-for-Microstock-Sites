@@ -1,0 +1,8 @@
+boxes_1.jpg;collins,Tom Collins:0.0854540690779686;liquor,spirits,booze,hard drink,hard liquor,John Barleycorn,strong drink:0.06818801909685135;brandy:0.06532624363899231;
+boxes_2.jpg;coffee liqueur:0.09374077618122101;aqua vitae,ardent spirits:0.05645051971077919;brandy:0.05340135470032692;dessert wine:0.05213170126080513;liquor,spirits,booze,hard drink,hard liquor,John Barleycorn,strong drink:0.0513475276529789;
+boxes_3.jpg;coffee liqueur:0.10979542136192322;aqua vitae,ardent spirits:0.06812043488025665;brandy:0.05981789901852608;
+boxes_4.jpg;brandy:0.09188180416822433;collins,Tom Collins:0.056326836347579956;dessert wine:0.05364438146352768;
+boxes_5.jpg;collins,Tom Collins:0.10480794310569763;
+boxes_6.jpg;coffee liqueur:0.09844734519720078;brandy:0.07318507879972458;aqua vitae,ardent spirits:0.061160217970609665;
+boxes_7.jpg;coffee liqueur:0.09534820914268494;liquor,spirits,booze,hard drink,hard liquor,John Barleycorn,strong drink:0.053250059485435486;brandy:0.050213299691677094;
+img_153.jpg;coffee liqueur:0.07129489630460739;brandy:0.06938502192497253;aqua vitae,ardent spirits:0.055243778973817825;

@@ -1,0 +1,18 @@
+boxes_1.jpg;blenny,combtooth blenny:0.9638477563858032;
+boxes_10.jpg;grouper:0.173230841755867;blenny,combtooth blenny:0.08404514938592911;toadfish,Opsanus tau:0.0672677531838417;
+boxes_11.jpg;brown algae:0.07899998128414154;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.05008240416646004;
+boxes_12.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.4731280207633972;
+boxes_13.jpg;moray,moray eel:0.2124740481376648;conger,conger eel:0.16497108340263367;eel:0.09456822276115417;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06590048223733902;
+boxes_14.jpg;daphnia,water flea:0.14050471782684326;ameba,amoeba:0.11142926663160324;blastocyst,blastodermic vessicle:0.08058837056159973;stentor:0.057615332305431366;ciliate,ciliated protozoan,ciliophoran:0.052291110157966614;
+boxes_15.jpg;skin-diver,aquanaut:0.10230229049921036;
+boxes_16.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.21909953653812408;cornetfish:0.11038710922002792;sea fan:0.08169836550951004;
+boxes_17.jpg;blenny,combtooth blenny:0.8914397954940796;toadfish,Opsanus tau:0.07787492871284485;
+boxes_2.jpg;blenny,combtooth blenny:0.8752540349960327;
+boxes_3.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.19729094207286835;benthos,benthic division,benthonic zone:0.15487782657146454;brown algae:0.11046081781387329;
+boxes_4.jpg;blenny,combtooth blenny:0.8880648016929626;toadfish,Opsanus tau:0.058393292129039764;
+boxes_5.jpg;toadfish,Opsanus tau:0.42509016394615173;blenny,combtooth blenny:0.32542678713798523;
+boxes_6.jpg;sea fan:0.07080858200788498;
+boxes_7.jpg;stonefish,Synanceja verrucosa:0.18951846659183502;negative:0.05353803560137749;
+boxes_8.jpg;daphnia,water flea:0.1903095692396164;stentor:0.14960762858390808;ciliate,ciliated protozoan,ciliophoran:0.1393613964319229;ameba,amoeba:0.07080461084842682;cyclops,water flea:0.05314723029732704;
+boxes_9.jpg;blenny,combtooth blenny:0.9680966734886169;
+img_679.jpg;toadfish,Opsanus tau:0.2517821490764618;stonefish,Synanceja verrucosa:0.1492784321308136;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.08042263984680176;oyster fish,oyster-fish,oysterfish:0.07313340902328491;blenny,combtooth blenny:0.05814751237630844;

@@ -1,0 +1,25 @@
+boxes_1.jpg;sculpture:0.82334405
+boxes_2.jpg;sculpture:0.5130941
+boxes_3.jpg;tree:0.3836221
+boxes_4.jpg;person:0.3139832
+boxes_5.jpg;tree:0.31173164
+boxes_6.jpg;bench:0.30723134
+boxes_7.jpg;bronze sculpture:0.24285075
+boxes_8.jpg;person:0.21128808
+boxes_9.jpg;plant:0.1890409
+boxes_10.jpg;human head:0.17586276
+boxes_11.jpg;man:0.17258102
+boxes_12.jpg;tree:0.15048666
+boxes_13.jpg;man:0.13357772
+boxes_14.jpg;tree:0.12865023
+boxes_15.jpg;human face:0.11798884
+boxes_16.jpg;sculpture:0.11066229
+boxes_17.jpg;tree:0.10978114
+boxes_18.jpg;tree:0.07781311
+boxes_19.jpg;tree:0.0747849
+boxes_20.jpg;person:0.06892362
+boxes_21.jpg;tree:0.06678751
+boxes_22.jpg;tree:0.0657048
+boxes_23.jpg;sculpture:0.06390874
+boxes_24.jpg;human leg:0.0598336
+boxes_25.jpg;tree:0.05242129

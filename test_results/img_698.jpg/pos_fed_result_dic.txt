@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;nodibrachia;sea;slug;
+from_object_detection:caterpillar;invertebrate;marine invertebrates;seahorse;tree;plant;
+from_image_classification:polychaete;polychete;polychaete worm;polychete worm;annelid;annelid worm;segmented worm;ctenophore;comb jelly;paramecium;paramecia;sea cucumber;holothurian;brittle star;brittle-star;serpent star;zooid;starfish;sea star;sea snake;sea squirt;

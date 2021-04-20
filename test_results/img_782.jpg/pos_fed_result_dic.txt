@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:tree;plant;
+from_image_classification:australian pine;casuarina equisetfolia;negative;sand sage;silvery wormwood;artemisia filifolia;casuarina;ice mass;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;monal;monaul;rock wren;salpinctes obsoletus;pinon;pinyon;icecap;ice cap;seashore;coast;seacoast;sea-coast;glacier;ice;water ice;polar glacier;monterey pine;pinus radiata;sea feather;sea fan;black marlin;makaira mazara;makaira marlina;mountain;mount;punch bowl;hollowware;holloware;carafe;decanter;lodestone;loadstone;volcanic crater;crater;oil paint;

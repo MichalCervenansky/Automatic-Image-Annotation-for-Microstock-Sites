@@ -1,0 +1,5 @@
+boxes_1.jpg;peripheral,computer peripheral,peripheral device:0.2155798077583313;interface,port:0.0868174359202385;drive:0.08059681206941605;memory device,storage device:0.050353504717350006;
+boxes_2.jpg;interface,port:0.14546801149845123;jack:0.10170159488916397;peripheral,computer peripheral,peripheral device:0.05724971741437912;
+boxes_3.jpg;peripheral,computer peripheral,peripheral device:0.2777478098869324;interface,port:0.07585188746452332;
+boxes_4.jpg;peripheral,computer peripheral,peripheral device:0.26166296005249023;interface,port:0.13930979371070862;electronic device:0.06634719669818878;
+img_589.jpg;peripheral,computer peripheral,peripheral device:0.3002038896083832;memory device,storage device:0.08748310059309006;

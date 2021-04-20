@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;asian;turkish;sacred;fountain;holy;altar;
+from_object_detection:fountain;tree;building;plant;
+from_image_classification:memorial;monument;repository;gatepost;socle;broomstick;broom handle;rain barrel;column;pillar;pedestal;plinth;footstall;mausoleum;girandole;girandola;newel post;newel;verdigris;manger;trough;ground ivy;alehoof;field balm;gill-over-the-ground;runaway robin;glechoma hederaceae;nepeta hederaceae;gnomon;swamp;swampland;ebony spleenwort;scott's spleenwort;asplenium platyneuron;fountain;flume;post;riverbank;riverside;railing;rail;burial chamber;sepulcher;sepulchre;sepulture;pediment;quoin;coign;coigne;pilaster;cenotaph;empty tomb;shouldered arch;triumphal arch;trumpet arch;waterside;royal mast;

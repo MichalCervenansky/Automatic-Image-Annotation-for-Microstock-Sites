@@ -1,0 +1,5 @@
+boxes_1.jpg;brown bear:0.99038446
+boxes_2.jpg;sculpture:0.39918154
+boxes_3.jpg;carnivore:0.18212178
+boxes_4.jpg;polar bear:0.0922707
+boxes_5.jpg;bear:0.05347028

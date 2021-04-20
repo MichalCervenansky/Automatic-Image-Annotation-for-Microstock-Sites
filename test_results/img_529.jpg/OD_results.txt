@@ -1,0 +1,25 @@
+boxes_1.jpg;car:0.95458645
+boxes_2.jpg;car:0.85479313
+boxes_3.jpg;car:0.6773166
+boxes_4.jpg;wheel:0.6093041
+boxes_5.jpg;wheel:0.513957
+boxes_6.jpg;car:0.50559807
+boxes_7.jpg;wheel:0.50210583
+boxes_8.jpg;car:0.44748762
+boxes_9.jpg;wheel:0.41335744
+boxes_10.jpg;car:0.36743337
+boxes_11.jpg;wheel:0.12288202
+boxes_12.jpg;tire:0.11694085
+boxes_13.jpg;tree:0.10963994
+boxes_14.jpg;tire:0.10533157
+boxes_15.jpg;tree:0.098431855
+boxes_16.jpg;truck:0.084873766
+boxes_17.jpg;tire:0.08249227
+boxes_18.jpg;car:0.07785372
+boxes_19.jpg;plant:0.075394765
+boxes_20.jpg;car:0.0674452
+boxes_21.jpg;tree:0.06579677
+boxes_22.jpg;land vehicle:0.062483903
+boxes_23.jpg;tire:0.061015014
+boxes_24.jpg;wheel:0.05345146
+boxes_25.jpg;wheel:0.052329216

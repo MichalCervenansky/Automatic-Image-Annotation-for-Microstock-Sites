@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shoshone;falls;waterfalls;usa;
+from_object_detection:plant;fountain;tree;
+from_image_classification:negative;gorge;chasm;glacier;arroyo;descent;declivity;fall;decline;declination;declension;downslope;valley;vale;branch water;cobweb;smoke screen;smokescreen;ice mass;alpine glacier;alpine type of glacier;snow-on-the-mountain;snow-in-summer;ghost weed;euphorbia marginata;ski lodge;ski slope;ridge;mountain;mount;continental glacier;

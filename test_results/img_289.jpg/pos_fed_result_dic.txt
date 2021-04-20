@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;historic;old;ancient;bell;zakynthos;isladn;greece;
+from_object_detection:tree;sculpture;person;plant;
+from_image_classification:bell;bell cote;bell cot;bell founder;dinner napkin;silverpoint;toilet tissue;toilet paper;bathroom tissue;pargeting;pargetting;pargetry;dinner bell;school bell;

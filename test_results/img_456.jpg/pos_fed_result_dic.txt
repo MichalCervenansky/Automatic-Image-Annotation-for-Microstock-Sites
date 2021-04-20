@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;macro;shot;moss;melting;snow;
+from_object_detection:plant;flower;
+from_image_classification:bath salts;moquette;ice;water ice;sugar;refined sugar;shag rug;carpet pad;rug pad;underlay;underlayment;

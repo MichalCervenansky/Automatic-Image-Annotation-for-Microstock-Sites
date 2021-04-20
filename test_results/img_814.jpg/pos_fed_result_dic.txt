@@ -1,0 +1,3 @@
+from_image_IPTC:love;locks;bridge;paris;pont;des;arts;
+from_object_detection:vehicle;candy;footwear;toy;person;boat;food;poster;building;
+from_image_classification:cellophane;robotics equipment;automaton;robot;golem;padlock;pin;pin tumbler;tessera;ragbag;solar dish;solar collector;solar furnace;circuit board;circuit card;board;card;plug-in;add-in;potentiometer;dip switch;dual inline package switch;transistor;junction transistor;electronic transistor;p-n-p transistor;heat sink;fan;allen wrench;safety pin;capacitor;capacitance;condenser;electrical condenser;operating microscope;neurosurgeon;brain surgeon;android;humanoid;mechanical man;

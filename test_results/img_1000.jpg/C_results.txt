@@ -1,0 +1,8 @@
+boxes_1.jpg;alder,alder tree:0.17766286432743073;Monterey pine,Pinus radiata:0.05538620799779892;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.05072232335805893;
+boxes_2.jpg;lakeside,lakeshore:0.4847707152366638;negative:0.06265775859355927;
+boxes_3.jpg;alder,alder tree:0.2047397941350937;incense cedar,red cedar,Calocedrus decurrens,Libocedrus decurrens:0.13324514031410217;
+boxes_4.jpg;downy birch,white birch,Betula pubescens:0.16187815368175507;grey birch,gray birch,American grey birch,American gray birch,Betula populifolia:0.15397301316261292;swamp birch,water birch,mountain birch,Western paper birch,Western birch,Betula fontinalis:0.11700654774904251;white poplar,white aspen,abele,aspen poplar,silver-leaved poplar,Populus alba:0.08674587309360504;silver birch,common birch,European white birch,Betula pendula:0.07210831344127655;negative:0.06596235930919647;
+boxes_5.jpg;alder,alder tree:0.2800273895263672;white poplar,white aspen,abele,aspen poplar,silver-leaved poplar,Populus alba:0.06602202355861664;incense cedar,red cedar,Calocedrus decurrens,Libocedrus decurrens:0.05376503989100456;swamp birch,water birch,mountain birch,Western paper birch,Western birch,Betula fontinalis:0.05357091873884201;
+boxes_6.jpg;negative:0.062210116535425186;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.05141300708055496;
+boxes_7.jpg;white mountain ash,Eucalyptus fraxinoides:0.11158071458339691;
+img_1000.jpg;shore:0.20729632675647736;strand:0.16719844937324524;seaside,seaboard:0.12597709894180298;seashore,coast,seacoast,sea-coast:0.115650475025177;littoral,litoral,littoral zone,sands:0.07396917790174484;beach:0.054727256298065186;

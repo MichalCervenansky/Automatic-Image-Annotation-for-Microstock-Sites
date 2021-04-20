@@ -1,0 +1,9 @@
+boxes_1.jpg;sheet,bed sheet:0.667439877986908;quilted bedspread:0.07323580235242844;
+boxes_2.jpg;sheet,bed sheet:0.5779933929443359;quilted bedspread:0.08098684251308441;
+boxes_3.jpg;cocktail:0.06250414252281189;
+boxes_4.jpg;
+boxes_5.jpg;sheet,bed sheet:0.5921549797058105;quilted bedspread:0.06685738265514374;blanket,cover:0.06259842216968536;
+boxes_6.jpg;
+boxes_7.jpg;sheeting:0.05620475858449936;
+boxes_8.jpg;sheet,bed sheet:0.4794820249080658;
+img_566.jpg;sheet,bed sheet:0.5577391982078552;quilted bedspread:0.0795980766415596;blanket,cover:0.062419623136520386;

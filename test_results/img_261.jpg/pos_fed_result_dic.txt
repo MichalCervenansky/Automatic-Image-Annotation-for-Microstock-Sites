@@ -1,0 +1,3 @@
+from_image_IPTC:multiple;medicine;drug;pills;four;2;
+from_object_detection:food;candy;dessert;baked goods;snack;cosmetics;carrot;ball;
+from_image_classification:vitamin pill;bulb;hypodermic syringe;hypodermic;hypo;capsule;lozenge;dietary supplement;pill bottle;bottled water;nipple;light bulb;lightbulb;incandescent lamp;electric light;electric-light bulb;cylinder;marble;multivitamin;multivitamin pill;

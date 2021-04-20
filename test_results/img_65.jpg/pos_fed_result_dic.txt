@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;vista;house;oregon;state;
+from_object_detection:tree;plant;
+from_image_classification:shore;littoral;litoral;littoral zone;sands;beach;promontory;headland;head;foreland;foreshore;waterside;menorah;runway;outfall;shoreline;concertina;oceanfront;salver;yellow-fever mosquito;aedes aegypti;strand;surf casting;surf fishing;seashore;coast;seacoast;sea-coast;oxbow;spume;low-water mark;

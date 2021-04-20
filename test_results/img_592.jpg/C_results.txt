@@ -1,0 +1,4 @@
+boxes_1.jpg;booster,booster amplifier,booster station,relay link,relay station,relay transmitter:0.21366657316684723;modem:0.1740083247423172;wireless:0.07265889644622803;converter,convertor:0.06649885326623917;
+boxes_2.jpg;booster,booster amplifier,booster station,relay link,relay station,relay transmitter:0.13813622295856476;wireless:0.09844806045293808;iPod:0.08632900565862656;wireless local area network,WLAN,wireless fidelity,WiFi:0.05860377475619316;
+boxes_3.jpg;booster,booster amplifier,booster station,relay link,relay station,relay transmitter:0.15852496027946472;iPod:0.11548369377851486;Rediffusion:0.054157886654138565;
+img_592.jpg;iPod:0.08268091082572937;booster,booster amplifier,booster station,relay link,relay station,relay transmitter:0.07168350368738174;Rediffusion:0.06322113424539566;wireless local area network,WLAN,wireless fidelity,WiFi:0.058552294969558716;

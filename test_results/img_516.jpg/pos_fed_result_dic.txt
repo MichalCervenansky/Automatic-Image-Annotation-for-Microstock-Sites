@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:wheel;land vehicle;car;auto part;vehicle;train;tire;
+from_image_classification:steering wheel;wheel;splashboard;splasher;dashboard;driving wheel;speedometer;speed indicator;fascia;power steering;power-assisted steering;control panel;instrument panel;control board;board;panel;incubator;brooder;dust cover;dust sheet;smoke screen;smokescreen;

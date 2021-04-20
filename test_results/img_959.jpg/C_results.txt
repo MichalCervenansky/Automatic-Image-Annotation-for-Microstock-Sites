@@ -1,0 +1,10 @@
+boxes_1.jpg;knapweed:0.44434499740600586;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.40123340487480164;strawflower,cornflower,Uvularia grandiflora:0.07592127472162247;centaury:0.055359963327646255;
+boxes_2.jpg;knapweed:0.5281827449798584;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.2800699472427368;strawflower,cornflower,Uvularia grandiflora:0.08296092599630356;centaury:0.0716581791639328;
+boxes_3.jpg;knapweed:0.5072640776634216;strawflower,cornflower,Uvularia grandiflora:0.28896474838256836;centaury:0.09491859376430511;
+boxes_4.jpg;knapweed:0.5460304617881775;strawflower,cornflower,Uvularia grandiflora:0.29774928092956543;centaury:0.08368008583784103;
+boxes_5.jpg;knapweed:0.49894940853118896;centaury:0.24258185923099518;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.13112421333789825;
+boxes_6.jpg;aerides:0.12330248206853867;rattail cactus,rat's-tail cactus,Aporocactus flagelliformis:0.06006268039345741;horsemint,Monarda punctata:0.05803462862968445;
+boxes_7.jpg;knapweed:0.6779433488845825;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.2320898324251175;
+boxes_8.jpg;knapweed:0.4465021789073944;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.37214672565460205;centaury:0.08027100563049316;strawflower,cornflower,Uvularia grandiflora:0.0679081380367279;
+boxes_9.jpg;knapweed:0.46877264976501465;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.160984069108963;centaury:0.1016654223203659;stokes' aster,cornflower aster,Stokesia laevis:0.09883629530668259;
+img_959.jpg;cornflower,bachelor's button,bluebottle,Centaurea cyanus:0.37669628858566284;strawflower,cornflower,Uvularia grandiflora:0.23699085414409637;knapweed:0.1975060999393463;centaury:0.11755167692899704;

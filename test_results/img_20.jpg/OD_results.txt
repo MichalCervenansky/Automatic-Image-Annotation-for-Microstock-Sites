@@ -1,0 +1,5 @@
+boxes_1.jpg;animal:0.21726121
+boxes_2.jpg;bird:0.12888291
+boxes_3.jpg;plant:0.12509188
+boxes_4.jpg;plant:0.059645142
+boxes_5.jpg;fashion accessory:0.054188665

@@ -1,0 +1,3 @@
+from_image_IPTC:country;bosna;hercegovina;road;
+from_object_detection:tree;
+from_image_classification:sea fan;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;green douglas fir;douglas spruce;douglas pine;douglas hemlock;oregon fir;oregon pine;pseudotsuga menziesii;fir;fir tree;true fir;white fir;colorado fir;california white fir;abies concolor;abies lowiana;silver fir;coral reef;arborvitae;

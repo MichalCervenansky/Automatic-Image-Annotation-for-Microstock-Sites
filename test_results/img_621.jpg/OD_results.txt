@@ -1,0 +1,58 @@
+boxes_1.jpg;table:0.86432856
+boxes_2.jpg;picture frame:0.6129237
+boxes_3.jpg;house:0.5879124
+boxes_4.jpg;house:0.50727236
+boxes_5.jpg;table:0.4914003
+boxes_6.jpg;chair:0.48745754
+boxes_7.jpg;picture frame:0.48663074
+boxes_8.jpg;chair:0.38607034
+boxes_9.jpg;clothing:0.38018787
+boxes_10.jpg;person:0.37595263
+boxes_11.jpg;clothing:0.34393632
+boxes_12.jpg;cabinetry:0.3319555
+boxes_13.jpg;person:0.32060114
+boxes_14.jpg;building:0.31701073
+boxes_15.jpg;curtain:0.2920688
+boxes_16.jpg;human face:0.24247712
+boxes_17.jpg;cabinetry:0.22529675
+boxes_18.jpg;furniture:0.22102945
+boxes_19.jpg;wheel:0.2039154
+boxes_20.jpg;furniture:0.19076927
+boxes_21.jpg;person:0.16830961
+boxes_22.jpg;furniture:0.15808743
+boxes_23.jpg;furniture:0.15072685
+boxes_24.jpg;wheel:0.14379184
+boxes_25.jpg;desk:0.14152431
+boxes_26.jpg;building:0.13528018
+boxes_27.jpg;curtain:0.13493247
+boxes_28.jpg;chair:0.13304073
+boxes_29.jpg;furniture:0.13069624
+boxes_30.jpg;chair:0.12017248
+boxes_31.jpg;person:0.11345037
+boxes_32.jpg;chair:0.105067015
+boxes_33.jpg;cabinetry:0.10323779
+boxes_34.jpg;woman:0.100061245
+boxes_35.jpg;furniture:0.09485844
+boxes_36.jpg;picture frame:0.088955045
+boxes_37.jpg;human face:0.08808849
+boxes_38.jpg;man:0.08733144
+boxes_39.jpg;clothing:0.084914036
+boxes_40.jpg;cabinetry:0.08351031
+boxes_41.jpg;nightstand:0.08114256
+boxes_42.jpg;furniture:0.07894393
+boxes_43.jpg;human face:0.07530072
+boxes_44.jpg;furniture:0.07480084
+boxes_45.jpg;clothing:0.0710305
+boxes_46.jpg;curtain:0.070861034
+boxes_47.jpg;kitchen & dining room table:0.068098575
+boxes_48.jpg;table:0.068026215
+boxes_49.jpg;furniture:0.067143336
+boxes_50.jpg;furniture:0.06667385
+boxes_51.jpg;door:0.06496594
+boxes_52.jpg;person:0.06351764
+boxes_53.jpg;man:0.06304081
+boxes_54.jpg;person:0.059807274
+boxes_55.jpg;furniture:0.05562266
+boxes_56.jpg;building:0.054616828
+boxes_57.jpg;woman:0.052584786
+boxes_58.jpg;human head:0.05147835

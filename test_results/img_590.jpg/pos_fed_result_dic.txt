@@ -1,0 +1,3 @@
+from_image_IPTC:white;smart;phone;graphite;desk;
+from_object_detection:mobile phone;wheel;
+from_image_classification:cellular telephone;cellular phone;cellphone;cell;mobile phone;device;appliance;contraption;contrivance;convenience;gadget;gizmo;gismo;widget;playback;wireless local area network;wlan;wireless fidelity;wifi;ipod;

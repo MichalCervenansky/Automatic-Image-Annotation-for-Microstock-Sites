@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:flower;plant;
+from_image_classification:negative;soda water;carbonated water;club soda;seltzer;sparkling water;plughole;plumbago;water hyacinth;water orchid;eichhornia crassipes;eichhornia spesiosa;corolla;persian iris;iris persica;venus' slipper;venus's slipper;venus's shoe;night-light;

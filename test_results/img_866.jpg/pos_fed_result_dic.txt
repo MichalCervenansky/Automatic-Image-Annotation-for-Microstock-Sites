@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;landscape;misty;lake;yellowstone;national;park;usa;
+from_object_detection:
+from_image_classification:ice floe;floe;

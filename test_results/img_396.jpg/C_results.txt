@@ -1,0 +1,15 @@
+boxes_1.jpg;brush:0.19077813625335693;fleabane:0.11023762822151184;hairbrush:0.08732619136571884;livingstone daisy,Dorotheanthus bellidiformis:0.07312694191932678;soup-strainer,toothbrush:0.0563332661986351;
+boxes_10.jpg;squash bug,Anasa tristis:0.31178128719329834;stokes' aster,cornflower aster,Stokesia laevis:0.09964852035045624;seaside daisy,beach aster,Erigeron glaucous:0.05991651490330696;
+boxes_11.jpg;fleabane,feabane mullet,Pulicaria dysenterica:0.22854647040367126;fleabane:0.2221573442220688;
+boxes_12.jpg;squash bug,Anasa tristis:0.08718930929899216;
+boxes_13.jpg;tussock caterpillar:0.2910560071468353;
+boxes_14.jpg;fleabane:0.18144114315509796;showy daisy,Erigeron speciosus:0.1646052896976471;livingstone daisy,Dorotheanthus bellidiformis:0.151519313454628;brush:0.14166894555091858;Swan River daisy,Brachycome Iberidifolia:0.05023643746972084;
+boxes_2.jpg;fleabane:0.4134206175804138;daisy fleabane,Erigeron annuus:0.17120103538036346;showy daisy,Erigeron speciosus:0.07313170284032822;
+boxes_3.jpg;squash bug,Anasa tristis:0.3571518361568451;
+boxes_4.jpg;brush:0.35363414883613586;soup-strainer,toothbrush:0.09356006979942322;
+boxes_5.jpg;brush:0.48265495896339417;fleabane:0.2614757716655731;showy daisy,Erigeron speciosus:0.06270301342010498;
+boxes_6.jpg;fleabane:0.7173596024513245;
+boxes_7.jpg;daisy fleabane,Erigeron annuus:0.21413199603557587;fleabane:0.16156160831451416;
+boxes_8.jpg;greater masterwort,Astrantia major:0.13107338547706604;
+boxes_9.jpg;brush:0.15048351883888245;horseweed,Canadian fleabane,fleabane,Conyza canadensis,Erigeron canadensis:0.11655144393444061;blue daisy,blue marguerite,Felicia amelloides:0.05871846154332161;fleabane:0.05771784111857414;
+img_396.jpg;blue daisy,blue marguerite,Felicia amelloides:0.27453815937042236;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.12153971940279007;horseweed,Canadian fleabane,fleabane,Conyza canadensis,Erigeron canadensis:0.0861470177769661;brush:0.07163943350315094;

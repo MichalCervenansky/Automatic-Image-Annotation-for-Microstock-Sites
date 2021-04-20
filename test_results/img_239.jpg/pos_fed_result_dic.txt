@@ -1,0 +1,3 @@
+from_image_IPTC:perge;historical;roman;column;gate;
+from_object_detection:tree;tower;sculpture;palm tree;building;plant;
+from_image_classification:agora;entablature;peristyle;mausoleum;colonnade;post;portico;column;pillar;architrave;royal palm;roystonea regia;repository;monument;memorial;cenotaph;empty tomb;support column;cornice;

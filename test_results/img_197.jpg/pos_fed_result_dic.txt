@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;yellow;flower;turkey;mountains;
+from_object_detection:flower;plant;
+from_image_classification:jade vine;emerald creeper;strongylodon macrobotrys;silene;campion;catchfly;easter daisy;stemless daisy;townsendia exscapa;blue daisy;blue marguerite;felicia amelloides;composite;composite plant;negative;hysterosalpingogram;ligament;arthrogram;nipple;mouthpiece;gumshield;scuba diving;skin diving;skin-dive;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;snow-on-the-mountain;snow-in-summer;ghost weed;euphorbia marginata;

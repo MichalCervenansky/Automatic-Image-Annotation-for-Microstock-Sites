@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;croatia;
+from_object_detection:marine invertebrates;plant;fish;invertebrate;squid;animal;crab;
+from_image_classification:benthos;benthic division;benthonic zone;coral reef;scuba diving;ice mass;giant clam;tridacna gigas;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;octopus;devilfish;cell;triggerfish;angel shark;angelfish;squatina squatina;monkfish;stonefish;synanceja verrucosa;snowdrift;sledding;young fish;sleeper;sleeper goby;damselfish;demoiselle;jawfish;wolffish;wolf fish;catfish;cornetfish;ice;water ice;verdigris;reef;trumpetfish;aulostomus maculatus;

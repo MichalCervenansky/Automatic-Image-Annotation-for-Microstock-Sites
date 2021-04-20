@@ -1,0 +1,3 @@
+from_image_IPTC:narrow;street;croatian;village;nerezine;second;
+from_object_detection:house;building;window;tree;plant;
+from_image_classification:sidewalk;pavement;street;streetcar;tram;tramcar;trolley;trolley car;tramline;tramway;streetcar track;post;toilet;lavatory;lav;can;john;privy;bathroom;shower curtain;hoist;sunniness;window;tear gas;teargas;lacrimator;lachrymator;beggarwoman;balcony;

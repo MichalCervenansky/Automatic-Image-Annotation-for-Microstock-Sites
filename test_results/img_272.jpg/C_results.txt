@@ -1,0 +1,6 @@
+boxes_1.jpg;gyrfalcon,gerfalcon,Falco rusticolus:0.8445539474487305;tiercel,tercel,tercelet:0.06680243462324142;
+boxes_2.jpg;gyrfalcon,gerfalcon,Falco rusticolus:0.5991409420967102;tiercel,tercel,tercelet:0.17773829400539398;bird:0.0943501889705658;
+boxes_3.jpg;bird:0.3336491286754608;gyrfalcon,gerfalcon,Falco rusticolus:0.12259490042924881;tiercel,tercel,tercelet:0.1097591370344162;bird of prey,raptor,raptorial bird:0.0729636400938034;
+boxes_4.jpg;gyrfalcon,gerfalcon,Falco rusticolus:0.7941934466362;tiercel,tercel,tercelet:0.10686898231506348;
+boxes_5.jpg;spark gap:0.0554409921169281;
+img_272.jpg;gyrfalcon,gerfalcon,Falco rusticolus:0.7807535529136658;tiercel,tercel,tercelet:0.09891486912965775;

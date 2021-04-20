@@ -1,0 +1,6 @@
+boxes_1.jpg;console:0.13970670104026794;interface,port:0.1049400046467781;appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget:0.0904168039560318;
+boxes_2.jpg;console:0.14639504253864288;interface,port:0.13060596585273743;appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget:0.06302358955144882;
+boxes_3.jpg;console:0.20834141969680786;interface,port:0.14581315219402313;appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget:0.056787412613630295;
+boxes_4.jpg;interface,port:0.15786583721637726;console:0.15357650816440582;appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget:0.07458062469959259;
+boxes_5.jpg;console:0.2172803431749344;interface,port:0.07075951248407364;appliance,contraption,contrivance,convenience,gadget,gizmo,gismo,widget:0.07071764022111893;
+img_587.jpg;console:0.10310811549425125;interface,port:0.10273473709821701;stylus:0.06772519648075104;modem:0.06363478302955627;

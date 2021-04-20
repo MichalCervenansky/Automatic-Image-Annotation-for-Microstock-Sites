@@ -1,0 +1,7 @@
+boxes_1.jpg;
+boxes_2.jpg;smoke screen,smokescreen:0.17844320833683014;car bomb:0.09573019295930862;private,buck private,common soldier:0.05922388285398483;
+boxes_3.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.1075451448559761;seashore,coast,seacoast,sea-coast:0.05440078303217888;garbage heap,junk heap,rubbish heap,scrapheap,trash heap,junk pile,trash pile,refuse heap:0.05356599763035774;
+boxes_4.jpg;Alpine glacier,Alpine type of glacier:0.17677830159664154;glacier:0.11425857245922089;ice mass:0.06771153956651688;mountain,mount:0.050808604806661606;
+boxes_5.jpg;lame:0.08354919403791428;
+boxes_6.jpg;
+img_128.jpg;Alpine glacier,Alpine type of glacier:0.5649648308753967;glacier:0.223707377910614;

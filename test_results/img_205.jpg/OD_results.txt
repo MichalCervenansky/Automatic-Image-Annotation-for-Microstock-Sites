@@ -1,0 +1,15 @@
+boxes_1.jpg;sculpture:0.80489683
+boxes_2.jpg;tree:0.5950669
+boxes_3.jpg;tree:0.2919411
+boxes_4.jpg;tree:0.18392183
+boxes_5.jpg;tree:0.1632363
+boxes_6.jpg;tree:0.1395442
+boxes_7.jpg;tree:0.13758875
+boxes_8.jpg;tree:0.10826847
+boxes_9.jpg;tree:0.08106811
+boxes_10.jpg;tree:0.07633038
+boxes_11.jpg;tree:0.0639226
+boxes_12.jpg;tree:0.05843316
+boxes_13.jpg;tree:0.056697253
+boxes_14.jpg;tree:0.05404333
+boxes_15.jpg;tree:0.05033455

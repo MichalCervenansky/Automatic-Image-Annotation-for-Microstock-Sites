@@ -1,0 +1,3 @@
+from_image_IPTC:soft;female;hand;holding;various;objects;gel;fingernails;
+from_object_detection:person;clothing;pen;human hand;office supplies;human arm;toothbrush;
+from_image_classification:swab;cigarette holder;thumbhole;finger;thumb;cast;plaster cast;plaster bandage;autoinjector;needle;fingerstall;cot;tampon;hypodermic needle;gauntlet;gantlet;wool;woolen;woollen;

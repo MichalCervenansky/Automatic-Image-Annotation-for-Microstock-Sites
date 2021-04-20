@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tree;tire;plant;vehicle registration plate;window;
+from_image_classification:windshield;windscreen;motor vehicle;automotive vehicle;car;auto;automobile;machine;motorcar;car door;body;luggage compartment;automobile trunk;trunk;foglamp;vehicle;car wheel;bumper;used-car;secondhand car;outside mirror;luggage rack;roof rack;bumper guard;fifth wheel;spare;tailpipe;windowsill;autobahn;safety rail;guardrail;superhighway;information superhighway;wiper;wiper arm;contact arm;strand;dingo;warrigal;warragal;canis dingo;dune buggy;beach buggy;hot rod;hot-rod;elevator car;nonsmoker;nonsmoking car;pickup;pickup truck;fomite;arterial road;

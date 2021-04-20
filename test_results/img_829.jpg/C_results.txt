@@ -1,0 +1,16 @@
+boxes_1.jpg;lakeside,lakeshore:0.14402443170547485;littoral,litoral,littoral zone,sands:0.11131938546895981;pinetum:0.09534204751253128;seashore,coast,seacoast,sea-coast:0.07342908531427383;waterside:0.06752974539995193;
+boxes_10.jpg;lakeside,lakeshore:0.21717892587184906;riverbank,riverside:0.1676533818244934;park bench:0.08107346296310425;littoral,litoral,littoral zone,sands:0.06118546798825264;arroyo:0.05941721051931381;seashore,coast,seacoast,sea-coast:0.05013395845890045;
+boxes_11.jpg;riverbank,riverside:0.33796393871307373;waterside:0.08628690987825394;river boat:0.06036316230893135;lakeside,lakeshore:0.053020358085632324;
+boxes_12.jpg;Japanese beech:0.06954635679721832;western white pine,silver pine,mountain pine,Pinus monticola:0.06754106283187866;yellow pine:0.05168381705880165;
+boxes_13.jpg;penal institution,penal facility:0.07702288776636124;
+boxes_14.jpg;smoke screen,smokescreen:0.06307435780763626;
+boxes_15.jpg;
+boxes_2.jpg;lakeside,lakeshore:0.09126918017864227;park bench:0.060564108192920685;
+boxes_3.jpg;oil paint:0.10122745484113693;
+boxes_4.jpg;lakeside,lakeshore:0.09052913635969162;seashore,coast,seacoast,sea-coast:0.0858784168958664;littoral,litoral,littoral zone,sands:0.0758984163403511;hemlock,hemlock tree:0.07003488391637802;Torrey pine,Torrey's pine,soledad pine,grey-leaf pine,sabine pine,Pinus torreyana:0.05829281359910965;western white pine,silver pine,mountain pine,Pinus monticola:0.05773592367768288;
+boxes_5.jpg;park bench:0.11387751996517181;arroyo:0.05696183070540428;tree:0.05281348153948784;sunniness:0.05235821008682251;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;stone pine,umbrella pine,European nut pine,Pinus pinea:0.05463763698935509;
+boxes_9.jpg;lakeside,lakeshore:0.20132111012935638;littoral,litoral,littoral zone,sands:0.16042068600654602;seashore,coast,seacoast,sea-coast:0.15500739216804504;low-water mark:0.054175835102796555;
+img_829.jpg;waterside:0.41818058490753174;sunniness:0.12151265889406204;riverbank,riverside:0.07465589791536331;lakeside,lakeshore:0.06732304394245148;arroyo:0.05128728598356247;

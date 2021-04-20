@@ -1,0 +1,17 @@
+boxes_1.jpg;flower:0.9485945
+boxes_2.jpg;flower:0.9364616
+boxes_3.jpg;flower:0.91256356
+boxes_4.jpg;flower:0.8352155
+boxes_5.jpg;sunflower:0.4015583
+boxes_6.jpg;flower:0.20252949
+boxes_7.jpg;sunflower:0.20039302
+boxes_8.jpg;flower:0.18897544
+boxes_9.jpg;flower:0.12614432
+boxes_10.jpg;sunflower:0.11428932
+boxes_11.jpg;flower:0.10303391
+boxes_12.jpg;flower:0.09758927
+boxes_13.jpg;flower:0.09346639
+boxes_14.jpg;flower:0.0668097
+boxes_15.jpg;sunflower:0.05924487
+boxes_16.jpg;sunflower:0.054940134
+boxes_17.jpg;flower:0.053002547

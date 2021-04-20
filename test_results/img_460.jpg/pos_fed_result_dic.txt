@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;christmas;decoration;tree;
+from_object_detection:lamp;flower;person;light bulb;man;plant;clothing;ball;fashion accessory;drink;toy;human face;wine glass;
+from_image_classification:marble;ball;bulb;air bubble;spherule;balloon;balloon bomb;fugo;white whale;beluga;delphinapterus leucas;scuba diving;easter egg;screen;crt screen;benthos;benthic division;benthonic zone;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;snorkel;schnorkel;schnorchel;snorkel breather;breather;skin-diver;aquanaut;skin diving;skin-dive;snorkeling;snorkel diving;aqualung;aqua-lung;scuba;embellishment;

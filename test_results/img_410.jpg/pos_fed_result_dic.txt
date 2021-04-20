@@ -1,0 +1,3 @@
+from_image_IPTC:sharp;cool;waterdrops;dew;leaves;
+from_object_detection:plant;flower;tree;
+from_image_classification:mildew;dewdrop;water clover;marsilea quadrifolia;waterleaf;leaf shape;leaf form;air bubble;alfalfa;japanese clover;japan clover;jap clover;lespedeza striata;

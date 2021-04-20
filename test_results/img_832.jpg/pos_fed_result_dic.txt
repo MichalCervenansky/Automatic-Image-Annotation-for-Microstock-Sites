@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;house;beach;hvar;
+from_object_detection:house;window;tree;building;clothing;door;vehicle;porch;
+from_image_classification:country house;rendering;housing;lodging;living accommodations;domicile;legal residence;bus stop;arbor;arbour;bower;pergola;shelter;display window;shop window;shopwindow;show window;georgette;khadi;khaddar;housetop;lambrequin;mason;stonemason;prefab;school;schoolhouse;establishment;cornice;valance;valance board;pelmet;window;stovepipe;rain barrel;window frame;blind;screen;whitewash;porch;veranda;verandah;gallery;weight;free weight;exercising weight;roller blind;drapery;rest house;highboard;

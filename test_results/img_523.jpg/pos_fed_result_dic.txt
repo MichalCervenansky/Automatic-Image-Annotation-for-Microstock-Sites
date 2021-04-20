@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tire;tree;
+from_image_classification:beige;ecru;coupe;car;elevator car;power steering;power-assisted steering;body;luggage rack;roof rack;canopy;motorboat;powerboat;outside mirror;jolly boat;jolly;used-car;secondhand car;dickey;dickie;dicky;dickey-seat;dickie-seat;dicky-seat;windshield;windscreen;car door;tailpipe;car wheel;hubcap;tread;radial;radial tire;radial-ply tire;spoke;wheel spoke;radius;hot rod;hot-rod;bumper;foglamp;westland pine;silver pine;lagarostrobus colensoi;white fir;colorado fir;california white fir;abies concolor;abies lowiana;fifth wheel;spare;

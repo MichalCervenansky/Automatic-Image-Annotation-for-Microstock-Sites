@@ -1,0 +1,16 @@
+boxes_1.jpg;bird:0.96079534
+boxes_2.jpg;plant:0.22537956
+boxes_3.jpg;plant:0.20562954
+boxes_4.jpg;plant:0.19692542
+boxes_5.jpg;plant:0.17642547
+boxes_6.jpg;chicken:0.15792406
+boxes_7.jpg;plant:0.13553262
+boxes_8.jpg;plant:0.13537945
+boxes_9.jpg;plant:0.1213784
+boxes_10.jpg;plant:0.11494315
+boxes_11.jpg;plant:0.089131534
+boxes_12.jpg;plant:0.08687319
+boxes_13.jpg;plant:0.08444167
+boxes_14.jpg;plant:0.077101715
+boxes_15.jpg;plant:0.05564165
+boxes_16.jpg;plant:0.054236438

@@ -1,0 +1,3 @@
+boxes_1.jpg;fruit:0.8713934
+boxes_2.jpg;tomato:0.1822271
+boxes_3.jpg;food:0.099107064

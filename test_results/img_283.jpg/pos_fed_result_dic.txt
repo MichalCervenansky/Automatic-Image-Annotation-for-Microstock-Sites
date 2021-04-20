@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;american;eagle;sitting;perch;roost;zoo;
+from_object_detection:eagle;falcon;raven;bird;
+from_image_classification:booby;ern;erne;grey sea eagle;gray sea eagle;european sea eagle;white-tailed sea eagle;haliatus albicilla;harpy;harpy eagle;harpia harpyja;sea eagle;kamchatkan sea eagle;stellar's sea eagle;haliaeetus pelagicus;

@@ -1,0 +1,21 @@
+boxes_1.jpg;clothing:0.6475047
+boxes_2.jpg;flag:0.6360972
+boxes_3.jpg;flag:0.4339307
+boxes_4.jpg;pillow:0.313893
+boxes_5.jpg;clothing:0.30391946
+boxes_6.jpg;window:0.2686882
+boxes_7.jpg;fashion accessory:0.26429898
+boxes_8.jpg;flower:0.26018596
+boxes_9.jpg;flag:0.24921985
+boxes_10.jpg;pillow:0.24647102
+boxes_11.jpg;clothing:0.22845547
+boxes_12.jpg;flower:0.13849325
+boxes_13.jpg;flower:0.12234608
+boxes_14.jpg;flower:0.120488554
+boxes_15.jpg;flower:0.1191264
+boxes_16.jpg;fashion accessory:0.10999485
+boxes_17.jpg;flower:0.08755136
+boxes_18.jpg;flag:0.077518605
+boxes_19.jpg;plant:0.07646187
+boxes_20.jpg;dress:0.07336324
+boxes_21.jpg;flag:0.07245843

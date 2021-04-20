@@ -1,0 +1,24 @@
+boxes_1.jpg;fashion accessory:0.6916219
+boxes_2.jpg;human face:0.50158983
+boxes_3.jpg;flower:0.4301985
+boxes_4.jpg;christmas tree:0.41606873
+boxes_5.jpg;plant:0.36528045
+boxes_6.jpg;plant:0.3196911
+boxes_7.jpg;person:0.30741963
+boxes_8.jpg;fashion accessory:0.30361485
+boxes_9.jpg;flower:0.29511926
+boxes_10.jpg;doll:0.23960435
+boxes_11.jpg;plant:0.20785573
+boxes_12.jpg;plant:0.19021595
+boxes_13.jpg;human head:0.17709444
+boxes_14.jpg;plant:0.1440036
+boxes_15.jpg;mammal:0.14224224
+boxes_16.jpg;clothing:0.09551076
+boxes_17.jpg;fashion accessory:0.089547485
+boxes_18.jpg;woman:0.08757782
+boxes_19.jpg;toy:0.08325886
+boxes_20.jpg;fruit:0.07737637
+boxes_21.jpg;animal:0.076805286
+boxes_22.jpg;flower:0.06594825
+boxes_23.jpg;food:0.064662166
+boxes_24.jpg;fashion accessory:0.052204937

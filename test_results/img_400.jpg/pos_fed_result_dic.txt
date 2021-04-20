@@ -1,0 +1,3 @@
+from_image_IPTC:autumn;valley;full;leaves;
+from_object_detection:tree;maple;
+from_image_classification:sunniness;bridle path;bridle road;negative;tarmacadam;tarmac;macadam;snow;snowfall;road;route;canyon oak;canyon live oak;maul oak;iron oak;quercus chrysolepis;live oak;california white oak;valley oak;valley white oak;roble;quercus lobata;california black oak;quercus kelloggii;brazilian rosewood;caviuna wood;jacaranda;dalbergia nigra;blind curve;blind bend;uphill;

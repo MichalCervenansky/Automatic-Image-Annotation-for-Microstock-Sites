@@ -1,0 +1,18 @@
+boxes_1.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.6515589356422424;
+boxes_10.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.25333115458488464;strand:0.05362161993980408;stony coral,madrepore,madriporian coral:0.051165398210287094;
+boxes_11.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.28344660997390747;stony coral,madrepore,madriporian coral:0.14105618000030518;sea squirt:0.0551205538213253;
+boxes_12.jpg;
+boxes_13.jpg;arete:0.27539312839508057;talus,scree:0.1484632045030594;ben:0.14782285690307617;polar glacier:0.08171630650758743;cirque,corrie,cwm:0.06247095763683319;
+boxes_14.jpg;arete:0.27539312839508057;talus,scree:0.1484632045030594;ben:0.14782285690307617;polar glacier:0.08171630650758743;cirque,corrie,cwm:0.06247095763683319;
+boxes_15.jpg;ridge:0.34742504358291626;ledge,shelf:0.11631198227405548;mountainside,versant:0.10456963628530502;
+boxes_16.jpg;shore:0.2713818848133087;atoll:0.08655178546905518;strand:0.056727223098278046;
+boxes_17.jpg;shore:0.24361848831176758;seashore,coast,seacoast,sea-coast:0.1321251541376114;sandbar,sand bar:0.06609438359737396;bank:0.05876682698726654;strand:0.05059296265244484;
+boxes_2.jpg;foothill:0.18481434881687164;talus,scree:0.08483193069696426;ridge:0.06468263268470764;
+boxes_3.jpg;shore:0.1502002775669098;Alpine glacier,Alpine type of glacier:0.14427317678928375;drumlin:0.09221676737070084;lakeside,lakeshore:0.06205419823527336;
+boxes_4.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.5662442445755005;
+boxes_5.jpg;shore:0.15469978749752045;waterside:0.14330360293388367;riverbank,riverside:0.13060539960861206;meander:0.07631725072860718;bank:0.07403559982776642;negative:0.05847769230604172;
+boxes_6.jpg;atoll:0.25392386317253113;coral reef:0.10428079962730408;barrier reef:0.07065260410308838;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;shore:0.25834497809410095;seashore,coast,seacoast,sea-coast:0.08942337334156036;strand:0.0750824585556984;sandbar,sand bar:0.07171519100666046;
+img_411.jpg;ben:0.2613780200481415;polar glacier:0.12781156599521637;talus,scree:0.11599770933389664;arete:0.10712727159261703;cirque,corrie,cwm:0.055121783167123795;

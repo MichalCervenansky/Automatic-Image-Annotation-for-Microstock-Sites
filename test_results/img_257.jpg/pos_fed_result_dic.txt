@@ -1,0 +1,3 @@
+from_image_IPTC:multiple;packs;drug;pills;
+from_object_detection:fashion accessory;candy;ball;food;cosmetics;toy;tableware;
+from_image_classification:blister pack;bubble pack;soap dish;face powder;vitamin pill;multivitamin;multivitamin pill;lozenge;capsule;dietary supplement;toilet powder;bath powder;dusting powder;

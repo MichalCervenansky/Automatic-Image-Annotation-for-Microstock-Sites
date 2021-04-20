@@ -1,0 +1,13 @@
+boxes_1.jpg;
+boxes_10.jpg;negative:0.055340368300676346;
+boxes_11.jpg;
+boxes_12.jpg;smoke screen,smokescreen:0.5213803648948669;
+boxes_2.jpg;
+boxes_3.jpg;stony coral,madrepore,madriporian coral:0.0683821365237236;verticillium:0.06200681999325752;smoke bush:0.05356786400079727;
+boxes_4.jpg;tumbleweed:0.11192304641008377;
+boxes_5.jpg;wave:0.10090174525976181;
+boxes_6.jpg;smoke screen,smokescreen:0.14029435813426971;
+boxes_7.jpg;tumbleweed:0.13991254568099976;
+boxes_8.jpg;
+boxes_9.jpg;slope,incline,side:0.66880202293396;hillside:0.06857920438051224;
+img_365.jpg;glacier:0.3378899395465851;icecap,ice cap:0.19591662287712097;ice mass:0.16691447794437408;snowcap:0.05347464978694916;

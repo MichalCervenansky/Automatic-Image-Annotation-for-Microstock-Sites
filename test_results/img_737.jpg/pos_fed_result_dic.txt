@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;black;scorpionfish;sea;cave;croatia;
+from_object_detection:animal;fish;marine invertebrates;invertebrate;seahorse;
+from_image_classification:blenny;combtooth blenny;gunnel;bracketed blenny;greenling;hind;jewfish;mycteroperca bonaci;gudgeon;gobio gobio;soapfish;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;waterfalls;near;blagaj;bosna;hercegovina;
+from_object_detection:tree;house;plant;building;
+from_image_classification:arroyo;wave;spume;septic tank;raft;steep;bluff;branch water;gorge;valley;vale;descent;declivity;fall;decline;declination;declension;downslope;ravine;riverbank;riverside;crag;ledge;shelf;precipice;sunniness;ridge;lockage;mountainside;versant;water polo;swimming;swim;railroad tunnel;ditch;dust storm;duster;sandstorm;sirocco;atom bomb;atomic bomb;a-bomb;fission bomb;plutonium bomb;defile;surfing;surfboarding;surfriding;adit;foothill;

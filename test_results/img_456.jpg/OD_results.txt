@@ -1,0 +1,5 @@
+boxes_1.jpg;plant:0.7375669
+boxes_2.jpg;plant:0.49907416
+boxes_3.jpg;plant:0.22074148
+boxes_4.jpg;plant:0.10321147
+boxes_5.jpg;flower:0.07673376

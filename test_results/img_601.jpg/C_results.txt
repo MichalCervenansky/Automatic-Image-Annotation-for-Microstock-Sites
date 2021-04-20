@@ -1,0 +1,13 @@
+boxes_1.jpg;mouse,computer mouse:0.902359664440155;mouse button:0.08584088087081909;
+boxes_10.jpg;mouse,computer mouse:0.8061504364013672;peripheral,computer peripheral,peripheral device:0.0726054459810257;
+boxes_11.jpg;mouse,computer mouse:0.7747732400894165;peripheral,computer peripheral,peripheral device:0.07519994676113129;
+boxes_12.jpg;mouse,computer mouse:0.8164325952529907;peripheral,computer peripheral,peripheral device:0.08651077747344971;
+boxes_2.jpg;mouse,computer mouse:0.8360751867294312;
+boxes_3.jpg;mouse,computer mouse:0.8490425944328308;mouse button:0.07477270066738129;
+boxes_4.jpg;mouse,computer mouse:0.7258614301681519;peripheral,computer peripheral,peripheral device:0.10746407508850098;mouse button:0.07309386134147644;
+boxes_5.jpg;mouse,computer mouse:0.7918965816497803;peripheral,computer peripheral,peripheral device:0.0683247298002243;
+boxes_6.jpg;mouse,computer mouse:0.82245272397995;peripheral,computer peripheral,peripheral device:0.06512238085269928;
+boxes_7.jpg;mouse,computer mouse:0.795705258846283;peripheral,computer peripheral,peripheral device:0.08091069012880325;
+boxes_8.jpg;temporary hookup,patch:0.1909162551164627;peripheral,computer peripheral,peripheral device:0.12284880131483078;mouse,computer mouse:0.07793941348791122;telephone line,phone line,telephone circuit,subscriber line,line:0.07195068150758743;
+boxes_9.jpg;mouse,computer mouse:0.8444120287895203;peripheral,computer peripheral,peripheral device:0.06740864366292953;
+img_601.jpg;mouse,computer mouse:0.6793273091316223;peripheral,computer peripheral,peripheral device:0.08550596982240677;

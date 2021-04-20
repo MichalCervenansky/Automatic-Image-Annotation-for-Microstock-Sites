@@ -1,0 +1,3 @@
+from_image_IPTC:cute;beautiful;turtle;grass;
+from_object_detection:tortoise;plant;sea turtle;flower;
+from_image_classification:desert tortoise;gopherus agassizii;gopher tortoise;gopher turtle;gopher;gopherus polypemus;creeping oxalis;creeping wood sorrel;oxalis corniculata;nardoo;nardo;common nardoo;marsilea drummondii;mountainside;versant;reptile;reptilian;negative;testudo;terrapin;soft-shelled turtle;pancake turtle;western box turtle;terrapene ornata;

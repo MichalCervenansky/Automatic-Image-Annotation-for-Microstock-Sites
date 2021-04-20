@@ -1,0 +1,10 @@
+boxes_1.jpg;goby,gudgeon:0.49456197023391724;blenny,combtooth blenny:0.14781475067138672;lizardfish,snakefish,snake-fish:0.13113278150558472;gudgeon,Gobio gobio:0.12448567897081375;
+boxes_2.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.8835263252258301;
+boxes_3.jpg;goby,gudgeon:0.48034825921058655;gudgeon,Gobio gobio:0.20897209644317627;blenny,combtooth blenny:0.12163033336400986;lizardfish,snakefish,snake-fish:0.10089729726314545;
+boxes_4.jpg;dugong,Dugong dugon:0.11633775383234024;white whale,beluga,Delphinapterus leucas:0.051806703209877014;
+boxes_5.jpg;ascidian:0.053589291870594025;
+boxes_6.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.30873435735702515;lodestone,loadstone:0.06216724216938019;
+boxes_7.jpg;cornetfish:0.06991405040025711;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06294112652540207;
+boxes_8.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.3912297487258911;cornetfish:0.15731625258922577;
+boxes_9.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.20136135816574097;cornetfish:0.18897856771945953;
+img_710.jpg;blenny,combtooth blenny:0.4100576639175415;goby,gudgeon:0.2137029618024826;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.19150204956531525;mudskipper,mudspringer:0.10256905108690262;

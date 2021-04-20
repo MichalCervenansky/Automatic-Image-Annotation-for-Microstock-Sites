@@ -1,0 +1,3 @@
+from_image_IPTC:view;paris;city;from;eifell;tower;
+from_object_detection:tower;tree;building;skyscraper;
+from_image_classification:whispering gallery;whispering dome;computer user;hill;ascent;acclivity;rise;raise;climb;upgrade;telpherage;telferage;waterfront;ski jumping;stadium;bowl;arena;sports stadium;hillside;ski tow;ski lift;lift;slope;incline;side;canvas tent;canvas;canvass;mountainside;versant;steep;capitol;stronghold;fastness;high-rise;tower block;frigate;bulwark;cable car;car;mecca;snow;snowfall;

@@ -1,0 +1,4 @@
+boxes_1.jpg;dog:0.99467033
+boxes_2.jpg;toy:0.36760876
+boxes_3.jpg;toy:0.15430962
+boxes_4.jpg;toy:0.072110444

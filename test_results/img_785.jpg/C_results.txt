@@ -1,0 +1,15 @@
+boxes_1.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.22055287659168243;slope,incline,side:0.14422443509101868;descent,declivity,fall,decline,declination,declension,downslope:0.07165630161762238;
+boxes_10.jpg;
+boxes_11.jpg;negative:0.5224985480308533;sunniness:0.05340533331036568;artwork,art,graphics,nontextual matter:0.05167270451784134;
+boxes_12.jpg;glacier:0.10581115633249283;ice mass:0.09251511096954346;icecap,ice cap:0.08564510196447372;climber:0.06714089959859848;
+boxes_13.jpg;sea lion:0.062091629952192307;
+boxes_14.jpg;
+boxes_2.jpg;slope,incline,side:0.05138494074344635;
+boxes_3.jpg;slope,incline,side:0.24932128190994263;ridge:0.08283394575119019;
+boxes_4.jpg;windshield,windscreen:0.08459216356277466;
+boxes_5.jpg;negative:0.36722123622894287;artwork,art,graphics,nontextual matter:0.0874156579375267;arroyo:0.05122657120227814;lakeside,lakeshore:0.05037349462509155;
+boxes_6.jpg;microorganism,micro-organism:0.1670321375131607;ciliate,ciliated protozoan,ciliophoran:0.0611155740916729;
+boxes_7.jpg;negative:0.4156705439090729;
+boxes_8.jpg;climber:0.28414133191108704;Alpine glacier,Alpine type of glacier:0.0699961930513382;glacier:0.061215054243803024;
+boxes_9.jpg;Alaskan brown bear,Kodiak bear,Kodiak,Ursus middendorffi,Ursus arctos middendorffi:0.07865836471319199;
+img_785.jpg;slope,incline,side:0.11751147359609604;escarpment,escarp,scarp,protective embankment:0.07445169985294342;ice mass:0.06776459515094757;

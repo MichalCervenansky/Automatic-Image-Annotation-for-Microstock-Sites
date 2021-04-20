@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;croatian;hrvatian;sea;;
+from_object_detection:boat;vehicle;street light;penguin;land vehicle;watercraft;
+from_image_classification:trawler;dragger;boat;sea boat;descent;declivity;fall;decline;declination;declension;downslope;knoll;mound;hillock;hummock;hammock;dune;sand dune;ascent;acclivity;rise;raise;climb;upgrade;slope;incline;side;link trainer;canopy;fighter pilot;propeller plane;humvee;hum-vee;smoke screen;smokescreen;military vehicle;bulldozer;dozer;seashore;coast;seacoast;sea-coast;harbor;harbour;shore;

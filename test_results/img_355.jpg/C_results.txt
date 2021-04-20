@@ -1,0 +1,9 @@
+boxes_1.jpg;
+boxes_2.jpg;ice,water ice:0.19110271334648132;marbleization,marbleisation,marbleizing,marbleising:0.11489212512969971;
+boxes_3.jpg;ice,water ice:0.2198338508605957;
+boxes_4.jpg;marbleization,marbleisation,marbleizing,marbleising:0.3197464942932129;stucco:0.064005047082901;whitewash:0.06279455870389938;color wash,colour wash:0.05695126950740814;
+boxes_5.jpg;
+boxes_6.jpg;marbleization,marbleisation,marbleizing,marbleising:0.08391821384429932;
+boxes_7.jpg;
+boxes_8.jpg;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.2382560819387436;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.10706016421318054;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.062482595443725586;sand sage,silvery wormwood,Artemisia filifolia:0.06065373867750168;
+img_355.jpg;wave,undulation:0.1517915278673172;marbleization,marbleisation,marbleizing,marbleising:0.0904865562915802;

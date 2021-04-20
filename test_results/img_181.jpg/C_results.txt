@@ -1,0 +1,15 @@
+boxes_1.jpg;squill:0.43900468945503235;
+boxes_10.jpg;squill:0.55531245470047;
+boxes_11.jpg;squill:0.2368553876876831;negative:0.135636568069458;livingstone daisy,Dorotheanthus bellidiformis:0.12443188577890396;
+boxes_12.jpg;livingstone daisy,Dorotheanthus bellidiformis:0.11535096168518066;marguerite,marguerite daisy,Paris daisy,Chrysanthemum frutescens,Argyranthemum frutescens:0.09199473261833191;
+boxes_13.jpg;jacamar:0.06928367912769318;woodhewer,woodcreeper,wood-creeper,tree creeper:0.05215178430080414;
+boxes_14.jpg;night-blooming cereus:0.3424363136291504;honeypot,king protea,Protea cynaroides:0.05159232020378113;
+boxes_2.jpg;squill:0.3205104470252991;wood anemone,snowdrop,Anemone quinquefolia:0.0660214051604271;Indian crocus:0.06350007653236389;
+boxes_3.jpg;corolla:0.10606881976127625;tulip:0.10202423483133316;cottage tulip:0.09964058548212051;dwarf tulip,Tulipa armena,Tulipa suaveolens:0.08158428966999054;golden cup,Mexican tulip poppy,Hunnemania fumariifolia:0.0784129872918129;flower:0.05483007803559303;
+boxes_4.jpg;guppy,rainbow fish,Lebistes reticulatus:0.05802391096949577;
+boxes_5.jpg;blue daisy,blue marguerite,Felicia amelloides:0.284058541059494;
+boxes_6.jpg;blue daisy,blue marguerite,Felicia amelloides:0.2598536014556885;
+boxes_7.jpg;squill:0.2120266705751419;involucre:0.2034272402524948;corolla:0.05713421478867531;
+boxes_8.jpg;
+boxes_9.jpg;dwarf tulip,Tulipa armena,Tulipa suaveolens:0.16584298014640808;squill:0.13203546404838562;cottage tulip:0.08227358013391495;corolla:0.06402557343244553;sowbread,Cyclamen hederifolium,Cyclamen neopolitanum:0.05363786965608597;
+img_181.jpg;sunniness:0.0989597737789154;Persian iris,Iris persica:0.05983439087867737;ice,water ice:0.05698968470096588;

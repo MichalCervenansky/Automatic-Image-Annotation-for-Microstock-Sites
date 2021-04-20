@@ -1,0 +1,3 @@
+from_image_IPTC:blue;flower;outdoor;shot;blurred;backround;slovakia;liriope;muscari;
+from_object_detection:christmas tree;flower;lavender;plant;
+from_image_classification:grape hyacinth;loosestrife;venus' slipper;venus's slipper;venus's shoe;pipsissewa;prince's pine;coral root;embryo;conceptus;fertilized egg;daphnia;water flea;hydra;schistosome;blood fluke;fetus;foetus;cotton candy;spun sugar;candyfloss;tampon;hot-water bottle;hot-water bag;hearing aid;ear trumpet;deaf-aid;bleeding heart;lyreflower;lyre-flower;dicentra spectabilis;nodding onion;nodding wild onion;lady's leek;allium cernuum;red-hot poker;kniphofia praecox;poker plant;kniphofia uvaria;winter heath;spring heath;erica carnea;physostegia;medinilla magnifica;

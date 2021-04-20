@@ -1,0 +1,1 @@
+img_86.jpg;seashore,coast,seacoast,sea-coast:0.24290154874324799;coastland:0.2354261726140976;promontory,headland,head,foreland:0.0756651759147644;littoral,litoral,littoral zone,sands:0.0703783705830574;

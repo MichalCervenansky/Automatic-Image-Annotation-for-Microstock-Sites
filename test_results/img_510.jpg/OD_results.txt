@@ -1,0 +1,17 @@
+boxes_1.jpg;car:0.9917578
+boxes_2.jpg;car:0.7597788
+boxes_3.jpg;wheel:0.6360688
+boxes_4.jpg;wheel:0.6141972
+boxes_5.jpg;wheel:0.60303813
+boxes_6.jpg;human face:0.21689583
+boxes_7.jpg;tire:0.19439366
+boxes_8.jpg;person:0.16101994
+boxes_9.jpg;tire:0.10544349
+boxes_10.jpg;tire:0.09882291
+boxes_11.jpg;man:0.085605405
+boxes_12.jpg;person:0.064937055
+boxes_13.jpg;wheel:0.06434048
+boxes_14.jpg;window:0.06273109
+boxes_15.jpg;man:0.05889103
+boxes_16.jpg;window:0.055867266
+boxes_17.jpg;human head:0.053904638

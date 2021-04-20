@@ -1,0 +1,18 @@
+boxes_1.jpg;horned violet,tufted pansy,Viola cornuta:0.10995668917894363;
+boxes_10.jpg;flower:0.18900905549526215;cyclamen,Cyclamen purpurascens:0.07821334153413773;purple,purpleness:0.06458301097154617;
+boxes_11.jpg;damask violet,Dame's violet,sweet rocket,Hesperis matronalis:0.5200104117393494;phlox:0.06988824903964996;
+boxes_12.jpg;cyclamen,Cyclamen purpurascens:0.09519939869642258;hypanthium,floral cup,calyx tube:0.09064540266990662;sowbread,Cyclamen hederifolium,Cyclamen neopolitanum:0.06818733364343643;squill:0.052664756774902344;flower:0.0523490384221077;
+boxes_13.jpg;brompton stock,Matthiola incana:0.12906703352928162;wallflower,Cheiranthus cheiri,Erysimum cheiri:0.07020782679319382;
+boxes_14.jpg;sweet scabious,pincushion flower,mournful widow,Scabiosa atropurpurea:0.12604178488254547;purple,purpleness:0.09877564013004303;flower:0.08696554601192474;
+boxes_15.jpg;damask violet,Dame's violet,sweet rocket,Hesperis matronalis:0.12738625705242157;moss pink,mountain phlox,moss phlox,dwarf phlox,Phlox subulata:0.0847698226571083;wallflower,Cheiranthus cheiri,Erysimum cheiri:0.06148349866271019;
+boxes_16.jpg;flower:0.1320957988500595;water violet,Hottonia palustris:0.05022280663251877;
+boxes_17.jpg;moss pink,mountain phlox,moss phlox,dwarf phlox,Phlox subulata:0.33930936455726624;cyclamen,Cyclamen purpurascens:0.05272548645734787;
+boxes_2.jpg;oleander,rose bay,Nerium oleander:0.2721571624279022;horned violet,tufted pansy,Viola cornuta:0.05618041753768921;
+boxes_3.jpg;flower:0.07282700389623642;French lavender,Lavandula stoechas:0.06089399755001068;horned violet,tufted pansy,Viola cornuta:0.05844145640730858;
+boxes_4.jpg;purple,purpleness:0.22975707054138184;hortensia,Hydrangea macrophylla hortensis:0.08894181251525879;sweet scabious,pincushion flower,mournful widow,Scabiosa atropurpurea:0.06997869163751602;purple heather,Brewer's mountain heather,Phyllodoce breweri:0.06886470317840576;
+boxes_5.jpg;brompton stock,Matthiola incana:0.12426912039518356;wallflower,Cheiranthus cheiri,Erysimum cheiri:0.052285272628068924;
+boxes_6.jpg;moss pink,mountain phlox,moss phlox,dwarf phlox,Phlox subulata:0.09389320760965347;horned violet,tufted pansy,Viola cornuta:0.09286527335643768;water violet,Hottonia palustris:0.06721744686365128;
+boxes_7.jpg;flower:0.1842588186264038;leaf-cutting bee,leaf-cutter,leaf-cutter bee:0.07351113110780716;purple,purpleness:0.06880486756563187;
+boxes_8.jpg;moss pink,mountain phlox,moss phlox,dwarf phlox,Phlox subulata:0.12041931599378586;rocket larkspur,Consolida ambigua,Delphinium ajacis:0.09018003195524216;horned violet,tufted pansy,Viola cornuta:0.06153414398431778;
+boxes_9.jpg;damask violet,Dame's violet,sweet rocket,Hesperis matronalis:0.612093985080719;
+img_488.jpg;moss pink,mountain phlox,moss phlox,dwarf phlox,Phlox subulata:0.1392606794834137;horned violet,tufted pansy,Viola cornuta:0.07244128733873367;rocket larkspur,Consolida ambigua,Delphinium ajacis:0.07009365409612656;purple,purpleness:0.05321718007326126;

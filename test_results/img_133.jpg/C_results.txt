@@ -1,0 +1,17 @@
+boxes_1.jpg;ringdove,Streptopelia risoria:0.15842171013355255;Australian turtledove,turtledove,Stictopelia cuneata:0.15804480016231537;turtledove:0.11652383953332901;fulmar,fulmar petrel,Fulmarus glacialis:0.08482997119426727;dove:0.06414844840765;domestic pigeon:0.06317747384309769;carrier pigeon:0.050968386232852936;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;
+boxes_13.jpg;
+boxes_14.jpg;
+boxes_15.jpg;Adelie,Adelie penguin,Pygoscelis adeliae:0.1563599705696106;
+boxes_16.jpg;
+boxes_2.jpg;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;ringdove,Streptopelia risoria:0.2167992740869522;Australian turtledove,turtledove,Stictopelia cuneata:0.12644007802009583;fulmar,fulmar petrel,Fulmarus glacialis:0.12335674464702606;turtledove:0.08096390962600708;dove:0.06603727489709854;
+boxes_7.jpg;saccharin:0.0843496099114418;Jordan almond:0.060376521199941635;
+boxes_8.jpg;guadalupe fur seal,Arctocephalus philippi:0.12824536859989166;
+boxes_9.jpg;Adelie,Adelie penguin,Pygoscelis adeliae:0.08420077711343765;crabeater seal,crab-eating seal:0.06728007644414902;
+img_133.jpg;Australian turtledove,turtledove,Stictopelia cuneata:0.33285772800445557;ringdove,Streptopelia risoria:0.23809115588665009;turtledove:0.1849602907896042;dove:0.12441689521074295;

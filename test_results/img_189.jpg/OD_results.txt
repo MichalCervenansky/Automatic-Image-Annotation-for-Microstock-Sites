@@ -1,0 +1,8 @@
+boxes_1.jpg;flag:0.9881557
+boxes_2.jpg;flag:0.92764086
+boxes_3.jpg;flag:0.33064672
+boxes_4.jpg;flag:0.09984246
+boxes_5.jpg;flag:0.08487082
+boxes_6.jpg;flag:0.065076455
+boxes_7.jpg;flag:0.054811973
+boxes_8.jpg;flag:0.051494323

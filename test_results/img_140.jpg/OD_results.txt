@@ -1,0 +1,5 @@
+boxes_1.jpg;cat:0.98810893
+boxes_2.jpg;carnivore:0.15992057
+boxes_3.jpg;cat:0.08409383
+boxes_4.jpg;carnivore:0.061062805
+boxes_5.jpg;cat:0.05464871

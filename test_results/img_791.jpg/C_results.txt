@@ -1,0 +1,6 @@
+boxes_1.jpg;alabaster:0.369839608669281;bone,ivory,pearl,off-white:0.20404745638370514;hot spring,thermal spring:0.11460680514574051;soapsuds,suds,lather:0.090412437915802;
+boxes_2.jpg;alabaster:0.2810012698173523;bone,ivory,pearl,off-white:0.18106907606124878;soapsuds,suds,lather:0.11590788513422012;wave,undulation:0.08754435926675797;hot spring,thermal spring:0.07215260714292526;
+boxes_3.jpg;dairy product:0.22566665709018707;pasteurized milk:0.10582835972309113;gruel:0.0573478564620018;coconut milk,coconut cream:0.05067840591073036;
+boxes_4.jpg;pasteurized milk:0.18135271966457367;gruel:0.15500761568546295;clabber:0.08066397160291672;dairy product:0.0634905993938446;
+boxes_5.jpg;soapsuds,suds,lather:0.3233902156352997;bone,ivory,pearl,off-white:0.20231449604034424;alabaster:0.18351563811302185;spume:0.06901812553405762;
+img_791.jpg;alabaster:0.4560271203517914;bone,ivory,pearl,off-white:0.21185271441936493;hot spring,thermal spring:0.086298368871212;

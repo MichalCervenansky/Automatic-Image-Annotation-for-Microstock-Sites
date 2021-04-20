@@ -1,0 +1,3 @@
+from_image_IPTC:view;shore;city;bibione;rough;weather;holiday;second;
+from_object_detection:tree;street light;person;vehicle;furniture;mammal;
+from_image_classification:lakeside;lakeshore;seashore;coast;seacoast;sea-coast;foreshore;burglar alarm;dropper;eye dropper;deep-freeze;deepfreeze;deep freezer;freezer;vaulter;pole vaulter;pole jumper;toboggan;sled dog;sledge dog;figure skating;ski lodge;skating;littoral;litoral;littoral zone;sands;lockage;low-water mark;embankment;easy chair;lounge chair;overstuffed chair;pier table;dinner table;pharaoh ant;pharaoh's ant;monomorium pharaonis;skibob;reservoir;lakefront;catchment;milldam;balcony;stadium;bowl;arena;sports stadium;beach;strand;waterside;

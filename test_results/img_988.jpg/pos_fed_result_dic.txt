@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;ice;cream;grated;chocolate;macro;closeup;
+from_object_detection:baked goods;dessert;dairy;tart;waffle;snack;cake;pastry;cheese;
+from_image_classification:reindeer moss;reindeer lichen;arctic moss;cladonia rangiferina;hen-of-the-woods;hen of the woods;polyporus frondosus;grifola frondosa;elk;european elk;moose;alces alces;red deer;american elk;wapiti;cervus elaphus;sea slug;nudibranch;dusty miller;centaurea cineraria;centaurea gymnocarpa;architeuthis;giant squid;octopod;sea anemone;anemone;club fungus;by-catch;bycatch;desert holly;atriplex hymenelytra;

@@ -1,0 +1,15 @@
+boxes_1.jpg;blue daisy,blue marguerite,Felicia amelloides:0.5643298625946045;marguerite,marguerite daisy,Paris daisy,Chrysanthemum frutescens,Argyranthemum frutescens:0.07065457850694656;seaside daisy,beach aster,Erigeron glaucous:0.05307939648628235;
+boxes_10.jpg;pyrethrum,Dalmatian pyrethrum,Dalmatia pyrethrum,Tanacetum cinerariifolium,Chrysanthemum cinerariifolium:0.596856415271759;painted daisy,pyrethrum,Tanacetum coccineum,Chrysanthemum coccineum:0.0700094997882843;flower:0.06857887655496597;
+boxes_11.jpg;
+boxes_12.jpg;
+boxes_13.jpg;pyrethrum,Dalmatian pyrethrum,Dalmatia pyrethrum,Tanacetum cinerariifolium,Chrysanthemum cinerariifolium:0.5834609866142273;blue daisy,blue marguerite,Felicia amelloides:0.19833973050117493;
+boxes_14.jpg;silene,campion,catchfly:0.7342105507850647;sandwort,Moehringia lateriflora:0.09208761900663376;
+boxes_2.jpg;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.263947993516922;fig marigold,pebble plant:0.052358198910951614;
+boxes_3.jpg;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.05868138372898102;
+boxes_4.jpg;fig marigold,pebble plant:0.19989538192749023;silene,campion,catchfly:0.15947917103767395;sandwort,Moehringia lateriflora:0.0592714287340641;
+boxes_5.jpg;
+boxes_6.jpg;pyrethrum,Dalmatian pyrethrum,Dalmatia pyrethrum,Tanacetum cinerariifolium,Chrysanthemum cinerariifolium:0.6098974943161011;blue daisy,blue marguerite,Felicia amelloides:0.14900518953800201;
+boxes_7.jpg;fig marigold,pebble plant:0.1839609593153;composite,composite plant:0.11986580491065979;pyrethrum,Dalmatian pyrethrum,Dalmatia pyrethrum,Tanacetum cinerariifolium,Chrysanthemum cinerariifolium:0.10138583183288574;
+boxes_8.jpg;Barnaby's thistle,yellow star-thistle,Centaurea solstitialis:0.1842186599969864;
+boxes_9.jpg;
+img_227.jpg;pyrethrum,Dalmatian pyrethrum,Dalmatia pyrethrum,Tanacetum cinerariifolium,Chrysanthemum cinerariifolium:0.4313485026359558;blue daisy,blue marguerite,Felicia amelloides:0.28671368956565857;

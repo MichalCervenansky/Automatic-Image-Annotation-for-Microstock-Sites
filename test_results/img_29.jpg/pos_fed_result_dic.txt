@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;small;cute;tasty;mushrooms;
+from_object_detection:flower;mushroom;plant;
+from_image_classification:barberton daisy;transvaal daisy;gerbera jamesonii;swan river daisy;brachycome iberidifolia;blue daisy;blue marguerite;felicia amelloides;jade vine;emerald creeper;strongylodon macrobotrys;honeybee;apis mellifera;caterpillar;ichneumon fly;digger wasp;kangaroo paw;kangaroo's paw;kangaroo's-foot;kangaroo-foot plant;australian sword lily;anigozanthus manglesii;alfalfa;wild pea;negative;mealybug;mealy bug;tendril;sweet scabious;pincushion flower;mournful widow;scabiosa atropurpurea;daisy;

@@ -1,0 +1,3 @@
+from_image_IPTC:interesting;sealing;buchlov;castle;chambers;
+from_object_detection:building;
+from_image_classification:groined vault;vault;alabaster;mosquito net;ribbed vault;

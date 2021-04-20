@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;purple;meadow;flower;green;grass;
+from_object_detection:flower;lavender;
+from_image_classification:common hyacinth;hyacinthus orientalis;pine hyacinth;clematis baldwinii;viorna baldwinii;texas purple spike;hexalectris warnockii;coral root;panicle;trumpet honeysuckle;coral honeysuckle;trumpet flower;trumpet vine;lonicera sempervirens;japanese maple;full moon maple;acer japonicum;crab cactus;thanksgiving cactus;zygocactus truncatus;schlumbergera truncatus;bumblebee;humblebee;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;summer;shady;forest;czech;republic;
+from_object_detection:tree;plant;
+from_image_classification:sunniness;beech;beech tree;japanese beech;negative;southern beech;evergreen beech;hornbeam;riparian forest;bridle path;bridle road;european hornbeam;carpinus betulus;swamp;swampland;windbreak;shelterbelt;pinetum;new zealand beech;

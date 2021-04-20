@@ -1,0 +1,3 @@
+from_image_IPTC:stream;natural;park;vysoke;tatry;
+from_object_detection:tree;
+from_image_classification:arroyo;riparian forest;arizona cypress;cupressus arizonica;italian cypress;mediterranean cypress;cupressus sempervirens;valley;vale;watercourse;riverbank;riverside;riverbed;river bottom;draw;mountainside;versant;branch water;streambed;creek bed;sprinkler;ascent;acclivity;rise;raise;climb;upgrade;sunniness;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;water;shot;orange;starfish;croatian;sea;
+from_object_detection:starfish;invertebrate;mushroom;marine invertebrates;shellfish;
+from_image_classification:starfish;sea star;portuguese man-of-war;man-of-war;jellyfish;amphipod;ctenophore;comb jelly;scallop;scollop;escallop;brachiopod;lamp shell;lampshell;brussels lace;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;common limpet;patella vulgata;microfossil;ormer;sea-ear;haliotis tuberculata;

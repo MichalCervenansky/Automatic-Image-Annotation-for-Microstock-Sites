@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;healthy;blueberies;high;tatras;
+from_object_detection:plant;fruit;flower;tree;
+from_image_classification:mildew;powdery mildew;cannikin;musket ball;ball;bullet;slug;projectile;missile;chime;bell;gong;inkberry;gallberry;gall-berry;evergreen winterberry;ilex glabra;chokecherry;chokecherry tree;prunus virginiana;

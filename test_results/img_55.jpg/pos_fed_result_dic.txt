@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;reflection;street;lights;sea;water;
+from_object_detection:
+from_image_classification:beach;waterside;littoral;litoral;littoral zone;sands;coastland;sandbank;seashore;coast;seacoast;sea-coast;

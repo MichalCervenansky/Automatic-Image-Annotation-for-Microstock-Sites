@@ -1,0 +1,3 @@
+from_image_IPTC:dog;running;ball;rhodesian;ridgeback;
+from_object_detection:dog;plant;tree;
+from_image_classification:hunting dog;coursing;timber wolf;grey wolf;gray wolf;canis lupus;dog;domestic dog;canis familiaris;sprinkler;lesser panda;red panda;panda;bear cat;cat bear;ailurus fulgens;windowsill;watchdog;guard dog;cur;mongrel;mutt;malinois;

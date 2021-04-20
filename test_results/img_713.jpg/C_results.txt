@@ -1,0 +1,1 @@
+img_713.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.27090680599212646;ben:0.05052906274795532;

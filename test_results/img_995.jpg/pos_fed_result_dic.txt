@@ -1,0 +1,3 @@
+from_image_IPTC:historic;corner;gothic;building;church;great;britain;
+from_object_detection:window;building;tree;house;sculpture;tower;
+from_image_classification:chancellery;clerestory;clearstory;building;edifice;church tower;rendering;liquid metal reactor;crampon;crampoon;climbing iron;climber;rattrap;window;flap;flaps;guildhall;fleet street;flying buttress;arc-boutant;

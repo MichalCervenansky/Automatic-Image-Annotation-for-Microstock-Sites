@@ -1,0 +1,2 @@
+boxes_1.jpg;insect:0.98976225
+boxes_2.jpg;plant:0.23118655

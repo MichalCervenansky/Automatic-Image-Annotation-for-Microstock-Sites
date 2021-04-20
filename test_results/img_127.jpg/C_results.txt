@@ -1,0 +1,17 @@
+boxes_1.jpg;jolly boat,jolly:0.2684895694255829;rowing,row:0.17241241037845612;dinghy,dory,rowboat:0.1206015944480896;small boat:0.05684379115700722;
+boxes_10.jpg;seashore,coast,seacoast,sea-coast:0.24214668571949005;littoral,litoral,littoral zone,sands:0.11273860931396484;seaside,seaboard:0.05486931651830673;
+boxes_11.jpg;small boat:0.31211942434310913;dinghy,dory,rowboat:0.2894856631755829;jolly boat,jolly:0.14574427902698517;rowing boat:0.10220382362604141;
+boxes_12.jpg;Torrey pine,Torrey's pine,soledad pine,grey-leaf pine,sabine pine,Pinus torreyana:0.17006775736808777;
+boxes_13.jpg;seashore,coast,seacoast,sea-coast:0.1472923755645752;lakeside,lakeshore:0.06279662251472473;promontory,headland,head,foreland:0.05708559975028038;oceanfront:0.054684966802597046;
+boxes_14.jpg;seashore,coast,seacoast,sea-coast:0.14919234812259674;promontory,headland,head,foreland:0.12393346428871155;cliff,drop,drop-off:0.0537281334400177;beach:0.05038255825638771;
+boxes_15.jpg;aquatic mammal:0.12448614090681076;crabeater seal,crab-eating seal:0.05920814722776413;
+boxes_16.jpg;small boat:0.3906736671924591;boat:0.2937047481536865;sailboat,sailing boat:0.1298372745513916;
+boxes_2.jpg;boat:0.3313806653022766;small boat:0.3252681791782379;sailboat,sailing boat:0.16332532465457916;
+boxes_3.jpg;dinghy,dory,rowboat:0.4618661403656006;rowing boat:0.24262432754039764;small boat:0.18194231390953064;
+boxes_4.jpg;sea otter,Enhydra lutris:0.16692547500133514;aquatic mammal:0.10502907633781433;
+boxes_5.jpg;
+boxes_6.jpg;promontory,headland,head,foreland:0.1137520894408226;seashore,coast,seacoast,sea-coast:0.10225488990545273;steep:0.09157490730285645;cliff,drop,drop-off:0.05047648400068283;
+boxes_7.jpg;ridge:0.0785227119922638;slope,incline,side:0.05961254984140396;steep:0.05013067275285721;
+boxes_8.jpg;
+boxes_9.jpg;lakeside,lakeshore:0.058856599032878876;
+img_127.jpg;seashore,coast,seacoast,sea-coast:0.6181700825691223;

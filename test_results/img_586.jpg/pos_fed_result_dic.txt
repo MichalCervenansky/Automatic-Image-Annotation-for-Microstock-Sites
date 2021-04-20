@@ -1,0 +1,3 @@
+from_image_IPTC:wireless;black;stylish;computer;mouse;lying;table;
+from_object_detection:computer mouse;computer keyboard;desk;
+from_image_classification:mouse;computer mouse;mouse button;

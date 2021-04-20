@@ -1,0 +1,3 @@
+from_image_IPTC:small;young;fresh;green;crops;rising;soil;sky;
+from_object_detection:plant;
+from_image_classification:soil;dirt;welsh onion;japanese leek;allium fistulosum;onion smut;urocystis cepulae;onion;leek;shallot;eschalot;multiplier onion;allium cepa aggregatum;allium ascalonicum;garlic chive;chinese chive;oriental garlic;allium tuberosum;farmhand;fieldhand;field hand;farm worker;hungarian partridge;grey partridge;gray partridge;perdix perdix;dusty miller;centaurea cineraria;centaurea gymnocarpa;silver-lace;silver lace;tanacetum ptarmiciflorum;chrysanthemum ptarmiciflorum;mucor;onion mildew;peronospora destructor;anthill;formicary;rake handle;hoe;ice;water ice;

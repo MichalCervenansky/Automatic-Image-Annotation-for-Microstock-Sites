@@ -1,0 +1,12 @@
+boxes_1.jpg;flower:0.9901154
+boxes_2.jpg;flower:0.7639278
+boxes_3.jpg;flower:0.5645934
+boxes_4.jpg;flower:0.31250483
+boxes_5.jpg;mushroom:0.176337
+boxes_6.jpg;flower:0.15841754
+boxes_7.jpg;flower:0.106076345
+boxes_8.jpg;flower:0.10087143
+boxes_9.jpg;plant:0.08738887
+boxes_10.jpg;flower:0.08004875
+boxes_11.jpg;flower:0.074541025
+boxes_12.jpg;flower:0.054002956

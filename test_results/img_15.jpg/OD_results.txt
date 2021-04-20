@@ -1,0 +1,20 @@
+boxes_1.jpg;bird:0.99409795
+boxes_2.jpg;beehive:0.36651295
+boxes_3.jpg;tree:0.20180316
+boxes_4.jpg;tree:0.1819213
+boxes_5.jpg;tree:0.15317114
+boxes_6.jpg;furniture:0.14994764
+boxes_7.jpg;plant:0.120344356
+boxes_8.jpg;plant:0.11648534
+boxes_9.jpg;box:0.11063987
+boxes_10.jpg;tree:0.09555814
+boxes_11.jpg;plant:0.0953331
+boxes_12.jpg;beehive:0.08865776
+boxes_13.jpg;palm tree:0.081721894
+boxes_14.jpg;plant:0.0703287
+boxes_15.jpg;table:0.06793097
+boxes_16.jpg;tree:0.06665227
+boxes_17.jpg;tree:0.06428485
+boxes_18.jpg;tree:0.060249146
+boxes_19.jpg;plant:0.055519834
+boxes_20.jpg;table:0.055452816

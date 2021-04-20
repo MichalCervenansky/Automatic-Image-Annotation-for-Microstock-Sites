@@ -1,0 +1,10 @@
+boxes_1.jpg;marine mammal:0.2541127
+boxes_2.jpg;plant:0.15698335
+boxes_3.jpg;plant:0.15087098
+boxes_4.jpg;plant:0.11244043
+boxes_5.jpg;marine mammal:0.10130161
+boxes_6.jpg;plant:0.09137172
+boxes_7.jpg;plant:0.08628164
+boxes_8.jpg;plant:0.05854667
+boxes_9.jpg;plant:0.05530016
+boxes_10.jpg;tree:0.05429244

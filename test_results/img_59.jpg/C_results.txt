@@ -1,0 +1,16 @@
+boxes_1.jpg;
+boxes_10.jpg;seashore,coast,seacoast,sea-coast:0.07942290604114532;
+boxes_11.jpg;
+boxes_12.jpg;
+boxes_13.jpg;
+boxes_14.jpg;
+boxes_15.jpg;
+boxes_2.jpg;dustmop,dust mop,dry mop:0.38611429929733276;lodestone,loadstone:0.054893858730793;
+boxes_3.jpg;hippodrome:0.21275316178798676;horse racing:0.12241057306528091;jockey:0.06519227474927902;
+boxes_4.jpg;Japanese black pine,black pine,Pinus thunbergii:0.3606747090816498;
+boxes_5.jpg;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.1283385306596756;table-mountain pine,prickly pine,hickory pine,Pinus pungens:0.09608902037143707;western white pine,silver pine,mountain pine,Pinus monticola:0.0607125386595726;
+boxes_6.jpg;dustmop,dust mop,dry mop:0.23445238173007965;
+boxes_7.jpg;river boat:0.15473641455173492;
+boxes_8.jpg;two-hitter,2-hitter:0.20279288291931152;three-hitter,3-hitter:0.11348171532154083;softball,softball game:0.06045156717300415;broad jump,long jump:0.053347181528806686;no-hit game,no-hitter:0.05038002133369446;
+boxes_9.jpg;hippodrome:0.12730026245117188;horse racing:0.08843523263931274;
+img_59.jpg;outfall:0.30114123225212097;sandbar,sand bar:0.13747192919254303;littoral,litoral,littoral zone,sands:0.06145559996366501;

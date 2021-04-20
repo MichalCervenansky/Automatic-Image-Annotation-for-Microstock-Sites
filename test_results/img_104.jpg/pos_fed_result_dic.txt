@@ -1,0 +1,3 @@
+from_image_IPTC:nice;ducks;fishes;river;pliva;
+from_object_detection:duck;goose;tree;
+from_image_classification:dabbling duck;dabbler;shoveler;shoveller;broadbill;anas clypeata;black duck;anas rubripes;anseriform bird;goldeneye;whistler;bucephela clangula;smew;mergus albellus;barrow's goldeneye;bucephala islandica;american merganser;mergus merganser americanus;sea lion;sea otter;enhydra lutris;low-water mark;

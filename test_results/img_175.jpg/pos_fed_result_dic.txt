@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;white;flower;turkish;beach;
+from_object_detection:flower;
+from_image_classification:livingstone daisy;dorotheanthus bellidiformis;salpiglossis;blue-eyed african daisy;arctotis stoechadifolia;arctotis venusta;african daisy;daisybush;daisy-bush;daisy bush;blue daisy;blue marguerite;felicia amelloides;yellow ageratum;lonas inodora;lonas annua;weatherman;weather forecaster;meteorologist;white zinnia;zinnia acerosa;barrette;hair slide;

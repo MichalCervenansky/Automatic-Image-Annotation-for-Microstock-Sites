@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;tasty;homemade;improvised;cream;cake;
+from_object_detection:spoon;snack;baked goods;muffin;fork;cake;pastry;dessert;tableware;dairy;plate;
+from_image_classification:tablefork;soap dish;soap pad;sugar;refined sugar;fondant;fudge;ice;water ice;purplish blue;royal blue;cleaning pad;blue;blueness;

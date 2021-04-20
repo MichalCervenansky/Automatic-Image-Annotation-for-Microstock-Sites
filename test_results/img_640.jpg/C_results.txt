@@ -1,0 +1,14 @@
+boxes_1.jpg;tower:0.7588870525360107;lookout,observation tower,lookout station,observatory:0.09585363417863846;supporting tower:0.07799931615591049;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_12.jpg;church tower:0.1022879034280777;pinnacle:0.1015186607837677;castle:0.06442548334598541;
+boxes_13.jpg;dust storm,duster,sandstorm,sirocco:0.12992410361766815;smoke screen,smokescreen:0.05891399085521698;
+boxes_2.jpg;castle:0.1379416435956955;church tower:0.06733046472072601;pinnacle:0.06122078001499176;
+boxes_3.jpg;smoke screen,smokescreen:0.0672338604927063;
+boxes_4.jpg;weathercock:0.2761147916316986;socle:0.12955765426158905;cenotaph,empty tomb:0.07663510739803314;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;smoke screen,smokescreen:0.07112348824739456;
+boxes_9.jpg;memorial,monument:0.16650031507015228;
+img_640.jpg;riverbank,riverside:0.3229426145553589;outfall:0.20377276837825775;waterside:0.07401685416698456;bank:0.0701308622956276;

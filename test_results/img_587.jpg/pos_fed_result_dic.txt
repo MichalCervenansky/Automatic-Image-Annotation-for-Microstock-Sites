@@ -1,0 +1,3 @@
+from_image_IPTC:silver;usb;drive;sticked;laptop;
+from_object_detection:laptop;handgun;mobile phone;office supplies;computer keyboard;
+from_image_classification:console;interface;port;appliance;contraption;contrivance;convenience;gadget;gizmo;gismo;widget;stylus;modem;

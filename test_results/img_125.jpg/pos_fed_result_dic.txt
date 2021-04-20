@@ -1,0 +1,3 @@
+from_image_IPTC:small;cute;scary;bat;found;pillow;evening;
+from_object_detection:bat;plant;
+from_image_classification:little brown bat;little brown myotis;myotis leucifugus;brown bat;freetail;free-tailed bat;freetailed bat;vampire bat;true vampire bat;pallid bat;cave bat;antrozous pallidus;

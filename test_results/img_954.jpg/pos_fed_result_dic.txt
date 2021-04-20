@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;shot;bmw;3er;interiour;steering;wheel;holiday;
+from_object_detection:vehicle;land vehicle;car;auto part;wheel;helmet;headphones;
+from_image_classification:steering wheel;wheel;driving wheel;

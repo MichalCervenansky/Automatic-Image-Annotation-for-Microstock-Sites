@@ -1,0 +1,15 @@
+boxes_1.jpg;swimming,swim:0.21404606103897095;soapsuds,suds,lather:0.18810029327869415;architeuthis,giant squid:0.06934674084186554;
+boxes_10.jpg;benthos,benthic division,benthonic zone:0.38479337096214294;Portuguese man-of-war,man-of-war,jellyfish:0.058401938527822495;tunicate,urochordate,urochord:0.05497763305902481;
+boxes_11.jpg;cuttlefish,cuttle:0.21364128589630127;soapsuds,suds,lather:0.06500516086816788;giant clam,Tridacna gigas:0.06093737110495567;
+boxes_12.jpg;soapsuds,suds,lather:0.18157759308815002;cuttlefish,cuttle:0.08902096003293991;spume:0.057892873883247375;architeuthis,giant squid:0.05621833726763725;
+boxes_13.jpg;giant clam,Tridacna gigas:0.4651525318622589;benthos,benthic division,benthonic zone:0.2639206349849701;
+boxes_14.jpg;porcupinefish,porcupine fish,Diodon hystrix:0.6489707231521606;benthos,benthic division,benthonic zone:0.09821867942810059;
+boxes_2.jpg;benthos,benthic division,benthonic zone:0.6062138676643372;jellyfish:0.07692266255617142;
+boxes_3.jpg;benthos,benthic division,benthonic zone:0.280281662940979;star:0.07838591933250427;Portuguese man-of-war,man-of-war,jellyfish:0.0782020092010498;tunicate,urochordate,urochord:0.05056208744645119;
+boxes_4.jpg;soapsuds,suds,lather:0.17669133841991425;benthos,benthic division,benthonic zone:0.09879986196756363;architeuthis,giant squid:0.09309527277946472;benthos:0.05580385401844978;cuttlefish,cuttle:0.05298826843500137;octopod:0.052595797926187515;
+boxes_5.jpg;
+boxes_6.jpg;benthos,benthic division,benthonic zone:0.1382235586643219;soapsuds,suds,lather:0.12979179620742798;cuttlefish,cuttle:0.09753715246915817;giant clam,Tridacna gigas:0.05365899205207825;
+boxes_7.jpg;soapsuds,suds,lather:0.40648287534713745;lather:0.0850939005613327;
+boxes_8.jpg;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.3007183372974396;giant clam,Tridacna gigas:0.2776491343975067;benthos,benthic division,benthonic zone:0.15654511749744415;
+boxes_9.jpg;soapsuds,suds,lather:0.6169484853744507;lather:0.0900864452123642;
+img_736.jpg;giant clam,Tridacna gigas:0.20783483982086182;jawfish:0.16250787675380707;cuttlefish,cuttle:0.1319488137960434;porcupinefish,porcupine fish,Diodon hystrix:0.11397863179445267;stonefish,Synanceja verrucosa:0.0895501896739006;

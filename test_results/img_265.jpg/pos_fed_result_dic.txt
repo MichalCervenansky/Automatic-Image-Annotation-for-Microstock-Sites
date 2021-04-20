@@ -1,0 +1,3 @@
+from_image_IPTC:old;tram;winter;condition;brno;
+from_object_detection:tree;train;land vehicle;bus;street light;
+from_image_classification:express;limited;locomotive;engine;locomotive engine;railway locomotive;railhead;third rail;post;tramline;tramway;streetcar track;tram;aerial tramway;cable tramway;ropeway;electric locomotive;snowplow;snowplough;pole;humvee;hum-vee;forklift;ambulance;armored vehicle;armoured vehicle;tracked vehicle;garbage truck;dustcart;trolleybus;trolley coach;trackless trolley;local;streetcar;tramcar;trolley;trolley car;conveyance;transport;public transport;rail;sunniness;window;freight train;rattler;intercontinental ballistic missile;icbm;cross;train;railroad train;mail train;station;

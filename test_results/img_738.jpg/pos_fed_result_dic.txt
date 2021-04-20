@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sea;urchin;hedgehog;echinoidea;covered;shells;croatia;
+from_object_detection:marine invertebrates;fish;invertebrate;bee;
+from_image_classification:echidna;spiny anteater;anteater;sea urchin;edible sea urchin;echinus esculentus;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;porcupinefish;porcupine fish;diodon hystrix;feather star;comatulid;benthos;benthic division;benthonic zone;ciliate;ciliated protozoan;ciliophoran;pulsar;supernova;toadfish;opsanus tau;

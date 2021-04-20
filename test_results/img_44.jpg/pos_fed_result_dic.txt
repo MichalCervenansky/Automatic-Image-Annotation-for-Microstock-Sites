@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:building;window;tower;house;sculpture;
+from_image_classification:bay window;bow window;cornice;architecture;corner;quoin;dacha;building;edifice;coign;coigne;chateau;customhouse;customshouse;ministry;dome;palace;pediment;transom;transom window;fanlight;mason;stonemason;glyptics;lithoglyptics;oeil de boeuf;embassy;window;very important person;vip;high-up;dignitary;panjandrum;high muckamuck;balcony;window frame;condominium;organ loft;church tower;

@@ -1,0 +1,3 @@
+from_image_IPTC:interesting;statue;city;lviv;
+from_object_detection:sculpture;tree;building;car;wheel;window;land vehicle;plant;house;tire;
+from_image_classification:memorial;monument;sculpture;artifact;artefact;pharaoh;pharaoh of egypt;cannonball;cannon ball;round shot;repository;surveillance system;cullis;pedestrian crossing;zebra crossing;car wheel;vivarium;car;auto;automobile;machine;motorcar;elevator car;nonsmoker;nonsmoking car;foglamp;minivan;sport utility;sport utility vehicle;s.u.v.;suv;tinfoil;tin foil;pearl oyster;pinctada margaritifera;medicine ball;ash grey;ash gray;silver;silver grey;silver gray;shield;buckler;ball;marble;ovoid;cannon;loaner;

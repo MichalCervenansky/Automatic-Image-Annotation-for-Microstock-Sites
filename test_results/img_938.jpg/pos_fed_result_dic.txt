@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;romanian;temple;christian;italy;holiday;shot;
+from_object_detection:building;person;window;woman;clothing;
+from_image_classification:barrel vault;cloister;colonnade;harness horse;narthex;altar;communion table;lord's table;chapel;chancel;sanctuary;bema;rink;skating rink;skating;

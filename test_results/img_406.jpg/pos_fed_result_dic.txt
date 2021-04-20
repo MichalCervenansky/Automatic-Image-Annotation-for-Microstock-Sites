@@ -1,0 +1,3 @@
+from_image_IPTC:sharp;cool;waterdrops;dew;leaves;
+from_object_detection:plant;maple;
+from_image_classification:waterleaf;dewdrop;mildew;great ragweed;ambrosia trifida;beach strawberry;chilean strawberry;fragaria chiloensis;powdery mildew;downy mildew;false mildew;pythium;erose leaf;white rust;

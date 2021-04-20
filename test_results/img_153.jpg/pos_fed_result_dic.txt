@@ -1,0 +1,3 @@
+from_image_IPTC:dangerous;dirty;water;flowing;tap;
+from_object_detection:drink;juice;tableware;beer;tea;cocktail;milk;
+from_image_classification:collins;tom collins;liquor;spirits;booze;hard drink;hard liquor;john barleycorn;strong drink;brandy;coffee liqueur;aqua vitae;ardent spirits;dessert wine;

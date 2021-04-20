@@ -1,0 +1,7 @@
+boxes_1.jpg;blenny,combtooth blenny:0.415778249502182;gunnel,bracketed blenny:0.27624377608299255;greenling:0.09804943203926086;
+boxes_2.jpg;gunnel,bracketed blenny:0.4580722749233246;blenny,combtooth blenny:0.17975953221321106;greenling:0.10847195982933044;
+boxes_3.jpg;hind:0.16946227848529816;jewfish,Mycteroperca bonaci:0.16121649742126465;
+boxes_4.jpg;blenny,combtooth blenny:0.5225082635879517;gunnel,bracketed blenny:0.28483182191848755;greenling:0.053272005170583725;
+boxes_5.jpg;jewfish,Mycteroperca bonaci:0.13532593846321106;hind:0.07733708620071411;gudgeon,Gobio gobio:0.06714228540658951;blenny,combtooth blenny:0.05457263067364693;soapfish:0.0500263087451458;
+boxes_6.jpg;gunnel,bracketed blenny:0.3987981081008911;greenling:0.24547509849071503;blenny,combtooth blenny:0.22230717539787292;
+img_737.jpg;blenny,combtooth blenny:0.7163684964179993;gunnel,bracketed blenny:0.2055899053812027;

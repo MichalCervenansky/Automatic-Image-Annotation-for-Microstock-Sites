@@ -1,0 +1,3 @@
+from_image_IPTC:oellow;flower;outdoor;shot;blurred;backround;slovakia;sunset;
+from_object_detection:flower;rose;fruit;
+from_image_classification:horned violet;tufted pansy;viola cornuta;pansy orchid;bird's-foot violet;pansy violet;johnny-jump-up;wood violet;viola pedata;negative;japanese morning glory;ipomoea nil;honeycreeper;hawaiian honeycreeper;squill;two-eyed violet;heartsease;viola ocellata;field pansy;viola arvensis;imperial japanese morning glory;ipomoea imperialis;spanish iris;xiphium iris;iris xiphium;blue poppy;meconopsis betonicifolia;rocket larkspur;consolida ambigua;delphinium ajacis;

@@ -1,0 +1,11 @@
+boxes_1.jpg;building:0.676833
+boxes_2.jpg;wheel:0.24812026
+boxes_3.jpg;wheel:0.20132025
+boxes_4.jpg;stairs:0.14019372
+boxes_5.jpg;tree:0.10325898
+boxes_6.jpg;vehicle:0.10080331
+boxes_7.jpg;building:0.08362936
+boxes_8.jpg;wheel:0.076821096
+boxes_9.jpg;vehicle:0.07175105
+boxes_10.jpg;tree:0.07138416
+boxes_11.jpg;building:0.051576823

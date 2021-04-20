@@ -1,0 +1,11 @@
+boxes_1.jpg;pig:0.9967152
+boxes_2.jpg;tree:0.38880587
+boxes_3.jpg;car:0.32393184
+boxes_4.jpg;tree:0.21166573
+boxes_5.jpg;animal:0.17660058
+boxes_6.jpg;wheel:0.1274882
+boxes_7.jpg;tree:0.09961787
+boxes_8.jpg;tree:0.062047597
+boxes_9.jpg;land vehicle:0.056231167
+boxes_10.jpg;tree:0.050588164
+boxes_11.jpg;wheel:0.050148487

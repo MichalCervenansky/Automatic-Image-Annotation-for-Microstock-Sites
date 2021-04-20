@@ -1,0 +1,3 @@
+from_image_IPTC:forest;fungus;tree;winter;condition;
+from_object_detection:food;mushroom;seafood;shrimp;baked goods;shellfish;dessert;fish;
+from_image_classification:jellyfish;fungus;blue poppy;meconopsis betonicifolia;mescal button;sacred mushroom;magic mushroom;poisonous parasol;lepiota morgani;harp seal;pagophilus groenlandicus;arctic fox;white fox;alopex lagopus;portuguese man-of-war;man-of-war;negative;iceberg;berg;ice;water ice;ctenophore;comb jelly;continental glacier;

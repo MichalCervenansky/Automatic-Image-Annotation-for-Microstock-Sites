@@ -1,0 +1,18 @@
+boxes_1.jpg;cairn:0.9955140948295593;
+boxes_10.jpg;kea,Nestor notabilis:0.13915440440177917;
+boxes_11.jpg;rock hyrax,rock rabbit,Procavia capensis:0.09811290353536606;tuatara,Sphenodon punctatum:0.09492597728967667;
+boxes_12.jpg;
+boxes_13.jpg;rock hyrax,rock rabbit,Procavia capensis:0.06505142897367477;hyrax,coney,cony,dassie,das:0.06385266780853271;
+boxes_14.jpg;capercaillie,capercailzie,horse of the wood,Tetrao urogallus:0.09591531753540039;fur seal:0.050825271755456924;
+boxes_15.jpg;cairn:0.9886631369590759;
+boxes_16.jpg;tuatara,Sphenodon punctatum:0.1408614218235016;rock hyrax,rock rabbit,Procavia capensis:0.08621018379926682;
+boxes_17.jpg;cairn:0.9674299359321594;
+boxes_2.jpg;cairn:0.9973164200782776;
+boxes_3.jpg;kea,Nestor notabilis:0.0863991528749466;
+boxes_4.jpg;Tasmanian devil,ursine dasyure,Sarcophilus hariisi:0.12982077896595;
+boxes_5.jpg;cairn:0.9975237250328064;
+boxes_6.jpg;cairn:0.9983362555503845;
+boxes_7.jpg;cairn:0.9932636022567749;
+boxes_8.jpg;
+boxes_9.jpg;cairn:0.9956195950508118;
+img_431.jpg;cairn:0.995100200176239;

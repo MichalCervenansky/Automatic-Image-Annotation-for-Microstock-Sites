@@ -1,0 +1,16 @@
+boxes_1.jpg;cell:0.10019731521606445;ascospore:0.08425531536340714;morula:0.08201255649328232;embryonic cell,formative cell:0.06516717374324799;
+boxes_10.jpg;Petri dish:0.23926663398742676;mucor:0.07443802803754807;
+boxes_11.jpg;mucor:0.31190091371536255;oocyte:0.08582289516925812;
+boxes_12.jpg;blastocyst,blastodermic vessicle:0.49953386187553406;mucor:0.06268546730279922;cling film,clingfilm,Saran Wrap:0.060969218611717224;
+boxes_13.jpg;water strider,pond-skater,water skater:0.3503810167312622;
+boxes_14.jpg;garlic,ail:0.1466074138879776;marshmallow:0.0662495568394661;soft-shell clam,steamer,steamer clam,long-neck clam,Mya arenaria:0.05851977691054344;
+boxes_15.jpg;mucor:0.08582723140716553;
+boxes_2.jpg;garlic,ail:0.4130532443523407;
+boxes_3.jpg;cling film,clingfilm,Saran Wrap:0.10125474631786346;blastocyst,blastodermic vessicle:0.06314896047115326;cog,sprocket:0.05924998223781586;
+boxes_4.jpg;Candida albicans,Monilia albicans:0.10442452877759933;microorganism,micro-organism:0.07752496004104614;
+boxes_5.jpg;chalk:0.11394939571619034;spar:0.07405943423509598;
+boxes_6.jpg;cell:0.08845119178295135;ascospore:0.0641598328948021;
+boxes_7.jpg;lagging:0.4542969763278961;percussion instrument,percussive instrument:0.06157458946108818;
+boxes_8.jpg;interplanetary space:0.09047451615333557;cell:0.07924442738294601;circle:0.05601641163229942;
+boxes_9.jpg;cell:0.18939897418022156;lymphocyte,lymph cell:0.06879840046167374;photomicrograph:0.062106743454933167;
+img_255.jpg;cell:0.21092930436134338;embryonic cell,formative cell:0.09490246325731277;lymphocyte,lymph cell:0.0876874327659607;microfossil:0.08497364819049835;

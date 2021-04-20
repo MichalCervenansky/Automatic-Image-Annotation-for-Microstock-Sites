@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;small;bird;house;eating;;
+from_object_detection:bird;beehive;tree;plant;toy;box;animal;cutting board;
+from_image_classification:bird feed;bird food;birdseed;titmouse;tit;young bird;ice;water ice;cullis;aigrette;aigret;hedge sparrow;sparrow;dunnock;prunella modularis;feeder;true sparrow;sea lion;luge;ridge rope;band-tailed pigeon;band-tail pigeon;bandtail;columba fasciata;turtledove;negative;molotov cocktail;petrol bomb;gasoline bomb;wood swallow;swallow shrike;arctic fox;white fox;alopex lagopus;sunflower seed;ark shell;elver;

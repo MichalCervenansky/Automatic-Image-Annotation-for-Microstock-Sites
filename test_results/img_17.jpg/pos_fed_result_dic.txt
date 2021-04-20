@@ -1,0 +1,3 @@
+from_image_IPTC:soft;female;hand;holding;various;objects;gel;fingernails;
+from_object_detection:office supplies;human hand;pen;person;medical equipment;drinking straw;human arm;chopsticks;
+from_image_classification:fingerstall;cot;autoinjector;needle;catheter;swab;cable;cablegram;overseas telegram;stopcock;cock;turncock;connection;connexion;connector;connecter;connective;hose;

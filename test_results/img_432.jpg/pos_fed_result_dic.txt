@@ -1,0 +1,3 @@
+from_image_IPTC:majestic;interior;notredame;church;
+from_object_detection:building;window;
+from_image_classification:barrel vault;groined vault;ribbed vault;clerestory;clearstory;aisle;pointed arch;minster;nave;fan vaulting;drapery;net;network;mesh;meshing;meshwork;window;curtain;drape;mantle;pall;transept;vault;lancet window;altar;communion table;lord's table;chapterhouse;narthex;abbey;

@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;rohace;slovak;republic;
+from_object_detection:tree;
+from_image_classification:mountain;mount;westland pine;silver pine;lagarostrobus colensoi;ridge;oriental spruce;picea orientalis;conifer;coniferous tree;alpine fir;subalpine fir;abies lasiocarpa;silver fir;snow-on-the-mountain;snow-in-summer;ghost weed;euphorbia marginata;colorado spruce;colorado blue spruce;silver spruce;picea pungens;mountain hemlock;black hemlock;tsuga mertensiana;ski slope;western red cedar;red cedar;canoe cedar;thuja plicata;spruce pine;pinus glabra;pine;pine tree;true pine;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;

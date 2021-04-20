@@ -1,0 +1,14 @@
+boxes_1.jpg;fish:0.9719285
+boxes_2.jpg;fish:0.922103
+boxes_3.jpg;fish:0.8614391
+boxes_4.jpg;fish:0.7424084
+boxes_5.jpg;fish:0.5134507
+boxes_6.jpg;fish:0.48457235
+boxes_7.jpg;fish:0.3728103
+boxes_8.jpg;fish:0.32946032
+boxes_9.jpg;fish:0.24463432
+boxes_10.jpg;fish:0.16113204
+boxes_11.jpg;fish:0.15246314
+boxes_12.jpg;fish:0.14218654
+boxes_13.jpg;fish:0.11337359
+boxes_14.jpg;food:0.075137235

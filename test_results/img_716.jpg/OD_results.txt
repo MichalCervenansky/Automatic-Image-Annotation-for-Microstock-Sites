@@ -1,0 +1,8 @@
+boxes_1.jpg;starfish:0.9879127
+boxes_2.jpg;invertebrate:0.28867203
+boxes_3.jpg;mushroom:0.26800346
+boxes_4.jpg;marine invertebrates:0.09504537
+boxes_5.jpg;shellfish:0.06959887
+boxes_6.jpg;marine invertebrates:0.05607448
+boxes_7.jpg;marine invertebrates:0.05575454
+boxes_8.jpg;invertebrate:0.052631635

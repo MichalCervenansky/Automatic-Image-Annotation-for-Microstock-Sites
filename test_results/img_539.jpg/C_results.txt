@@ -1,0 +1,3 @@
+boxes_1.jpg;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.32016730308532715;dandelion green:0.3101652264595032;flower:0.12969695031642914;floret,floweret:0.059126149863004684;
+boxes_2.jpg;negative:0.08686082810163498;
+img_539.jpg;dandelion green:0.7416539192199707;common dandelion,Taraxacum ruderalia,Taraxacum officinale:0.07362677156925201;

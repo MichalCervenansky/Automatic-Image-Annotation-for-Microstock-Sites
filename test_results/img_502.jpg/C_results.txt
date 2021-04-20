@@ -1,0 +1,14 @@
+boxes_1.jpg;roadster,runabout,two-seater:0.6326848864555359;convertible:0.27018678188323975;
+boxes_10.jpg;car wheel:0.09477336704730988;coupe:0.07615295797586441;body:0.07467819005250931;convertible:0.06477800011634827;
+boxes_11.jpg;fifth wheel,spare:0.35413116216659546;tailpipe:0.22095780074596405;bumper:0.07141558825969696;
+boxes_12.jpg;cellophane:0.25823643803596497;candied apple,candy apple,taffy apple,caramel apple,toffee apple:0.09672679752111435;
+boxes_13.jpg;windshield,windscreen:0.13217447698116302;
+boxes_2.jpg;electric,electric automobile,electric car:0.14448167383670807;roadster,runabout,two-seater:0.07832418382167816;car,elevator car:0.0629303976893425;
+boxes_3.jpg;
+boxes_4.jpg;convertible:0.11277662962675095;coupe:0.07768044620752335;body:0.05116274952888489;
+boxes_5.jpg;convertible:0.38613152503967285;coupe:0.16191953420639038;windshield,windscreen:0.11690890043973923;roadster,runabout,two-seater:0.08251611888408661;hot rod,hot-rod:0.05348624289035797;
+boxes_6.jpg;fifth wheel,spare:0.4326132535934448;tailpipe:0.19071044027805328;
+boxes_7.jpg;
+boxes_8.jpg;electric,electric automobile,electric car:0.1470683366060257;roadster,runabout,two-seater:0.10117731243371964;
+boxes_9.jpg;
+img_502.jpg;roadster,runabout,two-seater:0.7496020197868347;convertible:0.10455715656280518;body:0.057641807943582535;

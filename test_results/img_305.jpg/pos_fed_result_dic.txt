@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;scenery;norway;fishing;village;hidden;deep;fjords;
+from_object_detection:house;boat;window;building;vehicle;tree;
+from_image_classification:stable;stalls;horse barn;barn;presbytery;waterfront;low-water mark;gable;gable end;gable wall;waterside;shelf;partition;divider;compartment;harbor;harbour;brig;sluice;sluiceway;penstock;boatyard;crane;boathouse;spark plug;sparking plug;plug;small boat;boat;trawler;bulwark;dragger;lake dwelling;pile dwelling;lakeside;lakeshore;ski lodge;lakefront;windshield;windscreen;rink;skating rink;zamboni;smoke screen;smokescreen;ferry;ferryboat;craft;shrimper;riverbank;riverside;

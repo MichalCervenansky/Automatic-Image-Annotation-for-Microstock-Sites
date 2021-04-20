@@ -1,0 +1,27 @@
+boxes_1.jpg;tree:0.9686366
+boxes_2.jpg;swimming pool:0.7708985
+boxes_3.jpg;tree:0.5705545
+boxes_4.jpg;tree:0.49575004
+boxes_5.jpg;boat:0.4731418
+boxes_6.jpg;tree:0.4087088
+boxes_7.jpg;boat:0.35764104
+boxes_8.jpg;boat:0.32168004
+boxes_9.jpg;tree:0.26015627
+boxes_10.jpg;boat:0.22926411
+boxes_11.jpg;boat:0.20711544
+boxes_12.jpg;tree:0.17121558
+boxes_13.jpg;tree:0.14940974
+boxes_14.jpg;plant:0.14530551
+boxes_15.jpg;boat:0.11910428
+boxes_16.jpg;tree:0.11727204
+boxes_17.jpg;vehicle:0.10933072
+boxes_18.jpg;vehicle:0.1059291
+boxes_19.jpg;vehicle:0.09538042
+boxes_20.jpg;waste container:0.08501898
+boxes_21.jpg;plant:0.07661539
+boxes_22.jpg;vehicle:0.0766031
+boxes_23.jpg;vehicle:0.06125195
+boxes_24.jpg;tree:0.060786985
+boxes_25.jpg;plant:0.059695352
+boxes_26.jpg;tree:0.05488972
+boxes_27.jpg;tree:0.050425157

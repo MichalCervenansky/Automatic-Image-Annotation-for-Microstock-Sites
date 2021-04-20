@@ -1,0 +1,6 @@
+boxes_1.jpg;tom,tomcat:0.39401793479919434;negative:0.14881502091884613;kitty,kitty-cat,puss,pussy,pussycat:0.08150224387645721;Angora,Angora cat:0.06119619682431221;cat,true cat:0.0535469576716423;
+boxes_2.jpg;tom,tomcat:0.48686718940734863;Egyptian cat:0.10360018908977509;domestic cat,house cat,Felis domesticus,Felis catus:0.08549708127975464;kitty,kitty-cat,puss,pussy,pussycat:0.06463780254125595;cat,true cat:0.057258423417806625;
+boxes_3.jpg;tom,tomcat:0.4715369939804077;domestic cat,house cat,Felis domesticus,Felis catus:0.1385258585214615;kitty,kitty-cat,puss,pussy,pussycat:0.08798445016145706;Egyptian cat:0.07023252546787262;cat,true cat:0.054805073887109756;
+boxes_4.jpg;tom,tomcat:0.5657722353935242;negative:0.09848250448703766;kitty,kitty-cat,puss,pussy,pussycat:0.06279724836349487;
+boxes_5.jpg;tom,tomcat:0.3343764841556549;Angora,Angora cat:0.23865364491939545;kitty,kitty-cat,puss,pussy,pussycat:0.05574464425444603;
+img_140.jpg;negative:0.5876027345657349;

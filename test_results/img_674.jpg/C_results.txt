@@ -1,0 +1,13 @@
+boxes_1.jpg;negative:0.9657305479049683;
+boxes_10.jpg;negative:0.2858392596244812;Hermissenda crassicornis:0.21204236149787903;hydrozoan,hydroid:0.07972387969493866;zooplankton:0.05949186161160469;
+boxes_11.jpg;negative:0.9734840989112854;
+boxes_12.jpg;
+boxes_2.jpg;negative:0.8530797362327576;
+boxes_3.jpg;negative:0.263058602809906;hydrozoan,hydroid:0.12035195529460907;Hermissenda crassicornis:0.08677937835454941;dendrite:0.078806571662426;zooplankton:0.060052432119846344;
+boxes_4.jpg;negative:0.6274461150169373;Hermissenda crassicornis:0.08830060809850693;
+boxes_5.jpg;negative:0.48088550567626953;hydrozoan,hydroid:0.05992496758699417;dendrite:0.055174585431814194;
+boxes_6.jpg;negative:0.9207420349121094;
+boxes_7.jpg;negative:0.860980749130249;
+boxes_8.jpg;rhizopus:0.15425902605056763;
+boxes_9.jpg;negative:0.6963192820549011;
+img_674.jpg;negative:0.442894846200943;hydrozoan,hydroid:0.11590736359357834;

@@ -1,0 +1,14 @@
+boxes_1.jpg;book:0.85924643
+boxes_2.jpg;shelf:0.44900683
+boxes_3.jpg;shelf:0.38423163
+boxes_4.jpg;furniture:0.30842215
+boxes_5.jpg;bookcase:0.18976793
+boxes_6.jpg;window:0.1609143
+boxes_7.jpg;table:0.1471663
+boxes_8.jpg;person:0.14350708
+boxes_9.jpg;furniture:0.13755122
+boxes_10.jpg;shelf:0.12983692
+boxes_11.jpg;bookcase:0.07641829
+boxes_12.jpg;bookcase:0.058941048
+boxes_13.jpg;book:0.05110464
+boxes_14.jpg;shelf:0.050662532

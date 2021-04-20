@@ -1,0 +1,12 @@
+boxes_1.jpg;clothing:0.9264244
+boxes_2.jpg;clothing:0.42040548
+boxes_3.jpg;clothing:0.3444875
+boxes_4.jpg;car:0.20723492
+boxes_5.jpg;toy:0.13785614
+boxes_6.jpg;sports uniform:0.11352295
+boxes_7.jpg;land vehicle:0.10665093
+boxes_8.jpg;table:0.09468938
+boxes_9.jpg;auto part:0.093419366
+boxes_10.jpg;furniture:0.07002347
+boxes_11.jpg;vehicle:0.06830067
+boxes_12.jpg;sports uniform:0.052912585

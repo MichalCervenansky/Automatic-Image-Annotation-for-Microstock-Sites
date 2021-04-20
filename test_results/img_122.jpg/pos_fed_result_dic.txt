@@ -1,0 +1,3 @@
+from_image_IPTC:old;bench;relax;beach;makarska;
+from_object_detection:bench;plant;
+from_image_classification:planking;duckboard;graining;woodgraining;rabbet;rebate;wainscot;wainscoting;wainscotting;sheet pile;sheath pile;sheet piling;lath;ledger board;

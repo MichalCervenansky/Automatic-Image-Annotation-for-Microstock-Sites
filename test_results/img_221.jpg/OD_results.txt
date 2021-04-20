@@ -1,0 +1,13 @@
+boxes_1.jpg;building:0.82340086
+boxes_2.jpg;building:0.8066796
+boxes_3.jpg;building:0.64858484
+boxes_4.jpg;window:0.16874856
+boxes_5.jpg;window:0.119141564
+boxes_6.jpg;tree:0.10942948
+boxes_7.jpg;window:0.10912488
+boxes_8.jpg;plant:0.10318471
+boxes_9.jpg;castle:0.090492636
+boxes_10.jpg;window:0.065848574
+boxes_11.jpg;window:0.0657596
+boxes_12.jpg;house:0.06459037
+boxes_13.jpg;plant:0.05087094

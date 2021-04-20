@@ -1,0 +1,6 @@
+boxes_1.jpg;fish:0.44402203
+boxes_2.jpg;animal:0.3973056
+boxes_3.jpg;squid:0.36728194
+boxes_4.jpg;invertebrate:0.30482006
+boxes_5.jpg;marine invertebrates:0.14872289
+boxes_6.jpg;fish:0.06833197

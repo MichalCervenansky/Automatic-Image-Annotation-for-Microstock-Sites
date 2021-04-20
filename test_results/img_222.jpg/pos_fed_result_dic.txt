@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;orange;plant;
+from_object_detection:flower;orange;grapefruit;tree;lemon;plant;
+from_image_classification:spiderwort;dayflower;bunchberry;dwarf cornel;crackerberry;pudding berry;cornus canadensis;citrus;citrus tree;orange;orange tree;sweet orange;sweet orange tree;citrus sinensis;fruit;grapefruit;citrus paradisi;citrus fruit;citrous fruit;key lime;toothbrush;hairbrush;axolotl;mud puppy;ambystoma mexicanum;sea slug;nudibranch;lime;jade vine;emerald creeper;strongylodon macrobotrys;venus' slipper;venus's slipper;venus's shoe;star tulip;elegant cat's ears;calochortus elegans;

@@ -1,0 +1,6 @@
+boxes_1.jpg;pillow:0.9419609
+boxes_2.jpg;flag:0.8886484
+boxes_3.jpg;clothing:0.109689415
+boxes_4.jpg;jeans:0.085798316
+boxes_5.jpg;towel:0.08433035
+boxes_6.jpg;clothing:0.07917459

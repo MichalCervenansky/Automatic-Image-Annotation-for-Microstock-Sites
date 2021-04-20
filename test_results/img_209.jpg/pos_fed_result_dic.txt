@@ -1,0 +1,3 @@
+from_image_IPTC:gorgeous;tasty;tiramisu;cake;turkish;hotel;
+from_object_detection:cake;baked goods;fashion accessory;dessert;snack;
+from_image_classification:hatbox;barrel;drum;bass drum;gran casa;drumhead;head;ice-cream cake;icebox cake;jordan almond;dragee;money cowrie;cypraea moneta;ellipse;oval;piston;plunger;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;gorgonian;alcyonacea;big;depth;croatian;sea;
+from_object_detection:marine invertebrates;plant;animal;seahorse;fish;tree;
+from_image_classification:sea fan;drawing chalk;gorgonian;gorgonian coral;coral;club fungus;brain coral;chalcid fly;chalcidfly;chalcid;chalcid wasp;mediterranean fruit fly;medfly;ceratitis capitata;tree wallaby;tree kangaroo;okapi;okapia johnstoni;female mammal;cellophane;pallasite;kolam;seagrass;reef;

@@ -1,0 +1,3 @@
+from_image_IPTC:soft;wet;green;moss;tree;
+from_object_detection:plant;tree;
+from_image_classification:verdigris;lodestone;loadstone;beard lichen;beard moss;usnea barbata;false scorpion;pseudoscorpion;etamine;etamin;stucco;chalk;drawing chalk;soil;dirt;sea green;blastocyst;blastodermic vessicle;pulsar;supernova;lunar crater;sporozoan;

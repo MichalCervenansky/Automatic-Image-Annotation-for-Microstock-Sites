@@ -1,0 +1,3 @@
+from_image_IPTC:modern;architecture;tower;blue;sky;background;great;britain;
+from_object_detection:tower;building;
+from_image_classification:royal mast;telecom hotel;telco building;royal;lookout;observation tower;lookout station;observatory;control tower;repository;monument;poop deck;sailing vessel;sailing ship;topmast;

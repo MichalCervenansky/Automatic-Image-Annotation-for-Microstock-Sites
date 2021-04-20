@@ -1,0 +1,3 @@
+from_image_IPTC:view;big;ben;tower;clock;dramatic;clouds;background;
+from_object_detection:tower;clock;building;window;sculpture;tree;bird;
+from_image_classification:clock tower;minute hand;big hand;turret clock;skylight;fanlight;lattice;latticework;fretwork;tile;minaret;masjid;musjid;

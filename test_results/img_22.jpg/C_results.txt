@@ -1,0 +1,3 @@
+boxes_1.jpg;flat-coated retriever:0.24070848524570465;watchdog,guard dog:0.12220055609941483;dachshund,dachsie,badger dog:0.07151713222265244;bitch:0.06338709592819214;dogie,dogy,leppy:0.0625823587179184;domestic animal,domesticated animal:0.05762524902820587;
+boxes_2.jpg;
+img_22.jpg;domestic animal,domesticated animal:0.19736510515213013;watchdog,guard dog:0.14453624188899994;bird dog:0.09038123488426208;housedog:0.06504026055335999;bitch:0.05588177964091301;dam:0.05447585508227348;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;water;shot;orange;starfish;croatian;sea;
+from_object_detection:starfish;marine invertebrates;fish;
+from_image_classification:coral reef;benthos;benthic division;benthonic zone;echinoderm;reef;sea feather;giant clam;tridacna gigas;smoke screen;smokescreen;censer;thurible;endameba;volcanic crater;crater;moneran;moneron;ascidian;sea squirt;tunicate;urochordate;urochord;air bubble;starfish;sea star;star;

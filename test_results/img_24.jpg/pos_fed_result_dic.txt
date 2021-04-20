@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;small;cute;brown;dog;landscape;
+from_object_detection:dog;plant;
+from_image_classification:dachshund;dachsie;badger dog;dam;weimaraner;bird dog;bitch;sire;hunting dog;

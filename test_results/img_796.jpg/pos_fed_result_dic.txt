@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;island;hvar;croatia;
+from_object_detection:boat;watercraft;
+from_image_classification:sailboat;sailing boat;boat;backstay;stay;small boat;sail;catamaran;luff;

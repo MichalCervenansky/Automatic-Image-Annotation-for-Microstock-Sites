@@ -1,0 +1,3 @@
+from_image_IPTC:two;cute;hamsters;natural;habitat;
+from_object_detection:animal;cattle;mouse;hamster;pig;rabbit;dog;plant;mammal;carnivore;goat;
+from_image_classification:cavy;guinea pig;cavia cobaya;aperea;wild cavy;cavia porcellus;coypu;nutria;myocastor coypus;rodent;gnawer;rabbit-eared bandicoot;rabbit bandicoot;bilby;macrotis lagotis;scottish deerhound;deerhound;sleuth;sleuthhound;housedog;little blue heron;egretta caerulea;yorkshire terrier;bitch;collie;swine;

@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;bridge;snake;river;
+from_object_detection:tree;plant;
+from_image_classification:volcanic crater;crater;atoll;barrier reef;reef;shore;coral reef;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;screen;crt screen;steel arch bridge;bridge;span;abutment;cornetfish;casing;case;nonsmoker;nonsmoking car;scuba diving;adit;box beam;box girder;gusset;gusset plate;

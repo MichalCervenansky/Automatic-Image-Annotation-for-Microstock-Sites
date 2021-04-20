@@ -1,0 +1,18 @@
+boxes_1.jpg;candle:0.72130305
+boxes_2.jpg;food:0.41131443
+boxes_3.jpg;food:0.34894446
+boxes_4.jpg;candy:0.29053804
+boxes_5.jpg;dessert:0.25937018
+boxes_6.jpg;food:0.184712
+boxes_7.jpg;food:0.16998523
+boxes_8.jpg;candy:0.16525295
+boxes_9.jpg;food:0.12702891
+boxes_10.jpg;food:0.12298434
+boxes_11.jpg;food:0.11587982
+boxes_12.jpg;dessert:0.10060725
+boxes_13.jpg;food:0.08093683
+boxes_14.jpg;baked goods:0.07879384
+boxes_15.jpg;candle:0.07754734
+boxes_16.jpg;food:0.0693596
+boxes_17.jpg;toy:0.06448097
+boxes_18.jpg;candy:0.052762587

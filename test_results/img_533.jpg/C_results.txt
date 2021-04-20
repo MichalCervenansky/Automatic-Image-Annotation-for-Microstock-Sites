@@ -1,0 +1,9 @@
+boxes_1.jpg;fig marigold,pebble plant:0.615145742893219;livingstone daisy,Dorotheanthus bellidiformis:0.225851371884346;blue daisy,blue marguerite,Felicia amelloides:0.12304466217756271;
+boxes_2.jpg;stokes' aster,cornflower aster,Stokesia laevis:0.2637219727039337;China aster,Callistephus chinensis:0.2482239305973053;sea aster,sea starwort,Aster tripolium:0.06279370188713074;
+boxes_3.jpg;blue daisy,blue marguerite,Felicia amelloides:0.4099634289741516;mealybug,mealy bug:0.11946006119251251;
+boxes_4.jpg;
+boxes_5.jpg;blue daisy,blue marguerite,Felicia amelloides:0.3114177882671356;mealybug,mealy bug:0.21582259237766266;
+boxes_6.jpg;
+boxes_7.jpg;China aster,Callistephus chinensis:0.7327327132225037;
+boxes_8.jpg;blue daisy,blue marguerite,Felicia amelloides:0.3535803258419037;livingstone daisy,Dorotheanthus bellidiformis:0.25854164361953735;fig marigold,pebble plant:0.10364747792482376;
+img_533.jpg;fig marigold,pebble plant:0.23071600496768951;blue daisy,blue marguerite,Felicia amelloides:0.1771163046360016;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.06780098378658295;

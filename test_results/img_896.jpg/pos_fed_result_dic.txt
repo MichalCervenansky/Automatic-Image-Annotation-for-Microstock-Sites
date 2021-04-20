@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;night;shot;shore;croatia;nerezine;
+from_object_detection:tree;vehicle;
+from_image_classification:western white pine;silver pine;mountain pine;pinus monticola;smoke screen;smokescreen;monterey pine;pinus radiata;ice;water ice;low-water mark;reservoir;shipping;cargo ships;merchant marine;merchant vessels;ship;roll-on roll-off;barge;flatboat;hoy;lighter;cargo ship;cargo vessel;lakeside;lakeshore;beach;littoral;litoral;littoral zone;sands;riverbank;riverside;seashore;coast;seacoast;sea-coast;

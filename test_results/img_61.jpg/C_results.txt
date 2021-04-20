@@ -1,0 +1,12 @@
+boxes_1.jpg;negative:0.27782726287841797;smoke screen,smokescreen:0.06002561002969742;
+boxes_10.jpg;
+boxes_11.jpg;vivarium:0.07658079266548157;
+boxes_2.jpg;rock,stone:0.21079958975315094;glacier:0.10574012249708176;seashore,coast,seacoast,sea-coast:0.09882510453462601;shore:0.08715670555830002;riverbank,riverside:0.06450997292995453;iceberg,berg:0.05693165957927704;
+boxes_3.jpg;skating:0.10860133916139603;light,light source:0.10289956629276276;rink,skating rink:0.08555127680301666;source of illumination:0.06829270720481873;
+boxes_4.jpg;booster,booster rocket,booster unit,takeoff booster,takeoff rocket:0.23947302997112274;rocket,rocket engine:0.12030483782291412;spacecraft,ballistic capsule,space vehicle:0.07878141850233078;test rocket,research rocket,test instrument vehicle:0.0617755725979805;
+boxes_5.jpg;booster,booster rocket,booster unit,takeoff booster,takeoff rocket:0.16819030046463013;smoke screen,smokescreen:0.08276459574699402;rocket,rocket engine:0.06164706125855446;test rocket,research rocket,test instrument vehicle:0.050536490976810455;
+boxes_6.jpg;living quarters,quarters:0.05808069556951523;
+boxes_7.jpg;skating:0.16275718808174133;light,light source:0.09113268554210663;rink,skating rink:0.059557728469371796;source of illumination:0.05584124103188515;
+boxes_8.jpg;seashore,coast,seacoast,sea-coast:0.11911089718341827;vivarium:0.05015777051448822;
+boxes_9.jpg;
+img_61.jpg;ship:0.13198821246623993;riverbank,riverside:0.08261334896087646;poop deck:0.055437058210372925;waterfront:0.053295064717531204;

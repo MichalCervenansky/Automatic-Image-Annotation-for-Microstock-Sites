@@ -1,0 +1,14 @@
+boxes_1.jpg;electronic balance:0.47513073682785034;balance:0.36911121010780334;scale,weighing machine:0.09215645492076874;
+boxes_10.jpg;striped mullet,Mugil cephalus:0.33156561851501465;mullet:0.11282823979854584;food fish:0.08339867740869522;
+boxes_11.jpg;mullet:0.2747129201889038;striped mullet,Mugil cephalus:0.13447034358978271;food fish:0.08766897767782211;
+boxes_12.jpg;horse mackerel,saurel,Trachurus trachurus:0.2782067060470581;cutlassfish,frost fish,hairtail:0.186423659324646;white croaker,chenfish,kingfish,Genyonemus lineatus:0.07005671411752701;northern whiting,Menticirrhus saxatilis:0.06548130512237549;croaker:0.061233457177877426;
+boxes_13.jpg;scuttle,coal scuttle:0.11317527294158936;empty:0.05796471983194351;
+boxes_2.jpg;converging lens,convex lens:0.5910649299621582;diverging lens,concave lens:0.26906245946884155;achromatic lens:0.07494175434112549;
+boxes_3.jpg;converging lens,convex lens:0.4498472809791565;diverging lens,concave lens:0.22548966109752655;achromatic lens:0.1437821239233017;
+boxes_4.jpg;electronic balance:0.38006412982940674;balance:0.376670241355896;scale,weighing machine:0.18360671401023865;
+boxes_5.jpg;white croaker,chenfish,kingfish,Genyonemus lineatus:0.12171418964862823;plate,collection plate:0.050483338534832;
+boxes_6.jpg;horse mackerel,saurel,Trachurus trachurus:0.2161346971988678;white croaker,chenfish,kingfish,Genyonemus lineatus:0.14556539058685303;Spanish mackerel:0.05388772487640381;
+boxes_7.jpg;food fish:0.09850658476352692;Atlantic croaker,Micropogonias undulatus:0.05182499811053276;sea bream,bream:0.051343176513910294;
+boxes_8.jpg;food fish:0.15644337236881256;striped killifish,mayfish,may fish,Fundulus majalis:0.09596409648656845;white croaker,chenfish,kingfish,Genyonemus lineatus:0.062040407210588455;
+boxes_9.jpg;fairy light:0.058904018253088;
+img_237.jpg;chandelier,pendant,pendent:0.34009024500846863;

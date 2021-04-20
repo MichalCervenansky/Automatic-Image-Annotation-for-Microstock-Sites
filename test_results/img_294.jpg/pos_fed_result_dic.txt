@@ -1,0 +1,3 @@
+from_image_IPTC:cute;tired;wild;dog;pupies;sleeping;grass;turkey;
+from_object_detection:dog;plant;carnivore;
+from_image_classification:bitch;dog;domestic dog;canis familiaris;wombat;ibex;capra ibex;takin;gnu goat;budorcas taxicolor;fur seal;swimming;swim;watchdog;guard dog;hunting dog;sleuth;sleuthhound;australian sea lion;zalophus lobatus;tasmanian devil;ursine dasyure;sarcophilus hariisi;gordon setter;giant kangaroo;great grey kangaroo;macropus giganteus;forest goat;spindle horn;pseudoryx nghetinhensis;pup;whelp;

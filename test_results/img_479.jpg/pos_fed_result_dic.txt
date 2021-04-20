@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;woman;leg;sea;water;
+from_object_detection:person;human hand;human foot;human arm;fish;swimming pool;human leg;plant;
+from_image_classification:spume;snorkel;schnorkel;schnorchel;snorkel breather;breather;marine animal;marine creature;sea animal;sea creature;nylons;nylon stocking;rayons;rayon stocking;silk stocking;support hose;support stocking;guppy;rainbow fish;lebistes reticulatus;swordtail;helleri;topminnow;xyphophorus helleri;platy;platypoecilus maculatus;white whale;beluga;delphinapterus leucas;camembert;curd;bewick's swan;cygnus columbianus bewickii;dip;plunge;atlantic bottlenose dolphin;tursiops truncatus;bottlenose dolphin;bottle-nosed dolphin;bottlenose;

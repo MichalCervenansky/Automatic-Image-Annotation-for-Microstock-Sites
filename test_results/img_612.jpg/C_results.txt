@@ -1,0 +1,2 @@
+boxes_1.jpg;rose chafer,rose beetle,Cetonia aurata:0.9690166115760803;
+img_612.jpg;rose chafer,rose beetle,Cetonia aurata:0.8840990662574768;

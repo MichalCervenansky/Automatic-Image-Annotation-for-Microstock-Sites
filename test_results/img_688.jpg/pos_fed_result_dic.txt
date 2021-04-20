@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;plant;
+from_image_classification:silversword;argyroxiphium sandwicense;benthos;benthic division;benthonic zone;sea anemone;anemone;supernova;pulsar;yeast;sea feather;

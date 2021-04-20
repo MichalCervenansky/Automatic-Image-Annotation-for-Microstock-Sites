@@ -1,0 +1,3 @@
+from_image_IPTC:sharp;natural;sea;rock;beach;makarska;
+from_object_detection:
+from_image_classification:marbleization;marbleisation;marbleizing;marbleising;alabaster;snowcap;

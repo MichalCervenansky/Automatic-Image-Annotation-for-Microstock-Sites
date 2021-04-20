@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;palm tree;
+from_image_classification:smoke screen;smokescreen;ski slope;snag;westland pine;silver pine;lagarostrobus colensoi;snowdrift;mountain;mount;ridge;black beech;nothofagus solanderi;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;sunniness;roe deer;capreolus capreolus;musher;gusher;cross;elk;european elk;moose;alces alces;virginia deer;white tail;whitetail;white-tailed deer;whitetail deer;odocoileus virginianus;wapiti;american elk;cervus elaphus canadensis;mountainside;versant;alp;oil paint;

@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;nodibrachia;sea;slug;
+from_object_detection:marine invertebrates;fish;invertebrate;
+from_image_classification:sea slug;nudibranch;spider mite;tetranychid;spawn;seagrass;aposematic coloration;warning coloration;true slime mold;acellular slime mold;plasmodial slime mold;myxomycete;waterweed;alga;algae;water milfoil;fire-bellied toad;bombina bombina;true frog;ranid;sea hare;aplysia punctata;green algae;chlorophyte;desmid;common limpet;patella vulgata;crapaud;south american bullfrog;leptodactylus pentadactylus;ovoid;

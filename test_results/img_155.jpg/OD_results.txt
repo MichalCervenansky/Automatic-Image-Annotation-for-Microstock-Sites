@@ -1,0 +1,33 @@
+boxes_1.jpg;chair:0.8728708
+boxes_2.jpg;chair:0.8684857
+boxes_3.jpg;window:0.81729954
+boxes_4.jpg;coffee table:0.6519564
+boxes_5.jpg;kitchen & dining room table:0.47743526
+boxes_6.jpg;chair:0.4668185
+boxes_7.jpg;chair:0.40527657
+boxes_8.jpg;couch:0.4020549
+boxes_9.jpg;table:0.3591348
+boxes_10.jpg;chair:0.301473
+boxes_11.jpg;house:0.2863786
+boxes_12.jpg;furniture:0.23636107
+boxes_13.jpg;chair:0.22809993
+boxes_14.jpg;chair:0.15880926
+boxes_15.jpg;window:0.14150302
+boxes_16.jpg;chair:0.13171998
+boxes_17.jpg;furniture:0.12927017
+boxes_18.jpg;chair:0.11588665
+boxes_19.jpg;kitchen & dining room table:0.11101141
+boxes_20.jpg;chair:0.10940679
+boxes_21.jpg;furniture:0.108586766
+boxes_22.jpg;building:0.10608425
+boxes_23.jpg;table:0.09908635
+boxes_24.jpg;table:0.09469724
+boxes_25.jpg;footwear:0.092947096
+boxes_26.jpg;chair:0.08926341
+boxes_27.jpg;couch:0.081389405
+boxes_28.jpg;chair:0.07439483
+boxes_29.jpg;chair:0.07247833
+boxes_30.jpg;chair:0.07083813
+boxes_31.jpg;desk:0.07062867
+boxes_32.jpg;table:0.067104794
+boxes_33.jpg;furniture:0.06242259

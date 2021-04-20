@@ -1,0 +1,9 @@
+boxes_1.jpg;echidna,spiny anteater,anteater:0.2616988718509674;sea urchin:0.22659911215305328;edible sea urchin,Echinus esculentus:0.16161485016345978;echidna,spiny anteater,anteater:0.10646849125623703;
+boxes_2.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1609070599079132;
+boxes_3.jpg;porcupinefish,porcupine fish,Diodon hystrix:0.17884449660778046;feather star,comatulid:0.11384155601263046;edible sea urchin,Echinus esculentus:0.06131797656416893;benthos,benthic division,benthonic zone:0.054591093212366104;
+boxes_4.jpg;echidna,spiny anteater,anteater:0.17255116999149323;sea urchin:0.14376376569271088;edible sea urchin,Echinus esculentus:0.13329574465751648;ciliate,ciliated protozoan,ciliophoran:0.09396324306726456;echidna,spiny anteater,anteater:0.09064926952123642;
+boxes_5.jpg;sea urchin:0.8533748388290405;
+boxes_6.jpg;sea urchin:0.31209155917167664;edible sea urchin,Echinus esculentus:0.2530686855316162;echidna,spiny anteater,anteater:0.09218641370534897;benthos:0.05247257649898529;
+boxes_7.jpg;pulsar:0.12254989892244339;supernova:0.058862727135419846;
+boxes_8.jpg;sea urchin:0.47149893641471863;edible sea urchin,Echinus esculentus:0.2837451100349426;
+img_738.jpg;toadfish,Opsanus tau:0.5665377378463745;ciliate,ciliated protozoan,ciliophoran:0.07309091091156006;

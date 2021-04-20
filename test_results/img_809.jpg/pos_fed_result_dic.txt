@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;house;beach;hvar;
+from_object_detection:tree;house;plant;building;
+from_image_classification:stonework;stone wall;mountainside;versant;window;quoin;coign;coigne;round arch;housetop;kennel;doghouse;dog house;ridge rope;funambulism;tightrope walking;ropewalker;ropedancer;whitewash;masonry;windowsill;gable;gable end;gable wall;green peafowl;pavo muticus;guy;guy cable;guy wire;guy rope;funambulist;tightrope walker;pot;flowerpot;negative;ascent;acclivity;rise;raise;climb;upgrade;stucco;bell tower;hip tile;hipped tile;hillside;

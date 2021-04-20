@@ -1,0 +1,6 @@
+boxes_1.jpg;maple:0.81443405
+boxes_2.jpg;mushroom:0.64951926
+boxes_3.jpg;maple:0.36096847
+boxes_4.jpg;plant:0.23166798
+boxes_5.jpg;plant:0.11562215
+boxes_6.jpg;insect:0.058512382

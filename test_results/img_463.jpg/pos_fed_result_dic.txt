@@ -1,0 +1,3 @@
+from_image_IPTC:natural;tasty;red;vine;grapes;old;wall;
+from_object_detection:fruit;tree;plant;clothing;flower;person;food;human arm;
+from_image_classification:cell;morula;longanberry;dragon's eye;branchlet;twig;sprig;bead tree;jumby bean;jumby tree;ormosia monosperma;longan;lungen;dimocarpus longan;euphorbia litchi;nephelium longana;acorn;gastrula;oocyte;endameba;spherule;medlar;sapodilla;sapodilla plum;sapota;mamey;mammee;mammee apple;chocolate kiss;cork;bottle cork;negative;microorganism;micro-organism;

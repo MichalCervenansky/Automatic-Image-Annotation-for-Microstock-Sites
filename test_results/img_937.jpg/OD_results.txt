@@ -1,0 +1,8 @@
+boxes_1.jpg;knife:0.5401379
+boxes_2.jpg;building:0.3066551
+boxes_3.jpg;building:0.21343292
+boxes_4.jpg;skateboard:0.16331147
+boxes_5.jpg;tool:0.1352213
+boxes_6.jpg;house:0.09989901
+boxes_7.jpg;stairs:0.09085754
+boxes_8.jpg;kitchen knife:0.059017908

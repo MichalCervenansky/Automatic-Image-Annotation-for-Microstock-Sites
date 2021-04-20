@@ -1,0 +1,13 @@
+boxes_1.jpg;footwear:0.98677176
+boxes_2.jpg;footwear:0.9842184
+boxes_3.jpg;footwear:0.98022974
+boxes_4.jpg;footwear:0.19862376
+boxes_5.jpg;footwear:0.1007846
+boxes_6.jpg;person:0.09052737
+boxes_7.jpg;clothing:0.08431036
+boxes_8.jpg;person:0.08414082
+boxes_9.jpg;person:0.08098709
+boxes_10.jpg;footwear:0.079223335
+boxes_11.jpg;human leg:0.07417071
+boxes_12.jpg;footwear:0.060275108
+boxes_13.jpg;footwear:0.05902509

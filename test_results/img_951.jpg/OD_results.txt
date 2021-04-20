@@ -1,0 +1,8 @@
+boxes_1.jpg;dog:0.9951975
+boxes_2.jpg;toy:0.64405435
+boxes_3.jpg;tree:0.3451886
+boxes_4.jpg;food:0.12689243
+boxes_5.jpg;plant:0.11066307
+boxes_6.jpg;flower:0.08695635
+boxes_7.jpg;flower:0.055232618
+boxes_8.jpg;plant:0.055021495

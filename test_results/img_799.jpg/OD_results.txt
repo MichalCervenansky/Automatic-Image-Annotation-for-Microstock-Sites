@@ -1,0 +1,12 @@
+boxes_1.jpg;fish:0.87708026
+boxes_2.jpg;fish:0.8694523
+boxes_3.jpg;fish:0.73638135
+boxes_4.jpg;fish:0.4017788
+boxes_5.jpg;food:0.2959078
+boxes_6.jpg;seafood:0.20139262
+boxes_7.jpg;seafood:0.1728985
+boxes_8.jpg;seafood:0.112344176
+boxes_9.jpg;seafood:0.09496569
+boxes_10.jpg;fish:0.07596392
+boxes_11.jpg;seafood:0.06168317
+boxes_12.jpg;dairy:0.050886266

@@ -1,0 +1,7 @@
+boxes_1.jpg;drink:0.6062353
+boxes_2.jpg;juice:0.45661384
+boxes_3.jpg;tableware:0.22574869
+boxes_4.jpg;beer:0.22430582
+boxes_5.jpg;tea:0.18202236
+boxes_6.jpg;cocktail:0.14077361
+boxes_7.jpg;milk:0.050736066

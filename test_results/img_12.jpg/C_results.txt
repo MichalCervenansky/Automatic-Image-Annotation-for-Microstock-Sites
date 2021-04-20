@@ -1,0 +1,14 @@
+boxes_1.jpg;sunniness:0.16799990832805634;downy birch,white birch,Betula pubescens:0.14469358325004578;white alder,mountain alder,Alnus rhombifolia:0.07048334181308746;streetlight,street lamp:0.058567531406879425;
+boxes_10.jpg;streetlight,street lamp:0.1573282927274704;park bench:0.12081942707300186;
+boxes_11.jpg;sunniness:0.34596848487854004;beech,beech tree:0.0774545818567276;alpine ash,mountain oak,Eucalyptus delegatensis:0.06257198005914688;
+boxes_12.jpg;alpine ash,mountain oak,Eucalyptus delegatensis:0.15867571532726288;sunniness:0.1371634602546692;streetlight,street lamp:0.06375236064195633;
+boxes_13.jpg;white alder,mountain alder,Alnus rhombifolia:0.13624007999897003;alpine ash,mountain oak,Eucalyptus delegatensis:0.06155535578727722;downy birch,white birch,Betula pubescens:0.05839039757847786;tarmacadam,tarmac,macadam:0.05726119130849838;sunniness:0.056199975311756134;
+boxes_2.jpg;streetlight,street lamp:0.10690513253211975;alpine ash,mountain oak,Eucalyptus delegatensis:0.08970201015472412;downy birch,white birch,Betula pubescens:0.06573136895895004;gray,grayness,grey,greyness:0.05389031395316124;white alder,mountain alder,Alnus rhombifolia:0.0520981103181839;
+boxes_3.jpg;sunniness:0.33322715759277344;alpine ash,mountain oak,Eucalyptus delegatensis:0.09412434697151184;
+boxes_4.jpg;streetlight,street lamp:0.07934259623289108;gray,grayness,grey,greyness:0.07308004051446915;alpine ash,mountain oak,Eucalyptus delegatensis:0.05058818683028221;
+boxes_5.jpg;sunniness:0.23037168383598328;white alder,mountain alder,Alnus rhombifolia:0.09782631695270538;alpine ash,mountain oak,Eucalyptus delegatensis:0.08768998086452484;
+boxes_6.jpg;streetlight,street lamp:0.1716686487197876;park bench:0.12313513457775116;silver tree,Tarrietia argyrodendron:0.09756344556808472;downy birch,white birch,Betula pubescens:0.08637961000204086;alpine ash,mountain oak,Eucalyptus delegatensis:0.07073216140270233;
+boxes_7.jpg;sunniness:0.12448721379041672;white alder,mountain alder,Alnus rhombifolia:0.08017978072166443;alpine ash,mountain oak,Eucalyptus delegatensis:0.07960378378629684;downy birch,white birch,Betula pubescens:0.07471143454313278;streetlight,street lamp:0.06910216063261032;gray,grayness,grey,greyness:0.05942310765385628;
+boxes_8.jpg;streetlight,street lamp:0.1757909208536148;alpine ash,mountain oak,Eucalyptus delegatensis:0.14325176179409027;
+boxes_9.jpg;streetlight,street lamp:0.09716181457042694;alpine ash,mountain oak,Eucalyptus delegatensis:0.06794656068086624;
+img_12.jpg;gray,grayness,grey,greyness:0.11534863710403442;white alder,mountain alder,Alnus rhombifolia:0.10050614178180695;silver tree,Tarrietia argyrodendron:0.08824875205755234;downy birch,white birch,Betula pubescens:0.07781977951526642;snow,snowfall:0.0591573566198349;sunniness:0.05595438927412033;

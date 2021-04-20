@@ -1,0 +1,3 @@
+from_image_IPTC:dog;running;ball;rhodesian;ridgeback;
+from_object_detection:dog;ball;plant;
+from_image_classification:hunting dog;bird dog;elephant seal;sea elephant;earless seal;true seal;hair seal;sea lion;weimaraner;nanny;nanny-goat;she-goat;standard schnauzer;water dog;housedog;

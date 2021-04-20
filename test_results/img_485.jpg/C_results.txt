@@ -1,0 +1,16 @@
+boxes_1.jpg;borage,tailwort,Borago officinalis:0.3876665532588959;Chinese forget-me-not,Cynoglossum amabile:0.13055647909641266;borage:0.11141423881053925;hound's-tongue,Cynoglossum officinale:0.09530571848154068;anchusa:0.06576363742351532;bugloss,alkanet,Anchusa officinalis:0.05206504091620445;
+boxes_10.jpg;
+boxes_11.jpg;negative:0.9969497323036194;
+boxes_12.jpg;negative:0.9885380268096924;
+boxes_13.jpg;negative:0.9914388656616211;
+boxes_14.jpg;
+boxes_15.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.4929507076740265;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.20225249230861664;
+boxes_2.jpg;cineraria,Pericallis cruenta,Senecio cruentus:0.19587498903274536;dusty miller,Senecio cineraria,Cineraria maritima:0.14892417192459106;negative:0.07955555617809296;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.06081026419997215;English lavender,Lavandula angustifolia,Lavandula officinalis:0.050184156745672226;
+boxes_3.jpg;negative:0.9284451603889465;
+boxes_4.jpg;negative:0.2746345102787018;dusty miller,Senecio cineraria,Cineraria maritima:0.10190305858850479;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.05807413160800934;
+boxes_5.jpg;negative:0.9963160157203674;
+boxes_6.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.41819238662719727;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.18277917802333832;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.0682552382349968;
+boxes_7.jpg;negative:0.07968101650476456;
+boxes_8.jpg;negative:0.06210856884717941;
+boxes_9.jpg;negative:0.09642864763736725;
+img_485.jpg;negative:0.9987020492553711;

@@ -1,0 +1,30 @@
+boxes_1.jpg;marine invertebrates:0.87642014
+boxes_2.jpg;marine invertebrates:0.71949565
+boxes_3.jpg;marine invertebrates:0.5767767
+boxes_4.jpg;marine invertebrates:0.56744605
+boxes_5.jpg;marine invertebrates:0.5638895
+boxes_6.jpg;plant:0.38530114
+boxes_7.jpg;marine invertebrates:0.36719808
+boxes_8.jpg;marine invertebrates:0.33583996
+boxes_9.jpg;jellyfish:0.3223544
+boxes_10.jpg;marine invertebrates:0.2692366
+boxes_11.jpg;marine invertebrates:0.20278232
+boxes_12.jpg;marine invertebrates:0.17257527
+boxes_13.jpg;marine invertebrates:0.12790628
+boxes_14.jpg;marine invertebrates:0.12191101
+boxes_15.jpg;marine invertebrates:0.10940726
+boxes_16.jpg;fish:0.10934661
+boxes_17.jpg;invertebrate:0.10417567
+boxes_18.jpg;marine invertebrates:0.093535066
+boxes_19.jpg;invertebrate:0.08942259
+boxes_20.jpg;invertebrate:0.08317244
+boxes_21.jpg;fish:0.08098755
+boxes_22.jpg;marine invertebrates:0.080389485
+boxes_23.jpg;marine invertebrates:0.07870471
+boxes_24.jpg;marine invertebrates:0.0785137
+boxes_25.jpg;marine invertebrates:0.075639084
+boxes_26.jpg;marine invertebrates:0.0753866
+boxes_27.jpg;marine invertebrates:0.070849314
+boxes_28.jpg;invertebrate:0.06197649
+boxes_29.jpg;marine invertebrates:0.06002357
+boxes_30.jpg;marine invertebrates:0.059771888

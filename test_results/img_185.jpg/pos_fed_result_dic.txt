@@ -1,0 +1,3 @@
+from_image_IPTC:panorama;turkish;beach;antalya;
+from_object_detection:plant;
+from_image_classification:littoral;litoral;littoral zone;sands;seashore;coast;seacoast;sea-coast;coastland;

@@ -1,0 +1,2 @@
+boxes_1.jpg;bullet,slug:0.5898867845535278;round,unit of ammunition,one shot:0.15432076156139374;
+img_256.jpg;bullet,slug:0.4891112446784973;round,unit of ammunition,one shot:0.31514328718185425;

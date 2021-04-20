@@ -1,0 +1,16 @@
+boxes_1.jpg;flag:0.87461287
+boxes_2.jpg;clothing:0.71324265
+boxes_3.jpg;toy:0.35184
+boxes_4.jpg;clothing:0.33997077
+boxes_5.jpg;clothing:0.16529728
+boxes_6.jpg;furniture:0.1388405
+boxes_7.jpg;fashion accessory:0.13077885
+boxes_8.jpg;flag:0.12999973
+boxes_9.jpg;person:0.119426936
+boxes_10.jpg;flag:0.11078289
+boxes_11.jpg;flag:0.108137265
+boxes_12.jpg;flag:0.08988176
+boxes_13.jpg;flag:0.07318409
+boxes_14.jpg;clothing:0.064155586
+boxes_15.jpg;chair:0.058367886
+boxes_16.jpg;fashion accessory:0.050727244

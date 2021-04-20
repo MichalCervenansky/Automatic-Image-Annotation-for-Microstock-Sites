@@ -1,0 +1,62 @@
+boxes_1.jpg;footwear:0.9264513
+boxes_2.jpg;footwear:0.9075196
+boxes_3.jpg;footwear:0.8736579
+boxes_4.jpg;footwear:0.8388839
+boxes_5.jpg;footwear:0.8387082
+boxes_6.jpg;footwear:0.8172033
+boxes_7.jpg;footwear:0.7926006
+boxes_8.jpg;footwear:0.71648324
+boxes_9.jpg;clothing:0.6385308
+boxes_10.jpg;person:0.6256697
+boxes_11.jpg;footwear:0.49404824
+boxes_12.jpg;jeans:0.47388023
+boxes_13.jpg;person:0.4401365
+boxes_14.jpg;person:0.4083932
+boxes_15.jpg;person:0.36704245
+boxes_16.jpg;footwear:0.3472292
+boxes_17.jpg;jeans:0.3443774
+boxes_18.jpg;clothing:0.2985179
+boxes_19.jpg;footwear:0.26601937
+boxes_20.jpg;person:0.25692508
+boxes_21.jpg;man:0.23683539
+boxes_22.jpg;human leg:0.23167552
+boxes_23.jpg;human leg:0.23157908
+boxes_24.jpg;person:0.23029892
+boxes_25.jpg;person:0.21546885
+boxes_26.jpg;human leg:0.20902969
+boxes_27.jpg;human leg:0.19248313
+boxes_28.jpg;footwear:0.18715833
+boxes_29.jpg;human leg:0.1756254
+boxes_30.jpg;footwear:0.15984283
+boxes_31.jpg;person:0.13975212
+boxes_32.jpg;person:0.13873959
+boxes_33.jpg;person:0.13634746
+boxes_34.jpg;footwear:0.13293014
+boxes_35.jpg;human leg:0.124818355
+boxes_36.jpg;human leg:0.123502836
+boxes_37.jpg;jeans:0.12053936
+boxes_38.jpg;clothing:0.11741797
+boxes_39.jpg;human leg:0.10353582
+boxes_40.jpg;footwear:0.10308364
+boxes_41.jpg;human leg:0.09998126
+boxes_42.jpg;human leg:0.09715037
+boxes_43.jpg;human leg:0.09505527
+boxes_44.jpg;jeans:0.09323392
+boxes_45.jpg;footwear:0.089104615
+boxes_46.jpg;footwear:0.080231845
+boxes_47.jpg;clothing:0.07365929
+boxes_48.jpg;person:0.07360146
+boxes_49.jpg;clothing:0.071388416
+boxes_50.jpg;footwear:0.06911228
+boxes_51.jpg;human leg:0.0689942
+boxes_52.jpg;man:0.066511035
+boxes_53.jpg;fashion accessory:0.06569304
+boxes_54.jpg;human leg:0.064761676
+boxes_55.jpg;human leg:0.06281209
+boxes_56.jpg;person:0.06168678
+boxes_57.jpg;man:0.059741672
+boxes_58.jpg;jeans:0.05812763
+boxes_59.jpg;fashion accessory:0.05594587
+boxes_60.jpg;footwear:0.055300668
+boxes_61.jpg;human leg:0.0530102
+boxes_62.jpg;human leg:0.05240617

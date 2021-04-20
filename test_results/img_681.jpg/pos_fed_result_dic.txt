@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;croatia;
+from_object_detection:fish;marine invertebrates;animal;squid;marine mammal;
+from_image_classification:octopus;devilfish;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;stonefish;synanceja verrucosa;sponge;poriferan;parazoan;cuttlefish;cuttle;electric ray;crampfish;numbfish;torpedo;igloo;iglu;brain coral;reef;giant clam;tridacna gigas;

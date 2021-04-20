@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:plant;boat;vehicle;tree;
+from_image_classification:stucco;adobe;adobe brick;ducking;duck hunting;fixer-upper;mountainside;versant;mason;stonemason;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;rush grass;rush-grass;fescue;fescue grass;meadow fescue;festuca elatior;fountain grass;pennisetum ruppelii;pennisetum setaceum;tall oat grass;tall meadow grass;evergreen grass;false oat;french rye;arrhenatherum elatius;poop deck;tanker;tank driver;outrigger;mud brick;hovel;hut;hutch;shack;shanty;

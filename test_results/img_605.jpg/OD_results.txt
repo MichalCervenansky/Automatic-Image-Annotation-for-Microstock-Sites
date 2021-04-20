@@ -1,0 +1,20 @@
+boxes_1.jpg;cheese:0.78100026
+boxes_2.jpg;watermelon:0.6247785
+boxes_3.jpg;food:0.5624623
+boxes_4.jpg;cheese:0.4063585
+boxes_5.jpg;winter melon:0.40414265
+boxes_6.jpg;squash:0.29111186
+boxes_7.jpg;food:0.17618228
+boxes_8.jpg;fruit:0.16374479
+boxes_9.jpg;cantaloupe:0.11225471
+boxes_10.jpg;mango:0.10509323
+boxes_11.jpg;zucchini:0.10012156
+boxes_12.jpg;orange:0.092899874
+boxes_13.jpg;vegetable:0.09091468
+boxes_14.jpg;mango:0.08520365
+boxes_15.jpg;watermelon:0.08387308
+boxes_16.jpg;cucumber:0.08151043
+boxes_17.jpg;food:0.07101352
+boxes_18.jpg;winter melon:0.06639823
+boxes_19.jpg;auto part:0.063183084
+boxes_20.jpg;cantaloupe:0.06169279

@@ -1,0 +1,9 @@
+boxes_1.jpg;human face:0.6335356
+boxes_2.jpg;person:0.5420736
+boxes_3.jpg;human face:0.22917227
+boxes_4.jpg;man:0.10352525
+boxes_5.jpg;human hand:0.09472281
+boxes_6.jpg;human face:0.061064374
+boxes_7.jpg;human hand:0.054829862
+boxes_8.jpg;cosmetics:0.052188467
+boxes_9.jpg;human mouth:0.050918333

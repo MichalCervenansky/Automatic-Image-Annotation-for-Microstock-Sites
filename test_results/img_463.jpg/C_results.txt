@@ -1,0 +1,17 @@
+boxes_1.jpg;cell:0.6724194288253784;morula:0.06530117988586426;
+boxes_10.jpg;longanberry,dragon's eye:0.08360137045383453;branchlet,twig,sprig:0.06246637552976608;bead tree,jumby bean,jumby tree,Ormosia monosperma:0.05729518458247185;longan,lungen,longanberry,Dimocarpus longan,Euphorbia litchi,Nephelium longana:0.05536170303821564;acorn:0.05455810949206352;
+boxes_11.jpg;
+boxes_12.jpg;
+boxes_13.jpg;
+boxes_14.jpg;cell:0.38520547747612;morula:0.11744917929172516;
+boxes_15.jpg;
+boxes_16.jpg;longan,lungen,longanberry,Dimocarpus longan,Euphorbia litchi,Nephelium longana:0.2744917571544647;
+boxes_2.jpg;gastrula:0.1981041580438614;oocyte:0.17703114449977875;endameba:0.06390050053596497;spherule:0.05873459205031395;
+boxes_3.jpg;longanberry,dragon's eye:0.20359311997890472;branchlet,twig,sprig:0.060386523604393005;longan,lungen,longanberry,Dimocarpus longan,Euphorbia litchi,Nephelium longana:0.05833125486969948;
+boxes_4.jpg;medlar:0.19299645721912384;sapodilla,sapodilla plum,sapota:0.18079149723052979;mamey,mammee,mammee apple:0.06655801832675934;
+boxes_5.jpg;longan,lungen,longanberry,Dimocarpus longan,Euphorbia litchi,Nephelium longana:0.41030484437942505;longanberry,dragon's eye:0.21793299913406372;
+boxes_6.jpg;chocolate kiss:0.08584612607955933;cork,bottle cork:0.07507185637950897;
+boxes_7.jpg;
+boxes_8.jpg;gastrula:0.34406647086143494;negative:0.052210498601198196;microorganism,micro-organism:0.05073047801852226;
+boxes_9.jpg;
+img_463.jpg;longan,lungen,longanberry,Dimocarpus longan,Euphorbia litchi,Nephelium longana:0.721515417098999;longanberry,dragon's eye:0.1300862431526184;

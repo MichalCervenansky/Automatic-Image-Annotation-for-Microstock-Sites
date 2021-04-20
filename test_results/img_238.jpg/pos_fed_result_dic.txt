@@ -1,0 +1,3 @@
+from_image_IPTC:hotel;breakfast;sausages;cheese;
+from_object_detection:tea;food;coffee cup;baked goods;potato;bread;cheese;coffee;fast food;dessert;snack;fork;tableware;vegetable;sandwich;
+from_image_classification:coffee cup;aperture;footbath;soapsuds;suds;lather;ice maker;icetray;morula;cell;bone-ash cup;cupel;refractory pot;cup;drip coffee;coconut milk;coconut cream;bean curd;tofu;lump sugar;saccharin;sugar;refined sugar;surgical dressing;slop basin;slop bowl;ultramarine;blue;blueness;ice;water ice;powdered sugar;plate;igloo;iglu;negative;icing sugar;marshmallow;skim milk;skimmed milk;whole milk;soapbox;snowdrift;

@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;slovakia;country;side;autumn;
+from_object_detection:tree;plant;flower;
+from_image_classification:ski slope;skiing;air bubble;negative;snowdrift;gown;surgical gown;scrubs;bobsledding;cellophane;

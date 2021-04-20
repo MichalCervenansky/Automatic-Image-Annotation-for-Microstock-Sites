@@ -1,0 +1,3 @@
+boxes_1.jpg;star-of-Bethlehem:0.9994712471961975;
+boxes_2.jpg;star-of-Bethlehem:0.9995244741439819;
+img_204.jpg;star-of-Bethlehem:0.9992726445198059;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;pink;mountain;flower;national;park;vysoke;tatry;
+from_object_detection:flower;lavender;tree;
+from_image_classification:kitten-tails;giant hyssop;elsholtzia;veronica;speedwell;horsemint;mentha longifolia;hyssop;anise hyssop;agastache foeniculum;physostegia;scabious;scabiosa;clary sage;salvia clarea;caribou;reindeer;greenland caribou;rangifer tarandus;red deer;elk;american elk;wapiti;cervus elaphus;american germander;wood sage;teucrium canadense;erect bugle;blue bugle;ajuga genevensis;blazing star;button snakeroot;gayfeather;gay-feather;snakeroot;american wistaria;american wisteria;wisteria frutescens;

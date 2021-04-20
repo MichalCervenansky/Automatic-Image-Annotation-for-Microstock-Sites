@@ -1,0 +1,6 @@
+boxes_1.jpg;honeycomb:0.93277085
+boxes_2.jpg;honeycomb:0.5217348
+boxes_3.jpg;honeycomb:0.3946105
+boxes_4.jpg;honeycomb:0.26804438
+boxes_5.jpg;beehive:0.104693726
+boxes_6.jpg;beehive:0.08588332

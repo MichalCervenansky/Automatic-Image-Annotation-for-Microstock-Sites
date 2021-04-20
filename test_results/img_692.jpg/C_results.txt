@@ -1,0 +1,11 @@
+boxes_1.jpg;sea slug,nudibranch:0.8523385524749756;hydrozoan,hydroid:0.0549427792429924;
+boxes_10.jpg;benthos:0.3706657290458679;sea anemone,anemone:0.24218899011611938;benthos,benthic division,benthonic zone:0.17052322626113892;
+boxes_2.jpg;benthos:0.574092447757721;benthos,benthic division,benthonic zone:0.20094865560531616;
+boxes_3.jpg;hydrozoan,hydroid:0.15582413971424103;siphonophore:0.15113072097301483;zooid:0.12606297433376312;zooplankton:0.1254199743270874;benthos,benthic division,benthonic zone:0.10178576409816742;Portuguese man-of-war,man-of-war,jellyfish:0.051540080457925797;
+boxes_4.jpg;benthos,benthic division,benthonic zone:0.29443415999412537;sea slug,nudibranch:0.2415754795074463;benthos:0.19426335394382477;hydrozoan,hydroid:0.16576682031154633;
+boxes_5.jpg;hydrozoan,hydroid:0.26101377606391907;benthos,benthic division,benthonic zone:0.16774141788482666;sea slug,nudibranch:0.1005382314324379;benthos:0.07854919135570526;zooplankton:0.07327340543270111;siphonophore:0.06664323806762695;zooid:0.06452175229787827;
+boxes_6.jpg;benthos,benthic division,benthonic zone:0.15162597596645355;benthos:0.13912014663219452;ice,water ice:0.09795603901147842;sea anemone,anemone:0.07099169492721558;
+boxes_7.jpg;zooid:0.1478135883808136;siphonophore:0.1439143866300583;hydrozoan,hydroid:0.12439601123332977;benthos,benthic division,benthonic zone:0.12109586596488953;sea slug,nudibranch:0.10478989779949188;sea pen:0.08182401955127716;benthos:0.05826101079583168;
+boxes_8.jpg;hydrozoan,hydroid:0.23766885697841644;sea slug,nudibranch:0.14436665177345276;zooid:0.13374006748199463;siphonophore:0.11752988398075104;zooplankton:0.06684891134500504;
+boxes_9.jpg;benthos,benthic division,benthonic zone:0.26012083888053894;hydrozoan,hydroid:0.22845964133739471;sea slug,nudibranch:0.11264966428279877;benthos:0.10330172628164291;zooid:0.05919206142425537;
+img_692.jpg;benthos:0.36307433247566223;sea anemone,anemone:0.2768454849720001;benthos,benthic division,benthonic zone:0.06661367416381836;ice,water ice:0.058834146708250046;

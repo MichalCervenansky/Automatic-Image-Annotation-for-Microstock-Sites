@@ -1,0 +1,10 @@
+boxes_1.jpg;fruit:0.7444337
+boxes_2.jpg;plant:0.6077286
+boxes_3.jpg;tree:0.5604522
+boxes_4.jpg;plant:0.2266894
+boxes_5.jpg;plant:0.21517561
+boxes_6.jpg;flower:0.21040101
+boxes_7.jpg;fruit:0.18271078
+boxes_8.jpg;fruit:0.15398477
+boxes_9.jpg;maple:0.08798983
+boxes_10.jpg;lemon:0.08059033

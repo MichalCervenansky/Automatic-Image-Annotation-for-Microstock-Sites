@@ -1,0 +1,7 @@
+boxes_1.jpg;mountain ash,Eucalyptus regnans:0.2457078993320465;black mallee,black sally,black gum,Eucalytus stellulata:0.14899811148643494;alpine ash,mountain oak,Eucalyptus delegatensis:0.08798367530107498;snow gum,ghost gum,white ash,Eucalyptus coriacea,Eucalyptus pauciflora:0.08103631436824799;
+boxes_2.jpg;reef:0.07303351908922195;
+boxes_3.jpg;verdigris:0.7205012440681458;
+boxes_4.jpg;stony coral,madrepore,madriporian coral:0.12734438478946686;artemisia:0.07655548304319382;Colorado spruce,Colorado blue spruce,silver spruce,Picea pungens:0.05783417448401451;
+boxes_5.jpg;mountain,mount:0.1742427498102188;volcanic crater,crater:0.07905622571706772;mountainside,versant:0.06827151030302048;ascent,acclivity,rise,raise,climb,upgrade:0.06328125298023224;
+boxes_6.jpg;glacier:0.29893550276756287;Alpine glacier,Alpine type of glacier:0.1743771880865097;talus,scree:0.13535012304782867;polar glacier:0.051990292966365814;
+img_413.jpg;glacier:0.32630565762519836;Alpine glacier,Alpine type of glacier:0.21071895956993103;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.183222696185112;

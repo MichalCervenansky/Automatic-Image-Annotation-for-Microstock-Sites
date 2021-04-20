@@ -1,0 +1,3 @@
+from_image_IPTC:flower;narrow;ancient;street;
+from_object_detection:flower;tree;plant;houseplant;lily;
+from_image_classification:night jasmine;night jessamine;cestrum nocturnum;common jasmine;true jasmine;jessamine;jasminum officinale;easter lily;bermuda lily;white trumpet lily;lilium longiflorum;blue pea;butterfly pea;clitoria turnatea;petiole;leafstalk;negative;dental floss;floss;star magnolia;magnolia stellata;riband;ribband;stephanotis;voile;nymph;houri;binder;ligature;winter jasmine;jasminum nudiflorum;tuberose;polianthes tuberosa;japanese morning glory;ipomoea nil;jade vine;emerald creeper;strongylodon macrobotrys;window;emerald;spurge nettle;tread-softly;devil nettle;pica-pica;cnidoscolus urens;jatropha urens;jatropha stimulosus;

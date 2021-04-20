@@ -1,0 +1,15 @@
+boxes_1.jpg;young fish:0.11811355501413345;greenling:0.0965740829706192;grunt:0.0743057057261467;topminnow,poeciliid fish,poeciliid,live-bearer:0.051200415939092636;
+boxes_10.jpg;stony coral,madrepore,madriporian coral:0.26287588477134705;
+boxes_11.jpg;mouthbreeder:0.0943530946969986;gudgeon,Gobio gobio:0.07453740388154984;mojarra:0.05349462479352951;
+boxes_12.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.20176193118095398;brown algae:0.12148040533065796;
+boxes_13.jpg;young fish:0.2970868647098541;wolffish,wolf fish,catfish:0.07347475737333298;
+boxes_14.jpg;polyp:0.121334008872509;alga,algae:0.10970296710729599;gudgeon,Gobio gobio:0.058634065091609955;brown algae:0.05705194175243378;
+boxes_2.jpg;young fish:0.28587308526039124;bottom-feeder,bottom-dweller:0.05401015654206276;
+boxes_3.jpg;brown algae:0.1398933231830597;polyp:0.12896206974983215;alga,algae:0.10115014761686325;stony coral,madrepore,madriporian coral:0.06427093595266342;
+boxes_4.jpg;young fish:0.27470776438713074;benthos,benthic division,benthonic zone:0.08264409750699997;
+boxes_5.jpg;gudgeon,Gobio gobio:0.09236598759889603;greenling:0.0834144875407219;goby,gudgeon:0.07556445896625519;young fish:0.05846235156059265;
+boxes_6.jpg;young fish:0.32989001274108887;cichlid,cichlid fish:0.08242285251617432;mouthbreeder:0.07942283898591995;
+boxes_7.jpg;damselfish,demoiselle:0.18472617864608765;gudgeon,Gobio gobio:0.14038728177547455;
+boxes_8.jpg;polyp:0.27019011974334717;sea fan:0.06721291691064835;
+boxes_9.jpg;blenny,combtooth blenny:0.39126336574554443;gudgeon,Gobio gobio:0.2663175165653229;
+img_673.jpg;grunt:0.37448185682296753;benthos,benthic division,benthonic zone:0.21831537783145905;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.051312465220689774;

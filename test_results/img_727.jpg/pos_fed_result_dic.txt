@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;black;scorpionfish;sea;cave;croatia;
+from_object_detection:fish;marine invertebrates;plant;animal;
+from_image_classification:stonefish;synanceja verrucosa;texas horned lizard;phrynosoma cornutum;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;coral reef;porkfish;pork-fish;anisotremus virginicus;sea fan;stony coral;madrepore;madriporian coral;sea anemone;anemone;tunicate;urochordate;urochord;ascidian;scuba diving;supernova;sea feather;sea raven;hemitripterus americanus;electric ray;crampfish;numbfish;torpedo;sponge;poriferan;parazoan;pulsar;reef;benthos;benthic division;benthonic zone;sea squirt;brain coral;seagrass;giant clam;tridacna gigas;

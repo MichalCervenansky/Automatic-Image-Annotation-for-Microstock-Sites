@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;blue;meadow;flower;
+from_object_detection:flower;plant;
+from_image_classification:pimpernel;negative;endameba;ameba;amoeba;blastocyst;blastodermic vessicle;venus' slipper;venus's slipper;venus's shoe;mildew;scarlet pimpernel;red pimpernel;poor man's weatherglass;anagallis arvensis;powdery mildew;

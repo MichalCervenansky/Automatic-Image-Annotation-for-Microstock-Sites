@@ -1,0 +1,17 @@
+boxes_1.jpg;casuarina:0.12912894785404205;lakeside,lakeshore:0.11078903079032898;
+boxes_10.jpg;littoral,litoral,littoral zone,sands:0.08192931860685349;waterside:0.06381239742040634;
+boxes_11.jpg;shore:0.24659915268421173;arroyo:0.13451741635799408;bank:0.08758553862571716;gorge:0.06212431192398071;outfall:0.05692557245492935;
+boxes_12.jpg;slope,incline,side:0.08374118059873581;toetoe,toitoi,Arundo conspicua,Chionochloa conspicua:0.06743714958429337;
+boxes_13.jpg;toetoe,toitoi,Arundo conspicua,Chionochloa conspicua:0.06361482292413712;
+boxes_14.jpg;littoral,litoral,littoral zone,sands:0.15233616530895233;low-water mark:0.13370728492736816;outfall:0.1263929307460785;riverbed,river bottom:0.11758065223693848;bank:0.07233621180057526;
+boxes_15.jpg;swimming,swim:0.07967300713062286;
+boxes_16.jpg;ridge:0.09212502092123032;escarpment,scarp:0.06366319209337234;
+boxes_2.jpg;
+boxes_3.jpg;outfall:0.07961875945329666;mountainside,versant:0.057619769126176834;littoral,litoral,littoral zone,sands:0.05552268028259277;ridge:0.05256470665335655;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;brome,bromegrass:0.060121309012174606;pampas grass,Cortaderia selloana:0.05137393996119499;
+boxes_7.jpg;riverbank,riverside:0.21095630526542664;
+boxes_8.jpg;littoral,litoral,littoral zone,sands:0.17780685424804688;low-water mark:0.1274900585412979;embankment:0.10848470777273178;outfall:0.09990806132555008;bank:0.07426866888999939;riverbed,river bottom:0.06640243530273438;
+boxes_9.jpg;low-water mark:0.1300852745771408;promontory,headland,head,foreland:0.11008200794458389;bank:0.05055607855319977;
+img_486.jpg;low-water mark:0.222267284989357;littoral,litoral,littoral zone,sands:0.18512830138206482;sunniness:0.05122925713658333;

@@ -1,0 +1,11 @@
+boxes_1.jpg;plant:0.7894047
+boxes_2.jpg;plant:0.27957
+boxes_3.jpg;tree:0.25571474
+boxes_4.jpg;plant:0.15643387
+boxes_5.jpg;plant:0.07187033
+boxes_6.jpg;insect:0.070316754
+boxes_7.jpg;bee:0.06301838
+boxes_8.jpg;insect:0.06266106
+boxes_9.jpg;insect:0.06222281
+boxes_10.jpg;insect:0.0512736
+boxes_11.jpg;flower:0.051259097

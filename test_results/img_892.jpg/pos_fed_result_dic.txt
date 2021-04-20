@@ -1,0 +1,3 @@
+from_image_IPTC:wave;crushing;mole;croatia;mediterrean;sea;
+from_object_detection:boat;watercraft;furniture;vehicle;
+from_image_classification:catamaran;jolly boat;jolly;cabin cruiser;cruiser;pleasure boat;pleasure craft;wave;low-water mark;outfall;

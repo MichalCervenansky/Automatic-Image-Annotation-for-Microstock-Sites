@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;beach;dilek;national;park;turkey;
+from_object_detection:tree;
+from_image_classification:monterey cypress;cupressus macrocarpa;wreck;seashore;coast;seacoast;sea-coast;divi-divi;caesalpinia coriaria;black beech;nothofagus solanderi;sounding rocket;rocket;rocket engine;space shuttle;monterey pine;pinus radiata;littoral;litoral;littoral zone;sands;ascent;acclivity;rise;raise;climb;upgrade;slope;incline;side;talus;scree;fur seal;

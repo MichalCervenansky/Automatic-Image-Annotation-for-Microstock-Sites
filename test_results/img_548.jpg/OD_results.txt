@@ -1,0 +1,3 @@
+boxes_1.jpg;swimming pool:0.113282524
+boxes_2.jpg;food:0.0716051
+boxes_3.jpg;swimming pool:0.06429108

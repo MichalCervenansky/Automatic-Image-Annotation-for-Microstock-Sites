@@ -1,0 +1,16 @@
+boxes_1.jpg;negative:0.491435706615448;mountainside,versant:0.16452448070049286;mountain,mount:0.07691305875778198;
+boxes_10.jpg;mountainside,versant:0.11293862760066986;mountain sheep:0.06258240342140198;
+boxes_11.jpg;hoary marmot,whistler,whistling marmot,Marmota caligata:0.1707359254360199;
+boxes_12.jpg;snowplow,snowplough:0.05779668316245079;
+boxes_13.jpg;ridge:0.1301341950893402;alp:0.08661550283432007;glacier:0.0679485872387886;slope,incline,side:0.05299829691648483;Alpine glacier,Alpine type of glacier:0.050861459225416183;
+boxes_14.jpg;mountainside,versant:0.2921411097049713;negative:0.1262744814157486;mountain,mount:0.09507642686367035;hillside:0.06095649302005768;
+boxes_15.jpg;alp:0.20294497907161713;escarpment,scarp:0.070539690554142;steep:0.05013258755207062;
+boxes_2.jpg;mountainside,versant:0.23801366984844208;mountain,mount:0.09734164923429489;negative:0.07562454044818878;
+boxes_3.jpg;negative:0.5137909054756165;mountain,mount:0.18918709456920624;
+boxes_4.jpg;mountainside,versant:0.14485286176204681;snowdrift:0.09543521702289581;slope,incline,side:0.06472279876470566;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.050468266010284424;
+boxes_5.jpg;Colorado spruce,Colorado blue spruce,silver spruce,Picea pungens:0.13918375968933105;white fir,Colorado fir,California white fir,Abies concolor,Abies lowiana:0.08692579716444016;white spruce,Picea glauca:0.08369021117687225;western white pine,silver pine,mountain pine,Pinus monticola:0.06514395028352737;
+boxes_6.jpg;ridge:0.07514607161283493;slope,incline,side:0.07335487753152847;
+boxes_7.jpg;negative:0.4601183831691742;mountain,mount:0.1349780261516571;
+boxes_8.jpg;escarpment,scarp:0.19893372058868408;mountainside,versant:0.07140971720218658;steep:0.05320844054222107;
+boxes_9.jpg;mountainside,versant:0.08073143661022186;alp:0.07527866959571838;mountain,mount:0.06258201599121094;steep:0.05512845143675804;oxbow:0.05434767156839371;escarpment,scarp:0.05346149578690529;
+img_870.jpg;escarpment,scarp:0.14362704753875732;riverbank,riverside:0.06439521908760071;

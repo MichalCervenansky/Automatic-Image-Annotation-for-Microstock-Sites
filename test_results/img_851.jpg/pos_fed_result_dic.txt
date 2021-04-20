@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;popradske;pleso;4;
+from_object_detection:tree;
+from_image_classification:mountain;mount;oil paint;ridge;negative;glacier;riverbank;riverside;lakeside;lakeshore;waterside;riparian forest;steep;branch water;lame;verdigris;print;powder;windshield;windscreen;shore;scad;pacific sardine;sardinops caerulea;sardine;seal;fur seal;sea lion;arroyo;arete;polar glacier;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;barrier reef;reef;atoll;sand tiger;sand shark;carcharias taurus;odontaspis taurus;watercourse;geological formation;formation;

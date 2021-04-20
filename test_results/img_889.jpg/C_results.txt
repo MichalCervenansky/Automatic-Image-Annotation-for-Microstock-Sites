@@ -1,0 +1,4 @@
+boxes_1.jpg;royal mast:0.19377847015857697;telecom hotel,telco building:0.09126242995262146;royal:0.08073725551366806;lookout,observation tower,lookout station,observatory:0.07487566024065018;control tower:0.06872473657131195;repository,monument:0.05264953523874283;
+boxes_2.jpg;royal:0.2108968198299408;control tower:0.20718100666999817;poop deck:0.07692412286996841;sailing vessel,sailing ship:0.05042629688978195;
+boxes_3.jpg;control tower:0.1366589218378067;royal:0.10008862614631653;royal mast:0.09406831115484238;topmast:0.07468100637197495;lookout,observation tower,lookout station,observatory:0.05715546756982803;
+img_889.jpg;control tower:0.2934165298938751;royal:0.11981236189603806;topmast:0.06077346205711365;

@@ -1,0 +1,13 @@
+boxes_1.jpg;scallop,scollop,escallop:0.35500895977020264;scallop shell:0.26922520995140076;ark shell:0.24687817692756653;
+boxes_10.jpg;scallop shell:0.8867515921592712;
+boxes_11.jpg;ark shell:0.06716975569725037;jawfish:0.06474129855632782;whelk:0.06089688464999199;
+boxes_12.jpg;ark shell:0.13560926914215088;soft-shell clam,steamer,steamer clam,long-neck clam,Mya arenaria:0.06090701371431351;
+boxes_2.jpg;ark shell:0.5561008453369141;cockle:0.18807010352611542;scallop shell:0.06786191463470459;
+boxes_3.jpg;oyster shell:0.09312226623296738;ark shell:0.06027336046099663;
+boxes_4.jpg;scallop,scollop,escallop:0.3892252743244171;scallop shell:0.26503416895866394;ark shell:0.06391312927007675;
+boxes_5.jpg;scallop shell:0.8696314692497253;scallop,scollop,escallop:0.05921587720513344;
+boxes_6.jpg;scallop shell:0.8212019205093384;scallop,scollop,escallop:0.07329927384853363;
+boxes_7.jpg;scallop,scollop,escallop:0.322898268699646;scallop shell:0.290282279253006;ark shell:0.08164029568433762;cockle:0.06584177911281586;
+boxes_8.jpg;scallop,scollop,escallop:0.36744141578674316;scallop shell:0.3325541019439697;bay scallop,Pecten irradians:0.07950428128242493;chlamys:0.07011964172124863;
+boxes_9.jpg;ark shell:0.1446259468793869;scallop,scollop,escallop:0.050130292773246765;
+img_353.jpg;color wash,colour wash:0.3095586895942688;marbleization,marbleisation,marbleizing,marbleising:0.13268467783927917;smooth muscle cell:0.058825403451919556;lymphocyte,lymph cell:0.05694554001092911;spherule:0.055796604603528976;

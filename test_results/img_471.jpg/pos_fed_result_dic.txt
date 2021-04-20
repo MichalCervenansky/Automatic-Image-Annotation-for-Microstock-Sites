@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;little;soft;flower;rocks;
+from_object_detection:flower;
+from_image_classification:umbel;dickeybird;dickey-bird;dickybird;dicky-bird;bohemian waxwing;bombycilla garrulus;cineraria;pericallis cruenta;senecio cruentus;dusty miller;senecio cineraria;cineraria maritima;centaurea cineraria;centaurea gymnocarpa;squill;negative;sea holly;sea holm;sea eryngium;eryngium maritimum;grape hyacinth;cotton grass;cotton rush;toothbrush;harpy;harpy eagle;harpia harpyja;rocket larkspur;consolida ambigua;delphinium ajacis;clary sage;salvia clarea;blue daisy;blue marguerite;felicia amelloides;pearly everlasting;cottonweed;anaphalis margaritacea;

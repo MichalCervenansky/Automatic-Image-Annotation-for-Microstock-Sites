@@ -1,0 +1,10 @@
+boxes_1.jpg;mushroom:0.8788855
+boxes_2.jpg;plant:0.48319682
+boxes_3.jpg;tree:0.3630963
+boxes_4.jpg;plant:0.35661435
+boxes_5.jpg;tree:0.33989218
+boxes_6.jpg;plant:0.121492624
+boxes_7.jpg;plant:0.11917106
+boxes_8.jpg;tree:0.1069741
+boxes_9.jpg;tree:0.09881491
+boxes_10.jpg;tree:0.067094825

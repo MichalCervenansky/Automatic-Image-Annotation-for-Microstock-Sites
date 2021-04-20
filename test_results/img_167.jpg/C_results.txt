@@ -1,0 +1,13 @@
+boxes_1.jpg;window:0.35534167289733887;storm window,storm sash:0.13440774381160736;stucco:0.10418924689292908;
+boxes_10.jpg;window:0.14864975214004517;casing,case:0.0668049231171608;
+boxes_11.jpg;tenement,tenement house:0.09378232061862946;
+boxes_12.jpg;security system,security measure,security:0.08687705546617508;surveillance system:0.08050838857889175;hook:0.0792706161737442;burglar alarm:0.06213178485631943;
+boxes_2.jpg;casing,case:0.06361960619688034;
+boxes_3.jpg;window:0.1843072921037674;casing,case:0.0904894694685936;
+boxes_4.jpg;tenement,tenement house:0.46859416365623474;
+boxes_5.jpg;tenement,tenement house:0.11598042398691177;streetlight,street lamp:0.08477716147899628;window:0.060719579458236694;
+boxes_6.jpg;tenement,tenement house:0.5757938623428345;
+boxes_7.jpg;tenement,tenement house:0.408352255821228;streetlight,street lamp:0.06997402012348175;
+boxes_8.jpg;tenement,tenement house:0.6854138374328613;
+boxes_9.jpg;surveillance system:0.07666769623756409;security system,security measure,security:0.07031606882810593;corbel,truss:0.06636664271354675;
+img_167.jpg;tenement,tenement house:0.38225677609443665;streetlight,street lamp:0.10096238553524017;

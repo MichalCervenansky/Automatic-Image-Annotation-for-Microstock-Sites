@@ -1,0 +1,3 @@
+from_image_IPTC:nerezine;coast;harbour;luxury;hotel;croatia;2016;
+from_object_detection:boat;tree;palm tree;building;house;
+from_image_classification:craft;boat;sprinkler system;wine palm;jaggery palm;kitul;kittul;kitul tree;toddy palm;caryota urens;carnauba;carnauba palm;wax palm;copernicia prunifera;copernicia cerifera;ballpark;park;royal tennis;real tennis;court tennis;condominium;resort hotel;spa;resort;holiday resort;living quarters;quarters;monitor;pedestrian crossing;zebra crossing;harbor;harbour;hull;small boat;sea boat;seashore;coast;seacoast;sea-coast;oceanfront;lake dwelling;pile dwelling;limousine;limo;sprinkler;hot tub;post;riverbank;riverside;lockage;waterside;beach house;rendering;

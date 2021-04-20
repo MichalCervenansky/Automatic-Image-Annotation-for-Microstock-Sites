@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;invertebrate;plant;
+from_image_classification:sea anemone;anemone;

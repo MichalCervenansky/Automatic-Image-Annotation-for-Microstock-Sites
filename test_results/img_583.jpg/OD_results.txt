@@ -1,0 +1,9 @@
+boxes_1.jpg;mobile phone:0.43710533
+boxes_2.jpg;computer monitor:0.38760492
+boxes_3.jpg;scoreboard:0.27496424
+boxes_4.jpg;tablet computer:0.18778794
+boxes_5.jpg;poster:0.18174931
+boxes_6.jpg;television:0.14918962
+boxes_7.jpg;mobile phone:0.08902813
+boxes_8.jpg;laptop:0.079084225
+boxes_9.jpg;computer monitor:0.051868122

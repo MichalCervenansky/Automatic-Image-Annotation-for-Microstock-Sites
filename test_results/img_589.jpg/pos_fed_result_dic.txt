@@ -1,0 +1,3 @@
+from_image_IPTC:silver;usb;drive;sticked;laptop;
+from_object_detection:laptop;box;mobile phone;tablet computer;
+from_image_classification:peripheral;computer peripheral;peripheral device;interface;port;drive;memory device;storage device;jack;electronic device;

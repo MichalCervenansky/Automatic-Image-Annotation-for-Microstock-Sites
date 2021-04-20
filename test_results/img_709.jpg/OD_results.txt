@@ -1,0 +1,7 @@
+boxes_1.jpg;invertebrate:0.7810655
+boxes_2.jpg;fish:0.2861603
+boxes_3.jpg;animal:0.27403173
+boxes_4.jpg;marine invertebrates:0.12347827
+boxes_5.jpg;insect:0.10652995
+boxes_6.jpg;moths and butterflies:0.072912395
+boxes_7.jpg;squid:0.06427358

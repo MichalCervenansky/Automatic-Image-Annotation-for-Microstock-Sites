@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tree;person;clothing;woman;tire;man;human face;plant;girl;
+from_image_classification:convertible;hot rod;hot-rod;stanley steamer;windshield;windscreen;model t;bodywork;foglamp;car tire;automobile tire;auto tire;rubber tire;coupe;body;bumper;tailpipe;fifth wheel;spare;car;elevator car;headlight;headlamp;blinker;flasher;cellophane;negative;roadster;runabout;two-seater;oxygen mask;light bulb;lightbulb;bulb;incandescent lamp;electric light;electric-light bulb;touring car;phaeton;tourer;dickey;dickie;dicky;dickey-seat;dickie-seat;dicky-seat;

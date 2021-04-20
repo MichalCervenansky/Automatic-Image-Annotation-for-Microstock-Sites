@@ -1,0 +1,20 @@
+boxes_1.jpg;car:0.98659945
+boxes_2.jpg;wheel:0.6010089
+boxes_3.jpg;tree:0.5068915
+boxes_4.jpg;wheel:0.4346501
+boxes_5.jpg;wheel:0.317538
+boxes_6.jpg;auto part:0.19519363
+boxes_7.jpg;tire:0.19176236
+boxes_8.jpg;tire:0.17209762
+boxes_9.jpg;tree:0.15519005
+boxes_10.jpg;tree:0.15476087
+boxes_11.jpg;house:0.15473227
+boxes_12.jpg;tree:0.13265479
+boxes_13.jpg;tree:0.119361825
+boxes_14.jpg;tire:0.10011025
+boxes_15.jpg;plant:0.09667117
+boxes_16.jpg;wheel:0.077207915
+boxes_17.jpg;building:0.06789478
+boxes_18.jpg;wheel:0.067093894
+boxes_19.jpg;wheel:0.057648152
+boxes_20.jpg;wheel:0.05166565

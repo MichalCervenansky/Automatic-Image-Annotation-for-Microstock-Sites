@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;old;historical;church;tower;jajce;
+from_object_detection:tower;tree;window;building;castle;
+from_image_classification:campanile;belfry;memorial;monument;repository;bell tower;entablature;bell gable;angel shark;angelfish;squatina squatina;monkfish;cornetfish;building;edifice;quoin;coign;coigne;brake;rocker arm;valve rocker;church tower;support column;baluster;

@@ -1,0 +1,16 @@
+boxes_1.jpg;car:0.7146433
+boxes_2.jpg;tire:0.6868639
+boxes_3.jpg;land vehicle:0.64222497
+boxes_4.jpg;wheel:0.537599
+boxes_5.jpg;land vehicle:0.4554796
+boxes_6.jpg;car:0.2682337
+boxes_7.jpg;vehicle:0.10255277
+boxes_8.jpg;land vehicle:0.08407397
+boxes_9.jpg;car:0.07522283
+boxes_10.jpg;wheel:0.073948584
+boxes_11.jpg;tire:0.06687621
+boxes_12.jpg;plant:0.06218545
+boxes_13.jpg;wheel:0.06046843
+boxes_14.jpg;wheel:0.057477035
+boxes_15.jpg;wheel:0.0560906
+boxes_16.jpg;tire:0.050696645

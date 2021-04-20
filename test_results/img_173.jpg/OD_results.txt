@@ -1,0 +1,18 @@
+boxes_1.jpg;sink:0.9649907
+boxes_2.jpg;tap:0.8804916
+boxes_3.jpg;shower:0.35336566
+boxes_4.jpg;building:0.351959
+boxes_5.jpg;clothing:0.33891273
+boxes_6.jpg;towel:0.3164808
+boxes_7.jpg;door:0.30401564
+boxes_8.jpg;tap:0.16319862
+boxes_9.jpg;countertop:0.15185228
+boxes_10.jpg;clothing:0.1327721
+boxes_11.jpg;plumbing fixture:0.12878557
+boxes_12.jpg;bathroom accessory:0.1115005
+boxes_13.jpg;window:0.09414883
+boxes_14.jpg;plumbing fixture:0.07767223
+boxes_15.jpg;tap:0.07463657
+boxes_16.jpg;plumbing fixture:0.06755256
+boxes_17.jpg;dress:0.061535664
+boxes_18.jpg;house:0.057281967

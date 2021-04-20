@@ -1,0 +1,3 @@
+from_image_IPTC:enourmous;gigantic;lizard;rock;
+from_object_detection:lizard;
+from_image_classification:chuckwalla;sauromalus obesus;agama;spiny lizard;mountain devil;moloch horridus;desert iguana;dipsosaurus dorsalis;

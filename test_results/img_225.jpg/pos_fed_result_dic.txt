@@ -1,0 +1,3 @@
+from_image_IPTC:enourmous;gigantic;lizard;woods;
+from_object_detection:lizard;tree;reptile;
+from_image_classification:fence lizard;eastern fence lizard;pine lizard;sceloporus undulatus;desert iguana;dipsosaurus dorsalis;tree lizard;urosaurus ornatus;racerunner;race runner;six-lined racerunner;cnemidophorus sexlineatus;alligator lizard;reptile;reptilian;earless lizard;night lizard;common water snake;banded water snake;natrix sipedon;nerodia sipedon;tangle;racer;rock rattlesnake;crotalus lepidus;

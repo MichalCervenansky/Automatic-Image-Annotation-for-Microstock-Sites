@@ -1,0 +1,12 @@
+boxes_1.jpg;boat:0.9686922
+boxes_2.jpg;boat:0.95676935
+boxes_3.jpg;tree:0.9290496
+boxes_4.jpg;boat:0.79749703
+boxes_5.jpg;boat:0.6218525
+boxes_6.jpg;canoe:0.59550977
+boxes_7.jpg;boat:0.4024371
+boxes_8.jpg;vehicle:0.10651928
+boxes_9.jpg;boat:0.086063415
+boxes_10.jpg;tree:0.07846567
+boxes_11.jpg;boat:0.07014806
+boxes_12.jpg;watercraft:0.0685094

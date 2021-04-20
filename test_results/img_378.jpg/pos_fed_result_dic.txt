@@ -1,0 +1,3 @@
+from_image_IPTC:large;cotton;field;turkey;
+from_object_detection:tree;plant;flower;building;house;
+from_image_classification:sand sage;silvery wormwood;artemisia filifolia;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;artemisia;dusty miller;centaurea cineraria;centaurea gymnocarpa;mountainside;versant;foothill;brown bear;bruin;ursus arctos;norwegian elkhound;elkhound;dutchman's breeches;dicentra cucullaria;descent;declivity;fall;decline;declination;declension;downslope;steep;sea wormwood;seriphidium maritimum;artemisia maritima;adit;gully;cotton grass;cotton rush;common cotton grass;eriophorum angustifolium;

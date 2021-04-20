@@ -1,0 +1,9 @@
+boxes_1.jpg;contact,contact lens:0.3448924720287323;complexion,skin color,skin colour:0.116415835916996;canthus:0.06342104077339172;
+boxes_2.jpg;contact,contact lens:0.506056547164917;canthus:0.12018168717622757;
+boxes_3.jpg;contact,contact lens:0.38717222213745117;canthus:0.09428215771913528;
+boxes_4.jpg;contact,contact lens:0.5211228132247925;canthus:0.10615906864404678;
+boxes_5.jpg;contact,contact lens:0.6397049427032471;canthus:0.3242913782596588;
+boxes_6.jpg;contact,contact lens:0.9216426610946655;canthus:0.06459925323724747;
+boxes_7.jpg;contact,contact lens:0.42357179522514343;canthus:0.10117282718420029;
+boxes_8.jpg;contact,contact lens:0.6600121855735779;canthus:0.07979242503643036;
+img_21.jpg;contact,contact lens:0.21420317888259888;

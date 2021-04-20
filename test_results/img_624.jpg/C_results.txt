@@ -1,0 +1,17 @@
+boxes_1.jpg;triangle,trigon,trilateral:0.16732250154018402;hoopskirt,crinoline:0.09895975142717361;cloak:0.07806123793125153;opera cloak,opera hood:0.0684029683470726;bell,bell shape,campana:0.0680631473660469;vestment:0.052398454397916794;
+boxes_10.jpg;hoopskirt,crinoline:0.1823696345090866;triangle,trigon,trilateral:0.1433161199092865;igloo,iglu:0.09394778311252594;wigwam:0.05557591840624809;
+boxes_11.jpg;hoopskirt,crinoline:0.30220508575439453;triangle,trigon,trilateral:0.1339661329984665;opera cloak,opera hood:0.056410543620586395;cloak:0.05473344773054123;
+boxes_12.jpg;triangle,trigon,trilateral:0.38555818796157837;hoopskirt,crinoline:0.0735103189945221;
+boxes_13.jpg;hoopskirt,crinoline:0.19698071479797363;triangle,trigon,trilateral:0.1234968900680542;cloak:0.06848400086164474;opera cloak,opera hood:0.06347550451755524;
+boxes_14.jpg;voile:0.05492015555500984;cloak:0.05214432254433632;igloo,iglu:0.051443058997392654;hoopskirt,crinoline:0.050019893795251846;
+boxes_15.jpg;igloo,iglu:0.10139066725969315;
+boxes_16.jpg;dressing gown,robe-de-chambre,lounging robe:0.07992038130760193;
+boxes_2.jpg;cloak:0.22981029748916626;hoopskirt,crinoline:0.1707485169172287;opera cloak,opera hood:0.08676792681217194;cloak:0.06354526430368423;triangle,trigon,trilateral:0.05297092720866203;
+boxes_3.jpg;triangle,trigon,trilateral:0.17362287640571594;hoopskirt,crinoline:0.14113430678844452;cloak:0.06490500271320343;opera cloak,opera hood:0.05739828944206238;crown,diadem:0.056431639939546585;
+boxes_4.jpg;triangle,trigon,trilateral:0.2603260576725006;hoopskirt,crinoline:0.09175112843513489;vestment:0.07610796391963959;bell,bell shape,campana:0.06256547570228577;
+boxes_5.jpg;hoopskirt,crinoline:0.12979696691036224;triangle,trigon,trilateral:0.06611932069063187;head covering,veil:0.05090831220149994;
+boxes_6.jpg;voile:0.1090143471956253;tent,collapsible shelter:0.08012432605028152;
+boxes_7.jpg;robe:0.11402127146720886;georgette:0.1070418506860733;dressing gown,robe-de-chambre,lounging robe:0.06633362919092178;
+boxes_8.jpg;hoopskirt,crinoline:0.2623381018638611;triangle,trigon,trilateral:0.18309183418750763;wigwam:0.15329107642173767;igloo,iglu:0.06410004943609238;
+boxes_9.jpg;hoopskirt,crinoline:0.27718326449394226;triangle,trigon,trilateral:0.14465300738811493;wigwam:0.08982296288013458;cloak:0.055902693420648575;opera cloak,opera hood:0.052345313131809235;
+img_624.jpg;hoopskirt,crinoline:0.24643011391162872;triangle,trigon,trilateral:0.11057597398757935;cloak:0.09994103759527206;opera cloak,opera hood:0.0907934233546257;

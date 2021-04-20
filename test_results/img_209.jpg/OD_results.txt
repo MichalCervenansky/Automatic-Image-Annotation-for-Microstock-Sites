@@ -1,0 +1,6 @@
+boxes_1.jpg;cake:0.5750596
+boxes_2.jpg;baked goods:0.54423827
+boxes_3.jpg;fashion accessory:0.14604172
+boxes_4.jpg;dessert:0.13185406
+boxes_5.jpg;snack:0.09048546
+boxes_6.jpg;baked goods:0.059208423

@@ -1,0 +1,14 @@
+boxes_1.jpg;wood anemone,snowdrop,Anemone quinquefolia:0.4306047260761261;snowdrop anemone,snowdrop windflower,Anemone sylvestris:0.08522457629442215;squill:0.08020884543657303;scilla,squill:0.05085184797644615;
+boxes_10.jpg;mildew:0.4738621413707733;powdery mildew:0.3292199373245239;
+boxes_11.jpg;
+boxes_12.jpg;jonquil:0.10207881778478622;
+boxes_13.jpg;negative:0.22680586576461792;ameba,amoeba:0.05372320115566254;
+boxes_2.jpg;wood anemone,snowdrop,Anemone quinquefolia:0.3409738540649414;snowdrop anemone,snowdrop windflower,Anemone sylvestris:0.09039964526891708;jonquil:0.07846963405609131;scilla,squill:0.07132744044065475;
+boxes_3.jpg;wood anemone,snowdrop,Anemone quinquefolia:0.7233081459999084;snowbell,Styrax obassia:0.05362642928957939;
+boxes_4.jpg;
+boxes_5.jpg;squill:0.3058164119720459;grape hyacinth:0.12667056918144226;wood anemone,snowdrop,Anemone quinquefolia:0.11016491800546646;sowbread,Cyclamen hederifolium,Cyclamen neopolitanum:0.09224323183298111;
+boxes_6.jpg;wood anemone,snowdrop,Anemone quinquefolia:0.6269680261611938;squill:0.06599624454975128;scilla,squill:0.06258314847946167;
+boxes_7.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.9977261424064636;
+boxes_8.jpg;wood anemone,snowdrop,Anemone quinquefolia:0.6830070614814758;
+boxes_9.jpg;
+img_646.jpg;wood anemone,snowdrop,Anemone quinquefolia:0.9240561723709106;silver-bell tree,silverbell tree,snowdrop tree,opossum wood,Halesia carolina,Halesia tetraptera:0.05576344206929207;

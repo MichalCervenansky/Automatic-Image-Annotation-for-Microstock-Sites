@@ -1,0 +1,16 @@
+boxes_1.jpg;agave,century plant,American aloe:0.2695329487323761;succulent:0.24160107970237732;negative:0.11777268350124359;
+boxes_10.jpg;
+boxes_11.jpg;negative:0.0983695313334465;greenishness:0.09752606600522995;pinwheel,Aeonium haworthii:0.09671366959810257;succulent:0.08518990874290466;composite,composite plant:0.07697942107915878;jade vine,emerald creeper,Strongylodon macrobotrys:0.051632534712553024;
+boxes_12.jpg;agave,century plant,American aloe:0.1858653873205185;succulent:0.17633865773677826;composite,composite plant:0.1274067610502243;negative:0.11260558664798737;
+boxes_13.jpg;succulent:0.3177047073841095;pinwheel,Aeonium haworthii:0.21436892449855804;
+boxes_14.jpg;agave,century plant,American aloe:0.23648889362812042;negative:0.21804289519786835;composite,composite plant:0.10083982348442078;succulent:0.09818799048662186;greenish blue,aqua,aquamarine,turquoise,cobalt blue,peacock blue:0.08424638956785202;
+boxes_15.jpg;succulent:0.3817525804042816;composite,composite plant:0.12959064543247223;greenishness:0.07172451168298721;pinwheel,Aeonium haworthii:0.06738676875829697;
+boxes_2.jpg;succulent:0.23638303577899933;agave,century plant,American aloe:0.1946725696325302;composite,composite plant:0.09182155132293701;negative:0.0804414451122284;pinwheel,Aeonium haworthii:0.05932530015707016;artichoke,globe artichoke:0.05002150684595108;
+boxes_3.jpg;negative:0.24116908013820648;artichoke,globe artichoke:0.10186140984296799;jade vine,emerald creeper,Strongylodon macrobotrys:0.08604798465967178;pinwheel,Aeonium haworthii:0.0715070441365242;agave,century plant,American aloe:0.0616329200565815;
+boxes_4.jpg;agave,century plant,American aloe:0.2664555609226227;succulent:0.22723941504955292;composite,composite plant:0.17122426629066467;negative:0.0716203823685646;
+boxes_5.jpg;succulent:0.12429111450910568;
+boxes_6.jpg;succulent:0.20454324781894684;pinwheel,Aeonium haworthii:0.16339904069900513;negative:0.16274547576904297;agave,century plant,American aloe:0.05544022470712662;
+boxes_7.jpg;succulent:0.36253219842910767;pinwheel,Aeonium haworthii:0.21245774626731873;sedum:0.08019764721393585;
+boxes_8.jpg;succulent:0.285695344209671;
+boxes_9.jpg;woolly aphid,woolly plant louse:0.11646867543458939;
+img_450.jpg;succulent:0.4672626852989197;agave,century plant,American aloe:0.1649247407913208;composite,composite plant:0.09083209931850433;

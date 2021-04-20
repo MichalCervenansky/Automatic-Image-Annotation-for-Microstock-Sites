@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;rare;cuttlefish;croatian;sea;udeer;water;shot;
+from_object_detection:invertebrate;fish;animal;marine invertebrates;insect;moths and butterflies;squid;
+from_image_classification:ice;water ice;angel shark;angelfish;squatina squatina;monkfish;ice mass;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;benthos;benthic division;benthonic zone;cuttlefish;cuttle;fish;hawksbill turtle;hawksbill;hawkbill;tortoiseshell turtle;eretmochelys imbricata;leatherback turtle;leatherback;leathery turtle;dermochelys coriacea;polar glacier;

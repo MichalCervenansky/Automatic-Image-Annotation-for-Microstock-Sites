@@ -1,0 +1,16 @@
+boxes_1.jpg;fruit:0.9245326
+boxes_2.jpg;fruit:0.85934263
+boxes_3.jpg;tree:0.706673
+boxes_4.jpg;fruit:0.6814169
+boxes_5.jpg;plant:0.5313154
+boxes_6.jpg;fruit:0.37289485
+boxes_7.jpg;clothing:0.28437436
+boxes_8.jpg;fruit:0.11155445
+boxes_9.jpg;tree:0.105830476
+boxes_10.jpg;plant:0.09346849
+boxes_11.jpg;flower:0.073150076
+boxes_12.jpg;person:0.071880214
+boxes_13.jpg;clothing:0.06070974
+boxes_14.jpg;food:0.058097024
+boxes_15.jpg;person:0.055439077
+boxes_16.jpg;human arm:0.052415445

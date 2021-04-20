@@ -1,0 +1,15 @@
+boxes_1.jpg;mule:0.9038605
+boxes_2.jpg;cattle:0.48348305
+boxes_3.jpg;tree:0.35076037
+boxes_4.jpg;alpaca:0.31470492
+boxes_5.jpg;alpaca:0.252868
+boxes_6.jpg;cattle:0.21928965
+boxes_7.jpg;horse:0.21872282
+boxes_8.jpg;animal:0.19502114
+boxes_9.jpg;tree:0.1911119
+boxes_10.jpg;cattle:0.1372876
+boxes_11.jpg;tree:0.07738809
+boxes_12.jpg;tree:0.061256647
+boxes_13.jpg;car:0.059175458
+boxes_14.jpg;cattle:0.058004692
+boxes_15.jpg;tree:0.056714132

@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;colorful;fish;croatian;sea;diving;
+from_object_detection:fish;marine invertebrates;
+from_image_classification:young fish;minnow;phoxinus phoxinus;great barracuda;sphyraena barracuda;porcupinefish;porcupine fish;diodon hystrix;lizardfish;snakefish;snake-fish;sea slug;nudibranch;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;gudgeon;gobio gobio;tunicate;urochordate;urochord;sea hare;aplysia punctata;pulsar;supernova;pollack;pollock;pollachius pollachius;

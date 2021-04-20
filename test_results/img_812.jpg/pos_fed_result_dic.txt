@@ -1,0 +1,3 @@
+from_image_IPTC:pine;tree;branch;shot;sun;
+from_object_detection:tree;fruit;flower;strawberry;plant;
+from_image_classification:sunniness;glint;backlighting;tree;microorganism;micro-organism;mucor;astrocyte;cell;

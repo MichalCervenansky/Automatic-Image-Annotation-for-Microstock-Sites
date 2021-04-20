@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;duck;swimming;crystal;clear;water;turkey;
+from_object_detection:duck;swimming pool;
+from_image_classification:wild duck;mallard;anas platyrhynchos;diving duck;wood drake;pochard;aythya ferina;dabbling duck;dabbler;duck;sea duck;bottlenose dolphin;bottle-nosed dolphin;bottlenose;atlantic bottlenose dolphin;tursiops truncatus;dolphin;bottle-nosed whale;bottlenose whale;hyperoodon ampullatus;common dolphin;delphinus delphis;black duck;anas rubripes;

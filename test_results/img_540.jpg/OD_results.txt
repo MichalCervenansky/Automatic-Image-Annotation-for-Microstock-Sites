@@ -1,0 +1,3 @@
+boxes_1.jpg;mushroom:0.29046378
+boxes_2.jpg;shellfish:0.11457103
+boxes_3.jpg;shellfish:0.06933531

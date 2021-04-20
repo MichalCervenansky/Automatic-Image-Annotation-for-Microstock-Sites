@@ -1,0 +1,11 @@
+boxes_1.jpg;
+boxes_10.jpg;dugong,Dugong dugon:0.07683468610048294;seagrass:0.05170624330639839;
+boxes_2.jpg;
+boxes_3.jpg;irrigation ditch:0.07676996290683746;
+boxes_4.jpg;sunroof,sunshine-roof:0.1420375406742096;nonsmoker,nonsmoking car:0.089085653424263;bed:0.08172743022441864;car,auto,automobile,machine,motorcar:0.06319136917591095;
+boxes_5.jpg;
+boxes_6.jpg;artemisia:0.15676772594451904;sea wormwood,Seriphidium maritimum,Artemisia maritima:0.08464767038822174;
+boxes_7.jpg;
+boxes_8.jpg;used-car,secondhand car:0.11488711833953857;car,elevator car:0.07770969718694687;sport utility,sport utility vehicle,S.U.V.,SUV:0.05274183675646782;
+boxes_9.jpg;seagrass:0.08366625756025314;white mangrove,Laguncularia racemosa:0.07728488743305206;staghorn coral,stag's-horn coral:0.07221762090921402;saltwort,Batis maritima:0.06104344502091408;coral reef:0.0512666329741478;
+img_354.jpg;swell:0.13268373906612396;seashore,coast,seacoast,sea-coast:0.11453834921121597;atoll:0.10353715717792511;wave,undulation:0.09296900779008865;coastland:0.07609207183122635;shore:0.059721432626247406;spume:0.05142197757959366;

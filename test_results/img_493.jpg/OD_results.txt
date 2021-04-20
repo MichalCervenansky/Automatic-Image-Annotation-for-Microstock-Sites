@@ -1,0 +1,8 @@
+boxes_1.jpg;boat:0.9775864
+boxes_2.jpg;canoe:0.7176427
+boxes_3.jpg;boat:0.5339202
+boxes_4.jpg;canoe:0.24245687
+boxes_5.jpg;boat:0.11316456
+boxes_6.jpg;bird:0.10779721
+boxes_7.jpg;duck:0.09106049
+boxes_8.jpg;goose:0.08210719

@@ -1,0 +1,3 @@
+from_image_IPTC:dirty;pig;wild;boar;looking;food;snow;winter;ground;
+from_object_detection:pig;carnivore;mammal;
+from_image_classification:wild boar;boar;sus scrofa;hog;pig;grunter;squealer;peccary;musk hog;collared peccary;javelina;tayassu angulatus;tayassu tajacu;peccari angulatus;takin;gnu goat;budorcas taxicolor;silver fox;red fox;vulpes vulpes;pig bed;

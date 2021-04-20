@@ -1,0 +1,10 @@
+boxes_1.jpg;insect:0.8337434
+boxes_2.jpg;insect:0.2561788
+boxes_3.jpg;flower:0.19714072
+boxes_4.jpg;fashion accessory:0.18688734
+boxes_5.jpg;person:0.1581549
+boxes_6.jpg;invertebrate:0.13656478
+boxes_7.jpg;car:0.09807989
+boxes_8.jpg;clothing:0.07309596
+boxes_9.jpg;land vehicle:0.071226515
+boxes_10.jpg;medical equipment:0.05355975

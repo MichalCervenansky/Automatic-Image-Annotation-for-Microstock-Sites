@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;popradske;pleso;3;
+from_object_detection:tree;plant;
+from_image_classification:lakeside;lakeshore;glacier;ridge;polar glacier;arete;barrier reef;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;atoll;smoke screen;smokescreen;slope;incline;side;steep;cove;alpinist;geological formation;formation;hot spring;thermal spring;hot tub;aberdeen angus;angus;black angus;ski slope;alpine fir;subalpine fir;abies lasiocarpa;floatplane;pontoon plane;verdigris;sprinkler system;iceberg;berg;growler;

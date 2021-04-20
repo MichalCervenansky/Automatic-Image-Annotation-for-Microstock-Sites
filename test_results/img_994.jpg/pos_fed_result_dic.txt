@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;white;cliffs;dover;landscape;uk;
+from_object_detection:house;plant;building;tree;
+from_image_classification:space station;space platform;space laboratory;shore;strand;promontory;headland;head;foreland;aircraft carrier;carrier;flattop;attack aircraft carrier;coastland;seashore;coast;seacoast;sea-coast;sandbank;reef;waterside;

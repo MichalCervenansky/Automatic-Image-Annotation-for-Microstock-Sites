@@ -1,0 +1,9 @@
+boxes_1.jpg;jolly boat,jolly:0.477222204208374;dinghy,dory,rowboat:0.2169685661792755;small boat:0.07004500180482864;
+boxes_2.jpg;hull:0.11257416754961014;canoe:0.10675375163555145;banana boat:0.09679873287677765;shell,racing shell:0.08048417419195175;skeg:0.054656535387039185;outrigger:0.05323459580540657;
+boxes_3.jpg;banana boat:0.12145159393548965;hull:0.11445309221744537;canoe:0.09132014960050583;outrigger:0.06137518584728241;shell,racing shell:0.05092526227235794;
+boxes_4.jpg;shell,racing shell:0.13890253007411957;outrigger:0.08936113864183426;sea boat:0.0672568678855896;skeg:0.060183338820934296;
+boxes_5.jpg;jolly boat,jolly:0.5168659090995789;dinghy,dory,rowboat:0.2593863606452942;rowing boat:0.08163896203041077;
+boxes_6.jpg;snowshoe hare,snowshoe rabbit,varying hare,Lepus americanus:0.4335857629776001;
+boxes_7.jpg;snowshoe hare,snowshoe rabbit,varying hare,Lepus americanus:0.12503266334533691;
+boxes_8.jpg;snowshoe hare,snowshoe rabbit,varying hare,Lepus americanus:0.16600075364112854;harp seal,Pagophilus groenlandicus:0.0829266756772995;
+img_493.jpg;cockleshell:0.16929030418395996;jolly boat,jolly:0.135148286819458;small boat:0.1198192834854126;rowing boat:0.08718422055244446;sea boat:0.069948710501194;banana boat:0.05702243000268936;

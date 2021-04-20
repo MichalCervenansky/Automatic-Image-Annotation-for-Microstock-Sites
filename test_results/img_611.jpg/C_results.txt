@@ -1,0 +1,18 @@
+boxes_1.jpg;lymphocyte,lymph cell:0.1476374864578247;neutrophil,neutrophile:0.06951812654733658;morula:0.052371952682733536;
+boxes_10.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.08569865673780441;anchor,ground tackle:0.06991546601057053;
+boxes_11.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.18503670394420624;
+boxes_12.jpg;
+boxes_13.jpg;
+boxes_14.jpg;
+boxes_15.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1510404348373413;
+boxes_16.jpg;breaststroker:0.17397372424602509;common dolphin,Delphinus delphis:0.16238050162792206;Atlantic bottlenose dolphin,Tursiops truncatus:0.1581788957118988;Pacific bottlenose dolphin,Tursiops gilli:0.12278218567371368;
+boxes_17.jpg;cellophane:0.09447241574525833;
+boxes_2.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06524751335382462;anchor,ground tackle:0.05289445444941521;
+boxes_3.jpg;cellophane:0.0793786495923996;
+boxes_4.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.062182918190956116;
+boxes_5.jpg;mucor:0.060075368732213974;marbleization,marbleisation,marbleizing,marbleising:0.05283031240105629;
+boxes_6.jpg;rock,stone:0.0633479580283165;arroyo:0.055884867906570435;
+boxes_7.jpg;fur seal:0.05884457007050514;fur seal:0.05613429844379425;sea lion:0.051340408623218536;
+boxes_8.jpg;fur seal:0.10411476343870163;skin-diver,aquanaut:0.05356461554765701;
+boxes_9.jpg;
+img_611.jpg;marbleization,marbleisation,marbleizing,marbleising:0.5079924464225769;ice floe,floe:0.06863958388566971;

@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tire;tree;window;
+from_image_classification:car;elevator car;beige;ecru;windshield;windscreen;used-car;secondhand car;body;bodywork;minicar;luggage rack;roof rack;spoiler;safety rail;guardrail;balance beam;beam;tailpipe;bumper;fifth wheel;spare;bumper guard;coupe;radial;radial tire;radial-ply tire;car wheel;hubcap;roadster;runabout;two-seater;foglamp;compact;compact car;

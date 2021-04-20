@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;panorama;paris;eifell;tower;
+from_object_detection:tower;tree;
+from_image_classification:tower;lookout;observation tower;lookout station;observatory;supporting tower;church tower;pinnacle;castle;dust storm;duster;sandstorm;sirocco;smoke screen;smokescreen;weathercock;socle;cenotaph;empty tomb;memorial;monument;riverbank;riverside;outfall;waterside;bank;

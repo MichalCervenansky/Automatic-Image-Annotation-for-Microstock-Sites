@@ -1,0 +1,3 @@
+from_image_IPTC:gorgeous;rose;turkish;beach;
+from_object_detection:rose;flower;
+from_image_classification:rose;rosebush;musk rose;rosa moschata;negative;peach bells;peach bell;willow bell;campanula persicifolia;flower;water violet;hottonia palustris;blue pea;butterfly pea;clitoria turnatea;canterbury bell;cup and saucer;campanula medium;balloon flower;scented penstemon;penstemon palmeri;purple;purpleness;hortensia;hydrangea macrophylla hortensis;large periwinkle;vinca major;spiderwort;dayflower;gloxinia perennis;

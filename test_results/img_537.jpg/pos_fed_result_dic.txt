@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;white;meadow;flower;morning;dew;
+from_object_detection:flower;tree;
+from_image_classification:stock;gillyflower;venus' slipper;venus's slipper;venus's shoe;chinese forget-me-not;cynoglossum amabile;damask violet;dame's violet;sweet rocket;hesperis matronalis;bitewing;radiogram;radiograph;shadowgraph;skiagraph;skiagram;ice;water ice;dusty miller;senecio cineraria;cineraria maritima;snow-in-summer;love-in-a-mist;cerastium tomentosum;stephanotis;candytuft;shaving foam;snow-on-the-mountain;ghost weed;euphorbia marginata;centaurea cineraria;centaurea gymnocarpa;white fringed orchis;white fringed orchid;habenaria albiflora;hand lotion;silver-lace;silver lace;tanacetum ptarmiciflorum;chrysanthemum ptarmiciflorum;

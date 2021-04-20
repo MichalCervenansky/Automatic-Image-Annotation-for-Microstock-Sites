@@ -1,0 +1,8 @@
+boxes_1.jpg;common plum,Prunus domestica:0.2603462040424347;damson,damson plum:0.2600206434726715;plum:0.21021947264671326;satinleaf,satin leaf,caimitillo,damson plum,Chrysophyllum oliviforme:0.06181545928120613;
+boxes_2.jpg;common plum,Prunus domestica:0.13613149523735046;damson plum,damson plum tree,Prunus domestica insititia:0.11377070844173431;damson,damson plum:0.09270601719617844;plum:0.07594256848096848;freestone:0.07207518815994263;monilia:0.0677812471985817;
+boxes_3.jpg;mildew:0.16690652072429657;damson plum,damson plum tree,Prunus domestica insititia:0.10155902802944183;common plum,Prunus domestica:0.07963389903306961;monilia:0.05997970327734947;freestone:0.056315336376428604;damson,damson plum:0.052141763269901276;
+boxes_4.jpg;damson plum,damson plum tree,Prunus domestica insititia:0.11654210090637207;common plum,Prunus domestica:0.11354710161685944;cherry plum,myrobalan,myrobalan plum,Prunus cerasifera:0.07087451964616776;damson,damson plum:0.05308327078819275;
+boxes_5.jpg;damson plum,damson plum tree,Prunus domestica insititia:0.12039119750261307;common plum,Prunus domestica:0.10077984631061554;mildew:0.09201013296842575;damson,damson plum:0.06206540763378143;plum:0.056469179689884186;cherry plum,myrobalan,myrobalan plum,Prunus cerasifera:0.05199563130736351;
+boxes_6.jpg;mildew:0.22654825448989868;powdery mildew:0.21085365116596222;monilia:0.07786274701356888;cherry plum,myrobalan,myrobalan plum,Prunus cerasifera:0.05619022995233536;
+boxes_7.jpg;common plum,Prunus domestica:0.4233342707157135;plum:0.19701960682868958;damson,damson plum:0.13257117569446564;
+img_37.jpg;mildew:0.23024924099445343;powdery mildew:0.19553734362125397;apple rust,cedar-apple rust,Gymnosporangium juniperi-virginianae:0.05301439017057419;

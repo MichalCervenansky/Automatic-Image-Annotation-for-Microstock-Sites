@@ -1,0 +1,7 @@
+boxes_1.jpg;Monterey cypress,Cupressus macrocarpa:0.23626364767551422;wreck:0.21549086272716522;seashore,coast,seacoast,sea-coast:0.10430549085140228;divi-divi,Caesalpinia coriaria:0.05797366425395012;black beech,Nothofagus solanderi:0.05107906833291054;
+boxes_2.jpg;sounding rocket:0.07502665370702744;rocket,rocket engine:0.07290294766426086;space shuttle:0.05896896496415138;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;Monterey cypress,Cupressus macrocarpa:0.2967138886451721;seashore,coast,seacoast,sea-coast:0.17800725996494293;wreck:0.1399964541196823;Monterey pine,Pinus radiata:0.07212191075086594;littoral,litoral,littoral zone,sands:0.06942544877529144;
+boxes_6.jpg;ascent,acclivity,rise,raise,climb,upgrade:0.21367113292217255;slope,incline,side:0.07526061683893204;talus,scree:0.0686810091137886;fur seal:0.05063134431838989;
+img_373.jpg;seashore,coast,seacoast,sea-coast:0.35424092411994934;wreck:0.06757333874702454;littoral,litoral,littoral zone,sands:0.05580919235944748;divi-divi,Caesalpinia coriaria:0.05527288094162941;

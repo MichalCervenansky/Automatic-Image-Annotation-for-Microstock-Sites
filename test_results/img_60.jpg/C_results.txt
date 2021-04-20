@@ -1,0 +1,2 @@
+boxes_1.jpg;grey whale,gray whale,devilfish,Eschrichtius gibbosus,Eschrichtius robustus:0.08979229629039764;lesser rorqual,piked whale,minke whale,Balaenoptera acutorostrata:0.08834350109100342;finback,finback whale,fin whale,common rorqual,Balaenoptera physalus:0.050869401544332504;
+img_60.jpg;artwork,art,graphics,nontextual matter:0.14736859500408173;waterside:0.1360042244195938;seashore,coast,seacoast,sea-coast:0.08154293894767761;

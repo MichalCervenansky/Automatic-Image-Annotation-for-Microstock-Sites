@@ -1,0 +1,2 @@
+boxes_1.jpg;migratory locust,Locusta migratoria:0.9254865050315857;
+img_143.jpg;migratory locust,Locusta migratoria:0.8987374901771545;locust:0.06359408050775528;

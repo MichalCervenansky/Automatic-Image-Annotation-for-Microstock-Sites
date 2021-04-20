@@ -1,0 +1,15 @@
+boxes_1.jpg;bread:0.56978995
+boxes_2.jpg;food:0.29114142
+boxes_3.jpg;baked goods:0.2814418
+boxes_4.jpg;bread:0.19924213
+boxes_5.jpg;dessert:0.14892246
+boxes_6.jpg;bread:0.1041557
+boxes_7.jpg;bee:0.09327136
+boxes_8.jpg;coffee:0.07004297
+boxes_9.jpg;snack:0.06355009
+boxes_10.jpg;pizza:0.06288441
+boxes_11.jpg;dairy:0.060104944
+boxes_12.jpg;food:0.053564828
+boxes_13.jpg;dessert:0.052878354
+boxes_14.jpg;cheese:0.052324187
+boxes_15.jpg;dessert:0.051627558

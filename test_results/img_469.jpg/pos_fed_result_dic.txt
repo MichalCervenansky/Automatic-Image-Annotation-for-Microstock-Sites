@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;little;soft;flower;rocks;
+from_object_detection:flower;tree;plant;
+from_image_classification:cineraria;pericallis cruenta;senecio cruentus;composite;composite plant;cudweed;umbel;sand sage;silvery wormwood;artemisia filifolia;dusty miller;centaurea cineraria;centaurea gymnocarpa;senecio cineraria;cineraria maritima;silver-lace;silver lace;tanacetum ptarmiciflorum;chrysanthemum ptarmiciflorum;bud brush;bud sagebrush;artemis spinescens;sea slug;nudibranch;pearly everlasting;cottonweed;anaphalis margaritacea;woolly aphid;woolly plant louse;squill;monarch;monarch butterfly;milkweed butterfly;danaus plexippus;

@@ -1,0 +1,8 @@
+boxes_1.jpg;insect:0.7538633
+boxes_2.jpg;tree:0.69880384
+boxes_3.jpg;flower:0.2739394
+boxes_4.jpg;plant:0.11431754
+boxes_5.jpg;flower:0.08887515
+boxes_6.jpg;flower:0.08655317
+boxes_7.jpg;flower:0.07136773
+boxes_8.jpg;flower:0.060388427

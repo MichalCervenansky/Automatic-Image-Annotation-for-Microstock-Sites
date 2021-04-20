@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;turkish;country;village;fog;
+from_object_detection:tree;plant;
+from_image_classification:volcanic crater;crater;cornetfish;verdigris;spotted eagle ray;spotted ray;aetobatus narinari;hatpin;artemisia;riverbank;riverside;funambulism;tightrope walking;telpherage;telferage;fly casting;fly-fishing;casting;cast;sea mouse;bottlebrush;water-skiing;powdery mildew;ciliate;ciliated protozoan;ciliophoran;plastic wrap;ascent;acclivity;rise;raise;climb;upgrade;tundra;hillside;

@@ -1,0 +1,9 @@
+boxes_1.jpg;carpet pad,rug pad,underlay,underlayment:0.24450449645519257;petal,flower petal:0.21734769642353058;bedpan:0.06328697502613068;
+boxes_2.jpg;carpet pad,rug pad,underlay,underlayment:0.3459210991859436;petal,flower petal:0.09912131726741791;cone,conoid,cone shape:0.08663176745176315;acute triangle,acute-angled triangle:0.05061754584312439;
+boxes_3.jpg;carpet pad,rug pad,underlay,underlayment:0.49098578095436096;
+boxes_4.jpg;carpet pad,rug pad,underlay,underlayment:0.16647541522979736;conch:0.14121462404727936;giant conch,Strombus gigas:0.10384266078472137;petal,flower petal:0.07939810305833817;oyster shell:0.06683627516031265;shell:0.060009442269802094;
+boxes_5.jpg;carpet pad,rug pad,underlay,underlayment:0.3585568070411682;oyster shell:0.05310531705617905;petal,flower petal:0.05184983089566231;
+boxes_6.jpg;earplug:0.1237902119755745;vitamin pill:0.11548683047294617;toothbrush:0.08771199733018875;
+boxes_7.jpg;carpet pad,rug pad,underlay,underlayment:0.3039236068725586;oyster shell:0.1149485781788826;seasnail:0.0523734986782074;
+boxes_8.jpg;carpet pad,rug pad,underlay,underlayment:0.3788326382637024;bedpan:0.19129444658756256;
+img_337.jpg;carpet pad,rug pad,underlay,underlayment:0.24755102396011353;petal,flower petal:0.06411157548427582;handkerchief,hankie,hanky,hankey:0.06035734713077545;

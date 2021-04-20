@@ -1,0 +1,3 @@
+from_image_IPTC:rocks;sea;water;nerezine;croatia;third;
+from_object_detection:plant;
+from_image_classification:moneran;moneron;swimming;swim;plughole;breaststroker;silverpoint;sidewalk;pavement;

@@ -1,0 +1,18 @@
+boxes_1.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.07932073622941971;mountain hemlock,black hemlock,Tsuga mertensiana:0.062360577285289764;green douglas fir,douglas spruce,douglas pine,douglas hemlock,Oregon fir,Oregon pine,Pseudotsuga menziesii:0.053753193467855453;
+boxes_10.jpg;silver fir:0.14154566824436188;lowland fir,lowland white fir,giant fir,grand fir,Abies grandis:0.11631858348846436;oriental spruce,Picea orientalis:0.07508768886327744;
+boxes_11.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.14600297808647156;
+boxes_12.jpg;green douglas fir,douglas spruce,douglas pine,douglas hemlock,Oregon fir,Oregon pine,Pseudotsuga menziesii:0.14779818058013916;bluejack oak,turkey oak,Quercus incana:0.06959889829158783;fir,fir tree,true fir:0.0641111359000206;mountain hemlock,black hemlock,Tsuga mertensiana:0.057597216218709946;douglas fir:0.05753464251756668;
+boxes_13.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.13322189450263977;douglas fir:0.050145432353019714;
+boxes_14.jpg;green douglas fir,douglas spruce,douglas pine,douglas hemlock,Oregon fir,Oregon pine,Pseudotsuga menziesii:0.12585867941379547;douglas fir:0.12577112019062042;silver fir:0.08681491017341614;oriental spruce,Picea orientalis:0.05162660405039787;
+boxes_15.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.10726138949394226;
+boxes_16.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.2232445627450943;silver fir:0.05445677042007446;
+boxes_17.jpg;windshield,windscreen:0.11457525193691254;smoke screen,smokescreen:0.06754288077354431;
+boxes_2.jpg;green douglas fir,douglas spruce,douglas pine,douglas hemlock,Oregon fir,Oregon pine,Pseudotsuga menziesii:0.14449648559093475;
+boxes_3.jpg;ski slope:0.07623489946126938;western white pine,silver pine,mountain pine,Pinus monticola:0.06817297637462616;
+boxes_4.jpg;sunniness:0.1780949831008911;
+boxes_5.jpg;
+boxes_6.jpg;hemlock,hemlock tree:0.07570695877075195;western white pine,silver pine,mountain pine,Pinus monticola:0.060172535479068756;douglas fir:0.055224791169166565;
+boxes_7.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.14334051311016083;snowplow,snowplough:0.0774320438504219;
+boxes_8.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.13383527100086212;
+boxes_9.jpg;snowplow,snowplough:0.19376406073570251;western white pine,silver pine,mountain pine,Pinus monticola:0.10667441040277481;
+img_63.jpg;descent,declivity,fall,decline,declination,declension,downslope:0.325335830450058;blind curve,blind bend:0.09301093220710754;mountainside,versant:0.09256724268198013;western white pine,silver pine,mountain pine,Pinus monticola:0.06887014955282211;

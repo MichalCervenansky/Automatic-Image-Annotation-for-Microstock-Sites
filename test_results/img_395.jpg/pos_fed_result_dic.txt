@@ -1,0 +1,3 @@
+from_image_IPTC:dandelion;meadow;flower;spring;
+from_object_detection:flower;plant;
+from_image_classification:thistledown;dandelion green;

@@ -1,0 +1,3 @@
+from_image_IPTC:unplugged;black;stylish;gaming;computer;mouse;lying;table;
+from_object_detection:computer mouse;headphones;land vehicle;car;auto part;vehicle;table;
+from_image_classification:mouse;computer mouse;mouse button;peripheral;computer peripheral;peripheral device;temporary hookup;patch;telephone line;phone line;telephone circuit;subscriber line;line;

@@ -1,0 +1,13 @@
+boxes_1.jpg;street light:0.2903299
+boxes_2.jpg;tree:0.26595956
+boxes_3.jpg;street light:0.09902678
+boxes_4.jpg;tree:0.09136518
+boxes_5.jpg;street light:0.08951072
+boxes_6.jpg;tree:0.08708847
+boxes_7.jpg;person:0.07536785
+boxes_8.jpg;palm tree:0.075195946
+boxes_9.jpg;street light:0.0728407
+boxes_10.jpg;person:0.07109486
+boxes_11.jpg;person:0.06664951
+boxes_12.jpg;person:0.055053443
+boxes_13.jpg;palm tree:0.05383658

@@ -1,0 +1,7 @@
+boxes_1.jpg;auto part:0.9628535
+boxes_2.jpg;auto part:0.43316957
+boxes_3.jpg;office supplies:0.2117347
+boxes_4.jpg;toy:0.19693132
+boxes_5.jpg;auto part:0.08853168
+boxes_6.jpg;office supplies:0.06801041
+boxes_7.jpg;musical keyboard:0.06008

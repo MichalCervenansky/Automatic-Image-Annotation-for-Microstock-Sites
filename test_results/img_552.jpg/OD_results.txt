@@ -1,0 +1,15 @@
+boxes_1.jpg;bread:0.7929548
+boxes_2.jpg;bread:0.43454167
+boxes_3.jpg;food:0.32486162
+boxes_4.jpg;baked goods:0.19609465
+boxes_5.jpg;bread:0.18049268
+boxes_6.jpg;bread:0.16913697
+boxes_7.jpg;dessert:0.13650228
+boxes_8.jpg;baked goods:0.115145974
+boxes_9.jpg;insect:0.09864032
+boxes_10.jpg;pizza:0.079408236
+boxes_11.jpg;baked goods:0.078598894
+boxes_12.jpg;potato:0.07289129
+boxes_13.jpg;baked goods:0.067447096
+boxes_14.jpg;food:0.06741665
+boxes_15.jpg;dessert:0.058093823

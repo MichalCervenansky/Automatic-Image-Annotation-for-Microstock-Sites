@@ -1,0 +1,8 @@
+boxes_1.jpg;livingstone daisy,Dorotheanthus bellidiformis:0.1873139888048172;salpiglossis:0.08795628696680069;blue-eyed African daisy,Arctotis stoechadifolia,Arctotis venusta:0.08782981336116791;African daisy:0.07570890337228775;daisybush,daisy-bush,daisy bush:0.06701411306858063;blue daisy,blue marguerite,Felicia amelloides:0.05709371715784073;
+boxes_2.jpg;African daisy:0.36010658740997314;blue-eyed African daisy,Arctotis stoechadifolia,Arctotis venusta:0.13999797403812408;African daisy,yellow ageratum,Lonas inodora,Lonas annua:0.10615473985671997;African daisy:0.07026902586221695;livingstone daisy,Dorotheanthus bellidiformis:0.06540568917989731;
+boxes_3.jpg;weatherman,weather forecaster:0.5048776268959045;meteorologist:0.11731982231140137;
+boxes_4.jpg;
+boxes_5.jpg;livingstone daisy,Dorotheanthus bellidiformis:0.20034484565258026;salpiglossis:0.10914014279842377;African daisy:0.06950874626636505;white zinnia,Zinnia acerosa:0.05605122074484825;blue-eyed African daisy,Arctotis stoechadifolia,Arctotis venusta:0.053273752331733704;
+boxes_6.jpg;barrette:0.09782806038856506;hair slide:0.05098290741443634;
+boxes_7.jpg;
+img_175.jpg;livingstone daisy,Dorotheanthus bellidiformis:0.24167419970035553;salpiglossis:0.09662207216024399;blue-eyed African daisy,Arctotis stoechadifolia,Arctotis venusta:0.06756123900413513;blue daisy,blue marguerite,Felicia amelloides:0.0674772560596466;African daisy:0.055438775569200516;

@@ -1,0 +1,11 @@
+boxes_1.jpg;pizza:0.78373784
+boxes_2.jpg;baked goods:0.44669235
+boxes_3.jpg;pizza:0.26526284
+boxes_4.jpg;pizza:0.2206238
+boxes_5.jpg;pizza:0.18390368
+boxes_6.jpg;baked goods:0.17776768
+boxes_7.jpg;baked goods:0.112439595
+boxes_8.jpg;baked goods:0.10453155
+boxes_9.jpg;dessert:0.07272116
+boxes_10.jpg;baked goods:0.05536928
+boxes_11.jpg;fast food:0.050383657

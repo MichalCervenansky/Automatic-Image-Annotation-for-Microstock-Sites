@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;beautiful;snowy;mountains;slovakia;
+from_object_detection:tree;
+from_image_classification:negative;smoke screen;smokescreen;stony coral;madrepore;madriporian coral;verticillium;smoke bush;tumbleweed;wave;slope;incline;side;hillside;glacier;icecap;ice cap;ice mass;snowcap;

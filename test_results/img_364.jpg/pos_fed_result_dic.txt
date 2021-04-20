@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;beautiful;snowy;mountains;slovakia;
+from_object_detection:tree;plant;harbor seal;
+from_image_classification:snowdrift;highland;upland;snowcap;ben;mountain;mount;tundra;switch grass;panicum virgatum;bison;slope;incline;side;glutton;gulo gulo;wolverine;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;

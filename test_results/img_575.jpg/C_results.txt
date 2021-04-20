@@ -1,0 +1,8 @@
+boxes_1.jpg;patchwork,patchwork quilt:0.765608012676239;quilt,comforter,comfort,puff:0.09240943938493729;quilted bedspread:0.05213899910449982;
+boxes_2.jpg;patchwork,patchwork quilt:0.765608012676239;quilt,comforter,comfort,puff:0.09240943938493729;quilted bedspread:0.05213899910449982;
+boxes_3.jpg;patchwork,patchwork quilt:0.765608012676239;quilt,comforter,comfort,puff:0.09240943938493729;quilted bedspread:0.05213899910449982;
+boxes_4.jpg;patchwork,patchwork quilt:0.6283369064331055;quilt,comforter,comfort,puff:0.14951911568641663;quilted bedspread:0.08301491290330887;madras:0.05956178158521652;
+boxes_5.jpg;patchwork,patchwork quilt:0.15811015665531158;sheet,bed sheet:0.07604985684156418;tartan,plaid:0.07427424192428589;hemstitch,hemstitching:0.06597024202346802;
+boxes_6.jpg;patchwork,patchwork quilt:0.2618110775947571;madras:0.19094634056091309;quilt,comforter,comfort,puff:0.18665792047977448;quilted bedspread:0.12276140600442886;eiderdown,duvet,continental quilt:0.07061460614204407;
+boxes_7.jpg;patchwork,patchwork quilt:0.4646431505680084;quilt,comforter,comfort,puff:0.43860992789268494;
+img_575.jpg;quilt,comforter,comfort,puff:0.5129516124725342;patchwork,patchwork quilt:0.37162598967552185;quilted bedspread:0.052095938473939896;

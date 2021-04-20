@@ -1,0 +1,21 @@
+boxes_1.jpg;boat:0.831476
+boxes_2.jpg;tree:0.623919
+boxes_3.jpg;boat:0.6221926
+boxes_4.jpg;tree:0.61485416
+boxes_5.jpg;tree:0.42346063
+boxes_6.jpg;boat:0.34279922
+boxes_7.jpg;swimming pool:0.29412585
+boxes_8.jpg;boat:0.24211128
+boxes_9.jpg;tree:0.21372166
+boxes_10.jpg;tree:0.10204272
+boxes_11.jpg;tree:0.10062682
+boxes_12.jpg;boat:0.08121483
+boxes_13.jpg;tree:0.076662846
+boxes_14.jpg;tree:0.07633834
+boxes_15.jpg;boat:0.07424095
+boxes_16.jpg;boat:0.07012483
+boxes_17.jpg;plant:0.06563971
+boxes_18.jpg;tree:0.06313935
+boxes_19.jpg;tree:0.059368007
+boxes_20.jpg;vehicle:0.057120398
+boxes_21.jpg;tree:0.05230422

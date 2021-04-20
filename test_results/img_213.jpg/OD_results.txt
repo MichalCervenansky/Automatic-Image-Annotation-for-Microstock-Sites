@@ -1,0 +1,6 @@
+boxes_1.jpg;picture frame:0.28113633
+boxes_2.jpg;picture frame:0.08355353
+boxes_3.jpg;window:0.07744426
+boxes_4.jpg;flower:0.06252462
+boxes_5.jpg;umbrella:0.052096274
+boxes_6.jpg;human face:0.05190254

@@ -1,0 +1,3 @@
+from_image_IPTC:small;cute;white;pigeon;
+from_object_detection:bird;plant;chicken;
+from_image_classification:ringdove;streptopelia risoria;australian turtledove;turtledove;stictopelia cuneata;fulmar;fulmar petrel;fulmarus glacialis;dove;domestic pigeon;carrier pigeon;adelie;adelie penguin;pygoscelis adeliae;saccharin;jordan almond;guadalupe fur seal;arctocephalus philippi;crabeater seal;crab-eating seal;

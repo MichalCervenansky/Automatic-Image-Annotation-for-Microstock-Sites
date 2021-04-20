@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;plant;food;animal;invertebrate;flower;
+from_image_classification:choanocyte;collar cell;sponge;poriferan;parazoan;mucor;ciliate;ciliated protozoan;ciliophoran;neutrophil;neutrophile;tunicate;urochordate;urochord;sea squirt;

@@ -1,0 +1,9 @@
+boxes_1.jpg;tree:0.4894533157348633;sunniness:0.2153790146112442;
+boxes_2.jpg;
+boxes_3.jpg;riverbank,riverside:0.09458430856466293;snowdrift:0.05098233371973038;
+boxes_4.jpg;ridge:0.19039206206798553;ski slope:0.05665891245007515;ski jumping:0.05432774871587753;
+boxes_5.jpg;riverbank,riverside:0.06797593832015991;
+boxes_6.jpg;
+boxes_7.jpg;ski slope:0.13445286452770233;ski jumping:0.1125112846493721;knoll,mound,hillock,hummock,hammock:0.08839321881532669;hillside:0.06948135793209076;
+boxes_8.jpg;riverbank,riverside:0.38230544328689575;
+img_455.jpg;snowdrift:0.6448491215705872;sunniness:0.2543034553527832;

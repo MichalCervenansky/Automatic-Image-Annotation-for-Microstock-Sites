@@ -1,0 +1,3 @@
+from_image_IPTC:sharp;blue;steel;pen;macro;white;backround;2;
+from_object_detection:pen;
+from_image_classification:bullet;slug;round;unit of ammunition;one shot;

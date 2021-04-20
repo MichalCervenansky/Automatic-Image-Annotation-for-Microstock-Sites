@@ -1,0 +1,4 @@
+boxes_1.jpg;lamp:0.5422919
+boxes_2.jpg;rose:0.29080695
+boxes_3.jpg;candle:0.066383764
+boxes_4.jpg;flower:0.059285406

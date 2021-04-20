@@ -1,0 +1,3 @@
+from_image_IPTC:beutiful;silver;necklace;green;malachite;gem;
+from_object_detection:necklace;fashion accessory;earrings;
+from_image_classification:emerald;lavaliere;lavalier;lavalliere;ringlet;

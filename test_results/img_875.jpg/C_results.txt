@@ -1,0 +1,8 @@
+boxes_1.jpg;glacier:0.33883312344551086;arroyo:0.05922805145382881;
+boxes_2.jpg;lakeside,lakeshore:0.15986661612987518;arroyo:0.07344922423362732;glacier:0.06368283927440643;
+boxes_3.jpg;lakeside,lakeshore:0.11295333504676819;
+boxes_4.jpg;
+boxes_5.jpg;snowdrift:0.052940484136343;
+boxes_6.jpg;pine,pine tree,true pine:0.10682747513055801;western white pine,silver pine,mountain pine,Pinus monticola:0.06933172792196274;
+boxes_7.jpg;
+img_875.jpg;riverbank,riverside:0.8086487054824829;riverbed,river bottom:0.05031943321228027;

@@ -1,0 +1,14 @@
+boxes_1.jpg;tableware:0.20663293
+boxes_2.jpg;tableware:0.19647618
+boxes_3.jpg;tableware:0.1220047
+boxes_4.jpg;drink:0.11887664
+boxes_5.jpg;table:0.09566983
+boxes_6.jpg;toy:0.09038767
+boxes_7.jpg;ball:0.08769961
+boxes_8.jpg;tableware:0.087353036
+boxes_9.jpg;tableware:0.08621784
+boxes_10.jpg;food:0.079854146
+boxes_11.jpg;bottle:0.06940471
+boxes_12.jpg;drink:0.05816122
+boxes_13.jpg;ball:0.05082533
+boxes_14.jpg;helmet:0.05075796

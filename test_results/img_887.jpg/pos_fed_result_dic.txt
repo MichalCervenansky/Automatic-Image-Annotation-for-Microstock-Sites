@@ -1,0 +1,3 @@
+from_image_IPTC:greenwich;observatory;clock;time;zone;brick;wall;
+from_object_detection:wall clock;building;window;tree;clock;house;nail;door;plant;
+from_image_classification:analog clock;hour hand;little hand;wall clock;fusee drive;fusee;clock;casement window;window;window frame;casement;clock tower;atomic clock;masonry;bricks and mortar;jail;jailhouse;gaol;clink;slammer;poky;pokey;quoin;coign;coigne;clinker;clinker brick;ground floor;first floor;ground level;gable roof;saddle roof;saddleback;saddleback roof;columbarium;cinerarium;memorial;monument;repository;bunker;brass;memorial tablet;plaque;round arch;hole-in-the-wall;casing;case;quartz battery;quartz mill;aviary;bird sanctuary;volary;

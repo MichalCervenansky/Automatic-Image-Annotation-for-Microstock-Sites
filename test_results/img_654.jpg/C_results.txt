@@ -1,0 +1,6 @@
+boxes_1.jpg;sunniness:0.13392885029315948;negative:0.06547999382019043;silver tree,Tarrietia argyrodendron:0.05271243676543236;
+boxes_2.jpg;canyon oak,canyon live oak,maul oak,iron oak,Quercus chrysolepis:0.06263795495033264;
+boxes_3.jpg;negative:0.42411938309669495;
+boxes_4.jpg;jade green,jade:0.1351410150527954;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.07482312619686127;ivory tree,conessi,kurchi,kurchee,Holarrhena pubescens,Holarrhena antidysenterica:0.05450110882520676;
+boxes_5.jpg;sunniness:0.19038838148117065;tree:0.1824328601360321;negative:0.07120875269174576;
+img_654.jpg;tree:0.19912849366664886;sunniness:0.13434891402721405;negative:0.050136592239141464;

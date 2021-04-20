@@ -1,0 +1,3 @@
+from_image_IPTC:purple;meadow;flower;spring;
+from_object_detection:flower;
+from_image_classification:field thistle;cirsium discolor;cotton thistle;woolly thistle;scotch thistle;onopordum acanthium;onopordon acanthium;bull thistle;boar thistle;spear thistle;cirsium vulgare;cirsium lanceolatum;fig marigold;pebble plant;sea holly;sea holm;sea eryngium;eryngium maritimum;umbel;cottage pink;grass pink;dianthus plumarius;lavender;thistledown;

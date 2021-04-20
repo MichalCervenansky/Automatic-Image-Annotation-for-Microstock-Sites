@@ -1,0 +1,3 @@
+from_image_IPTC:old;sad;african;elephant;kept;captured;zoo;
+from_object_detection:elephant;tree;person;woman;clothing;man;mammal;
+from_image_classification:elephant;african elephant;loxodonta africana;pachyderm;diplodocus;pinetum;skating;steep;safety rail;guardrail;balcony;animal;animate being;beast;brute;creature;fauna;indian elephant;elephas maximus;young mammal;gray;grayness;grey;greyness;douglas fir;alpine fir;subalpine fir;abies lasiocarpa;western hemlock;pacific hemlock;west coast hemlock;tsuga heterophylla;fir;fir tree;true fir;western red cedar;red cedar;canoe cedar;thuja plicata;theropod;theropod dinosaur;bird-footed dinosaur;

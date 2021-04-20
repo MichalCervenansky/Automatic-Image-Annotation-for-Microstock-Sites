@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;small;cute;tasty;mushrooms;
+from_object_detection:mushroom;plant;flower;houseplant;tree;
+from_image_classification:petal;flower petal;club fungus;blue poppy;meconopsis betonicifolia;mucor;mushroom;negative;benthos;benthic division;benthonic zone;inky cap;inky-cap mushroom;coprinus atramentarius;stock;gillyflower;taffeta;greenish blue;aqua;aquamarine;turquoise;cobalt blue;peacock blue;lace;chiffon;lame;water violet;hottonia palustris;carnation;clove pink;dianthus caryophyllus;

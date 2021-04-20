@@ -1,0 +1,3 @@
+from_image_IPTC:road;shot;car;american;country;yellowstone;national;park;usa;
+from_object_detection:tree;vehicle;
+from_image_classification:byway;bypath;byroad;carriageway;blind curve;blind bend;riverbank;riverside;mountainside;versant;snowplow;snowplough;snowdrift;natural elevation;elevation;steep;ski slope;musher;autobahn;alp;ascent;acclivity;rise;raise;climb;upgrade;western white pine;silver pine;mountain pine;pinus monticola;safety rail;guardrail;downhill;divided highway;dual carriageway;bison;lakeside;lakeshore;seashore;coast;seacoast;sea-coast;littoral;litoral;littoral zone;sands;pinniped mammal;pinniped;pinnatiped;california sea lion;zalophus californianus;zalophus californicus;geyser;arroyo;valley;vale;smoke screen;smokescreen;

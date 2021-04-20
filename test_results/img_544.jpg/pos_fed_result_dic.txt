@@ -1,0 +1,3 @@
+from_image_IPTC:moon;still;visible;bright;daylight;
+from_object_detection:balloon;aircraft;parachute;
+from_image_classification:sconce;hearing aid;deaf-aid;ear trumpet;fan blade;

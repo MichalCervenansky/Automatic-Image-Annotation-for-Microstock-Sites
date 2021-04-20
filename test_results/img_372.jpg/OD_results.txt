@@ -1,0 +1,10 @@
+boxes_1.jpg;human mouth:0.4711188
+boxes_2.jpg;human mouth:0.17954797
+boxes_3.jpg;auto part:0.14651418
+boxes_4.jpg;plate:0.13916999
+boxes_5.jpg;tableware:0.1357815
+boxes_6.jpg;human face:0.114617705
+boxes_7.jpg;sculpture:0.10701596
+boxes_8.jpg;food:0.085484214
+boxes_9.jpg;vehicle:0.08060617
+boxes_10.jpg;human head:0.051338363

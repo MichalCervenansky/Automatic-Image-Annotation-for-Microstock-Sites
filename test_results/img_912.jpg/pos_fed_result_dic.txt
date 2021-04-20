@@ -1,0 +1,3 @@
+from_image_IPTC:luxury;crown;jewelry;red;satin;castle;slovakia;
+from_object_detection:crown;furniture;fashion accessory;couch;dog bed;bed;christmas tree;
+from_image_classification:crown;diadem;tiara;crown jewels;bubble;air bubble;sleigh bell;cascabel;oil lamp;kerosene lamp;kerosine lamp;bell jar;bell glass;knot;overhand knot;bow;bowknot;sheet bend;becket bend;weaver's knot;weaver's hitch;

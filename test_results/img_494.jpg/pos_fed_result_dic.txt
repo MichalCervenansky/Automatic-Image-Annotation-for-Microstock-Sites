@@ -1,0 +1,3 @@
+from_image_IPTC:valuable;sea;shell;slime;conch;
+from_object_detection:cat;surfboard;plant;tree;sports equipment;
+from_image_classification:negative;snowdrift;sand cat;alley cat;discharge pipe;fur seal;arroyo;valley;vale;dale;bluff;squirrel;rodent;gnawer;cat;true cat;rock squirrel;citellus variegatus;

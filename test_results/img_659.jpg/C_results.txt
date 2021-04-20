@@ -1,0 +1,18 @@
+boxes_1.jpg;circuit,electrical circuit,electric circuit:0.15956543385982513;circuitry:0.06866658478975296;CPU board,mother board:0.06619687378406525;computer circuit:0.06611888855695724;
+boxes_10.jpg;circuitry:0.27298232913017273;circuit,electrical circuit,electric circuit:0.26650896668434143;
+boxes_11.jpg;circuit,electrical circuit,electric circuit:0.23626407980918884;CPU board,mother board:0.2054143100976944;circuitry:0.08080548793077469;computer circuit:0.05503076687455177;
+boxes_12.jpg;circuit,electrical circuit,electric circuit:0.3940443694591522;circuitry:0.19106876850128174;CPU board,mother board:0.07891127467155457;module:0.07210266590118408;
+boxes_13.jpg;circuit,electrical circuit,electric circuit:0.30269521474838257;circuitry:0.22921660542488098;
+boxes_14.jpg;circuit,electrical circuit,electric circuit:0.16651616990566254;peripheral,computer peripheral,peripheral device:0.08157419413328171;frame buffer:0.06860564649105072;circuitry:0.0643337145447731;
+boxes_15.jpg;circuit,electrical circuit,electric circuit:0.15447092056274414;circuitry:0.058516159653663635;computer circuit:0.054849185049533844;
+boxes_16.jpg;circuit,electrical circuit,electric circuit:0.0640382245182991;hookup:0.0629962831735611;DIP switch,dual inline package switch:0.05278689041733742;
+boxes_17.jpg;circuit,electrical circuit,electric circuit:0.19225820899009705;peripheral,computer peripheral,peripheral device:0.15886878967285156;circuitry:0.13108889758586884;CPU board,mother board:0.057011667639017105;
+boxes_2.jpg;circuit,electrical circuit,electric circuit:0.5229324102401733;circuitry:0.1790502518415451;
+boxes_3.jpg;circuit,electrical circuit,electric circuit:0.08188662678003311;printed circuit:0.0623999685049057;closed circuit,loop:0.05030372738838196;
+boxes_4.jpg;circuit,electrical circuit,electric circuit:0.252785325050354;circuitry:0.21027503907680511;CPU board,mother board:0.13738113641738892;peripheral,computer peripheral,peripheral device:0.07075054943561554;
+boxes_5.jpg;circuit,electrical circuit,electric circuit:0.46974748373031616;circuitry:0.1491226702928543;computer circuit:0.053684256970882416;
+boxes_6.jpg;circuit,electrical circuit,electric circuit:0.34032949805259705;circuitry:0.21694369614124298;
+boxes_7.jpg;circuit,electrical circuit,electric circuit:0.29932498931884766;frame buffer:0.05508881062269211;
+boxes_8.jpg;temporary hookup,patch:0.16840997338294983;hookup:0.08714567124843597;drip loop:0.07429394870996475;
+boxes_9.jpg;circuit,electrical circuit,electric circuit:0.30269521474838257;circuitry:0.22921660542488098;
+img_659.jpg;circuit,electrical circuit,electric circuit:0.3402034342288971;circuitry:0.27017104625701904;

@@ -1,0 +1,3 @@
+from_image_IPTC:squadron;fighter;jets;clouds;sunny;day;
+from_object_detection:airplane;aircraft;vehicle;
+from_image_classification:drone;pilotless aircraft;radio-controlled aircraft;aircraft;propeller plane;single prop;single-propeller plane;trailing edge;airplane;aeroplane;plane;jet;jet plane;jet-propelled plane;airframe;horizontal stabilizer;horizontal stabiliser;tailplane;buzz bomb;robot bomb;flying bomb;doodlebug;v-1;warplane;military plane;laser-guided bomb;lgb;aerial torpedo;joint direct attack munition;jdam;jetliner;jumbojet;jumbo jet;fighter;fighter aircraft;attack aircraft;link trainer;smoke screen;smokescreen;

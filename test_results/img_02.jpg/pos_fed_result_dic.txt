@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;blue;winter;forest;sky;
+from_object_detection:tree;plant;
+from_image_classification:ice;water ice;snowcap;snowdrift;sunniness;tree;ridge;snow;snowfall;arroyo;slope;incline;side;crag;hillside;asiatic black bear;black bear;ursus thibetanus;selenarctos thibetanus;frigate bird;man-of-war bird;canada porcupine;erethizon dorsatum;gray;grayness;grey;greyness;ski slope;streetlight;street lamp;smoke screen;smokescreen;park bench;

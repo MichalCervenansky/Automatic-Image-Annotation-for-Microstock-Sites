@@ -1,0 +1,3 @@
+from_image_IPTC:road;shot;car;american;country;usa;
+from_object_detection:car;land vehicle;vehicle;
+from_image_classification:superhighway;information superhighway;windshield;windscreen;line;autostrada;divided highway;dual carriageway;autobahn;carriageway;

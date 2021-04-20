@@ -1,0 +1,6 @@
+boxes_1.jpg;watchdog,guard dog:0.16082625091075897;bitch:0.135502889752388;hunting dog:0.13287483155727386;
+boxes_2.jpg;takin,gnu goat,Budorcas taxicolor:0.19521687924861908;striped hyena,Hyaena hyaena:0.10515673458576202;brown hyena,strand wolf,Hyaena brunnea:0.09312812238931656;hyena,hyaena:0.07489101588726044;
+boxes_3.jpg;capybara,capibara,Hydrochoerus hydrochaeris:0.6008812189102173;wombat:0.0998026430606842;
+boxes_4.jpg;river otter,Lutra canadensis:0.13547693192958832;wombat:0.088514044880867;otter:0.06001840531826019;
+boxes_5.jpg;bitch:0.07594738155603409;feline,felid:0.07209476083517075;watchdog,guard dog:0.06974393129348755;hunting dog:0.05270342901349068;
+img_101.jpg;watchdog,guard dog:0.2879107594490051;bitch:0.08768144249916077;

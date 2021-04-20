@@ -1,0 +1,14 @@
+boxes_1.jpg;auto part:0.57309604
+boxes_2.jpg;musical keyboard:0.51059407
+boxes_3.jpg;toy:0.19636896
+boxes_4.jpg;vehicle:0.16740665
+boxes_5.jpg;musical instrument:0.13588347
+boxes_6.jpg;musical keyboard:0.13252616
+boxes_7.jpg;land vehicle:0.10527791
+boxes_8.jpg;piano:0.102854766
+boxes_9.jpg;parking meter:0.08118177
+boxes_10.jpg;poster:0.059965096
+boxes_11.jpg;car:0.059282515
+boxes_12.jpg;door:0.05672256
+boxes_13.jpg;auto part:0.054785192
+boxes_14.jpg;auto part:0.052806694

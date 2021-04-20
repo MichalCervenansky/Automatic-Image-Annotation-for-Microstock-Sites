@@ -1,0 +1,5 @@
+boxes_1.jpg;negative:0.6252680420875549;musk rose,Rosa moschata:0.21488861739635468;
+boxes_2.jpg;musk rose,Rosa moschata:0.4077824652194977;negative:0.2869390547275543;water violet,Hottonia palustris:0.07526499032974243;
+boxes_3.jpg;rex begonia,king begonia,painted-leaf begonia,beefsteak geranium,Begonia rex:0.07236766815185547;American agave,Agave americana:0.06614923477172852;begonia:0.053606484085321426;
+boxes_4.jpg;erose leaf:0.08760125935077667;rex begonia,king begonia,painted-leaf begonia,beefsteak geranium,Begonia rex:0.08586745709180832;begonia:0.05689015984535217;wax begonia,Begonia semperflorens:0.05109868943691254;
+img_183.jpg;musk rose,Rosa moschata:0.4945445954799652;negative:0.263751745223999;rose,rosebush:0.08400269597768784;

@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;plant;
+from_image_classification:gorgonian;gorgonian coral;sea anemone;anemone;benthos;benthic division;benthonic zone;sponge;poriferan;parazoan;sea fan;reef;coral reef;actinia;actinian;actiniarian;anthozoan;actinozoan;spiny lobster;langouste;rock lobster;crawfish;crayfish;sea crawfish;stony coral;madrepore;madriporian coral;ciliate;ciliated protozoan;ciliophoran;ameba;amoeba;

@@ -1,0 +1,5 @@
+boxes_1.jpg;booby:0.8648455142974854;
+boxes_2.jpg;booby:0.7520595788955688;
+boxes_3.jpg;booby:0.3191947042942047;ern,erne,grey sea eagle,gray sea eagle,European sea eagle,white-tailed sea eagle,Haliatus albicilla:0.2161591798067093;harpy,harpy eagle,Harpia harpyja:0.07044660300016403;sea eagle:0.05125453695654869;
+boxes_4.jpg;booby:0.6688185334205627;ern,erne,grey sea eagle,gray sea eagle,European sea eagle,white-tailed sea eagle,Haliatus albicilla:0.06051211431622505;Kamchatkan sea eagle,Stellar's sea eagle,Haliaeetus pelagicus:0.051228709518909454;
+img_283.jpg;booby:0.8936644196510315;

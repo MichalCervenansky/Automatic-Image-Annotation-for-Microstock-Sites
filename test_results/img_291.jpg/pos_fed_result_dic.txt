@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;rocky;island;zakynthos;greece;
+from_object_detection:tree;maple;plant;
+from_image_classification:stony coral;madrepore;madriporian coral;aspergillus fumigatus;shore;riverbank;riverside;sand sage;silvery wormwood;artemisia filifolia;artemisia;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;saltbush;cider gum;eucalypt gunnii;ocean;waterside;barrier reef;glacier;polar glacier;iceberg;berg;seashore;coast;seacoast;sea-coast;ice;water ice;

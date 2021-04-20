@@ -1,0 +1,13 @@
+boxes_1.jpg;alga,algae:0.2768842875957489;bath salts:0.21784508228302002;
+boxes_10.jpg;Aspergillus fumigatus:0.1430322229862213;cytomegalovirus,CMV:0.1384068727493286;mucor:0.0852229967713356;endameba:0.054535236209630966;moneran,moneron:0.05452370643615723;
+boxes_11.jpg;plughole:0.18420478701591492;plate:0.1232723593711853;coloring,colouring,food coloring,food colouring,food color,food colour:0.11438009142875671;ultramarine:0.09043455123901367;pallette,palette:0.053490523248910904;
+boxes_12.jpg;mouthpiece,gumshield:0.08287544548511505;surgical dressing:0.06528628617525101;
+boxes_2.jpg;plughole:0.18363872170448303;coloring,colouring,food coloring,food colouring,food color,food colour:0.0914774239063263;
+boxes_3.jpg;bath salts:0.5557286739349365;alga,algae:0.06647076457738876;
+boxes_4.jpg;jordan almond:0.10741638392210007;jelly bean,jelly egg:0.09887008368968964;lozenge:0.07573290914297104;Jordan almond:0.06862881779670715;
+boxes_5.jpg;alga,algae:0.13189619779586792;arame:0.07201214134693146;coloring,colouring,food coloring,food colouring,food color,food colour:0.05202844366431236;
+boxes_6.jpg;coloring,colouring,food coloring,food colouring,food color,food colour:0.1808500736951828;plughole:0.143720343708992;dish:0.08484096825122833;
+boxes_7.jpg;plate:0.17366230487823486;plughole:0.08132724463939667;dish:0.06515298783779144;coloring,colouring,food coloring,food colouring,food color,food colour:0.05342049151659012;
+boxes_8.jpg;jelly bean,jelly egg:0.13264065980911255;jordan almond:0.11704123765230179;Jordan almond:0.09495310485363007;lozenge:0.08911941200494766;
+boxes_9.jpg;bath salts:0.4844595491886139;alga,algae:0.09485745429992676;ultramarine:0.06535863876342773;
+img_341.jpg;plughole:0.17320814728736877;plate:0.1652257740497589;coloring,colouring,food coloring,food colouring,food color,food colour:0.0940871462225914;dish:0.08000034838914871;

@@ -1,0 +1,7 @@
+boxes_1.jpg;octopus,devilfish:0.9824348092079163;
+boxes_2.jpg;octopus,devilfish:0.9595454335212708;
+boxes_3.jpg;octopus,devilfish:0.9820113182067871;
+boxes_4.jpg;octopus,devilfish:0.969436526298523;
+boxes_5.jpg;octopus,devilfish:0.9673982262611389;
+boxes_6.jpg;Atlantic salmon,Salmo salar:0.05219719186425209;
+img_686.jpg;octopus,devilfish:0.8423365354537964;

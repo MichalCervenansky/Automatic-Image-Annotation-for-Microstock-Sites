@@ -1,0 +1,6 @@
+boxes_1.jpg;ice mass:0.06201730668544769;
+boxes_2.jpg;pinniped mammal,pinniped,pinnatiped:0.07562907785177231;harp seal,Pagophilus groenlandicus:0.06566688418388367;
+boxes_3.jpg;
+boxes_4.jpg;weir:0.056280117481946945;
+boxes_5.jpg;plastic wrap:0.09705870598554611;cling film,clingfilm,Saran Wrap:0.09381244331598282;cellophane:0.08611969649791718;
+img_453.jpg;snowdrift:0.3072585463523865;sunniness:0.1370842605829239;byway,bypath,byroad:0.07035625725984573;

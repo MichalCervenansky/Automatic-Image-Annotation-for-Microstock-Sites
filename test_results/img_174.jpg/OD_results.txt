@@ -1,0 +1,23 @@
+boxes_1.jpg;bed:0.9549704
+boxes_2.jpg;couch:0.51907986
+boxes_3.jpg;nightstand:0.46863633
+boxes_4.jpg;curtain:0.36190102
+boxes_5.jpg;pillow:0.35613206
+boxes_6.jpg;curtain:0.3387916
+boxes_7.jpg;pillow:0.2867884
+boxes_8.jpg;house:0.21755508
+boxes_9.jpg;table:0.2072956
+boxes_10.jpg;nightstand:0.20055112
+boxes_11.jpg;studio couch:0.18272349
+boxes_12.jpg;table:0.15786508
+boxes_13.jpg;curtain:0.10700166
+boxes_14.jpg;house:0.101279154
+boxes_15.jpg;nightstand:0.101046026
+boxes_16.jpg;chair:0.083537884
+boxes_17.jpg;furniture:0.07863979
+boxes_18.jpg;loveseat:0.07508233
+boxes_19.jpg;sofa bed:0.07258866
+boxes_20.jpg;house:0.063868545
+boxes_21.jpg;building:0.06246738
+boxes_22.jpg;furniture:0.052010655
+boxes_23.jpg;nightstand:0.05075331

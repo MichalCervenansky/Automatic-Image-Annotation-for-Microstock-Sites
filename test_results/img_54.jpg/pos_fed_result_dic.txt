@@ -1,0 +1,3 @@
+from_image_IPTC:small;crab;wet;rock;light;reflection;
+from_object_detection:crab;
+from_image_classification:decapod crustacean;decapod;american lady crab;lady crab;calico crab;ovalipes ocellatus;oyster shell;rock crab;cancer irroratus;jellyfish;green turtle;chelonia mydas;

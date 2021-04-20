@@ -1,0 +1,12 @@
+boxes_1.jpg;octopus,devilfish:0.9234024286270142;
+boxes_10.jpg;octopus,devilfish:0.7649542093276978;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.08383146673440933;
+boxes_11.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.3339233696460724;octopus,devilfish:0.22624777257442474;stonefish,Synanceja verrucosa:0.11601012945175171;sponge,poriferan,parazoan:0.05076921358704567;
+boxes_2.jpg;octopus,devilfish:0.8952743411064148;
+boxes_3.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.17575864493846893;cuttlefish,cuttle:0.10390576720237732;electric ray,crampfish,numbfish,torpedo:0.09666378051042557;octopus,devilfish:0.07562895864248276;
+boxes_4.jpg;octopus,devilfish:0.9386643767356873;
+boxes_5.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.7950520515441895;
+boxes_6.jpg;igloo,iglu:0.051940783858299255;
+boxes_7.jpg;octopus,devilfish:0.6676365733146667;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.11011523753404617;
+boxes_8.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.28364986181259155;electric ray,crampfish,numbfish,torpedo:0.11364075541496277;sponge,poriferan,parazoan:0.07977238297462463;brain coral:0.07249055802822113;
+boxes_9.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.5202503800392151;reef:0.0793897807598114;
+img_681.jpg;giant clam,Tridacna gigas:0.37093743681907654;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.18915370106697083;sponge,poriferan,parazoan:0.08987117558717728;octopus,devilfish:0.07136502116918564;

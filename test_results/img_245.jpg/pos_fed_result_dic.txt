@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;baked;pasta;ham;cheese;
+from_object_detection:food;fast food;snack;tableware;
+from_image_classification:tessera;ultramarine;soapsuds;suds;lather;histiocyte;jello;jell-o;dish;cell;

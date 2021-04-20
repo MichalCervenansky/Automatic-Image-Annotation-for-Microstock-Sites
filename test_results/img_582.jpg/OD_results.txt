@@ -1,0 +1,11 @@
+boxes_1.jpg;mobile phone:0.68950903
+boxes_2.jpg;computer monitor:0.37288874
+boxes_3.jpg;laptop:0.3711343
+boxes_4.jpg;cassette deck:0.22551997
+boxes_5.jpg;mobile phone:0.15714087
+boxes_6.jpg;scoreboard:0.14885814
+boxes_7.jpg;tablet computer:0.12507467
+boxes_8.jpg;auto part:0.11876011
+boxes_9.jpg;television:0.08279221
+boxes_10.jpg;poster:0.07001668
+boxes_11.jpg;cassette deck:0.05539644

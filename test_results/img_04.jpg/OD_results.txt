@@ -1,0 +1,17 @@
+boxes_1.jpg;tree:0.88273716
+boxes_2.jpg;tree:0.46954426
+boxes_3.jpg;plant:0.2943906
+boxes_4.jpg;food:0.25890434
+boxes_5.jpg;maple:0.1497301
+boxes_6.jpg;tree:0.14512473
+boxes_7.jpg;baked goods:0.12883101
+boxes_8.jpg;dessert:0.12539296
+boxes_9.jpg;plant:0.10029141
+boxes_10.jpg;plant:0.09470064
+boxes_11.jpg;plant:0.08438193
+boxes_12.jpg;plant:0.065316215
+boxes_13.jpg;cookie:0.06409658
+boxes_14.jpg;plant:0.06393174
+boxes_15.jpg;plant:0.06266614
+boxes_16.jpg;snack:0.06090455
+boxes_17.jpg;maple:0.054392785

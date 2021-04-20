@@ -1,0 +1,3 @@
+from_image_IPTC:stunning;colorful;fireworks;brno;
+from_object_detection:tree;palm tree;plant;person;
+from_image_classification:silver tree;tarrietia argyrodendron;sea anemone;anemone;westland pine;silver pine;lagarostrobus colensoi;smoke bush;windshield;windscreen;jury box;hall;lecture room;

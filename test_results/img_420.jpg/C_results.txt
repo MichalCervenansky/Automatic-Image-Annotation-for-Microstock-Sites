@@ -1,0 +1,4 @@
+boxes_1.jpg;wild duck:0.2037426233291626;mallard,Anas platyrhynchos:0.12873655557632446;diving duck:0.10536608844995499;wood drake:0.10425370931625366;pochard,Aythya ferina:0.06341714411973953;dabbling duck,dabbler:0.054798197001218796;
+boxes_2.jpg;diving duck:0.4865247905254364;mallard,Anas platyrhynchos:0.08683010190725327;duck:0.08431781828403473;wild duck:0.07595498859882355;sea duck:0.05544718727469444;
+boxes_3.jpg;bottlenose dolphin,bottle-nosed dolphin,bottlenose:0.2557099163532257;Atlantic bottlenose dolphin,Tursiops truncatus:0.11108969151973724;dolphin:0.09144363552331924;diving duck:0.06414616107940674;bottle-nosed whale,bottlenose whale,bottlenose,Hyperoodon ampullatus:0.059003181755542755;common dolphin,Delphinus delphis:0.05207745358347893;
+img_420.jpg;duck:0.6266517639160156;diving duck:0.07271542400121689;sea duck:0.05780547484755516;black duck,Anas rubripes:0.054412417113780975;

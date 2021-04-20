@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;black;scorpionfish;sea;cave;croatia;
+from_object_detection:fish;marine invertebrates;
+from_image_classification:goby;gudgeon;blenny;combtooth blenny;lizardfish;snakefish;snake-fish;gobio gobio;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;dugong;dugong dugon;white whale;beluga;delphinapterus leucas;ascidian;lodestone;loadstone;cornetfish;mudskipper;mudspringer;

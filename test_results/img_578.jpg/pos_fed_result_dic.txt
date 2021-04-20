@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:clothing;flag;pillow;person;human arm;jeans;human leg;
+from_image_classification:quilt;comforter;comfort;puff;patchwork;patchwork quilt;velour;velours;quilted bedspread;eiderdown;duvet;continental quilt;madras;

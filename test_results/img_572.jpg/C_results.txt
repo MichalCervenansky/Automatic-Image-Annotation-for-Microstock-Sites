@@ -1,0 +1,12 @@
+boxes_1.jpg;hemstitch,hemstitching:0.3011535704135895;eiderdown:0.2900159955024719;patchwork,patchwork quilt:0.2823009490966797;
+boxes_10.jpg;eiderdown:0.3615606725215912;patchwork,patchwork quilt:0.22794191539287567;hemstitch,hemstitching:0.22184032201766968;
+boxes_11.jpg;patchwork,patchwork quilt:0.38906222581863403;eiderdown:0.19351282715797424;quilted bedspread:0.12926062941551208;hemstitch,hemstitching:0.09204920381307602;quilt,comforter,comfort,puff:0.0770648717880249;
+boxes_2.jpg;eiderdown:0.32356664538383484;patchwork,patchwork quilt:0.3153945803642273;hemstitch,hemstitching:0.18186913430690765;quilted bedspread:0.05375634506344795;
+boxes_3.jpg;hemstitch,hemstitching:0.1962374597787857;patchwork,patchwork quilt:0.18519066274166107;eiderdown:0.18307490646839142;quilted bedspread:0.1345105618238449;quilt,comforter,comfort,puff:0.09921929240226746;pillow sham:0.08362274616956711;
+boxes_4.jpg;eiderdown:0.3060704171657562;patchwork,patchwork quilt:0.2897772192955017;hemstitch,hemstitching:0.26632821559906006;
+boxes_5.jpg;hemstitch,hemstitching:0.3011535704135895;eiderdown:0.2900159955024719;patchwork,patchwork quilt:0.2823009490966797;
+boxes_6.jpg;patchwork,patchwork quilt:0.3662887513637543;quilted bedspread:0.20182721316814423;eiderdown:0.11533399671316147;pillow sham:0.09492546319961548;hemstitch,hemstitching:0.07486362010240555;quilt,comforter,comfort,puff:0.07039421051740646;
+boxes_7.jpg;eiderdown:0.36797744035720825;patchwork,patchwork quilt:0.2744620740413666;hemstitch,hemstitching:0.20020903646945953;
+boxes_8.jpg;eiderdown:0.2685224115848541;hemstitch,hemstitching:0.22718466818332672;patchwork,patchwork quilt:0.17153868079185486;quilted bedspread:0.10384387522935867;quilt,comforter,comfort,puff:0.08485826104879379;pillow sham:0.050438422709703445;
+boxes_9.jpg;patchwork,patchwork quilt:0.330521821975708;eiderdown:0.2640220820903778;hemstitch,hemstitching:0.2339659333229065;
+img_572.jpg;eiderdown:0.32893863320350647;hemstitch,hemstitching:0.25172197818756104;patchwork,patchwork quilt:0.23582206666469574;

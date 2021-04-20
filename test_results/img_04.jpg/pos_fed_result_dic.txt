@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;macro;iced;tree;bark;
+from_object_detection:tree;plant;food;maple;baked goods;dessert;cookie;snack;
+from_image_classification:color wash;colour wash;powder;swimming;swim;chenille;ice floe;floe;barrier reef;marbleization;marbleisation;marbleizing;marbleising;vertical stabilizer;vertical stabiliser;vertical fin;tail fin;tailfin;

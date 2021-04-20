@@ -1,0 +1,12 @@
+boxes_1.jpg;visual display unit,VDU:0.2707206904888153;display panel,display board,board:0.12395631521940231;screen,CRT screen:0.1169343814253807;
+boxes_10.jpg;teacher,instructor:0.14684352278709412;visual display unit,VDU:0.10523846000432968;lector,lecturer,reader:0.06368360668420792;computer system,computing system,automatic data processing system,ADP system,ADPS:0.05478042736649513;
+boxes_11.jpg;visual display unit,VDU:0.3898218274116516;
+boxes_2.jpg;visual display unit,VDU:0.3291325271129608;display panel,display board,board:0.16193681955337524;screen,CRT screen:0.059937797486782074;
+boxes_3.jpg;visual display unit,VDU:0.2597973048686981;display panel,display board,board:0.07187387347221375;screen,CRT screen:0.06063956767320633;
+boxes_4.jpg;visual display unit,VDU:0.08648311346769333;lector,lecturer,reader:0.06676232069730759;speaker,talker,utterer,verbalizer,verbaliser:0.060893360525369644;teacher,instructor:0.05442693829536438;computer system,computing system,automatic data processing system,ADP system,ADPS:0.052364617586135864;
+boxes_5.jpg;visual display unit,VDU:0.2868390381336212;display panel,display board,board:0.07748996466398239;screen,CRT screen:0.05017019063234329;overhead projector:0.05000730976462364;
+boxes_6.jpg;visual display unit,VDU:0.3820000886917114;screen,CRT screen:0.12968625128269196;display panel,display board,board:0.10445505380630493;
+boxes_7.jpg;visual display unit,VDU:0.36842653155326843;display panel,display board,board:0.11953851580619812;screen,CRT screen:0.0546206533908844;
+boxes_8.jpg;visual display unit,VDU:0.26507851481437683;computer system,computing system,automatic data processing system,ADP system,ADPS:0.08675830811262131;microfiche:0.08063242584466934;
+boxes_9.jpg;visual display unit,VDU:0.36842653155326843;display panel,display board,board:0.11953851580619812;screen,CRT screen:0.0546206533908844;
+img_582.jpg;visual display unit,VDU:0.2917965352535248;display panel,display board,board:0.1154651790857315;network,electronic network:0.060373373329639435;screen,CRT screen:0.051371607929468155;

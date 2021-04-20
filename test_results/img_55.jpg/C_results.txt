@@ -1,0 +1,1 @@
+img_55.jpg;beach:0.2781941294670105;waterside:0.10738839954137802;littoral,litoral,littoral zone,sands:0.10447999835014343;coastland:0.08699166029691696;sandbank:0.06896145641803741;seashore,coast,seacoast,sea-coast:0.05722483620047569;

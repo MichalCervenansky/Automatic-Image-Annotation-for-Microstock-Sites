@@ -1,0 +1,5 @@
+boxes_1.jpg;blue crab,Callinectes sapidus:0.39300400018692017;stone crab,Menippe mercenaria:0.28507092595100403;swimming crab:0.14200524985790253;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.09142835438251495;
+boxes_2.jpg;blue crab,Callinectes sapidus:0.4015272259712219;stone crab,Menippe mercenaria:0.23502643406391144;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.12110542505979538;swimming crab:0.11146283894777298;crab:0.05903518944978714;
+boxes_3.jpg;blue crab,Callinectes sapidus:0.47467830777168274;stone crab,Menippe mercenaria:0.18126635253429413;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.13607940077781677;swimming crab:0.11336147785186768;
+boxes_4.jpg;blue crab,Callinectes sapidus:0.4343506991863251;stone crab,Menippe mercenaria:0.166864812374115;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.15725882351398468;swimming crab:0.12463932484388351;crab:0.05971680209040642;
+img_303.jpg;blue crab,Callinectes sapidus:0.44905415177345276;stone crab,Menippe mercenaria:0.2397351861000061;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.19890955090522766;

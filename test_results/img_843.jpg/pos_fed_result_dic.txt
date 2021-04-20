@@ -1,0 +1,3 @@
+from_image_IPTC:artistic;shot;gate;lock;nazi;concentration;camp;poland;
+from_object_detection:land vehicle;auto part;tree;wheel;
+from_image_classification:padlock;chain;post;gate;shackle;irons;chains;hook;claw;slipknot;anchor chain;anchor rope;rigging;tackle;

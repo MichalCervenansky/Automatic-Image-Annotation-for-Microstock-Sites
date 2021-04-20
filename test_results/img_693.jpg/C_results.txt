@@ -1,0 +1,6 @@
+boxes_1.jpg;sea slug,nudibranch:0.9807198643684387;
+boxes_2.jpg;hydrozoan,hydroid:0.30837759375572205;benthos,benthic division,benthonic zone:0.18738333880901337;benthos:0.08234014362096786;siphonophore:0.08184981346130371;zooplankton:0.05424419790506363;
+boxes_3.jpg;benthos:0.3187866508960724;benthos,benthic division,benthonic zone:0.24775360524654388;hydrozoan,hydroid:0.17310145497322083;zooplankton:0.10597652196884155;
+boxes_4.jpg;hydrozoan,hydroid:0.5190880298614502;benthos:0.15939508378505707;benthos,benthic division,benthonic zone:0.10271202772855759;
+boxes_5.jpg;sea slug,nudibranch:0.9981533885002136;
+img_693.jpg;benthos:0.1869398057460785;zooplankton:0.186100572347641;benthos,benthic division,benthonic zone:0.1763448715209961;hydrozoan,hydroid:0.15308494865894318;

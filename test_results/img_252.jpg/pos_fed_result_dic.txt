@@ -1,0 +1,3 @@
+from_image_IPTC:deer;wolf;footprint;snow;forest;
+from_object_detection:mammal;surfboard;person;animal;human face;snowboard;marine mammal;
+from_image_classification:spoor;snowdrift;ice;water ice;

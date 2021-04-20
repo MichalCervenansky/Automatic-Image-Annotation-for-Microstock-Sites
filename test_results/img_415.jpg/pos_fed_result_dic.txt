@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ducks;high;mountain;ponds;rohace;
+from_object_detection:duck;animal;goose;marine mammal;bird;
+from_image_classification:dabbling duck;dabbler;anseriform bird;shoveler;shoveller;broadbill;anas clypeata;teal;platypus;duckbill;duckbilled platypus;duck-billed platypus;ornithorhynchus anatinus;harbor seal;common seal;phoca vitulina;eurasian otter;lutra lutra;wood drake;duckling;black duck;anas rubripes;garganey;anas querquedula;diving duck;riverbed;river bottom;streambed;creek bed;

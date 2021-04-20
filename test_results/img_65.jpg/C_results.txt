@@ -1,0 +1,17 @@
+boxes_1.jpg;shore:0.17394264042377472;littoral,litoral,littoral zone,sands:0.10844260454177856;beach:0.10679206252098083;promontory,headland,head,foreland:0.07996045798063278;foreshore:0.06397546827793121;waterside:0.06096317619085312;
+boxes_10.jpg;
+boxes_11.jpg;menorah:0.09584927558898926;
+boxes_12.jpg;
+boxes_13.jpg;runway:0.182285338640213;
+boxes_14.jpg;outfall:0.05147045478224754;
+boxes_15.jpg;
+boxes_16.jpg;littoral,litoral,littoral zone,sands:0.3196605145931244;shoreline:0.0911848247051239;shore:0.07170300930738449;promontory,headland,head,foreland:0.06639422476291656;
+boxes_2.jpg;
+boxes_3.jpg;concertina:0.07935745269060135;
+boxes_4.jpg;
+boxes_5.jpg;littoral,litoral,littoral zone,sands:0.11022089421749115;oceanfront:0.06986793130636215;runway:0.06846963614225388;
+boxes_6.jpg;salver:0.26138272881507874;
+boxes_7.jpg;yellow-fever mosquito,Aedes aegypti:0.0579463392496109;
+boxes_8.jpg;
+boxes_9.jpg;strand:0.21401619911193848;surf casting,surf fishing:0.08796601742506027;littoral,litoral,littoral zone,sands:0.06388568878173828;oceanfront:0.052441928535699844;
+img_65.jpg;littoral,litoral,littoral zone,sands:0.14705419540405273;seashore,coast,seacoast,sea-coast:0.11302109062671661;outfall:0.10429190844297409;oxbow:0.06588884443044662;spume:0.056909918785095215;low-water mark:0.05568725988268852;

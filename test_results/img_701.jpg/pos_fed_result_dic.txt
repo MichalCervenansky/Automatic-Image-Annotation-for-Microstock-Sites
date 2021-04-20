@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;black;scorpionfish;sea;cave;croatia;
+from_object_detection:fish;marine invertebrates;plant;squid;invertebrate;starfish;
+from_image_classification:toadfish;opsanus tau;sea raven;hemitripterus americanus;lingcod;ophiodon elongatus;oyster fish;oyster-fish;oysterfish;stonefish;synanceja verrucosa;blenny;combtooth blenny;rockfish;gudgeon;gobio gobio;silver perch;mademoiselle;bairdiella chrysoura;greenling;sea slug;nudibranch;common louse;pediculus humanus;cowfish;lactophrys quadricornis;loach;young fish;leatherjacket;leatherfish;pulsar;photomicrograph;

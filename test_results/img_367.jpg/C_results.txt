@@ -1,0 +1,11 @@
+boxes_1.jpg;gamboge,lemon,lemon yellow,maize:0.953156054019928;
+boxes_10.jpg;gamboge,lemon,lemon yellow,maize:0.9604877233505249;
+boxes_2.jpg;gamboge,lemon,lemon yellow,maize:0.9423366189002991;
+boxes_3.jpg;gamboge,lemon,lemon yellow,maize:0.9592424631118774;
+boxes_4.jpg;gamboge,lemon,lemon yellow,maize:0.9524713158607483;
+boxes_5.jpg;gamboge,lemon,lemon yellow,maize:0.6609376072883606;key:0.05210959166288376;
+boxes_6.jpg;gamboge,lemon,lemon yellow,maize:0.34324824810028076;wave,undulation:0.0751492828130722;
+boxes_7.jpg;gamboge,lemon,lemon yellow,maize:0.5336087942123413;
+boxes_8.jpg;gamboge,lemon,lemon yellow,maize:0.938457190990448;
+boxes_9.jpg;gamboge,lemon,lemon yellow,maize:0.9556235671043396;
+img_367.jpg;gamboge,lemon,lemon yellow,maize:0.9546735882759094;

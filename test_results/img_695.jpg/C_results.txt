@@ -1,0 +1,13 @@
+boxes_1.jpg;sleeper,sleeper goby:0.2985961139202118;lizardfish,snakefish,snake-fish:0.12238018959760666;goby,gudgeon:0.08589722216129303;flounder:0.07475890219211578;
+boxes_10.jpg;glacier:0.27953603863716125;
+boxes_11.jpg;sleeper,sleeper goby:0.2736110985279083;flounder:0.0846058651804924;lizardfish,snakefish,snake-fish:0.08352047950029373;dragonet:0.050426993519067764;
+boxes_12.jpg;spume:0.0783805102109909;skin-diver,aquanaut:0.07573991268873215;porthole:0.05113665759563446;
+boxes_2.jpg;spume:0.1171988993883133;
+boxes_3.jpg;
+boxes_4.jpg;sleeper,sleeper goby:0.2488691359758377;lizardfish,snakefish,snake-fish:0.09158831089735031;goby,gudgeon:0.07524026930332184;dragonet:0.056378670036792755;flounder:0.053591154515743256;
+boxes_5.jpg;
+boxes_6.jpg;powder:0.17897681891918182;powdered sugar:0.17365509271621704;flour:0.0815710499882698;ice,water ice:0.07979802042245865;
+boxes_7.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.3501320481300354;jawfish:0.07377807050943375;
+boxes_8.jpg;sledding:0.10191833972930908;
+boxes_9.jpg;ice,water ice:0.17425121366977692;powder:0.06402318924665451;polar glacier:0.060307424515485764;
+img_695.jpg;spume:0.15558229386806488;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10528622567653656;

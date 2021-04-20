@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;orange;firework;new;years;eve;
+from_object_detection:plant;tree;christmas tree;palm tree;
+from_image_classification:supernova;glint;blue;blueness;

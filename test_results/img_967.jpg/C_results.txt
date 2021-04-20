@@ -1,0 +1,10 @@
+boxes_1.jpg;common jasmine,true jasmine,jessamine,Jasminum officinale:0.7601519227027893;jasmine:0.13985219597816467;night jasmine,night jessamine,Cestrum nocturnum:0.07538440823554993;
+boxes_2.jpg;common jasmine,true jasmine,jessamine,Jasminum officinale:0.43668732047080994;jasmine:0.2977624237537384;winter jasmine,Jasminum nudiflorum:0.06784756481647491;
+boxes_3.jpg;petal,flower petal:0.2584049701690674;stock,gillyflower:0.051536187529563904;
+boxes_4.jpg;jasmine:0.48820602893829346;common jasmine,true jasmine,jessamine,Jasminum officinale:0.4193001091480255;
+boxes_5.jpg;jasmine:0.1664157211780548;common jasmine,true jasmine,jessamine,Jasminum officinale:0.12414409965276718;night jasmine,night jessamine,Cestrum nocturnum:0.11973027884960175;winter jasmine,Jasminum nudiflorum:0.06530346721410751;
+boxes_6.jpg;common jasmine,true jasmine,jessamine,Jasminum officinale:0.6332351565361023;jasmine:0.3008011281490326;
+boxes_7.jpg;common jasmine,true jasmine,jessamine,Jasminum officinale:0.39843037724494934;jasmine:0.3340197503566742;winter jasmine,Jasminum nudiflorum:0.062352683395147324;
+boxes_8.jpg;common jasmine,true jasmine,jessamine,Jasminum officinale:0.5661700367927551;jasmine:0.14916963875293732;winter jasmine,Jasminum nudiflorum:0.09846631437540054;
+boxes_9.jpg;
+img_967.jpg;common jasmine,true jasmine,jessamine,Jasminum officinale:0.40656253695487976;jasmine:0.17154614627361298;winter jasmine,Jasminum nudiflorum:0.06252177059650421;

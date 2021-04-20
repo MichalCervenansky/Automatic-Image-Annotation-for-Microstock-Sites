@@ -1,0 +1,6 @@
+boxes_1.jpg;brown bear,bruin,Ursus arctos:0.4460233449935913;sloth bear,Melursus ursinus,Ursus ursinus:0.09086459130048752;American black bear,black bear,Ursus americanus,Euarctos americanus:0.08682040870189667;bruin:0.07964126020669937;
+boxes_2.jpg;brown bear,bruin,Ursus arctos:0.3481479585170746;sloth bear,Melursus ursinus,Ursus ursinus:0.2302820235490799;bear:0.0991959348320961;
+boxes_3.jpg;brown bear,bruin,Ursus arctos:0.732438325881958;bear:0.051132701337337494;
+boxes_4.jpg;sloth bear,Melursus ursinus,Ursus ursinus:0.35324153304100037;brown bear,bruin,Ursus arctos:0.29199108481407166;American black bear,black bear,Ursus americanus,Euarctos americanus:0.09695520251989365;
+boxes_5.jpg;brown bear,bruin,Ursus arctos:0.4800146222114563;American black bear,black bear,Ursus americanus,Euarctos americanus:0.1392321139574051;Asiatic black bear,black bear,Ursus thibetanus,Selenarctos thibetanus:0.09929284453392029;sloth bear,Melursus ursinus,Ursus ursinus:0.07191184163093567;bruin:0.055088844150304794;bear:0.053991422057151794;
+img_284.jpg;brown bear,bruin,Ursus arctos:0.3961579203605652;sloth bear,Melursus ursinus,Ursus ursinus:0.22477583587169647;bear:0.08769126981496811;

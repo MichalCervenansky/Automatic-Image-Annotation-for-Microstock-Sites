@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:wheel;car;tree;truck;tire;person;vehicle registration plate;window;land vehicle;human face;man;van;clothing;
+from_image_classification:windshield;windscreen;minicar;tractor;cab;digital display;alphanumeric display;minibus;body;car wheel;tailpipe;radial;radial tire;radial-ply tire;pullman;pullman car;freight liner;liner train;vehicle-borne transmission;motor vehicle;automotive vehicle;jeep;landrover;van;truck;motortruck;milk float;conveyance;transport;four-wheel drive;4wd;flatbed;gas pump;gasoline pump;petrol pump;island dispenser;outside mirror;tread;bumper;fifth wheel;spare;carrier;tow truck;tow car;wrecker;car tire;automobile tire;auto tire;rubber tire;hubcap;

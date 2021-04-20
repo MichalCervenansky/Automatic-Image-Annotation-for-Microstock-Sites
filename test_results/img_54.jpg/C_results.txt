@@ -1,0 +1,3 @@
+boxes_1.jpg;decapod crustacean,decapod:0.3167074918746948;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.1963089108467102;
+boxes_2.jpg;decapod crustacean,decapod:0.23369428515434265;oyster shell:0.16550306975841522;American lady crab,lady crab,calico crab,Ovalipes ocellatus:0.07654539495706558;rock crab,Cancer irroratus:0.057826928794384;
+img_54.jpg;jellyfish:0.2667081654071808;oyster shell:0.09570779651403427;green turtle,Chelonia mydas:0.06525178253650665;

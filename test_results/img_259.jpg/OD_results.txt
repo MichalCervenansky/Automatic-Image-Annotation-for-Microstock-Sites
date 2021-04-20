@@ -1,0 +1,11 @@
+boxes_1.jpg;food:0.9275021
+boxes_2.jpg;drink:0.73726755
+boxes_3.jpg;drink:0.32909414
+boxes_4.jpg;bottle:0.24000624
+boxes_5.jpg;drink:0.16716456
+boxes_6.jpg;bottle:0.14557265
+boxes_7.jpg;tableware:0.10779482
+boxes_8.jpg;musical instrument:0.092392996
+boxes_9.jpg;food:0.0660799
+boxes_10.jpg;tableware:0.062234163
+boxes_11.jpg;toy:0.05202738

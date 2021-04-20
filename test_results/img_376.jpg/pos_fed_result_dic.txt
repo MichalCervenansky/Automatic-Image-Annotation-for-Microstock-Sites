@@ -1,0 +1,3 @@
+from_image_IPTC:big;wild;boar;running;tourist;turkey;
+from_object_detection:pig;tree;car;animal;wheel;land vehicle;
+from_image_classification:wild boar;boar;sus scrofa;

@@ -1,0 +1,3 @@
+from_image_IPTC:home;workdesk;programmer;salesmen;computer;light;
+from_object_detection:computer monitor;desk;office building;television;table;house;building;lamp;
+from_image_classification:monitor;computer;computing machine;computing device;data processor;electronic computer;information processing system;personal computer;pc;microcomputer;computer monitor;workstation;lamp;light;light source;arc lamp;arc light;reading lamp;desk;desktop;desktop computer;computer screen;computer display;spotlight;spot;

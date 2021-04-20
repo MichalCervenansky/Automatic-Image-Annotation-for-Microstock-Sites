@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;chicken;meat;potatoes;tomatoes;sweet;corn;vegetables;homemade;
+from_object_detection:salad;food;vegetable;fruit;potato;tomato;bell pepper;tableware;
+from_image_classification:ultramarine;blue;blueness;portuguese man-of-war;man-of-war;jellyfish;ice floe;floe;taffy;ice mass;snorkel;schnorkel;schnorchel;snorkel breather;breather;snorkeling;snorkel diving;scuba diving;aqualung;aqua-lung;scuba;giant clam;tridacna gigas;skin diving;skin-dive;ice;water ice;glacier;skin-diver;aquanaut;jello;jell-o;hard candy;mouthpiece;gumshield;indigo;negative;

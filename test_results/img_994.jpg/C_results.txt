@@ -1,0 +1,6 @@
+boxes_1.jpg;space station,space platform,space laboratory:0.08855761587619781;shore:0.050147879868745804;
+boxes_2.jpg;shore:0.11662276089191437;strand:0.06769552826881409;promontory,headland,head,foreland:0.06346669793128967;
+boxes_3.jpg;aircraft carrier,carrier,flattop,attack aircraft carrier:0.08442262560129166;shore:0.0763007178902626;space station,space platform,space laboratory:0.05701090022921562;
+boxes_4.jpg;shore:0.3505506217479706;coastland:0.10919291526079178;seashore,coast,seacoast,sea-coast:0.10501179099082947;promontory,headland,head,foreland:0.09168347716331482;
+boxes_5.jpg;sandbank:0.3382539749145508;shore:0.283927321434021;strand:0.05630848929286003;coastland:0.0548856183886528;
+img_994.jpg;shore:0.289250910282135;reef:0.0883302241563797;waterside:0.08822717517614365;seashore,coast,seacoast,sea-coast:0.07657397538423538;coastland:0.059828780591487885;

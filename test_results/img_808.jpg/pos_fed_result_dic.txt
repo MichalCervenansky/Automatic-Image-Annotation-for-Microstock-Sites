@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:plant;house;tree;boat;building;
+from_image_classification:negative;pot;flowerpot;mountainside;versant;fixer-upper;adit;ascent;acclivity;rise;raise;climb;upgrade;ridge;gable;gable end;gable wall;housetop;hovel;hut;hutch;shack;shanty;ice mass;ice floe;floe;alp;stone wall;

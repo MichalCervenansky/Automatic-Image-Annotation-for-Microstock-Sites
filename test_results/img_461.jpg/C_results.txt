@@ -1,0 +1,11 @@
+boxes_1.jpg;bow,bowknot:0.5587425827980042;gift wrapping:0.12288101017475128;sewing needle:0.09155409783124924;suture,surgical seam:0.06375915557146072;
+boxes_10.jpg;gift wrapping:0.43719056248664856;riband,ribband:0.1823611855506897;wrapping,wrap,wrapper:0.16852770745754242;
+boxes_2.jpg;gift wrapping:0.6089311242103577;wrapping,wrap,wrapper:0.08188541233539581;riband,ribband:0.0760311409831047;
+boxes_3.jpg;gift wrapping:0.5356283783912659;wrapping,wrap,wrapper:0.2890198826789856;riband,ribband:0.05393100157380104;
+boxes_4.jpg;gift wrapping:0.5324416756629944;wrapping,wrap,wrapper:0.1802365630865097;riband,ribband:0.11265339702367783;
+boxes_5.jpg;gift wrapping:0.4718345105648041;wrapping,wrap,wrapper:0.3935370147228241;
+boxes_6.jpg;bow,bowknot:0.4650840759277344;riband,ribband:0.09973912686109543;binder,ligature:0.05585332214832306;knot:0.05378568544983864;
+boxes_7.jpg;gift wrapping:0.422008752822876;wrapping,wrap,wrapper:0.34898605942726135;riband,ribband:0.10133980214595795;
+boxes_8.jpg;gift wrapping:0.38688647747039795;wrapping,wrap,wrapper:0.36419564485549927;dental floss,floss:0.05040907859802246;
+boxes_9.jpg;gift wrapping:0.34805572032928467;wrapping,wrap,wrapper:0.3018452227115631;riband,ribband:0.13557446002960205;
+img_461.jpg;gift wrapping:0.5699188709259033;wrapping,wrap,wrapper:0.20900127291679382;riband,ribband:0.05876128748059273;

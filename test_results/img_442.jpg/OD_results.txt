@@ -1,0 +1,16 @@
+boxes_1.jpg;plant:0.9529229
+boxes_2.jpg;plant:0.6123867
+boxes_3.jpg;plant:0.47232947
+boxes_4.jpg;plant:0.44819725
+boxes_5.jpg;plant:0.42185566
+boxes_6.jpg;plant:0.29171312
+boxes_7.jpg;plant:0.14250213
+boxes_8.jpg;plant:0.14025296
+boxes_9.jpg;plant:0.09870626
+boxes_10.jpg;plant:0.096738316
+boxes_11.jpg;plant:0.0744118
+boxes_12.jpg;plant:0.06766895
+boxes_13.jpg;plant:0.06353734
+boxes_14.jpg;plant:0.06174938
+boxes_15.jpg;plant:0.052076034
+boxes_16.jpg;plant:0.05027581

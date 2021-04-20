@@ -1,0 +1,3 @@
+from_image_IPTC:friendly;donkey;farm;vysoke;tatry;winter;weather;
+from_object_detection:mule;cattle;tree;alpaca;horse;animal;car;
+from_image_classification:mule;jack;jackass;hinny;african wild ass;equus asinus;ass;domestic ass;donkey;halter;hackamore;grey;gray;percheron;headstall;headpiece;truss;burro;encolure;mare;female horse;tennessee walker;tennessee walking horse;walking horse;plantation walking horse;jennet;jenny;jenny ass;ridgeling;ridgling;ridgel;ridgil;alpaca;lama pacos;sire;nosebag;feedbag;bridoon;

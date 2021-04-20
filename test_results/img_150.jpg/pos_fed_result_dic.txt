@@ -1,0 +1,3 @@
+from_image_IPTC:stunning;colorful;fireworks;brno;
+from_object_detection:palm tree;tree;plant;christmas tree;
+from_image_classification:pond pine;pinus serotina;fringe tree;pine;pine tree;true pine;westland pine;silver pine;lagarostrobus colensoi;grugru;gri-gri;grugru palm;macamba;acrocomia aculeata;cabbage palm;euterpe oleracea;palmetto;display window;shop window;shopwindow;show window;windshield;windscreen;cigarette case;body;supernova;bell jar;bell glass;silver tree;tarrietia argyrodendron;sea anemone;anemone;print;african oil palm;elaeis guineensis;serving dish;thistledown;anthozoan;actinozoan;

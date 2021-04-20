@@ -1,0 +1,6 @@
+boxes_1.jpg;car:0.7395031
+boxes_2.jpg;land vehicle:0.3873544
+boxes_3.jpg;vehicle:0.35571483
+boxes_4.jpg;car:0.22282791
+boxes_5.jpg;car:0.21088263
+boxes_6.jpg;land vehicle:0.056453656

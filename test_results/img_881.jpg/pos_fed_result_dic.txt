@@ -1,0 +1,3 @@
+from_image_IPTC:view;london;eye;river;themes;
+from_object_detection:tree;wheel;vehicle;airplane;plant;flowerpot;parachute;land vehicle;houseplant;
+from_image_classification:ferris wheel;radome;radar dome;telpherage;telferage;clamshell;grapple;noria;crane;mast;radio telescope;radio reflector;helicopter;chopper;whirlybird;eggbeater;ski tow;ski lift;lift;truss;ladder truck;aerial ladder truck;hoist;scaling ladder;pylon;funambulism;tightrope walking;circus tent;big top;round top;top;

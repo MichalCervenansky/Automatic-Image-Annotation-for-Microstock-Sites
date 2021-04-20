@@ -1,0 +1,27 @@
+boxes_1.jpg;tree:0.8518723
+boxes_2.jpg;tree:0.7456649
+boxes_3.jpg;sculpture:0.64874667
+boxes_4.jpg;tree:0.5771851
+boxes_5.jpg;tree:0.39898458
+boxes_6.jpg;tree:0.37796554
+boxes_7.jpg;tree:0.3669462
+boxes_8.jpg;bronze sculpture:0.26895803
+boxes_9.jpg;clothing:0.25207168
+boxes_10.jpg;person:0.25192282
+boxes_11.jpg;human face:0.21109319
+boxes_12.jpg;footwear:0.20500366
+boxes_13.jpg;tree:0.1612243
+boxes_14.jpg;man:0.14733751
+boxes_15.jpg;tree:0.113276914
+boxes_16.jpg;human head:0.11181949
+boxes_17.jpg;tree:0.10657494
+boxes_18.jpg;tree:0.102089
+boxes_19.jpg;human face:0.10166178
+boxes_20.jpg;person:0.100321084
+boxes_21.jpg;tree:0.090790026
+boxes_22.jpg;tree:0.07621548
+boxes_23.jpg;tree:0.07171075
+boxes_24.jpg;tree:0.07069349
+boxes_25.jpg;footwear:0.06730732
+boxes_26.jpg;tree:0.06640833
+boxes_27.jpg;tree:0.06287889

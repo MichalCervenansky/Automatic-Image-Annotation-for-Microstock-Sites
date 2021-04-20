@@ -1,0 +1,15 @@
+boxes_1.jpg;tree:0.3600011
+boxes_2.jpg;christmas tree:0.19465904
+boxes_3.jpg;person:0.17002617
+boxes_4.jpg;palm tree:0.16128604
+boxes_5.jpg;christmas tree:0.14016095
+boxes_6.jpg;tree:0.11229405
+boxes_7.jpg;palm tree:0.1075411
+boxes_8.jpg;tree:0.100408
+boxes_9.jpg;human head:0.080385484
+boxes_10.jpg;tree:0.07755062
+boxes_11.jpg;person:0.06574613
+boxes_12.jpg;tree:0.064368084
+boxes_13.jpg;person:0.05894187
+boxes_14.jpg;human head:0.05485129
+boxes_15.jpg;plant:0.052279882

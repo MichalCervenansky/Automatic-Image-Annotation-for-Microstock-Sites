@@ -1,0 +1,15 @@
+boxes_1.jpg;ragged robin,cuckoo flower,Lychnis flos-cuculi,Lychins floscuculi:0.1483825147151947;lychnis,catchfly:0.11696261912584305;pink,garden pink:0.09329807758331299;flower:0.06912866979837418;herb,herbaceous plant:0.05378822237253189;
+boxes_10.jpg;French lavender,Lavandula stoechas:0.11828526109457016;
+boxes_11.jpg;henbit,Lamium amplexicaule:0.061065174639225006;
+boxes_12.jpg;damask violet,Dame's violet,sweet rocket,Hesperis matronalis:0.28860175609588623;brompton stock,Matthiola incana:0.16835029423236847;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.052709225565195084;
+boxes_13.jpg;Hooker's onion,Allium acuminatum:0.10617271065711975;henbit,Lamium amplexicaule:0.0977298840880394;bumblebee,humblebee:0.07199977338314056;
+boxes_14.jpg;Hooker's onion,Allium acuminatum:0.2004947066307068;bumblebee,humblebee:0.06570859998464584;
+boxes_2.jpg;verbena,vervain:0.21739259362220764;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.10309874266386032;herb,herbaceous plant:0.07450897991657257;pink,garden pink:0.0739862397313118;primrose,primula:0.053747858852148056;
+boxes_3.jpg;pink,garden pink:0.35443440079689026;sea lavender,marsh rosemary,statice:0.08928152173757553;Japanese pink,Dianthus chinensis heddewigii:0.08037076890468597;
+boxes_4.jpg;negative:0.2852140963077545;purple,purpleness:0.11626551300287247;herb,herbaceous plant:0.0930042415857315;pink,garden pink:0.05722906067967415;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.05112307518720627;
+boxes_5.jpg;Hooker's onion,Allium acuminatum:0.2547500431537628;bumblebee,humblebee:0.09342093765735626;
+boxes_6.jpg;
+boxes_7.jpg;henbit,Lamium amplexicaule:0.07589323818683624;mullein pink,rose campion,gardener's delight,dusty miller,Lychnis coronaria:0.06898205727338791;
+boxes_8.jpg;globe amaranth,bachelor's button,Gomphrena globosa:0.12984782457351685;henbit,Lamium amplexicaule:0.05478140711784363;
+boxes_9.jpg;henbit,Lamium amplexicaule:0.14217059314250946;
+img_953.jpg;sand verbena:0.2296881228685379;scarlet musk flower,Nyctaginia capitata:0.19716022908687592;purple,purpleness:0.1150115355849266;flower cluster:0.0758185163140297;

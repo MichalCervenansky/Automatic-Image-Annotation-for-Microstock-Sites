@@ -1,0 +1,45 @@
+boxes_1.jpg;muffin:0.79472727
+boxes_2.jpg;dessert:0.38354826
+boxes_3.jpg;dessert:0.3726739
+boxes_4.jpg;muffin:0.2806535
+boxes_5.jpg;muffin:0.2773357
+boxes_6.jpg;snack:0.27224335
+boxes_7.jpg;snack:0.25323224
+boxes_8.jpg;snack:0.24890757
+boxes_9.jpg;dessert:0.24654463
+boxes_10.jpg;baked goods:0.24383028
+boxes_11.jpg;snack:0.24110404
+boxes_12.jpg;pastry:0.21792382
+boxes_13.jpg;baked goods:0.21429004
+boxes_14.jpg;cookie:0.20125684
+boxes_15.jpg;dessert:0.15307578
+boxes_16.jpg;snack:0.14856125
+boxes_17.jpg;dessert:0.14781037
+boxes_18.jpg;baked goods:0.1389317
+boxes_19.jpg;snack:0.12810914
+boxes_20.jpg;dessert:0.12518036
+boxes_21.jpg;pastry:0.122654274
+boxes_22.jpg;pastry:0.11934252
+boxes_23.jpg;pastry:0.11617356
+boxes_24.jpg;dessert:0.10802819
+boxes_25.jpg;baked goods:0.106685765
+boxes_26.jpg;dessert:0.10132522
+boxes_27.jpg;snack:0.09788227
+boxes_28.jpg;baked goods:0.09712166
+boxes_29.jpg;food:0.09524038
+boxes_30.jpg;snack:0.08876405
+boxes_31.jpg;baked goods:0.08547171
+boxes_32.jpg;dessert:0.08450985
+boxes_33.jpg;dessert:0.082159586
+boxes_34.jpg;pancake:0.080259874
+boxes_35.jpg;baked goods:0.07555539
+boxes_36.jpg;baked goods:0.074660145
+boxes_37.jpg;bread:0.06749293
+boxes_38.jpg;cookie:0.065851025
+boxes_39.jpg;pastry:0.06578928
+boxes_40.jpg;dessert:0.064080656
+boxes_41.jpg;pastry:0.06364758
+boxes_42.jpg;cookie:0.061125644
+boxes_43.jpg;baked goods:0.058421977
+boxes_44.jpg;pastry:0.054978777
+boxes_45.jpg;pancake:0.05214664

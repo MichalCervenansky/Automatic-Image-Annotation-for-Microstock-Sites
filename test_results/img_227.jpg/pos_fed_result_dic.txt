@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;daisy;meadow;
+from_object_detection:flower;plant;
+from_image_classification:blue daisy;blue marguerite;felicia amelloides;marguerite;marguerite daisy;paris daisy;chrysanthemum frutescens;argyranthemum frutescens;seaside daisy;beach aster;erigeron glaucous;pyrethrum;dalmatian pyrethrum;dalmatia pyrethrum;tanacetum cinerariifolium;chrysanthemum cinerariifolium;painted daisy;tanacetum coccineum;chrysanthemum coccineum;flower;silene;campion;catchfly;sandwort;moehringia lateriflora;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;fig marigold;pebble plant;composite;composite plant;barnaby's thistle;yellow star-thistle;centaurea solstitialis;

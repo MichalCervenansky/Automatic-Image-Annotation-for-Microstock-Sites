@@ -1,0 +1,3 @@
+from_image_IPTC:small;watermills;rural;bosna;hercegovina;
+from_object_detection:house;tree;plant;building;window;
+from_image_classification:hovel;hut;hutch;shack;shanty;corncrib;toolshed;toolhouse;fixer-upper;timber;dry rot;cornice;eaves;woodshed;canvas tent;canvas;canvass;tepee;tipi;teepee;lean-to;shed;kennel;doghouse;dog house;shelter;dormer;dormer window;housetop;gable roof;saddle roof;saddleback;saddleback roof;windshield;windscreen;ice mass;dutch elm fungus;ceratostomella ulmi;backstairs;windowsill;doorsill;doorstep;threshold;dutch elm;ulmus hollandica;black cottonwood;western balsam poplar;populus trichocarpa;water polo;crabeater seal;crab-eating seal;floating;natation;roofing;lodge;indian lodge;table;gable;gable end;gable wall;

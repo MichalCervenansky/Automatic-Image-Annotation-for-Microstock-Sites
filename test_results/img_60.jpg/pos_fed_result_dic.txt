@@ -1,0 +1,3 @@
+from_image_IPTC:enormous;lightning;strikes;sea;
+from_object_detection:person;
+from_image_classification:grey whale;gray whale;devilfish;eschrichtius gibbosus;eschrichtius robustus;lesser rorqual;piked whale;minke whale;balaenoptera acutorostrata;finback;finback whale;fin whale;common rorqual;balaenoptera physalus;artwork;art;graphics;nontextual matter;waterside;seashore;coast;seacoast;sea-coast;

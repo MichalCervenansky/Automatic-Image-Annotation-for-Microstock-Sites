@@ -1,0 +1,3 @@
+from_image_IPTC:small;red;fish;akvarium;
+from_object_detection:fish;goldfish;marine invertebrates;
+from_image_classification:damselfish;demoiselle;fish;pacific tripletail;lobotes pacificus;surfperch;surffish;surf fish;yellowtail;seriola dorsalis;red porgy;pagrus pagrus;young fish;sergeant major;abudefduf saxatilis;aquatic vertebrate;jack;creole-fish;paranthias furcifer;

@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;plant;flower;
+from_image_classification:mountain sheep;mountainside;versant;descent;declivity;fall;decline;declination;declension;downslope;bison;woodland caribou;rangifer caribou;ski jumping;virginia deer;white tail;whitetail;white-tailed deer;whitetail deer;odocoileus virginianus;buck;mule deer;burro deer;odocoileus hemionus;snowmobile;sno-cat;sled dog;sledge dog;black-tailed deer;blacktail deer;blacktail;odocoileus hemionus columbianus;asiatic black bear;black bear;ursus thibetanus;selenarctos thibetanus;wapiti;elk;american elk;cervus elaphus canadensis;musher;european elk;moose;alces alces;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;snowcap;mountain;mount;

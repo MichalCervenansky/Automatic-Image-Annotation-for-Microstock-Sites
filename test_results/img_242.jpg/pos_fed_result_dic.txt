@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;pink;meadow;flower;
+from_object_detection:flower;tree;
+from_image_classification:scilla;squill;wild hyacinth;indigo squill;camassia scilloides;spanish iris;xiphium iris;iris xiphium;negative;african lily;african tulip;blue african lily;agapanthus africanus;swizzle stick;common camas;camassia quamash;camas;camass;quamash;camosh;camash;

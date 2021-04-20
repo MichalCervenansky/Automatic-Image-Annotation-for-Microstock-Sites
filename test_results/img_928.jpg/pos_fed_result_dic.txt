@@ -1,0 +1,3 @@
+from_image_IPTC:rough;sea;windsurfist;italy;holiday;horrible;wind;
+from_object_detection:boat;person;surfboard;footwear;flag;watercraft;sports equipment;
+from_image_classification:surfing;surfboarding;surfriding;lateen;lateen sail;luff;headsail;gaff topsail;fore-and-aft topsail;sloop;topsail;bait;decoy;lure;skating;parasol;sunshade;

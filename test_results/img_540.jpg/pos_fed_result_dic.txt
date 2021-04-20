@@ -1,0 +1,3 @@
+from_image_IPTC:fire;wood;logs;set;long;winter;texture;
+from_object_detection:mushroom;shellfish;
+from_image_classification:oil paint;shell;meander;tessera;ice mass;patchwork;patchwork quilt;kiss;candy kiss;basin;

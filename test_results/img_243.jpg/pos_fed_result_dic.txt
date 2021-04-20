@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;red;meadow;flower;
+from_object_detection:flower;rose;plant;
+from_image_classification:blue poppy;meconopsis betonicifolia;spanish iris;xiphium iris;iris xiphium;cornflower;bachelor's button;bluebottle;centaurea cyanus;peach bells;peach bell;willow bell;campanula persicifolia;blue pea;butterfly pea;clitoria turnatea;negative;beardless iris;blue orchid;vanda caerulea;dutch iris;iris filifolia;grape hyacinth;closed gentian;blind gentian;gentiana clausa;california bluebell;phacelia campanularia;flower;

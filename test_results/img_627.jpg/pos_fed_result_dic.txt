@@ -1,0 +1,3 @@
+from_image_IPTC:view;venice;waterroad;surounding;buildings;
+from_object_detection:building;tower;boat;window;house;vehicle;barge;
+from_image_classification:gondola;sliding window;mausoleum;waterside;gondolier;gondoliere;city;metropolis;urban center;ice;water ice;ghat;police boat;hovercraft;ground-effect machine;conveyance;transport;craft;seashore;coast;seacoast;sea-coast;small boat;showjumping;stadium jumping;sluice;sluiceway;penstock;cabin cruiser;cruiser;pleasure boat;pleasure craft;houseboat;bumboat;starting gate;starting stall;building;edifice;carthorse;cart horse;drayhorse;street;sternwheeler;convent;minster;messuage;chapterhouse;needlefish;gar;billfish;lake dwelling;pile dwelling;customhouse;customshouse;stock car;

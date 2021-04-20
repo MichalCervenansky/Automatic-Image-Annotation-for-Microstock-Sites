@@ -1,0 +1,3 @@
+from_image_IPTC:soft;meadow;pink;flower;turkey;mountains;
+from_object_detection:flower;plant;
+from_image_classification:venus' slipper;venus's slipper;venus's shoe;pogonia;silene;campion;catchfly;surgeon;operating surgeon;sawbones;california poppy;eschscholtzia californica;golden cup;mexican tulip poppy;hunnemania fumariifolia;milkweed;sonchus oleraceus;cornflower;bachelor's button;bluebottle;centaurea cyanus;knapweed;sow thistle;milk thistle;negative;guppy;rainbow fish;lebistes reticulatus;tent caterpillar;wild pink;silene caroliniana;fig marigold;pebble plant;stokes' aster;cornflower aster;stokesia laevis;

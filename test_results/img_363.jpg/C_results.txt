@@ -1,0 +1,6 @@
+boxes_1.jpg;wild leek,Levant garlic,kurrat,Allium ampeloprasum:0.9916543960571289;
+boxes_2.jpg;ice,water ice:0.6531270146369934;
+boxes_3.jpg;
+boxes_4.jpg;fur seal:0.14227932691574097;fur seal:0.1259831339120865;crabeater seal,crab-eating seal:0.12429498136043549;
+boxes_5.jpg;Adelie,Adelie penguin,Pygoscelis adeliae:0.14309124648571014;ice,water ice:0.08396301418542862;crabeater seal,crab-eating seal:0.08103855699300766;emperor penguin,Aptenodytes forsteri:0.06703528761863708;
+img_363.jpg;squill:0.17753279209136963;scilla,squill:0.1384120136499405;

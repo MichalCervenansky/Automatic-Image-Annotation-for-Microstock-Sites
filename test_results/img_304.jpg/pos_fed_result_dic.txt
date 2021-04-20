@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;scenary;beautiful;norway;mountains;
+from_object_detection:tree;
+from_image_classification:meander;outfall;waterside;delta;littoral;litoral;littoral zone;sands;

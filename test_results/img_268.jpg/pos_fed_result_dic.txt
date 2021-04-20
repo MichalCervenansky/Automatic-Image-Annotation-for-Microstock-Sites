@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sun;set;croatian;hrvatian;coast;
+from_object_detection:boat;watercraft;street light;vehicle;
+from_image_classification:riverbank;riverside;strand;small boat;littoral;litoral;littoral zone;sands;amphibian;amphibious aircraft;floatplane;pontoon plane;racing skiff;single shell;catboat;motorboat;powerboat;sperm whale;cachalot;black whale;physeter catodon;nautilus;nuclear submarine;nuclear-powered submarine;swimming;swim;dredge;low-water mark;sandbank;

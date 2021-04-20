@@ -1,0 +1,12 @@
+boxes_1.jpg;octopus,devilfish:0.7831810712814331;octopod:0.08038273453712463;cephalopod,cephalopod mollusk:0.05018476024270058;
+boxes_10.jpg;octopus,devilfish:0.804219126701355;octopod:0.09037932008504868;
+boxes_11.jpg;octopus,devilfish:0.8291913270950317;cephalopod,cephalopod mollusk:0.058653850108385086;
+boxes_2.jpg;octopus,devilfish:0.676554799079895;octopod:0.15879154205322266;cephalopod,cephalopod mollusk:0.07766981422901154;
+boxes_3.jpg;scuba diving:0.15386399626731873;
+boxes_4.jpg;octopus,devilfish:0.7859305739402771;octopod:0.09229552000761032;cephalopod,cephalopod mollusk:0.0691787451505661;
+boxes_5.jpg;octopus,devilfish:0.6232789754867554;benthos,benthic division,benthonic zone:0.13055400550365448;octopod:0.11817621439695358;
+boxes_6.jpg;octopus,devilfish:0.8201830983161926;cephalopod,cephalopod mollusk:0.05924605578184128;octopod:0.057523470371961594;
+boxes_7.jpg;octopus,devilfish:0.7652958035469055;octopod:0.053697362542152405;benthos,benthic division,benthonic zone:0.05013808235526085;
+boxes_8.jpg;scuba diving:0.1545790433883667;skin-diver,aquanaut:0.1050884798169136;
+boxes_9.jpg;octopus,devilfish:0.7692689895629883;cephalopod,cephalopod mollusk:0.07297393679618835;benthos,benthic division,benthonic zone:0.06044666841626167;
+img_705.jpg;octopus,devilfish:0.7450900673866272;cephalopod,cephalopod mollusk:0.11104170233011246;

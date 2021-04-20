@@ -1,0 +1,3 @@
+from_image_IPTC:dangerous;poisonous;big;lizard;komodo;akvarium;
+from_object_detection:reptile;lizard;plant;crocodile;
+from_image_classification:african monitor;varanus niloticus;chameleon;chamaeleon;collared lizard;tailed frog;bell toad;ribbed toad;tailed toad;ascaphus trui;

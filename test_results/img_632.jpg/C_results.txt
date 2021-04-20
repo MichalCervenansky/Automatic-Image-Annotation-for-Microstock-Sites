@@ -1,0 +1,10 @@
+boxes_1.jpg;ice,water ice:0.35478612780570984;umbel:0.21442340314388275;air bubble:0.06977870315313339;
+boxes_2.jpg;umbel:0.23409494757652283;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.1419771909713745;crottle,crottal,crotal:0.12528778612613678;ice,water ice:0.09102173149585724;
+boxes_3.jpg;air bubble:0.20941849052906036;ice,water ice:0.1984940469264984;umbel:0.17627188563346863;crottle,crottal,crotal:0.05706875026226044;
+boxes_4.jpg;
+boxes_5.jpg;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.28952956199645996;umbel:0.26551952958106995;dusty miller,Senecio cineraria,Cineraria maritima:0.25241026282310486;
+boxes_6.jpg;ice,water ice:0.48253947496414185;umbel:0.1836298704147339;dusty miller,Senecio cineraria,Cineraria maritima:0.1376970261335373;
+boxes_7.jpg;ice,water ice:0.07796610891819;fringe tree:0.057720281183719635;dickeybird,dickey-bird,dickybird,dicky-bird:0.053562432527542114;
+boxes_8.jpg;ice,water ice:0.24623578786849976;umbel:0.19102758169174194;air bubble:0.16679944097995758;
+boxes_9.jpg;ice,water ice:0.38328999280929565;umbel:0.22200267016887665;dusty miller,Senecio cineraria,Cineraria maritima:0.058146148920059204;air bubble:0.054749540984630585;
+img_632.jpg;ice,water ice:0.3677524924278259;umbel:0.16584987938404083;air bubble:0.06303320080041885;

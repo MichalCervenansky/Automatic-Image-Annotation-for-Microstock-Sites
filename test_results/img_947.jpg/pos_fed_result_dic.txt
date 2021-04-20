@@ -1,0 +1,3 @@
+from_image_IPTC:forest;snail;natural;habitat;czech;republic;
+from_object_detection:snail;plant;shellfish;invertebrate;houseplant;ladybug;
+from_image_classification:edible snail;helix pomatia;snail;mildew;squirrel corn;dicentra canadensis;thumbtack;drawing pin;pushpin;herb;herbaceous plant;crinkleroot;crinkle-root;crinkle root;pepper root;toothwort;cardamine diphylla;dentaria diphylla;garden snail;brown snail;helix aspersa;chinese parasol tree;chinese parasol;japanese varnish tree;phoenix tree;firmiana simplex;great ragweed;ambrosia trifida;pulsar;ameba;amoeba;photomicrograph;

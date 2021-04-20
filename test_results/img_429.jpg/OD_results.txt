@@ -1,0 +1,10 @@
+boxes_1.jpg;flower:0.93388695
+boxes_2.jpg;flower:0.5154987
+boxes_3.jpg;flower:0.48885274
+boxes_4.jpg;flower:0.19975296
+boxes_5.jpg;flower:0.13706878
+boxes_6.jpg;plant:0.13612258
+boxes_7.jpg;flower:0.09776418
+boxes_8.jpg;flower:0.05930145
+boxes_9.jpg;plant:0.059288654
+boxes_10.jpg;insect:0.058925584

@@ -1,0 +1,3 @@
+from_image_IPTC:old;sea;shell;lying;rocks;
+from_object_detection:invertebrate;shellfish;marine invertebrates;
+from_image_classification:scallop shell;ark shell;shell;cockle;

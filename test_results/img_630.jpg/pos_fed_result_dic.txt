@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;sky;tree;tops;
+from_object_detection:tree;
+from_image_classification:silver fir;douglas fir;oriental spruce;picea orientalis;pinetum;gray;grayness;grey;greyness;sunniness;sitka spruce;picea sitchensis;lowland fir;lowland white fir;giant fir;grand fir;abies grandis;deodar;deodar cedar;himalayan cedar;cedrus deodara;colorado spruce;colorado blue spruce;silver spruce;picea pungens;hemlock;hemlock tree;willow;willow tree;smoke screen;smokescreen;

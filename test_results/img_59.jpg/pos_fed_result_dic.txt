@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;croatian;seashore;near;porec;
+from_object_detection:tree;boat;vehicle;
+from_image_classification:seashore;coast;seacoast;sea-coast;dustmop;dust mop;dry mop;lodestone;loadstone;hippodrome;horse racing;jockey;japanese black pine;black pine;pinus thunbergii;snow gum;ghost gum;white ash;eucalyptus coriacea;eucalyptus pauciflora;table-mountain pine;prickly pine;hickory pine;pinus pungens;western white pine;silver pine;mountain pine;pinus monticola;river boat;two-hitter;2-hitter;three-hitter;3-hitter;softball;softball game;broad jump;long jump;no-hit game;no-hitter;outfall;sandbar;sand bar;littoral;litoral;littoral zone;sands;

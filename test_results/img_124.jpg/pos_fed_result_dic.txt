@@ -1,0 +1,3 @@
+from_image_IPTC:nice;tasty;homemade;sweet;cokies;yogurt;
+from_object_detection:muffin;dessert;snack;baked goods;pastry;cookie;food;pancake;bread;
+from_image_classification:frozen custard;soft ice cream;cream;icing sugar;heavy cream;meringue kiss;sugarplum;blueberry yogurt;marshmallow fluff;whipping cream;light whipping cream;divinity;divinity fudge;negative;lather;soapsuds;suds;double creme;heavy whipping cream;peach ice cream;soap dish;simnel;double cream;candy bar;whip;refection;baby powder;neapolitan ice cream;

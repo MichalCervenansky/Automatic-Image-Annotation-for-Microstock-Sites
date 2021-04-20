@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sand;beach;turkey;
+from_object_detection:
+from_image_classification:spume;spoor;saltpan;oceanfront;littoral;litoral;littoral zone;sands;shore;sand;

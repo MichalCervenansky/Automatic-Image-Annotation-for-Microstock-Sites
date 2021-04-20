@@ -1,0 +1,10 @@
+boxes_1.jpg;book:0.8345551
+boxes_2.jpg;poster:0.37049904
+boxes_3.jpg;whiteboard:0.26020885
+boxes_4.jpg;poster:0.2518391
+boxes_5.jpg;door:0.14680113
+boxes_6.jpg;book:0.1310049
+boxes_7.jpg;book:0.1282069
+boxes_8.jpg;book:0.066635564
+boxes_9.jpg;door:0.06597042
+boxes_10.jpg;poster:0.056317866

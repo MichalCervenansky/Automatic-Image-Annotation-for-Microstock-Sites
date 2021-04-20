@@ -1,0 +1,15 @@
+boxes_1.jpg;porgy:0.22651901841163635;croaker:0.07012850046157837;black bream,Chrysophrys australis:0.06954731047153473;robalo:0.061451494693756104;horse mackerel,saurel,Trachurus trachurus:0.05972566083073616;
+boxes_10.jpg;porgy:0.20472683012485504;sea bream,bream:0.19560080766677856;black bream,Chrysophrys australis:0.12157008796930313;horse mackerel,saurel,Trachurus trachurus:0.10571934282779694;robalo:0.06779530644416809;
+boxes_11.jpg;croaker:0.14654356241226196;king whiting,Menticirrhus americanus:0.14121243357658386;food fish:0.1102079376578331;smelt:0.10718907415866852;saury,billfish,Scomberesox saurus:0.06824322789907455;hake:0.05067378655076027;
+boxes_12.jpg;robalo:0.14503858983516693;croaker:0.14039665460586548;black bream,Chrysophrys australis:0.08331926167011261;sea bream,bream:0.07446561008691788;white croaker,chenfish,kingfish,Genyonemus lineatus:0.073907271027565;
+boxes_13.jpg;croaker:0.217288076877594;saury,billfish,Scomberesox saurus:0.14130985736846924;food fish:0.10974359512329102;king whiting,Menticirrhus americanus:0.08620882779359818;horse mackerel,saurel,Trachurus trachurus:0.06058485805988312;whiting:0.05513555184006691;
+boxes_14.jpg;ice mass:0.11240848153829575;marshmallow:0.08893170952796936;alabaster:0.08544263988733292;
+boxes_2.jpg;croaker:0.21456016600131989;saury,billfish,Scomberesox saurus:0.12410372495651245;horse mackerel,saurel,Trachurus trachurus:0.09483842551708221;white croaker,chenfish,kingfish,Genyonemus lineatus:0.08863581717014313;king whiting,Menticirrhus americanus:0.05138806626200676;
+boxes_3.jpg;hake:0.2204325646162033;king whiting,Menticirrhus americanus:0.1132374033331871;whiting:0.09118908643722534;robalo:0.06231021508574486;
+boxes_4.jpg;croaker:0.14879333972930908;white croaker,chenfish,kingfish,Genyonemus lineatus:0.12320129573345184;silver perch,mademoiselle,Bairdiella chrysoura:0.08251973241567612;whiting:0.06705287098884583;
+boxes_5.jpg;croaker:0.22408932447433472;king whiting,Menticirrhus americanus:0.16841520369052887;hake:0.08449309319257736;whiting:0.06117560341954231;
+boxes_6.jpg;hake:0.24533353745937347;robalo:0.08752549439668655;whiting:0.07318951934576035;
+boxes_7.jpg;white croaker,chenfish,kingfish,Genyonemus lineatus:0.15269747376441956;robalo:0.09874973446130753;food fish:0.09824985265731812;black bream,Chrysophrys australis:0.07827751338481903;horse mackerel,saurel,Trachurus trachurus:0.05601233243942261;
+boxes_8.jpg;hake:0.1245829239487648;whiting:0.1195434108376503;king whiting,Menticirrhus americanus:0.1185339093208313;robalo:0.08516549319028854;bottom-feeder,bottom-dweller:0.07630259543657303;smelt:0.07380141317844391;
+boxes_9.jpg;robalo:0.31356027722358704;black bream,Chrysophrys australis:0.10774372518062592;porgy:0.06345172226428986;sea bream,bream:0.054779015481472015;
+img_800.jpg;silver perch,mademoiselle,Bairdiella chrysoura:0.20638668537139893;croaker:0.18414418399333954;horse mackerel,saurel,Trachurus trachurus:0.06946410983800888;

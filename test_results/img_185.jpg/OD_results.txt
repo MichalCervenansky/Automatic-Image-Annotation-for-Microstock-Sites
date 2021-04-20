@@ -1,0 +1,2 @@
+boxes_1.jpg;plant:0.1325554
+boxes_2.jpg;plant:0.0703155

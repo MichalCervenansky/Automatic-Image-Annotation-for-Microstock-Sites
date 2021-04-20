@@ -1,0 +1,3 @@
+from_image_IPTC:medieval;bust;female;character;castle;buchlov;
+from_object_detection:human face;bronze sculpture;table;person;coffee table;clothing;bust;sculpture;furniture;human head;man;door;human hair;woman;
+from_image_classification:sculpture;negative;sculptor;sculpturer;carver;statue maker;silverpoint;verdigris;socle;soapsuds;suds;lather;gray;grayness;grey;greyness;artifact;artefact;inkstand;breastplate;aegis;egis;masterpiece;chef-d'oeuvre;inkwell;coffer;memorial;monument;

@@ -1,0 +1,3 @@
+from_image_IPTC:wild;white;pelicans;zoo;muddy;pond;
+from_object_detection:goose;swan;duck;bird;
+from_image_classification:old world white pelican;pelecanus onocrotalus;white pelican;pelecanus erythrorhynchos;solan;solan goose;solant goose;sula bassana;pelican;pen;wandering albatross;diomedea exulans;bewick's swan;cygnus columbianus bewickii;

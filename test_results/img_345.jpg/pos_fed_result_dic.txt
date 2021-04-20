@@ -1,0 +1,3 @@
+from_image_IPTC:summer;cep;boletus;reticulatus;mushrooms;forest;
+from_object_detection:mushroom;plant;tree;
+from_image_classification:portuguese man-of-war;man-of-war;jellyfish;electric ray;crampfish;numbfish;torpedo;manakin;common water snake;banded water snake;natrix sipedon;nerodia sipedon;floating;natation;swimming;swim;snorkeling;snorkel diving;damselfly;watercourse;negative;delta;greenhouse whitefly;trialeurodes vaporariorum;

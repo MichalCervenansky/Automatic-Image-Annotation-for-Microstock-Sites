@@ -1,0 +1,14 @@
+boxes_1.jpg;Bactrian camel,Camelus bactrianus:0.9712187647819519;
+boxes_10.jpg;
+boxes_11.jpg;Bactrian camel,Camelus bactrianus:0.9979565143585205;
+boxes_12.jpg;Bactrian camel,Camelus bactrianus:0.9962084293365479;
+boxes_13.jpg;
+boxes_2.jpg;bitch:0.10308452695608139;
+boxes_3.jpg;Indian rhinoceros,Rhinoceros unicornis:0.1453033983707428;Bactrian camel,Camelus bactrianus:0.12282982468605042;rhinoceros,rhino:0.10914818197488785;carabao:0.07525541633367538;black rhinoceros,Diceros bicornis:0.056172680109739304;
+boxes_4.jpg;Bactrian camel,Camelus bactrianus:0.9482673406600952;
+boxes_5.jpg;
+boxes_6.jpg;kudu,koodoo,koudou:0.2592562735080719;sambar,sambur,Cervus unicolor:0.1438283920288086;Japanese deer,sika,Cervus nipon,Cervus sika:0.05886922404170036;
+boxes_7.jpg;alpaca,Lama pacos:0.09558016806840897;Indian rhinoceros,Rhinoceros unicornis:0.08565083146095276;carabao:0.06025860831141472;
+boxes_8.jpg;Bactrian camel,Camelus bactrianus:0.9920177459716797;
+boxes_9.jpg;Bactrian camel,Camelus bactrianus:0.9941101670265198;
+img_296.jpg;Bactrian camel,Camelus bactrianus:0.9874089956283569;

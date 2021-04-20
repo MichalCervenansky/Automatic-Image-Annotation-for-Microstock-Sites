@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:pillow;flag;clothing;book;towel;jeans;furniture;
+from_image_classification:quilted bedspread;velour;velours;velveteen;cotton flannel;canton flannel;velvet;suede cloth;suede;bedspread;bedcover;bed cover;bed covering;counterpane;spread;quilt;comforter;comfort;puff;

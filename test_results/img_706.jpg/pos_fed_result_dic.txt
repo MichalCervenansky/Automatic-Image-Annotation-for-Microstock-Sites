@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;croatian;hrvatian;coast;sea;boat;
+from_object_detection:boat;vehicle;
+from_image_classification:dolphin;river dolphin;surfing;surfboarding;surfriding;shore;pinniped mammal;pinniped;pinnatiped;seal;saltpan;

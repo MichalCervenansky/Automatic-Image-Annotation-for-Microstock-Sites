@@ -1,0 +1,3 @@
+from_image_IPTC:turkish;mountains;countryside;
+from_object_detection:tree;bird;airplane;plant;vehicle;
+from_image_classification:artemisia;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;foothill;mountainside;versant;ridge;dustmop;dust mop;dry mop;dustcloth;dustrag;duster;pinon;pinyon;saltbush;sea wormwood;seriphidium maritimum;artemisia maritima;bayberry;bay-rum tree;jamaica bayberry;wild cinnamon;pimenta acris;windmill;aerogenerator;wind generator;barrier reef;reef;verdigris;sea feather;manatee;trichechus manatus;pacific ridley;olive ridley;lepidochelys olivacea;ascent;acclivity;rise;raise;climb;upgrade;hillside;slope;incline;side;

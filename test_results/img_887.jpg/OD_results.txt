@@ -1,0 +1,24 @@
+boxes_1.jpg;wall clock:0.8821685
+boxes_2.jpg;building:0.58924466
+boxes_3.jpg;building:0.4897689
+boxes_4.jpg;window:0.3423621
+boxes_5.jpg;tree:0.3211585
+boxes_6.jpg;tree:0.2852415
+boxes_7.jpg;clock:0.2578894
+boxes_8.jpg;house:0.24053979
+boxes_9.jpg;window:0.19429968
+boxes_10.jpg;window:0.14600042
+boxes_11.jpg;building:0.14328474
+boxes_12.jpg;window:0.14095628
+boxes_13.jpg;house:0.12903664
+boxes_14.jpg;house:0.10995738
+boxes_15.jpg;building:0.09774315
+boxes_16.jpg;building:0.08413381
+boxes_17.jpg;nail:0.08365057
+boxes_18.jpg;window:0.08011736
+boxes_19.jpg;tree:0.07748675
+boxes_20.jpg;window:0.06945418
+boxes_21.jpg;door:0.05764461
+boxes_22.jpg;window:0.055922322
+boxes_23.jpg;house:0.051255375
+boxes_24.jpg;plant:0.050508372

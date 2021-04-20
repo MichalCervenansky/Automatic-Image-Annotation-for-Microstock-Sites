@@ -1,0 +1,16 @@
+boxes_1.jpg;window:0.915647
+boxes_2.jpg;building:0.8333037
+boxes_3.jpg;window:0.7746607
+boxes_4.jpg;tree:0.42512804
+boxes_5.jpg;house:0.37626386
+boxes_6.jpg;building:0.16084914
+boxes_7.jpg;window:0.14162545
+boxes_8.jpg;sculpture:0.14160696
+boxes_9.jpg;building:0.08345983
+boxes_10.jpg;tree:0.07317845
+boxes_11.jpg;window:0.067933634
+boxes_12.jpg;window:0.0611872
+boxes_13.jpg;tree:0.059427667
+boxes_14.jpg;window:0.05681134
+boxes_15.jpg;tower:0.05374767
+boxes_16.jpg;window:0.05063594

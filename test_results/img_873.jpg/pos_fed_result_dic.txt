@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;canyon;forest;yellowstone;national;park;usa;
+from_object_detection:tree;plant;
+from_image_classification:telpherage;telferage;precipice;ledge;shelf;mountainside;versant;chairlift;chair lift;white fir;colorado fir;california white fir;abies concolor;abies lowiana;fir;fir tree;true fir;ridge;adit;mountain sheep;glacier;alpine glacier;alpine type of glacier;chasm;gorge;ascent;acclivity;rise;raise;climb;upgrade;arroyo;shore pine;lodgepole;lodgepole pine;spruce pine;pinus contorta;scotch pine;scots pine;scotch fir;pinus sylvestris;pinon;pinyon;abseiler;rappeller;western white pine;silver pine;mountain pine;pinus monticola;verdigris;pinetum;descent;declivity;fall;decline;declination;declension;downslope;escarpment;scarp;

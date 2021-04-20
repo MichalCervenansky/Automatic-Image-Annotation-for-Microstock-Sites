@@ -1,0 +1,3 @@
+from_image_IPTC:nice;tasty;homemade;sweet;cokies;yogurt;
+from_object_detection:dessert;baked goods;muffin;pancake;food;snack;pastry;tableware;plate;cookie;dairy;
+from_image_classification:sour cream;soured cream;icing sugar;heavy cream;meringue kiss;fondant;marshmallow fluff;neapolitan ice cream;simnel;soapsuds;suds;lather;spume;cell;negative;powdered sugar;baked alaska;whipping cream;light whipping cream;souffle;chocolate fudge;plum pudding;christmas pudding;refection;delft;

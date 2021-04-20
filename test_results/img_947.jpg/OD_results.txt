@@ -1,0 +1,16 @@
+boxes_1.jpg;snail:0.9417657
+boxes_2.jpg;plant:0.629319
+boxes_3.jpg;plant:0.6037723
+boxes_4.jpg;plant:0.39083195
+boxes_5.jpg;plant:0.20653225
+boxes_6.jpg;plant:0.16967902
+boxes_7.jpg;plant:0.15990503
+boxes_8.jpg;plant:0.15954702
+boxes_9.jpg;shellfish:0.1446355
+boxes_10.jpg;plant:0.12319462
+boxes_11.jpg;invertebrate:0.11705424
+boxes_12.jpg;houseplant:0.08213773
+boxes_13.jpg;plant:0.06888372
+boxes_14.jpg;ladybug:0.064515114
+boxes_15.jpg;plant:0.062355638
+boxes_16.jpg;plant:0.061669093

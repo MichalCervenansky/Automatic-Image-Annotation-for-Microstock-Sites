@@ -1,0 +1,11 @@
+boxes_1.jpg;vehicle:0.63795066
+boxes_2.jpg;land vehicle:0.4591586
+boxes_3.jpg;car:0.43657613
+boxes_4.jpg;auto part:0.38022405
+boxes_5.jpg;wheel:0.36468878
+boxes_6.jpg;auto part:0.1853213
+boxes_7.jpg;helmet:0.095392376
+boxes_8.jpg;wheel:0.076680854
+boxes_9.jpg;auto part:0.073882975
+boxes_10.jpg;headphones:0.06750077
+boxes_11.jpg;auto part:0.06309687

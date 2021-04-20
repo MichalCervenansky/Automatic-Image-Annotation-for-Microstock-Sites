@@ -1,0 +1,11 @@
+boxes_1.jpg;tree:0.9229679
+boxes_2.jpg;plant:0.2076545
+boxes_3.jpg;tortoise:0.18875514
+boxes_4.jpg;sea turtle:0.15370686
+boxes_5.jpg;tree:0.15182307
+boxes_6.jpg;plant:0.11479119
+boxes_7.jpg;plant:0.10288459
+boxes_8.jpg;turtle:0.09954006
+boxes_9.jpg;animal:0.08547286
+boxes_10.jpg;plant:0.064109765
+boxes_11.jpg;plant:0.050777294

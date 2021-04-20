@@ -1,0 +1,46 @@
+boxes_1.jpg;palm tree:0.5805815
+boxes_2.jpg;tree:0.5515849
+boxes_3.jpg;palm tree:0.5352723
+boxes_4.jpg;tree:0.46591154
+boxes_5.jpg;palm tree:0.38187873
+boxes_6.jpg;tree:0.35761163
+boxes_7.jpg;palm tree:0.32202026
+boxes_8.jpg;palm tree:0.31021395
+boxes_9.jpg;tree:0.2823699
+boxes_10.jpg;tree:0.26643398
+boxes_11.jpg;tree:0.2569738
+boxes_12.jpg;palm tree:0.24947825
+boxes_13.jpg;plant:0.22316954
+boxes_14.jpg;plant:0.20922883
+boxes_15.jpg;palm tree:0.1805449
+boxes_16.jpg;tree:0.15544952
+boxes_17.jpg;tree:0.15151806
+boxes_18.jpg;tree:0.14258505
+boxes_19.jpg;palm tree:0.13520706
+boxes_20.jpg;tree:0.1156052
+boxes_21.jpg;tree:0.112167455
+boxes_22.jpg;plant:0.10148279
+boxes_23.jpg;palm tree:0.1000807
+boxes_24.jpg;tree:0.093489446
+boxes_25.jpg;tree:0.084598035
+boxes_26.jpg;plant:0.08369599
+boxes_27.jpg;palm tree:0.08101054
+boxes_28.jpg;tree:0.07985503
+boxes_29.jpg;palm tree:0.076966785
+boxes_30.jpg;tree:0.075969405
+boxes_31.jpg;tree:0.07525286
+boxes_32.jpg;palm tree:0.07410666
+boxes_33.jpg;tree:0.07145701
+boxes_34.jpg;palm tree:0.070620626
+boxes_35.jpg;palm tree:0.0672589
+boxes_36.jpg;window:0.06276704
+boxes_37.jpg;plant:0.05934429
+boxes_38.jpg;tree:0.05641757
+boxes_39.jpg;tree:0.055922166
+boxes_40.jpg;mushroom:0.05576851
+boxes_41.jpg;tree:0.05381094
+boxes_42.jpg;palm tree:0.05322093
+boxes_43.jpg;house:0.052331332
+boxes_44.jpg;tree:0.05216018
+boxes_45.jpg;tree:0.051997673
+boxes_46.jpg;palm tree:0.05015245

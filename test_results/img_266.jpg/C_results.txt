@@ -1,0 +1,7 @@
+boxes_1.jpg;waterspout:0.7608552575111389;
+boxes_2.jpg;waterspout:0.2983282208442688;snowdrift:0.10838644951581955;hydrogen bomb,H-bomb,fusion bomb,thermonuclear bomb:0.05303889513015747;
+boxes_3.jpg;waterspout:0.27886974811553955;snowdrift:0.09192730486392975;fairy ring,fairy circle:0.07350769639015198;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;waterspout:0.40963757038116455;hydrogen bomb,H-bomb,fusion bomb,thermonuclear bomb:0.13063961267471313;atom bomb,atomic bomb,A-bomb,fission bomb,plutonium bomb:0.05225212499499321;
+img_266.jpg;snowdrift:0.19221283495426178;waterspout:0.14649388194084167;fairy ring,fairy circle:0.06182366609573364;

@@ -1,0 +1,3 @@
+from_image_IPTC:view;london;eye;river;themes;
+from_object_detection:building;wheel;stairs;tree;vehicle;
+from_image_classification:support;supporting structure;framework;ferris wheel;supporting tower;truss;box beam;box girder;gangplank;gangboard;gangway;bowsprit;topmast;mainmast;mizzenmast;mizenmast;mizzen;mizen;wine bucket;wine cooler;

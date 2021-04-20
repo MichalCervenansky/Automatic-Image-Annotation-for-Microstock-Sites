@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;scenery;norway;fishing;village;hidden;deep;fjords;
+from_object_detection:boat;house;window;building;
+from_image_classification:boat;trawler;seashore;coast;seacoast;sea-coast;harbor;harbour;marina;lockage;police boat;craft;sluice;sluiceway;penstock;sheet pile;sheath pile;sheet piling;harborage;harbourage;facing;cladding;saltbox;widow's walk;house paint;housepaint;garage;gambrel;gambrel roof;toolshed;toolhouse;hip roof;hipped roof;poop deck;boatyard;mizzenmast;mizenmast;mizzen;mizen;boathouse;waterfront;lake dwelling;pile dwelling;house;vacation home;posthouse;post house;beach house;ferry;ferryboat;dollhouse;doll's house;lilo;lambrequin;artwork;art;graphics;nontextual matter;

@@ -1,0 +1,14 @@
+boxes_1.jpg;tree:0.4342354
+boxes_2.jpg;street light:0.40507078
+boxes_3.jpg;tree:0.3969308
+boxes_4.jpg;tree:0.35485175
+boxes_5.jpg;tree:0.33139884
+boxes_6.jpg;palm tree:0.1113562
+boxes_7.jpg;street light:0.095950216
+boxes_8.jpg;street light:0.0894694
+boxes_9.jpg;tree:0.0872712
+boxes_10.jpg;tree:0.08335973
+boxes_11.jpg;tree:0.077534825
+boxes_12.jpg;tree:0.0641921
+boxes_13.jpg;fish:0.06080285
+boxes_14.jpg;vehicle:0.057425845

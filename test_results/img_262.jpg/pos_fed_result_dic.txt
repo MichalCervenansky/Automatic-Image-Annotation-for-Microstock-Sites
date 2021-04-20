@@ -1,0 +1,3 @@
+from_image_IPTC:sunset;church;brno;bohunice;
+from_object_detection:building;tree;street light;tower;bird;window;house;plant;
+from_image_classification:semaphore;streetlight;street lamp;post;intersection;crossroad;crossway;crossing;carrefour;smoke screen;smokescreen;intercontinental ballistic missile;icbm;test rocket;research rocket;test instrument vehicle;ballistic missile;express;limited;screen;crt screen;high-rise;tower block;ski slope;snowdrift;roller blind;jalousie;red spruce;eastern spruce;yellow spruce;picea rubens;wapiti;elk;american elk;cervus elaphus canadensis;bison;traffic light;traffic signal;stoplight;church tower;

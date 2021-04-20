@@ -1,0 +1,2 @@
+boxes_1.jpg;duck:0.8520308
+boxes_2.jpg;goose:0.47969052

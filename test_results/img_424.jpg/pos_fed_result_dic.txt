@@ -1,0 +1,3 @@
+from_image_IPTC:soft;white;flower;rocks;high;tatras;
+from_object_detection:flower;
+from_image_classification:blue daisy;blue marguerite;felicia amelloides;corolla;painted daisy;pyrethrum;tanacetum coccineum;chrysanthemum coccineum;marguerite;marguerite daisy;paris daisy;chrysanthemum frutescens;argyranthemum frutescens;

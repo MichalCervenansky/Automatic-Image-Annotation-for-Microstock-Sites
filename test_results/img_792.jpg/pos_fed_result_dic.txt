@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:tree;plant;
+from_image_classification:negative;gray;grayness;grey;greyness;ascent;acclivity;rise;raise;climb;upgrade;brown bear;bruin;ursus arctos;mountainside;versant;descent;declivity;fall;decline;declination;declension;downslope;seashore;coast;seacoast;sea-coast;geological formation;formation;foreshore;wave;undulation;ridge;

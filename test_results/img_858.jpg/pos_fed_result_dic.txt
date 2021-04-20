@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;
+from_image_classification:glacier;snowcap;ice;water ice;mountain;mount;telpherage;telferage;alp;picture frame;elk;european elk;moose;alces alces;western white pine;silver pine;mountain pine;pinus monticola;alpine fir;subalpine fir;abies lasiocarpa;ice mass;arete;alpine glacier;alpine type of glacier;geological formation;formation;ski slope;oil paint;triptych;mountainside;versant;verdigris;etamine;etamin;negative;chasm;shower curtain;wapiti;american elk;cervus elaphus canadensis;plastic wrap;cellophane;

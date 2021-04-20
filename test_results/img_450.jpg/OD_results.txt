@@ -1,0 +1,15 @@
+boxes_1.jpg;artichoke:0.9490553
+boxes_2.jpg;flower:0.32995737
+boxes_3.jpg;artichoke:0.3277461
+boxes_4.jpg;plant:0.13955766
+boxes_5.jpg;plant:0.13412444
+boxes_6.jpg;flower:0.12491168
+boxes_7.jpg;flower:0.12216925
+boxes_8.jpg;tree:0.09667146
+boxes_9.jpg;flower:0.090326525
+boxes_10.jpg;flower:0.07188626
+boxes_11.jpg;marine invertebrates:0.06837466
+boxes_12.jpg;flower:0.064724065
+boxes_13.jpg;flower:0.0630527
+boxes_14.jpg;plant:0.057639007
+boxes_15.jpg;flower:0.05630329

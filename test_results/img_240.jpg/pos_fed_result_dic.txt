@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;turkish;coast;
+from_object_detection:marine mammal;plant;tree;
+from_image_classification:dip;plunge;common water snake;banded water snake;natrix sipedon;nerodia sipedon;ice mass;glacier;icecap;ice cap;

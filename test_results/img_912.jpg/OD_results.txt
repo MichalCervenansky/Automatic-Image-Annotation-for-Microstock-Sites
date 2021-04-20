@@ -1,0 +1,12 @@
+boxes_1.jpg;crown:0.99790883
+boxes_2.jpg;crown:0.9814352
+boxes_3.jpg;crown:0.9100379
+boxes_4.jpg;furniture:0.60638785
+boxes_5.jpg;fashion accessory:0.20546922
+boxes_6.jpg;fashion accessory:0.1208995
+boxes_7.jpg;couch:0.11723384
+boxes_8.jpg;dog bed:0.10638131
+boxes_9.jpg;fashion accessory:0.103004
+boxes_10.jpg;bed:0.09855272
+boxes_11.jpg;crown:0.08598486
+boxes_12.jpg;christmas tree:0.061362553

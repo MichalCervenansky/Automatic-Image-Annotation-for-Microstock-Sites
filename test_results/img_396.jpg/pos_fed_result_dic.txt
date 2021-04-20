@@ -1,0 +1,3 @@
+from_image_IPTC:ox;eye;daisy;meadow;flower;bug;
+from_object_detection:flower;bee;insect;
+from_image_classification:brush;fleabane;hairbrush;livingstone daisy;dorotheanthus bellidiformis;soup-strainer;toothbrush;squash bug;anasa tristis;stokes' aster;cornflower aster;stokesia laevis;seaside daisy;beach aster;erigeron glaucous;feabane mullet;pulicaria dysenterica;tussock caterpillar;showy daisy;erigeron speciosus;swan river daisy;brachycome iberidifolia;daisy fleabane;erigeron annuus;greater masterwort;astrantia major;horseweed;canadian fleabane;conyza canadensis;erigeron canadensis;blue daisy;blue marguerite;felicia amelloides;greenish blue;aqua;aquamarine;turquoise;cobalt blue;peacock blue;

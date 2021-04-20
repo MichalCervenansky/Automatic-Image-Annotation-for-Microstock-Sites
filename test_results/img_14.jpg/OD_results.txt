@@ -1,0 +1,16 @@
+boxes_1.jpg;bird:0.99065524
+boxes_2.jpg;beehive:0.54119366
+boxes_3.jpg;tree:0.39087978
+boxes_4.jpg;plant:0.21587692
+boxes_5.jpg;bird:0.1947519
+boxes_6.jpg;toy:0.17798997
+boxes_7.jpg;box:0.16959906
+boxes_8.jpg;bird:0.14043823
+boxes_9.jpg;bird:0.12096556
+boxes_10.jpg;animal:0.108941495
+boxes_11.jpg;plant:0.07868266
+boxes_12.jpg;plant:0.06784192
+boxes_13.jpg;bird:0.06234664
+boxes_14.jpg;cutting board:0.059063606
+boxes_15.jpg;plant:0.052894223
+boxes_16.jpg;animal:0.050014637

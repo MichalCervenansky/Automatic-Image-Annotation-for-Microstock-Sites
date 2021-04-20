@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;ripe;red;apple;tree;;
+from_object_detection:fruit;tree;plant;maple;grape;
+from_image_classification:common plum;prunus domestica;damson;damson plum;plum;satinleaf;satin leaf;caimitillo;chrysophyllum oliviforme;damson plum tree;prunus domestica insititia;freestone;monilia;mildew;cherry plum;myrobalan;myrobalan plum;prunus cerasifera;powdery mildew;apple rust;cedar-apple rust;gymnosporangium juniperi-virginianae;

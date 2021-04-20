@@ -1,0 +1,14 @@
+boxes_1.jpg;flower:0.9354926
+boxes_2.jpg;flower:0.9269638
+boxes_3.jpg;flower:0.8919784
+boxes_4.jpg;flower:0.69707084
+boxes_5.jpg;flower:0.66300565
+boxes_6.jpg;flower:0.57321405
+boxes_7.jpg;flower:0.22500548
+boxes_8.jpg;flower:0.20981158
+boxes_9.jpg;flower:0.15115133
+boxes_10.jpg;flower:0.14616536
+boxes_11.jpg;flower:0.1415896
+boxes_12.jpg;flower:0.11566347
+boxes_13.jpg;flower:0.09267253
+boxes_14.jpg;lavender:0.08612615

@@ -1,0 +1,3 @@
+from_image_IPTC:young;cute;brown;fluffy;happy;rabbit;garden;
+from_object_detection:rabbit;animal;dog;
+from_image_classification:rabbit;coney;cony;lapin;lagomorph;gnawing mammal;bunny;bunny rabbit;european rabbit;old world rabbit;oryctolagus cuniculus;rabbit ears;

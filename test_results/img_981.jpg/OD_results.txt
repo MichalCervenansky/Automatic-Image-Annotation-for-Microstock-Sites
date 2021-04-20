@@ -1,0 +1,2 @@
+boxes_1.jpg;swimming pool:0.9629566
+boxes_2.jpg;swimming pool:0.07765107

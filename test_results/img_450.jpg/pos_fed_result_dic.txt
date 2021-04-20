@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;purple;meadow;flower;green;grass;
+from_object_detection:artichoke;flower;plant;tree;marine invertebrates;
+from_image_classification:agave;century plant;american aloe;succulent;negative;greenishness;pinwheel;aeonium haworthii;composite;composite plant;jade vine;emerald creeper;strongylodon macrobotrys;greenish blue;aqua;aquamarine;turquoise;cobalt blue;peacock blue;artichoke;globe artichoke;sedum;woolly aphid;woolly plant louse;

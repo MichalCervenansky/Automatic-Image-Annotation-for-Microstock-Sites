@@ -1,0 +1,7 @@
+boxes_1.jpg;cat:0.9977754
+boxes_2.jpg;surfboard:0.70051444
+boxes_3.jpg;plant:0.37283996
+boxes_4.jpg;tree:0.36568904
+boxes_5.jpg;plant:0.26323232
+boxes_6.jpg;tree:0.10230639
+boxes_7.jpg;sports equipment:0.07102725

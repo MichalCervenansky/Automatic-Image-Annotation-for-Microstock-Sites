@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;rare;snowdrop;spring;bee;flying;around;
+from_object_detection:flower;plant;
+from_image_classification:wood anemone;snowdrop;anemone quinquefolia;snowdrop anemone;snowdrop windflower;anemone sylvestris;squill;scilla;mildew;powdery mildew;jonquil;negative;ameba;amoeba;snowbell;styrax obassia;grape hyacinth;sowbread;cyclamen hederifolium;cyclamen neopolitanum;jade vine;emerald creeper;strongylodon macrobotrys;silver-bell tree;silverbell tree;snowdrop tree;opossum wood;halesia carolina;halesia tetraptera;

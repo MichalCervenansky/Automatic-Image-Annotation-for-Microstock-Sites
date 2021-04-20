@@ -1,0 +1,11 @@
+boxes_1.jpg;tower:0.59035194
+boxes_2.jpg;crocodile:0.5380209
+boxes_3.jpg;boat:0.23399073
+boxes_4.jpg;skyscraper:0.15274417
+boxes_5.jpg;tower:0.14700124
+boxes_6.jpg;building:0.14146747
+boxes_7.jpg;vehicle:0.13851821
+boxes_8.jpg;tree:0.115340345
+boxes_9.jpg;tree:0.11287567
+boxes_10.jpg;tree:0.078952156
+boxes_11.jpg;tree:0.06399861

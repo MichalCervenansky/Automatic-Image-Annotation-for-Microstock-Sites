@@ -1,0 +1,3 @@
+from_image_IPTC:colorful;vintage;tile;texture;wall;
+from_object_detection:picture frame;window;flower;umbrella;human face;
+from_image_classification:tile;etamine;etamin;arabesque;octagon;fleur-de-lis;fleur-de-lys;guilloche;shield;mosaic;damask;spode;wedgwood;

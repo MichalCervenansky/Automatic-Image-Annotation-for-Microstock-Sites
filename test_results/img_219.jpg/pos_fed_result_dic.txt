@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;shot;steep;aspendos;steps;
+from_object_detection:stairs;building;
+from_image_classification:burial chamber;sepulcher;sepulchre;sepulture;backstairs;truncated pyramid;bricks and mortar;

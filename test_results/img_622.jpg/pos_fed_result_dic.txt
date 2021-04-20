@@ -1,0 +1,3 @@
+from_image_IPTC:hictoric;brewery;stara;lubovna;castle;
+from_object_detection:barrel;table;building;clothing;person;furniture;book;ceiling fan;picture frame;poster;
+from_image_classification:hot tub;septic tank;hot spring;thermal spring;cistern;cooling tower;hogshead;digester;berserker;berserk;wedgwood;night-light;snowdrift;telpherage;telferage;ski tow;ski lift;lift;drafting table;drawing table;water tank;radiologist;radiotherapist;computer user;solar dish;solar collector;solar furnace;whitewash;mason;stonemason;rotogravure;solar heater;solar array;solar battery;solar panel;barrel;cask;descent;declivity;fall;decline;declination;declension;downslope;piste;ice;water ice;kachina;igloo;iglu;

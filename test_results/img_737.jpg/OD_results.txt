@@ -1,0 +1,6 @@
+boxes_1.jpg;animal:0.79804593
+boxes_2.jpg;fish:0.30511287
+boxes_3.jpg;marine invertebrates:0.23280568
+boxes_4.jpg;invertebrate:0.1524471
+boxes_5.jpg;invertebrate:0.0643578
+boxes_6.jpg;seahorse:0.053159103

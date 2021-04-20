@@ -1,0 +1,9 @@
+boxes_1.jpg;willet,Catoptrophorus semipalmatus:0.08733006566762924;
+boxes_2.jpg;
+boxes_3.jpg;alder,alder tree:0.15987427532672882;
+boxes_4.jpg;cling film,clingfilm,Saran Wrap:0.066164530813694;cellophane:0.05243300274014473;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.07531445473432541;
+boxes_8.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.17087402939796448;angel shark,angelfish,Squatina squatina,monkfish:0.12970827519893646;
+img_989.jpg;polar glacier:0.3349159061908722;ice,water ice:0.12778311967849731;glacier:0.0951482430100441;Alpine glacier,Alpine type of glacier:0.06756671518087387;

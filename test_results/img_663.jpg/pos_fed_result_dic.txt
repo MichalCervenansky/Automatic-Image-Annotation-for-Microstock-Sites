@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;slovakia;country;side;autumn;
+from_object_detection:tree;building;
+from_image_classification:sunniness;riverbank;riverside;snowdrift;black birch;river birch;red birch;betula nigra;grey birch;gray birch;american grey birch;american gray birch;betula populifolia;littoral;litoral;littoral zone;sands;watercourse;branch water;wapiti;elk;american elk;cervus elaphus canadensis;swamp birch;water birch;mountain birch;western paper birch;western birch;betula fontinalis;

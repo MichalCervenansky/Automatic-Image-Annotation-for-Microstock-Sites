@@ -1,0 +1,9 @@
+boxes_1.jpg;flag:0.6737851
+boxes_2.jpg;snack:0.12095174
+boxes_3.jpg;flag:0.116993204
+boxes_4.jpg;maple:0.109616965
+boxes_5.jpg;fashion accessory:0.09601185
+boxes_6.jpg;clothing:0.08361138
+boxes_7.jpg;skyscraper:0.06641862
+boxes_8.jpg;christmas tree:0.06262955
+boxes_9.jpg;food:0.06166089

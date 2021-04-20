@@ -1,0 +1,3 @@
+from_image_IPTC:pizza;4;types;cheese;italy;
+from_object_detection:pizza;baked goods;dessert;fast food;
+from_image_classification:cell;eukaryote;eucaryote;encaustic;pallette;palette;marbleization;marbleisation;marbleizing;marbleising;color wash;colour wash;tray;dish;platter;paint;pigment;ellipse;oval;bath salts;loofa;loofah;luffa;loufah sponge;histiocyte;

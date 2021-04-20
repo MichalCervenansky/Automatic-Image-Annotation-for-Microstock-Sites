@@ -1,0 +1,14 @@
+boxes_1.jpg;person:0.82242733
+boxes_2.jpg;clothing:0.53874594
+boxes_3.jpg;pen:0.5385169
+boxes_4.jpg;human hand:0.1914555
+boxes_5.jpg;pen:0.19067222
+boxes_6.jpg;office supplies:0.16907685
+boxes_7.jpg;office supplies:0.1511518
+boxes_8.jpg;person:0.14535694
+boxes_9.jpg;office supplies:0.13064204
+boxes_10.jpg;human arm:0.11913375
+boxes_11.jpg;clothing:0.10378859
+boxes_12.jpg;pen:0.06286299
+boxes_13.jpg;toothbrush:0.06018849
+boxes_14.jpg;human hand:0.058111697

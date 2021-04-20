@@ -1,0 +1,3 @@
+boxes_1.jpg;ferry,ferryboat:0.8681991696357727;passenger ship:0.05288347229361534;
+boxes_2.jpg;ferry,ferryboat:0.7459402084350586;sister ship:0.1084074005484581;
+img_777.jpg;ferry,ferryboat:0.14009405672550201;sister ship:0.0858507752418518;hurricane deck,hurricane roof,promenade deck,awning deck:0.0617634579539299;ship:0.05974259972572327;liner,ocean liner:0.05398184433579445;

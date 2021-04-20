@@ -1,0 +1,3 @@
+from_image_IPTC:roasted;pork;ribs;honey;pom;fries;homemade;
+from_object_detection:food;platter;plate;tableware;carrot;boot;fast food;
+from_image_classification:ultramarine;glacier;polar glacier;bone china;dish;trepang;holothuria edulis;ice pack;ice bag;mushy peas;goosefish;angler;anglerfish;angler fish;monkfish;lotte;allmouth;lophius americanus;lodestone;loadstone;rock;stone;plate;walrus;seahorse;sea horse;indigo;jello;jell-o;

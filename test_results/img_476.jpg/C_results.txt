@@ -1,0 +1,15 @@
+boxes_1.jpg;small boat:0.2927282154560089;sailboat,sailing boat:0.1531209498643875;foresail:0.1304849088191986;shore:0.05560396984219551;boat:0.05086445063352585;
+boxes_10.jpg;small boat:0.29684096574783325;sail:0.1781863421201706;sailboat,sailing boat:0.11533153057098389;shore:0.110566645860672;
+boxes_11.jpg;
+boxes_12.jpg;headsail:0.06230207905173302;
+boxes_13.jpg;sculling:0.19363237917423248;boat racing:0.11213777959346771;motorboat,powerboat:0.07326303422451019;rowing,row:0.05701230838894844;
+boxes_14.jpg;hillside:0.05677548423409462;cliff,drop,drop-off:0.05159871652722359;
+boxes_2.jpg;small boat:0.5150617361068726;jolly boat,jolly:0.10927385836839676;shore:0.10020536929368973;seashore,coast,seacoast,sea-coast:0.07306517660617828;
+boxes_3.jpg;
+boxes_4.jpg;seashore,coast,seacoast,sea-coast:0.21601079404354095;oceanfront:0.08542865514755249;
+boxes_5.jpg;seashore,coast,seacoast,sea-coast:0.3552533984184265;littoral,litoral,littoral zone,sands:0.0987994372844696;seaside,seaboard:0.050712112337350845;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;seashore,coast,seacoast,sea-coast:0.08880013972520828;ridge:0.050029609352350235;
+boxes_9.jpg;cable car,car:0.06001031771302223;bungee,bungee cord:0.0543401762843132;
+img_476.jpg;seashore,coast,seacoast,sea-coast:0.10548601299524307;littoral,litoral,littoral zone,sands:0.08786497265100479;small boat:0.08461491763591766;shore:0.07101310044527054;bank:0.07054069638252258;waterside:0.061131227761507034;outfall:0.0573589988052845;

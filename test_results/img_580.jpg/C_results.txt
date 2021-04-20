@@ -1,0 +1,17 @@
+boxes_1.jpg;shrimp:0.24397185444831848;young fish:0.0586421824991703;negative:0.05358481407165527;
+boxes_10.jpg;shrimp:0.4086415767669678;negative:0.24400851130485535;amphipod:0.103542760014534;
+boxes_11.jpg;green lacewing,chrysopid,stink fly:0.16877339780330658;amphipod:0.1531115174293518;copepod,copepod crustacean:0.07956401258707047;
+boxes_12.jpg;
+boxes_13.jpg;green lacewing,chrysopid,stink fly:0.09417635947465897;daphnia,water flea:0.09093938022851944;amphipod:0.061490725725889206;webworm:0.05618660897016525;
+boxes_14.jpg;young fish:0.12438707798719406;angel shark,angelfish,Squatina squatina,monkfish:0.07926902920007706;characin,characin fish,characid:0.07665518671274185;fish:0.06182939559221268;
+boxes_15.jpg;green lacewing,chrysopid,stink fly:0.06787430495023727;
+boxes_16.jpg;shrimp:0.3201986253261566;mayfly,dayfly,shadfly:0.07208458334207535;
+boxes_2.jpg;shrimp:0.25679484009742737;young fish:0.10523851960897446;sleeper,sleeper goby:0.062140531837940216;
+boxes_3.jpg;shrimp:0.4481249153614044;sleeper,sleeper goby:0.08811917901039124;amphipod:0.05471821129322052;
+boxes_4.jpg;green lacewing,chrysopid,stink fly:0.2132360190153122;lacewing,lacewing fly:0.06041115149855614;webworm:0.057291239500045776;tea tortrix,tortrix,Homona coffearia:0.052208323031663895;
+boxes_5.jpg;amphipod:0.41416335105895996;shrimp:0.30674198269844055;copepod,copepod crustacean:0.11065549403429031;
+boxes_6.jpg;shrimp:0.11214185506105423;characin,characin fish,characid:0.068773053586483;
+boxes_7.jpg;shrimp:0.4405006468296051;amphipod:0.30348441004753113;
+boxes_8.jpg;shrimp:0.5468366146087646;negative:0.07146422564983368;amphipod:0.05080125108361244;
+boxes_9.jpg;shrimp:0.2893228232860565;sleeper,sleeper goby:0.14792649447917938;
+img_580.jpg;negative:0.06856141984462738;mayfly,dayfly,shadfly:0.05576537549495697;

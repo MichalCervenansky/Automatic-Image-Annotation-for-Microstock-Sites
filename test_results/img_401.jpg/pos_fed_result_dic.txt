@@ -1,0 +1,3 @@
+from_image_IPTC:hrvatian;croatian;village;dubrovnik;orange;rooftops;view;
+from_object_detection:tower;tree;house;window;building;sculpture;
+from_image_classification:telpherage;telferage;ice;water ice;ice mass;wave;stronghold;fastness;castle;monastery;fortress;fort;housetop;triangle;trigon;trilateral;pentagon;piste;snowdrift;mineral water;horse-drawn vehicle;ascent;acclivity;rise;raise;climb;upgrade;slate roof;hip tile;hipped tile;slope;incline;side;dispensary;drugstore;apothecary's shop;chemist's;chemist's shop;pharmacy;solar dish;solar collector;solar furnace;snow;snowfall;building;edifice;roof;trade magazine;glebe house;saltbox;dome;church tower;

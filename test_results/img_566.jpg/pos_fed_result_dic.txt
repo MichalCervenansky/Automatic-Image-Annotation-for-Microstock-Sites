@@ -1,0 +1,3 @@
+from_image_IPTC:lovely;shot;pillow;created;patchwork;technique;grandma;
+from_object_detection:clothing;rose;flower;jeans;
+from_image_classification:sheet;bed sheet;quilted bedspread;cocktail;blanket;cover;sheeting;

@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;water;shot;octupus;fighting;diver;croatia;
+from_object_detection:animal;fish;sculpture;marine invertebrates;squid;marine mammal;turtle;sea turtle;invertebrate;
+from_image_classification:octopus;devilfish;octopod;cephalopod;cephalopod mollusk;scuba diving;benthos;benthic division;benthonic zone;skin-diver;aquanaut;

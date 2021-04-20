@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;winter;flower;soft;sunset;light;
+from_object_detection:plant;tree;insect;bee;flower;
+from_image_classification:thistledown;blowfly;blow fly;odonate;bluebottle;calliphora vicina;mudskipper;mudspringer;sunniness;dragonfly;darning needle;devil's darning needle;sewing needle;snake feeder;snake doctor;mosquito hawk;skeeter hawk;cling film;clingfilm;saran wrap;negative;organdy;organdie;night-blooming cereus;voile;

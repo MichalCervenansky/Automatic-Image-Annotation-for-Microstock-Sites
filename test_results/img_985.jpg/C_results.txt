@@ -1,0 +1,11 @@
+boxes_1.jpg;kitten-tails:0.2726692855358124;giant hyssop:0.1378132551908493;elsholtzia:0.08676601946353912;veronica,speedwell:0.0709909051656723;horsemint,Mentha longifolia:0.05180099606513977;
+boxes_10.jpg;giant hyssop:0.25070127844810486;kitten-tails:0.1448744237422943;horsemint,Mentha longifolia:0.07488366961479187;hyssop:0.06972219794988632;elsholtzia:0.055855534970760345;anise hyssop,Agastache foeniculum:0.05280627682805061;
+boxes_2.jpg;kitten-tails:0.44204920530319214;elsholtzia:0.15059605240821838;giant hyssop:0.07318457961082458;
+boxes_3.jpg;giant hyssop:0.12052518874406815;physostegia:0.10151046514511108;scabious,scabiosa:0.0745721384882927;kitten-tails:0.06202938035130501;clary sage,Salvia clarea:0.05597949028015137;
+boxes_4.jpg;caribou,reindeer,Greenland caribou,Rangifer tarandus:0.09430503845214844;
+boxes_5.jpg;red deer,elk,American elk,wapiti,Cervus elaphus:0.08582577854394913;
+boxes_6.jpg;giant hyssop:0.2383343130350113;kitten-tails:0.1353645771741867;anise hyssop,Agastache foeniculum:0.07336121797561646;hyssop:0.06804842501878738;American germander,wood sage,Teucrium canadense:0.050478629767894745;
+boxes_7.jpg;caribou,reindeer,Greenland caribou,Rangifer tarandus:0.07509725540876389;red deer,elk,American elk,wapiti,Cervus elaphus:0.0714762732386589;
+boxes_8.jpg;anise hyssop,Agastache foeniculum:0.5426718592643738;giant hyssop:0.1331235021352768;hyssop:0.07947105914354324;
+boxes_9.jpg;giant hyssop:0.2417396903038025;hyssop:0.1868247389793396;American germander,wood sage,Teucrium canadense:0.16203220188617706;kitten-tails:0.12858951091766357;anise hyssop,Agastache foeniculum:0.0787837877869606;
+img_985.jpg;giant hyssop:0.1042996197938919;anise hyssop,Agastache foeniculum:0.07394716143608093;erect bugle,blue bugle,Ajuga genevensis:0.06814517825841904;blazing star,button snakeroot,gayfeather,gay-feather,snakeroot:0.058300964534282684;American wistaria,American wisteria,Wisteria frutescens:0.05172751098871231;kitten-tails:0.051449697464704514;

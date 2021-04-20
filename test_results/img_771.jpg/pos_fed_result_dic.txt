@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;city;pocitelj;bosna;hercegovina;
+from_object_detection:tree;house;
+from_image_classification:alder;alder tree;watercourse;riverbank;riverside;arroyo;riverbed;river bottom;porcupinefish;porcupine fish;diodon hystrix;cornetfish;windowsill;smoke screen;smokescreen;great barracuda;sphyraena barracuda;verdigris;blind;screen;oxbow;negative;housetop;freight train;rattler;windshield;windscreen;telpherage;telferage;white mountain ash;eucalyptus fraxinoides;california white oak;valley oak;valley white oak;roble;quercus lobata;skylight;fanlight;mountainside;versant;oil paint;

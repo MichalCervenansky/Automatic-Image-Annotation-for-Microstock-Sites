@@ -1,0 +1,18 @@
+boxes_1.jpg;boat:0.6907542
+boxes_2.jpg;boat:0.63735014
+boxes_3.jpg;tree:0.62832135
+boxes_4.jpg;tree:0.5689139
+boxes_5.jpg;boat:0.31957385
+boxes_6.jpg;vehicle:0.3059325
+boxes_7.jpg;street light:0.20617494
+boxes_8.jpg;tree:0.203183
+boxes_9.jpg;boat:0.16966167
+boxes_10.jpg;vehicle:0.10937804
+boxes_11.jpg;boat:0.10860498
+boxes_12.jpg;canoe:0.10038364
+boxes_13.jpg;tree:0.080862254
+boxes_14.jpg;boat:0.08049854
+boxes_15.jpg;street light:0.06390733
+boxes_16.jpg;boat:0.0625215
+boxes_17.jpg;tree:0.05621498
+boxes_18.jpg;tree:0.05482609

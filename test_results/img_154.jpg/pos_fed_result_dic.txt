@@ -1,0 +1,3 @@
+from_image_IPTC:old;city;architecture;brno;golden;hour;
+from_object_detection:window;building;house;tree;plant;
+from_image_classification:sash;window sash;window;sash window;window frame;palace;tenement;tenement house;transom;transom window;fanlight;casing;case;oeil de boeuf;lambrequin;cornice;quoin;coign;coigne;pediment;streetlight;street lamp;barrel vault;pilaster;embassy;

@@ -1,0 +1,3 @@
+from_image_IPTC:cute;young;donkey;running;trees;snowed;ground;zoo;
+from_object_detection:mule;tree;plant;animal;deer;house;goat;horse;
+from_image_classification:domestic ass;donkey;equus asinus;wild ass;jennet;jenny;jenny ass;african wild ass;window;curtain;drape;drapery;mantle;pall;blind;screen;horse;equus caballus;male horse;ridgeling;ridgling;ridgel;ridgil;jack;jackass;hinny;lambrequin;windowsill;takin;gnu goat;budorcas taxicolor;mule;ice mass;crabeater seal;crab-eating seal;glutton;gulo gulo;wolverine;harp seal;pagophilus groenlandicus;

@@ -1,0 +1,7 @@
+boxes_1.jpg;insect:0.2421504557132721;migratory locust,Locusta migratoria:0.12504145503044128;sawyer,sawyer beetle:0.0589216947555542;
+boxes_2.jpg;migratory locust,Locusta migratoria:0.6593671441078186;
+boxes_3.jpg;migratory locust,Locusta migratoria:0.8298372626304626;
+boxes_4.jpg;migratory locust,Locusta migratoria:0.2196914553642273;insect:0.18985150754451752;sawyer,sawyer beetle:0.06608930230140686;
+boxes_5.jpg;migratory locust,Locusta migratoria:0.5805647969245911;
+boxes_6.jpg;
+img_475.jpg;migratory locust,Locusta migratoria:0.701450765132904;locust:0.0570351667702198;

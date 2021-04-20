@@ -1,0 +1,14 @@
+boxes_1.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.12966208159923553;silene,campion,catchfly:0.05883190408349037;
+boxes_10.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.25728586316108704;Easter daisy,stemless daisy,Townsendia Exscapa:0.23760323226451874;blue daisy,blue marguerite,Felicia amelloides:0.1489170342683792;
+boxes_11.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.14127007126808167;composite,composite plant:0.11910910159349442;
+boxes_12.jpg;blue daisy,blue marguerite,Felicia amelloides:0.42591413855552673;jade vine,emerald creeper,Strongylodon macrobotrys:0.103844553232193;
+boxes_13.jpg;blue daisy,blue marguerite,Felicia amelloides:0.2065887749195099;Easter daisy,stemless daisy,Townsendia Exscapa:0.13593368232250214;jade vine,emerald creeper,Strongylodon macrobotrys:0.05041281506419182;
+boxes_2.jpg;blue daisy,blue marguerite,Felicia amelloides:0.8120192885398865;
+boxes_3.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.5708214044570923;blue daisy,blue marguerite,Felicia amelloides:0.31709524989128113;
+boxes_4.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.1921020746231079;
+boxes_5.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.6779623627662659;
+boxes_6.jpg;negative:0.16790524125099182;jade vine,emerald creeper,Strongylodon macrobotrys:0.06692884117364883;
+boxes_7.jpg;hysterosalpingogram:0.0653325617313385;ligament:0.06072867661714554;negative:0.05490199476480484;arthrogram:0.051628172397613525;
+boxes_8.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.17287738621234894;nipple:0.09381810575723648;mouthpiece,gumshield:0.05913703888654709;
+boxes_9.jpg;scuba diving:0.2021421492099762;skin diving,skin-dive:0.09534946829080582;
+img_197.jpg;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.09408959001302719;snow-on-the-mountain,snow-in-summer,ghost weed,Euphorbia marginata:0.0699695572257042;

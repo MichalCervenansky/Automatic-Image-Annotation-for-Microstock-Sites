@@ -1,0 +1,7 @@
+boxes_1.jpg;stag:0.4206331670284271;fallow deer,Dama dama:0.2494470775127411;buck:0.08094372600317001;caribou,reindeer,Greenland caribou,Rangifer tarandus:0.05194171890616417;
+boxes_2.jpg;negative:0.4258561432361603;caribou,reindeer,Greenland caribou,Rangifer tarandus:0.08207325637340546;blackbuck,black buck,Antilope cervicapra:0.07388287782669067;
+boxes_3.jpg;negative:0.25116321444511414;blackbuck,black buck,Antilope cervicapra:0.07718659937381744;caribou,reindeer,Greenland caribou,Rangifer tarandus:0.0623273141682148;wild ass:0.05861995741724968;buck:0.056990306824445724;
+boxes_4.jpg;stag:0.46591994166374207;negative:0.11976218223571777;buck:0.08455353230237961;fallow deer,Dama dama:0.08310112357139587;caribou,reindeer,Greenland caribou,Rangifer tarandus:0.06128319352865219;
+boxes_5.jpg;stag:0.5356842875480652;fallow deer,Dama dama:0.1554432213306427;woodland caribou,Rangifer caribou:0.09799982607364655;wapiti,elk,American elk,Cervus elaphus canadensis:0.0687737911939621;
+boxes_6.jpg;stag:0.2807241380214691;fallow deer,Dama dama:0.24214054644107819;buck:0.2168111801147461;
+img_281.jpg;stag:0.3461726903915405;buck:0.26299381256103516;fallow deer,Dama dama:0.16734303534030914;

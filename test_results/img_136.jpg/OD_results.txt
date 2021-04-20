@@ -1,0 +1,9 @@
+boxes_1.jpg;boat:0.9375639
+boxes_2.jpg;boat:0.8755311
+boxes_3.jpg;boat:0.854436
+boxes_4.jpg;boat:0.69860905
+boxes_5.jpg;boat:0.14505629
+boxes_6.jpg;boat:0.13052408
+boxes_7.jpg;vehicle:0.0976771
+boxes_8.jpg;boat:0.0800408
+boxes_9.jpg;barge:0.054012723

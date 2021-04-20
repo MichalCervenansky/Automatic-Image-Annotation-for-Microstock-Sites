@@ -1,0 +1,11 @@
+boxes_1.jpg;Easter egg:0.06863976269960403;
+boxes_10.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.21616502106189728;jordan almond:0.06522668153047562;Easter egg:0.052482347935438156;
+boxes_2.jpg;fig,common fig,common fig tree,Ficus carica:0.9699823260307312;
+boxes_3.jpg;fig,common fig,common fig tree,Ficus carica:0.9730300903320312;
+boxes_4.jpg;negative:0.6208112835884094;fig,common fig,common fig tree,Ficus carica:0.2930777370929718;
+boxes_5.jpg;fig,common fig,common fig tree,Ficus carica:0.963241457939148;
+boxes_6.jpg;negative:0.13299641013145447;
+boxes_7.jpg;ctenophore,comb jelly:0.22215372323989868;
+boxes_8.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.17814190685749054;olive:0.05138328671455383;
+boxes_9.jpg;fig,common fig,common fig tree,Ficus carica:0.9174138903617859;fig tree:0.05070162191987038;
+img_802.jpg;fig,common fig,common fig tree,Ficus carica:0.9503093957901001;

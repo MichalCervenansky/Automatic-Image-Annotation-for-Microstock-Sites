@@ -1,0 +1,12 @@
+boxes_1.jpg;flower:0.87943125
+boxes_2.jpg;orange:0.74507254
+boxes_3.jpg;grapefruit:0.5102076
+boxes_4.jpg;tree:0.3689085
+boxes_5.jpg;flower:0.24615438
+boxes_6.jpg;lemon:0.22697988
+boxes_7.jpg;plant:0.17113206
+boxes_8.jpg;plant:0.14413148
+boxes_9.jpg;flower:0.094711386
+boxes_10.jpg;tree:0.07664963
+boxes_11.jpg;flower:0.06559797
+boxes_12.jpg;flower:0.06187979

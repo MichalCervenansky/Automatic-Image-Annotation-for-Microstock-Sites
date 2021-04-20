@@ -1,0 +1,34 @@
+boxes_1.jpg;footwear:0.6901331
+boxes_2.jpg;banana:0.6619544
+boxes_3.jpg;convenience store:0.62616223
+boxes_4.jpg;person:0.5451361
+boxes_5.jpg;clothing:0.4688309
+boxes_6.jpg;man:0.43059114
+boxes_7.jpg;footwear:0.25953493
+boxes_8.jpg;vegetable:0.23241155
+boxes_9.jpg;person:0.20466936
+boxes_10.jpg;tomato:0.18261987
+boxes_11.jpg;fruit:0.1260886
+boxes_12.jpg;tomato:0.12429635
+boxes_13.jpg;tomato:0.123313256
+boxes_14.jpg;shorts:0.100677624
+boxes_15.jpg;tomato:0.10063012
+boxes_16.jpg;tomato:0.092291676
+boxes_17.jpg;clothing:0.08995635
+boxes_18.jpg;food:0.08276882
+boxes_19.jpg;man:0.080788545
+boxes_20.jpg;vegetable:0.07857754
+boxes_21.jpg;vegetable:0.07652671
+boxes_22.jpg;tomato:0.074080735
+boxes_23.jpg;tomato:0.0707583
+boxes_24.jpg;fruit:0.06771515
+boxes_25.jpg;apple:0.06397847
+boxes_26.jpg;person:0.062823616
+boxes_27.jpg;man:0.06196103
+boxes_28.jpg;tomato:0.060405068
+boxes_29.jpg;human face:0.05717115
+boxes_30.jpg;fruit:0.054897953
+boxes_31.jpg;fruit:0.05234143
+boxes_32.jpg;fruit:0.052237116
+boxes_33.jpg;vegetable:0.052169386
+boxes_34.jpg;footwear:0.050576832

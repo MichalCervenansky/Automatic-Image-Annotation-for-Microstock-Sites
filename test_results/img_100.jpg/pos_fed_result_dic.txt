@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;yellow;flower;evening;sunset;
+from_object_detection:flower;sunflower;
+from_image_classification:blue poppy;meconopsis betonicifolia;negative;mildew;blue pea;butterfly pea;clitoria turnatea;blue orchid;vanda caerulea;pansy orchid;persian iris;iris persica;iceland poppy;papaver alpinum;imperial japanese morning glory;ipomoea imperialis;jade vine;emerald creeper;strongylodon macrobotrys;

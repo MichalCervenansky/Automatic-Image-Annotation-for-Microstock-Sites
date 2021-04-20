@@ -1,0 +1,15 @@
+boxes_1.jpg;food:0.7054277
+boxes_2.jpg;food:0.6502853
+boxes_3.jpg;candy:0.40144667
+boxes_4.jpg;food:0.21377958
+boxes_5.jpg;food:0.19343847
+boxes_6.jpg;dessert:0.18780658
+boxes_7.jpg;baked goods:0.15195803
+boxes_8.jpg;snack:0.15078242
+boxes_9.jpg;cosmetics:0.14952542
+boxes_10.jpg;food:0.109398514
+boxes_11.jpg;candy:0.09251296
+boxes_12.jpg;carrot:0.07797361
+boxes_13.jpg;ball:0.07584014
+boxes_14.jpg;snack:0.0580801
+boxes_15.jpg;snack:0.05038913

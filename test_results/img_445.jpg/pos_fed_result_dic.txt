@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;purple;meadow;flower;green;grass;
+from_object_detection:flower;lavender;
+from_image_classification:henbit;lamium amplexicaule;hyssop;ground ivy;alehoof;field balm;gill-over-the-ground;runaway robin;glechoma hederaceae;nepeta hederaceae;dead nettle;hemp nettle;galeopsis tetrahit;pennyroyal;american pennyroyal;hedeoma pulegioides;negative;water hyacinth;water orchid;eichhornia crassipes;eichhornia spesiosa;california bluebell;phacelia campanularia;lemon balm;physostegia;rex begonia;king begonia;painted-leaf begonia;beefsteak geranium;begonia rex;mildew;large-flowered calamint;calamintha grandiflora;clinopodium grandiflorum;satureja grandiflora;common calamint;calamintha sylvatica;satureja calamintha officinalis;calamint;

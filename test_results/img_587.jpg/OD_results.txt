@@ -1,0 +1,5 @@
+boxes_1.jpg;laptop:0.67472976
+boxes_2.jpg;handgun:0.63291377
+boxes_3.jpg;mobile phone:0.45989993
+boxes_4.jpg;office supplies:0.05913359
+boxes_5.jpg;computer keyboard:0.057736043

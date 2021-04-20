@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;vista;house;oregon;state;
+from_object_detection:tree;plant;
+from_image_classification:shore;lakeside;lakeshore;coastland;swamp;swampland;watercourse;rush grass;rush-grass;smoke screen;smokescreen;virginia deer;white tail;whitetail;white-tailed deer;whitetail deer;odocoileus virginianus;sprinkler;oceanfront;seaside;seaboard;dust storm;duster;sandstorm;sirocco;knapweed;negative;ridge;hillside;riverbank;riverside;verdigris;mildew;jade green;jade;oxbow;meander;riparian forest;windshield;windscreen;

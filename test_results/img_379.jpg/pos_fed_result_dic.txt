@@ -1,0 +1,3 @@
+from_image_IPTC:large;cotton;field;turkey;
+from_object_detection:tree;plant;
+from_image_classification:saltbush;cotton grass;cotton rush;almond tree;cultivated land;farmland;plowland;ploughland;tilled land;tillage;tilth;torrey pine;torrey's pine;soledad pine;grey-leaf pine;sabine pine;pinus torreyana;spume;verdigris;atlantic bottlenose dolphin;tursiops truncatus;pacific bottlenose dolphin;tursiops gilli;blacktip shark;sandbar shark;carcharhinus limbatus;breaststroker;silver sage;silver sagebrush;grey sage;gray sage;seriphidium canum;artemisia cana;mountainside;versant;swimming;swim;black-tailed deer;blacktail deer;blacktail;odocoileus hemionus columbianus;water polo;floating;natation;hillside;knoll;mound;hillock;hummock;hammock;talus;scree;

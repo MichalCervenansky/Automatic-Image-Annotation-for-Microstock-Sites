@@ -1,0 +1,20 @@
+boxes_1.jpg;musical keyboard:0.83467776
+boxes_2.jpg;piano:0.7265652
+boxes_3.jpg;vehicle:0.5435245
+boxes_4.jpg;musical keyboard:0.4456997
+boxes_5.jpg;piano:0.38004526
+boxes_6.jpg;piano:0.34668076
+boxes_7.jpg;musical keyboard:0.19353232
+boxes_8.jpg;organ:0.18560949
+boxes_9.jpg;piano:0.16127376
+boxes_10.jpg;coffee cup:0.13530487
+boxes_11.jpg;tableware:0.12912278
+boxes_12.jpg;musical keyboard:0.120088734
+boxes_13.jpg;poster:0.10145906
+boxes_14.jpg;book:0.08852105
+boxes_15.jpg;organ:0.08037943
+boxes_16.jpg;land vehicle:0.0755434
+boxes_17.jpg;office supplies:0.06748325
+boxes_18.jpg;musical keyboard:0.059789427
+boxes_19.jpg;poster:0.057759088
+boxes_20.jpg;organ:0.053038847

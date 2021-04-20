@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shell;washed;beach;england;
+from_object_detection:shellfish;plant;oyster;snail;invertebrate;banana;mushroom;
+from_image_classification:bubble shell;ark shell;cockle;edible mussel;mytilus edulis;clam;littleneck;littleneck clam;ormer;sea-ear;haliotis tuberculata;seasnail;abalone;ear-shell;oyster shell;plughole;portuguese man-of-war;man-of-war;jellyfish;zooid;bay scallop;pecten irradians;skin-diver;aquanaut;swimming;swim;submersible;pulsar;soft-shell clam;steamer;steamer clam;long-neck clam;mya arenaria;oyster bed;oyster bank;oyster park;virginia oyster;harbor seal;common seal;phoca vitulina;australian sea lion;zalophus lobatus;fur seal;welder;ice water;cell;nerita;pearl oyster;pinctada margaritifera;

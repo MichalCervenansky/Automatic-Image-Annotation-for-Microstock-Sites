@@ -1,0 +1,12 @@
+boxes_1.jpg;computer mouse:0.9902789
+boxes_2.jpg;headphones:0.98642147
+boxes_3.jpg;computer mouse:0.9432923
+boxes_4.jpg;headphones:0.21866068
+boxes_5.jpg;computer mouse:0.12249431
+boxes_6.jpg;land vehicle:0.117276415
+boxes_7.jpg;car:0.11568578
+boxes_8.jpg;headphones:0.09468859
+boxes_9.jpg;auto part:0.0719191
+boxes_10.jpg;headphones:0.06634349
+boxes_11.jpg;vehicle:0.06191657
+boxes_12.jpg;table:0.060470708

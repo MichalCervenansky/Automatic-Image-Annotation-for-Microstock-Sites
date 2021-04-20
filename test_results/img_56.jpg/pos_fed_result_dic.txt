@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;porec;hrvatia;night;
+from_object_detection:tree;tower;building;house;
+from_image_classification:smoke screen;smokescreen;monitor;rink;skating rink;riverbank;riverside;seashore;coast;seacoast;sea-coast;scoreboard;stage;skating;booster;booster rocket;booster unit;takeoff booster;takeoff rocket;seaside;seaboard;low-water mark;presbytery;parsonage;vicarage;rectory;steeple;spire;littoral;litoral;littoral zone;sands;oriental cockroach;oriental roach;asiatic cockroach;blackbeetle;blatta orientalis;city;metropolis;urban center;outfall;

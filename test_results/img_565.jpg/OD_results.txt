@@ -1,0 +1,11 @@
+boxes_1.jpg;clothing:0.9321068
+boxes_2.jpg;clothing:0.43971726
+boxes_3.jpg;jeans:0.30807617
+boxes_4.jpg;clothing:0.18895513
+boxes_5.jpg;clothing:0.15964533
+boxes_6.jpg;jeans:0.14631699
+boxes_7.jpg;jeans:0.13154452
+boxes_8.jpg;clothing:0.12437818
+boxes_9.jpg;clothing:0.11173164
+boxes_10.jpg;person:0.07640179
+boxes_11.jpg;clothing:0.07639796

@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;old;book;library;buchlov;castle;the;world;firt;atlas;map;
+from_object_detection:furniture;building;book;table;shelf;bookcase;bench;footwear;sculpture;
+from_image_classification:book;library;reader;reading room;bookcase;cabinet;desk;shelf;sociolinguist;dome;observation dome;mausoleum;planetarium;newspaper;paper;memorial;monument;chancellery;indigo snake;gopher snake;drymarchon corais;electric eel;electrophorus electric;

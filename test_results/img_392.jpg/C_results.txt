@@ -1,0 +1,7 @@
+boxes_1.jpg;moth:0.44266724586486816;emperor butterfly,emperor:0.1549847275018692;butterfly:0.11113280057907104;
+boxes_2.jpg;ice mass:0.24964478611946106;lodestone,loadstone:0.217515230178833;
+boxes_3.jpg;sea fan:0.2128286510705948;benthos,benthic division,benthonic zone:0.07384542375802994;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06467918306589127;
+boxes_4.jpg;ice mass:0.1454518884420395;glacier:0.12235915660858154;outcrop,outcropping,rock outcrop:0.10145507752895355;
+boxes_5.jpg;ice mass:0.13286568224430084;benthos,benthic division,benthonic zone:0.11451850831508636;outcrop,outcropping,rock outcrop:0.11083198338747025;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10078168660402298;
+boxes_6.jpg;moth:0.28943154215812683;emperor butterfly,emperor:0.11247623711824417;moth miller,miller:0.09993152320384979;butterfly:0.06927880644798279;blue:0.06653702259063721;arctiid,arctiid moth:0.05086404085159302;
+img_392.jpg;ice mass:0.4145738482475281;glacier:0.20624475181102753;negative:0.06049052253365517;

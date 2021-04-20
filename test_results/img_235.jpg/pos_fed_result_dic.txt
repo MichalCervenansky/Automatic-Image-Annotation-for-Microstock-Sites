@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;tasty;healthy;orange;fruit;
+from_object_detection:orange;lemon;banana;grapefruit;
+from_image_classification:navel orange;lemon;grapefruit;citrus paradisi;snowdrift;arum;aroid;blue;blueness;sweet lemon;sweet lime;citrus limetta;belly;ovoid;delicious;pome;false fruit;gamboge;lemon yellow;maize;marshmallow;easter egg;nameko;viscid mushroom;pholiota nameko;felt fungus;septobasidium pseudopedicellatum;summer squash;summer squash vine;cucurbita pepo melopepo;citrus;citrus fruit;citrous fruit;paper nautilus;nautilus;argonaut;argonauta argo;equator;purplish blue;royal blue;aphelion;net melon;netted melon;nutmeg melon;cucumis melo reticulatus;

@@ -1,0 +1,3 @@
+from_image_IPTC:dramatic;sea;clouds;sunset;rain;coming;moisture;air;
+from_object_detection:
+from_image_classification:dust storm;duster;sandstorm;sirocco;

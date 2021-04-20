@@ -1,0 +1,2 @@
+boxes_1.jpg;rotor blade,rotary wing:0.26019737124443054;tail rotor,anti-torque rotor:0.23676152527332306;helicopter,chopper,whirlybird,eggbeater:0.19178429245948792;aircraft:0.05912084877490997;
+img_298.jpg;helicopter,chopper,whirlybird,eggbeater:0.812742292881012;shuttle helicopter:0.06290972977876663;

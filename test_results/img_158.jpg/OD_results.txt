@@ -1,0 +1,11 @@
+boxes_1.jpg;door:0.83451235
+boxes_2.jpg;clothing:0.74792343
+boxes_3.jpg;person:0.6454487
+boxes_4.jpg;helmet:0.39715317
+boxes_5.jpg;human face:0.3562604
+boxes_6.jpg;sculpture:0.18707328
+boxes_7.jpg;man:0.15103544
+boxes_8.jpg;toy:0.1224319
+boxes_9.jpg;bronze sculpture:0.11292386
+boxes_10.jpg;human arm:0.058080163
+boxes_11.jpg;human head:0.057468466

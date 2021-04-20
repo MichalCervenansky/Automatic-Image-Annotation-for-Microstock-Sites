@@ -1,0 +1,20 @@
+boxes_1.jpg;tree:0.7554031
+boxes_2.jpg;building:0.6438144
+boxes_3.jpg;palm tree:0.596991
+boxes_4.jpg;tree:0.5960533
+boxes_5.jpg;palm tree:0.46982452
+boxes_6.jpg;building:0.3903733
+boxes_7.jpg;tree:0.38615543
+boxes_8.jpg;castle:0.38213766
+boxes_9.jpg;tree:0.2936046
+boxes_10.jpg;tree:0.2605528
+boxes_11.jpg;house:0.19414353
+boxes_12.jpg;tree:0.16963115
+boxes_13.jpg;tree:0.14745344
+boxes_14.jpg;house:0.1349507
+boxes_15.jpg;tree:0.12107379
+boxes_16.jpg;tree:0.10847234
+boxes_17.jpg;tree:0.10837087
+boxes_18.jpg;tree:0.09799716
+boxes_19.jpg;tree:0.071678564
+boxes_20.jpg;tree:0.050827455

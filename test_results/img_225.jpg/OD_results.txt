@@ -1,0 +1,3 @@
+boxes_1.jpg;lizard:0.97562647
+boxes_2.jpg;tree:0.4239784
+boxes_3.jpg;reptile:0.1342748

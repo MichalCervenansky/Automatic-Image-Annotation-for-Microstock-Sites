@@ -1,0 +1,3 @@
+from_image_IPTC:fresh;fish;bucket;prepared;cook;
+from_object_detection:fish;food;seafood;dairy;
+from_image_classification:whiting;king whiting;menticirrhus americanus;corbina;menticirrhus undulatus;northern whiting;menticirrhus saxatilis;mulloway;jewfish;sciaena antarctica;food fish;silver perch;mademoiselle;bairdiella chrysoura;robalo;steering system;steering mechanism;croaker;whitefish;lake whitefish;coregonus clupeaformis;white croaker;chenfish;kingfish;genyonemus lineatus;smelt;

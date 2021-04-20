@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;sea;anemone;
+from_object_detection:marine invertebrates;plant;animal;fruit;
+from_image_classification:sea anemone;anemone;jawfish;inlay;stony coral;madrepore;madriporian coral;staghorn coral;stag's-horn coral;polyp;sea fan;gorgonian;gorgonian coral;anthozoan;actinozoan;sea snake;boxfish;trunkfish;filefish;lizardfish;snakefish;snake-fish;mealybug;mealy bug;sea slug;nudibranch;

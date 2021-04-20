@@ -1,0 +1,5 @@
+boxes_1.jpg;volva:0.4994564652442932;mushroom:0.07017575204372406;meadow mushroom,field mushroom,Agaricus campestris:0.05363316461443901;
+boxes_2.jpg;
+boxes_3.jpg;
+boxes_4.jpg;volva:0.3020928204059601;mushroom:0.23045343160629272;meadow mushroom,field mushroom,Agaricus campestris:0.06337584555149078;mescal button,sacred mushroom,magic mushroom:0.050081849098205566;
+img_194.jpg;volva:0.1985965520143509;mushroom:0.16566410660743713;mescal button,sacred mushroom,magic mushroom:0.12887665629386902;meadow mushroom,field mushroom,Agaricus campestris:0.10240691900253296;

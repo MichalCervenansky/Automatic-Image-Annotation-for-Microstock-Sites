@@ -1,0 +1,12 @@
+boxes_1.jpg;wreck:0.43688514828681946;shipwreck:0.2818022072315216;
+boxes_10.jpg;harp seal,Pagophilus groenlandicus:0.08580528199672699;crabeater seal,crab-eating seal:0.05783054605126381;
+boxes_11.jpg;shipwreck:0.4579120874404907;wreck:0.2774123549461365;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.05775488168001175;
+boxes_2.jpg;
+boxes_3.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1491868793964386;gudgeon,Gobio gobio:0.07833585143089294;
+boxes_4.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.09896436333656311;sunfish,centrarchid:0.09013775736093521;
+boxes_5.jpg;anchor,ground tackle:0.24512772262096405;beam:0.09932991862297058;wreck:0.08987440913915634;post:0.08514473587274551;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06525842845439911;shipwreck:0.06131525710225105;triangle,trigon,trilateral:0.052094411104917526;
+boxes_6.jpg;wreck:0.5187930464744568;shipwreck:0.33029258251190186;
+boxes_7.jpg;wreck:0.19329184293746948;shipwreck:0.1820283830165863;triangle,trigon,trilateral:0.10779863595962524;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.09956122934818268;anchor,ground tackle:0.05193411931395531;
+boxes_8.jpg;gudgeon,Gobio gobio:0.10896210372447968;sunfish,centrarchid:0.057895392179489136;mosquitofish,Gambusia affinis:0.05288941413164139;
+boxes_9.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.17672696709632874;hind:0.07730916887521744;
+img_676.jpg;wreck:0.5745308995246887;shipwreck:0.2367226481437683;

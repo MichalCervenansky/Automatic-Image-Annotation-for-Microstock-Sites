@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;italian;alp;mountains;covered;snow;blue;sky;
+from_object_detection:
+from_image_classification:massif;glacier;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;alp;icecap;ice cap;

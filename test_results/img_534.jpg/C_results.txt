@@ -1,0 +1,7 @@
+boxes_1.jpg;blue orchid,Vanda caerulea:0.12819091975688934;blue poppy,Meconopsis betonicifolia:0.0905250683426857;pansy orchid:0.07471899688243866;horned violet,tufted pansy,Viola cornuta:0.061979990452528;Japanese iris,Iris kaempferi:0.05683751031756401;imperial Japanese morning glory,Ipomoea imperialis:0.05009092763066292;
+boxes_2.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.19178548455238342;corydalis:0.13448213040828705;scilla,squill:0.0688973143696785;
+boxes_3.jpg;blue poppy,Meconopsis betonicifolia:0.35269179940223694;
+boxes_4.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.11463713645935059;
+boxes_5.jpg;blue poppy,Meconopsis betonicifolia:0.9183135628700256;
+boxes_6.jpg;blue poppy,Meconopsis betonicifolia:0.8034378886222839;
+img_534.jpg;blue poppy,Meconopsis betonicifolia:0.8910232782363892;

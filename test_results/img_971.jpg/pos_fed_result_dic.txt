@@ -1,0 +1,3 @@
+from_image_IPTC:slovak;rural;landscape;cows;meadows;
+from_object_detection:tree;plant;mammal;cattle;building;person;
+from_image_classification:riverbank;riverside;aberdeen angus;angus;black angus;eatage;forage;pasture;pasturage;grass;artemisia;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;sea wormwood;seriphidium maritimum;artemisia maritima;woodland caribou;rangifer caribou;knoll;mound;hillock;hummock;hammock;durham;shorthorn;ranch;spread;cattle ranch;cattle farm;yard;lakeside;lakeshore;oxbow;windbreak;shelterbelt;windshield;windscreen;riparian forest;black-tailed deer;blacktail deer;blacktail;odocoileus hemionus columbianus;hillside;waterside;agriculturist;agriculturalist;cultivator;grower;raiser;sprinkler system;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;vista;house;oregon;state;
+from_object_detection:tree;vehicle;window;
+from_image_classification:ski slope;smoke screen;smokescreen;dune;sand dune;seashore;coast;seacoast;sea-coast;parhelion;mock sun;sundog;sunniness;aberdeen angus;angus;black angus;beach;shore;flat panel display;fpd;streetlight;street lamp;coastland;bank;display;video display;liquid crystal display;lcd;television;telecasting;tv;video;monitor;saltbush;lamp;littoral;litoral;littoral zone;sands;sandbar;sand bar;oceanfront;

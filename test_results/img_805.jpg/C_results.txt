@@ -1,0 +1,10 @@
+boxes_1.jpg;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.05269746854901314;
+boxes_2.jpg;pot,flowerpot:0.08660099655389786;seashore,coast,seacoast,sea-coast:0.0720476508140564;
+boxes_3.jpg;wild China tree,Sapindus drumondii,Sapindus marginatus:0.2147454172372818;star apple,caimito,Chrysophyllum cainito:0.13428319990634918;Chinese parasol tree,Chinese parasol,Japanese varnish tree,phoenix tree,Firmiana simplex:0.10165397822856903;
+boxes_4.jpg;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.0613495297729969;
+boxes_5.jpg;pot,flowerpot:0.5593239068984985;
+boxes_6.jpg;pot,flowerpot:0.31715038418769836;common mugwort,Artemisia vulgaris:0.0837567076086998;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.05053840950131416;
+boxes_7.jpg;pot,flowerpot:0.16190247237682343;dusty miller,silver-lace,silver lace,Tanacetum ptarmiciflorum,Chrysanthemum ptarmiciflorum:0.09038015455007553;
+boxes_8.jpg;wild China tree,Sapindus drumondii,Sapindus marginatus:0.22976258397102356;Chinese parasol tree,Chinese parasol,Japanese varnish tree,phoenix tree,Firmiana simplex:0.06741247326135635;
+boxes_9.jpg;pot,flowerpot:0.1876303106546402;
+img_805.jpg;

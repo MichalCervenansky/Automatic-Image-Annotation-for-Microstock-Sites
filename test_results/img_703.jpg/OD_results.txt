@@ -1,0 +1,15 @@
+boxes_1.jpg;marine invertebrates:0.62164956
+boxes_2.jpg;plant:0.58053434
+boxes_3.jpg;fish:0.55994785
+boxes_4.jpg;invertebrate:0.40679896
+boxes_5.jpg;squid:0.35008276
+boxes_6.jpg;animal:0.34818822
+boxes_7.jpg;marine invertebrates:0.256988
+boxes_8.jpg;fish:0.21337052
+boxes_9.jpg;marine invertebrates:0.13880196
+boxes_10.jpg;marine invertebrates:0.1358351
+boxes_11.jpg;plant:0.11899995
+boxes_12.jpg;crab:0.10112644
+boxes_13.jpg;fish:0.08043488
+boxes_14.jpg;plant:0.07471291
+boxes_15.jpg;marine invertebrates:0.050255638

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;yellow;meadow;flowers;
+from_object_detection:flower;fruit;duck;sunflower;bird;goose;
+from_image_classification:chicory;chicory root;succory;chicory plant;cichorium intybus;stokes' aster;cornflower aster;stokesia laevis;composite;composite plant;jade vine;emerald creeper;strongylodon macrobotrys;negative;oxygen mask;swimming;swim;blue daisy;blue marguerite;felicia amelloides;plastic bag;blue;blueness;spotlight;spot;covered smut;head smut;sphacelotheca reiliana;pythium;

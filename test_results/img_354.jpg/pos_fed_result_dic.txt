@@ -1,0 +1,3 @@
+from_image_IPTC:rough;croatian;coastline;nerezine;panorama;
+from_object_detection:plant;vehicle;tree;
+from_image_classification:dugong;dugong dugon;seagrass;irrigation ditch;sunroof;sunshine-roof;nonsmoker;nonsmoking car;bed;car;auto;automobile;machine;motorcar;artemisia;sea wormwood;seriphidium maritimum;artemisia maritima;used-car;secondhand car;elevator car;sport utility;sport utility vehicle;s.u.v.;suv;white mangrove;laguncularia racemosa;staghorn coral;stag's-horn coral;saltwort;batis maritima;coral reef;swell;seashore;coast;seacoast;sea-coast;atoll;wave;undulation;coastland;shore;spume;

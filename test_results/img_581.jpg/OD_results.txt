@@ -1,0 +1,12 @@
+boxes_1.jpg;fish:0.96448505
+boxes_2.jpg;plant:0.28245577
+boxes_3.jpg;plant:0.24879108
+boxes_4.jpg;plant:0.2119189
+boxes_5.jpg;plant:0.18230474
+boxes_6.jpg;plant:0.16190922
+boxes_7.jpg;plant:0.115375444
+boxes_8.jpg;plant:0.09754488
+boxes_9.jpg;plant:0.07399298
+boxes_10.jpg;plant:0.067651466
+boxes_11.jpg;plant:0.060678694
+boxes_12.jpg;plant:0.051414765

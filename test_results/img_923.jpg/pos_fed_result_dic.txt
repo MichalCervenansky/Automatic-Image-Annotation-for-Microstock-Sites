@@ -1,0 +1,3 @@
+from_image_IPTC:wave;crushing;rock;mole;croatia;mediterrean;sea;
+from_object_detection:
+from_image_classification:spume;wave;undulation;ocean;seashore;coast;seacoast;sea-coast;

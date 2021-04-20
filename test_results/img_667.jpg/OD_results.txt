@@ -1,0 +1,18 @@
+boxes_1.jpg;picture frame:0.63314724
+boxes_2.jpg;vehicle:0.55862737
+boxes_3.jpg;land vehicle:0.5024043
+boxes_4.jpg;window:0.46246478
+boxes_5.jpg;poster:0.34830675
+boxes_6.jpg;window:0.2529035
+boxes_7.jpg;musical instrument:0.2395052
+boxes_8.jpg;picture frame:0.2093727
+boxes_9.jpg;vehicle:0.12938236
+boxes_10.jpg;poster:0.12131493
+boxes_11.jpg;poster:0.11227419
+boxes_12.jpg;picture frame:0.11222924
+boxes_13.jpg;human head:0.08785697
+boxes_14.jpg;scoreboard:0.07797732
+boxes_15.jpg;billboard:0.06703295
+boxes_16.jpg;building:0.055933885
+boxes_17.jpg;land vehicle:0.05558993
+boxes_18.jpg;door handle:0.050874326

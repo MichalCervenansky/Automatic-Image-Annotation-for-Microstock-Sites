@@ -1,0 +1,13 @@
+boxes_1.jpg;geological formation,formation:0.2047039419412613;descent,declivity,fall,decline,declination,declension,downslope:0.12884262204170227;snag:0.07203380018472672;arete:0.0657467320561409;
+boxes_10.jpg;snag:0.37612536549568176;grey birch,gray birch,American grey birch,American gray birch,Betula populifolia:0.0618135929107666;
+boxes_11.jpg;snag:0.1989147812128067;
+boxes_12.jpg;geological formation,formation:0.11159338802099228;Dutch elm fungus,Ceratostomella ulmi:0.10897756367921829;precipice:0.05633368343114853;
+boxes_2.jpg;snag:0.28818652033805847;
+boxes_3.jpg;geological formation,formation:0.17075085639953613;snag:0.11510167270898819;Dutch elm fungus,Ceratostomella ulmi:0.10364492237567902;arete:0.06475993245840073;
+boxes_4.jpg;snag:0.10842692852020264;geological formation,formation:0.08217575401067734;
+boxes_5.jpg;geological formation,formation:0.1312294602394104;Dutch elm fungus,Ceratostomella ulmi:0.10183767974376678;arete:0.08848534524440765;ascent,acclivity,rise,raise,climb,upgrade:0.08286477625370026;rock,stone:0.05288085713982582;
+boxes_6.jpg;geological formation,formation:0.2637505829334259;snag:0.22285038232803345;Dutch elm fungus,Ceratostomella ulmi:0.09970241039991379;
+boxes_7.jpg;geological formation,formation:0.3044199049472809;precipice:0.0781279057264328;ridge:0.0516011044383049;
+boxes_8.jpg;snag:0.48914244771003723;western red cedar,red cedar,canoe cedar,Thuja plicata:0.12357418239116669;incense cedar,red cedar,Calocedrus decurrens,Libocedrus decurrens:0.09448569267988205;
+boxes_9.jpg;snag:0.37277793884277344;grey birch,gray birch,American grey birch,American gray birch,Betula populifolia:0.06926047801971436;
+img_72.jpg;snag:0.2996765077114105;geological formation,formation:0.14420866966247559;arete:0.06808686256408691;Dutch elm fungus,Ceratostomella ulmi:0.06491965055465698;descent,declivity,fall,decline,declination,declension,downslope:0.05379156395792961;

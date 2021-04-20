@@ -1,0 +1,5 @@
+boxes_1.jpg;mildew:0.11760818213224411;Japanese oak,Quercus mongolica,Quercus grosseserrata:0.09338224679231644;
+boxes_2.jpg;fig,common fig,common fig tree,Ficus carica:0.26638081669807434;mildew:0.08537612110376358;
+boxes_3.jpg;Japanese oak,Quercus mongolica,Quercus grosseserrata:0.09045711159706116;mildew:0.07058529555797577;
+boxes_4.jpg;star apple,caimito,Chrysophyllum cainito:0.06312454491853714;China tree,false dogwood,jaboncillo,chinaberry,Sapindus saponaria:0.058491215109825134;
+img_804.jpg;Japanese oak,Quercus mongolica,Quercus grosseserrata:0.12456541508436203;fig,common fig,common fig tree,Ficus carica:0.09273713082075119;mildew:0.0870000496506691;fig tree:0.056318335235118866;

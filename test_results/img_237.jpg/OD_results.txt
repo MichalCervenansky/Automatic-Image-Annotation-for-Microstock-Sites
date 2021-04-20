@@ -1,0 +1,13 @@
+boxes_1.jpg;table:0.3316316
+boxes_2.jpg;furniture:0.2712897
+boxes_3.jpg;chair:0.22174963
+boxes_4.jpg;furniture:0.20933262
+boxes_5.jpg;food:0.16609494
+boxes_6.jpg;fish:0.15113777
+boxes_7.jpg;flower:0.13395466
+boxes_8.jpg;fruit:0.08993316
+boxes_9.jpg;poster:0.08541085
+boxes_10.jpg;fruit:0.06618772
+boxes_11.jpg;vegetable:0.059101854
+boxes_12.jpg;fish:0.057987582
+boxes_13.jpg;tableware:0.052135535

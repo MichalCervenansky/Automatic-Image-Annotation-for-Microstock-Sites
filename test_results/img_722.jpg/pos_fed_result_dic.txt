@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;funny;dancing;crab;deep;croatia;
+from_object_detection:crab;fish;invertebrate;lobster;marine invertebrates;
+from_image_classification:european spider crab;king crab;maja squinado;american lady crab;lady crab;calico crab;ovalipes ocellatus;fiddler crab;blowtorch;torch;blowlamp;false scorpion;pseudoscorpion;scorpion;blue crab;callinectes sapidus;common louse;pediculus humanus;head louse;pediculus capitis;brine shrimp;artemia salina;african clawed frog;xenopus laevis;loach;topminnow;poeciliid fish;poeciliid;live-bearer;amphipod;rock crab;cancer irroratus;decapod crustacean;decapod;

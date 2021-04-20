@@ -1,0 +1,3 @@
+from_image_IPTC:stylish;black;keyboard;desk;
+from_object_detection:computer keyboard;desk;office supplies;table;auto part;
+from_image_classification:keyboard;computer keyboard;keypad;keyboard buffer;space bar;

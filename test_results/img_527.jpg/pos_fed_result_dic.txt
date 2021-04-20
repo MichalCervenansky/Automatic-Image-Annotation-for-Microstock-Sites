@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;plant;tree;tire;
+from_image_classification:bumper;deadhead;sedan;saloon;conveyance;transport;safety rail;guardrail;pole;tailpipe;fifth wheel;spare;foglamp;windshield;windscreen;shot glass;jigger;pony;coupe;beach wagon;station wagon;wagon;estate car;beach waggon;station waggon;waggon;motor vehicle;automotive vehicle;used-car;secondhand car;dickey;dickie;dicky;dickey-seat;dickie-seat;dicky-seat;bodywork;post;body;muntjac;barking deer;vehicle-borne transmission;bumper guard;autobahn;

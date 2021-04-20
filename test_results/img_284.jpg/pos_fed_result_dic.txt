@@ -1,0 +1,3 @@
+from_image_IPTC:big;brown;lazy;grizzly;bear;sitting;icy;ground;zoo;
+from_object_detection:brown bear;sculpture;carnivore;polar bear;bear;
+from_image_classification:brown bear;bruin;ursus arctos;sloth bear;melursus ursinus;ursus ursinus;american black bear;black bear;ursus americanus;euarctos americanus;bear;asiatic black bear;ursus thibetanus;selenarctos thibetanus;

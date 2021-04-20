@@ -1,0 +1,3 @@
+from_image_IPTC:two;big;snails;branch;spring;
+from_object_detection:snail;
+from_image_classification:edible snail;helix pomatia;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;dandelion;turkish;beach;
+from_object_detection:flower;plant;
+from_image_classification:common dandelion;taraxacum ruderalia;taraxacum officinale;dandelion green;thistledown;fritillary;checkered lily;common grape hyacinth;muscari neglectum;tassel hyacinth;muscari comosum;spanish iris;xiphium iris;iris xiphium;

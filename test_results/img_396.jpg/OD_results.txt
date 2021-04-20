@@ -1,0 +1,14 @@
+boxes_1.jpg;flower:0.9217025
+boxes_2.jpg;flower:0.8889587
+boxes_3.jpg;bee:0.8757596
+boxes_4.jpg;flower:0.8082167
+boxes_5.jpg;flower:0.6739651
+boxes_6.jpg;flower:0.5750421
+boxes_7.jpg;flower:0.4891411
+boxes_8.jpg;flower:0.46046087
+boxes_9.jpg;flower:0.2359427
+boxes_10.jpg;insect:0.1323601
+boxes_11.jpg;flower:0.118825905
+boxes_12.jpg;bee:0.08992668
+boxes_13.jpg;flower:0.07308958
+boxes_14.jpg;flower:0.056843653

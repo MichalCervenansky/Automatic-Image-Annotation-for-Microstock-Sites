@@ -1,0 +1,3 @@
+from_image_IPTC:modern;abstract;rooftop;ceiling;rods;
+from_object_detection:building;window;tree;
+from_image_classification:atrium;truss;supporting structure;framework;structural member;roller blind;storm door;

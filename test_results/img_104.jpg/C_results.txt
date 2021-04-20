@@ -1,0 +1,6 @@
+boxes_1.jpg;dabbling duck,dabbler:0.4789946377277374;shoveler,shoveller,broadbill,Anas clypeata:0.17720000445842743;black duck,Anas rubripes:0.061501868069171906;anseriform bird:0.051929816603660583;
+boxes_2.jpg;goldeneye,whistler,Bucephela clangula:0.4424055516719818;smew,Mergus albellus:0.15781870484352112;anseriform bird:0.08592182397842407;Barrow's goldeneye,Bucephala islandica:0.05660422518849373;
+boxes_3.jpg;dabbling duck,dabbler:0.3841034173965454;shoveler,shoveller,broadbill,Anas clypeata:0.187693789601326;black duck,Anas rubripes:0.1496381163597107;
+boxes_4.jpg;smew,Mergus albellus:0.3782840669155121;goldeneye,whistler,Bucephela clangula:0.21856127679347992;anseriform bird:0.06648316979408264;American merganser,Mergus merganser americanus:0.06636465340852737;
+boxes_5.jpg;sea lion:0.1100931316614151;sea otter,Enhydra lutris:0.06178151071071625;
+img_104.jpg;sea lion:0.08584766834974289;low-water mark:0.05854916572570801;sea otter,Enhydra lutris:0.05746455863118172;

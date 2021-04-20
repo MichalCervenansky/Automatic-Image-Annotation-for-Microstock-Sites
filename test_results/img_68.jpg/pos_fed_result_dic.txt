@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;vista;house;oregon;state;
+from_object_detection:tree;vehicle;boat;plant;
+from_image_classification:shore;littoral;litoral;littoral zone;sands;beach;seashore;coast;seacoast;sea-coast;oxbow;meander;loofa;loofah;luffa;loufah sponge;silver tree;tarrietia argyrodendron;artemisia;sand sage;silvery wormwood;artemisia filifolia;saltbush;valley;vale;dust storm;duster;sandstorm;sirocco;seven wonders of the ancient world;seven wonders of the world;strand;riparian forest;esker;delta;gorge;hang glider;powdery mildew;promontory;headland;head;foreland;outfall;

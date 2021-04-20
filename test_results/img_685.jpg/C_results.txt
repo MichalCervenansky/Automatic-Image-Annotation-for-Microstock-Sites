@@ -1,0 +1,16 @@
+boxes_1.jpg;brittle star,brittle-star,serpent star:0.7158016562461853;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.21985012292861938;
+boxes_10.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.5428270101547241;brittle star,brittle-star,serpent star:0.28431686758995056;octopus,devilfish:0.05753977969288826;
+boxes_11.jpg;brittle star,brittle-star,serpent star:0.5183405876159668;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.33029705286026;
+boxes_12.jpg;brittle star,brittle-star,serpent star:0.6604100465774536;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.19302670657634735;
+boxes_13.jpg;dugong,Dugong dugon:0.06777918338775635;
+boxes_14.jpg;neutrophil,neutrophile:0.1701745092868805;club fungus:0.11632312834262848;mucor:0.1112089455127716;cell:0.06620340794324875;cytomegalovirus,CMV:0.060575567185878754;
+boxes_15.jpg;brittle star,brittle-star,serpent star:0.8482053279876709;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.10598386079072952;
+boxes_2.jpg;brittle star,brittle-star,serpent star:0.8979252576828003;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.056262604892253876;
+boxes_3.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.4277336001396179;brittle star,brittle-star,serpent star:0.33341458439826965;octopus,devilfish:0.1485414355993271;
+boxes_4.jpg;brittle star,brittle-star,serpent star:0.7725014090538025;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.13613563776016235;
+boxes_5.jpg;brine shrimp,Artemia salina:0.09640784561634064;topminnow,poeciliid fish,poeciliid,live-bearer:0.08138184994459152;
+boxes_6.jpg;ice mass:0.16091080009937286;ice,water ice:0.050765011459589005;
+boxes_7.jpg;
+boxes_8.jpg;brine shrimp,Artemia salina:0.09249144792556763;topminnow,poeciliid fish,poeciliid,live-bearer:0.06977654993534088;zooplankton:0.05326293408870697;
+boxes_9.jpg;dugong,Dugong dugon:0.06777918338775635;
+img_685.jpg;brittle star,brittle-star,serpent star:0.3416617810726166;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.08881381154060364;

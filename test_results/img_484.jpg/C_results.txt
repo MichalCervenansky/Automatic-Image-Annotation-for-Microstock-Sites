@@ -1,0 +1,11 @@
+boxes_1.jpg;petal,flower petal:0.25584670901298523;star:0.05155070126056671;
+boxes_10.jpg;negative:0.17235273122787476;Chinese forget-me-not,Cynoglossum amabile:0.07371041178703308;hound's-tongue,Cynoglossum officinale:0.06657435745000839;squill:0.0569290928542614;dusty miller,Senecio cineraria,Cineraria maritima:0.05474281311035156;
+boxes_2.jpg;negative:0.5986903309822083;hortensia,Hydrangea macrophylla hortensis:0.068629689514637;squill:0.053700096905231476;
+boxes_3.jpg;negative:0.5354128479957581;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;negative:0.9432337880134583;
+boxes_7.jpg;negative:0.5145132541656494;dusty miller,Senecio cineraria,Cineraria maritima:0.12137752026319504;squill:0.08075755834579468;
+boxes_8.jpg;negative:0.6878135800361633;squill:0.05754653736948967;snowdrift:0.052244316786527634;
+boxes_9.jpg;negative:0.968111515045166;
+img_484.jpg;negative:0.9740779995918274;

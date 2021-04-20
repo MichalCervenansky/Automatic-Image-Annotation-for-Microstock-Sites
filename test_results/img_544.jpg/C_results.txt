@@ -1,0 +1,4 @@
+boxes_1.jpg;sconce:0.11496000736951828;hearing aid,deaf-aid:0.06207121163606644;
+boxes_2.jpg;sconce:0.16327928006649017;hearing aid,deaf-aid:0.0743391364812851;hearing aid,ear trumpet:0.06525207310914993;
+boxes_3.jpg;sconce:0.16871050000190735;fan blade:0.158430814743042;hearing aid,deaf-aid:0.06743127107620239;
+img_544.jpg;

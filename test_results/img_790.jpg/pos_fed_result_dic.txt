@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;levander;plant;rough;rocks;
+from_object_detection:tree;flower;plant;lavender;
+from_image_classification:snag;streambed;creek bed;dendrite;negative;epergne;cellophane;glint;box;cigarette case;camouflage;camo;print;wedgwood;plastic bag;jordan almond;

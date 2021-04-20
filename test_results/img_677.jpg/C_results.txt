@@ -1,0 +1,4 @@
+boxes_1.jpg;sea anemone,anemone:0.5864761471748352;benthos:0.0678504928946495;
+boxes_2.jpg;sea anemone,anemone:0.5247955322265625;benthos,benthic division,benthonic zone:0.07066658139228821;
+boxes_3.jpg;sea anemone,anemone:0.40960076451301575;myxobacteria,myxobacterium,myxobacter,gliding bacteria,slime bacteria:0.056629739701747894;benthos:0.05294019728899002;
+img_677.jpg;sea anemone,anemone:0.29997265338897705;ciliate,ciliated protozoan,ciliophoran:0.07715323567390442;sea urchin:0.071901835501194;microorganism,micro-organism:0.06228085607290268;

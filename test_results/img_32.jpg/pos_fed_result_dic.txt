@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;rural;cat;garden;
+from_object_detection:cat;plant;
+from_image_classification:feline;felid;quadruped;sea green;ovoid;coati;coati-mondi;coati-mundi;coon cat;nasua narica;tom;tomcat;

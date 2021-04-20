@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;vysoke;tatry;autumn;
+from_object_detection:tree;
+from_image_classification:mountain;mount;oil paint;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;ridge;negative;westland pine;silver pine;lagarostrobus colensoi;spruce;fir;fir tree;true fir;swamp birch;water birch;mountain birch;western paper birch;western birch;betula fontinalis;grey birch;gray birch;american grey birch;american gray birch;betula populifolia;sweet birch;cherry birch;black birch;betula lenta;ski slope;western white pine;mountain pine;pinus monticola;american quaking aspen;american aspen;populus tremuloides;snowmobile;downy birch;white birch;betula pubescens;ski tow;ski lift;lift;mountainside;versant;slope;incline;side;birch;birch tree;sunniness;

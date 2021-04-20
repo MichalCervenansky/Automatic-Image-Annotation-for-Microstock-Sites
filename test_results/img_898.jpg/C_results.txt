@@ -1,0 +1,13 @@
+boxes_1.jpg;rummer:0.2343856692314148;
+boxes_10.jpg;oyster shell:0.49891114234924316;pearl oyster,Pinctada margaritifera:0.054496511816978455;ice,water ice:0.05106433480978012;
+boxes_11.jpg;oyster shell:0.17169438302516937;ice,water ice:0.10160191357135773;pearl oyster,Pinctada margaritifera:0.0775410532951355;blue,blueness:0.056847553700208664;soapsuds,suds,lather:0.05536680668592453;
+boxes_12.jpg;oyster shell:0.6347927451133728;pearl oyster,Pinctada margaritifera:0.05749206617474556;
+boxes_2.jpg;oyster shell:0.10586453974246979;ice,water ice:0.10238607972860336;
+boxes_3.jpg;pearl oyster,Pinctada margaritifera:0.23116961121559143;oyster shell:0.22497045993804932;ice,water ice:0.07730706036090851;
+boxes_4.jpg;ice,water ice:0.36394259333610535;soapsuds,suds,lather:0.31618732213974;
+boxes_5.jpg;water faucet,water tap,tap,hydrant:0.14074233174324036;plughole:0.10163521021604538;cesspool,cesspit,sink,sump:0.07140554487705231;faucet,spigot:0.06949282437562943;
+boxes_6.jpg;pearl oyster,Pinctada margaritifera:0.25497838854789734;oyster shell:0.14144818484783173;ice,water ice:0.0958847925066948;soapsuds,suds,lather:0.08584023267030716;soap dish:0.05464748665690422;
+boxes_7.jpg;voile:0.1830044537782669;sheet,bed sheet:0.05405189469456673;
+boxes_8.jpg;oyster shell:0.10121730715036392;
+boxes_9.jpg;water faucet,water tap,tap,hydrant:0.0985419824719429;plughole:0.07568588852882385;basin:0.06479918211698532;tub,vat:0.05053256079554558;
+img_898.jpg;negative:0.1567862629890442;ultramarine:0.08319775760173798;ice,water ice:0.052513912320137024;

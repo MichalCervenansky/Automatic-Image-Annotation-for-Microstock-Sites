@@ -1,0 +1,10 @@
+boxes_1.jpg;flower:0.9091713
+boxes_2.jpg;artichoke:0.83578086
+boxes_3.jpg;flower:0.4964001
+boxes_4.jpg;flower:0.32979316
+boxes_5.jpg;flower:0.29068387
+boxes_6.jpg;artichoke:0.16169854
+boxes_7.jpg;flower:0.07166941
+boxes_8.jpg;flower:0.059434418
+boxes_9.jpg;flower:0.055847127
+boxes_10.jpg;plant:0.055199753

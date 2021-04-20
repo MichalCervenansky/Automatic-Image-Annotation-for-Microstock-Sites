@@ -1,0 +1,12 @@
+boxes_1.jpg;food:0.72749496
+boxes_2.jpg;plate:0.5914308
+boxes_3.jpg;popcorn:0.22507536
+boxes_4.jpg;vegetable:0.20119736
+boxes_5.jpg;salad:0.12781572
+boxes_6.jpg;plate:0.12751468
+boxes_7.jpg;plate:0.121133894
+boxes_8.jpg;food:0.10359228
+boxes_9.jpg;snack:0.08559782
+boxes_10.jpg;food:0.07318585
+boxes_11.jpg;tableware:0.072471514
+boxes_12.jpg;food:0.05335178

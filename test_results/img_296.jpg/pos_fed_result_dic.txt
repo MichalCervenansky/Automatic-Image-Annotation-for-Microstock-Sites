@@ -1,0 +1,3 @@
+from_image_IPTC:old;camel;looking;streight;camera;zoo;
+from_object_detection:camel;plant;animal;cattle;alpaca;tree;
+from_image_classification:bactrian camel;camelus bactrianus;bitch;indian rhinoceros;rhinoceros unicornis;rhinoceros;rhino;carabao;black rhinoceros;diceros bicornis;kudu;koodoo;koudou;sambar;sambur;cervus unicolor;japanese deer;sika;cervus nipon;cervus sika;alpaca;lama pacos;

@@ -1,0 +1,9 @@
+boxes_1.jpg;pomegranate,pomegranate tree,Punica granatum:0.4772585332393646;feijoa,feijoa bush:0.09589263796806335;
+boxes_2.jpg;pomegranate,pomegranate tree,Punica granatum:0.45395174622535706;feijoa,feijoa bush:0.17928601801395416;
+boxes_3.jpg;pomegranate,pomegranate tree,Punica granatum:0.751714289188385;
+boxes_4.jpg;pomegranate,pomegranate tree,Punica granatum:0.3578001856803894;feijoa,feijoa bush:0.2073017954826355;
+boxes_5.jpg;pomegranate,pomegranate tree,Punica granatum:0.4270899295806885;feijoa,feijoa bush:0.23972241580486298;
+boxes_6.jpg;pomegranate,pomegranate tree,Punica granatum:0.785918116569519;star apple,caimito,Chrysophyllum cainito:0.0515248142182827;
+boxes_7.jpg;pomegranate,pomegranate tree,Punica granatum:0.8035699129104614;
+boxes_8.jpg;pomegranate,pomegranate tree,Punica granatum:0.5362188220024109;star apple,caimito,Chrysophyllum cainito:0.20986716449260712;
+img_111.jpg;pomegranate,pomegranate tree,Punica granatum:0.8882551789283752;

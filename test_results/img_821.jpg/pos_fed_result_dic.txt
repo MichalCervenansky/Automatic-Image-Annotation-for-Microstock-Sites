@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;rocky;beach;hvar;
+from_object_detection:boat;tree;swimming pool;plant;vehicle;
+from_image_classification:seashore;coast;seacoast;sea-coast;glacier;windshield;windscreen;drawing chalk;hatpin;ice mass;polar glacier;cabin cruiser;cruiser;pleasure boat;pleasure craft;hull;marina;headsail;ridge rope;mountainside;versant;negative;binder;ligature;boat;bareboat;geological formation;formation;riverbank;riverside;watercourse;shore;branch water;littoral;litoral;littoral zone;sands;post;live oak;bayberry;bay-rum tree;jamaica bayberry;wild cinnamon;pimenta acris;launch;spume;strand;pontoon;oil paint;

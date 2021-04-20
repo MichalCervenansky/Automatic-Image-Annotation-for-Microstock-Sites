@@ -1,0 +1,3 @@
+from_image_IPTC:water;sea;wave;detail;croatia;
+from_object_detection:food;animal;marine mammal;fish;
+from_image_classification:alabaster;bone;ivory;pearl;off-white;hot spring;thermal spring;soapsuds;suds;lather;wave;undulation;dairy product;pasteurized milk;gruel;coconut milk;coconut cream;clabber;spume;

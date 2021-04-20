@@ -1,0 +1,4 @@
+boxes_1.jpg;little brown bat,little brown myotis,Myotis leucifugus:0.2713685929775238;brown bat:0.2463112622499466;freetail,free-tailed bat,freetailed bat:0.1687108278274536;vampire bat,true vampire bat:0.08781030029058456;
+boxes_2.jpg;freetail,free-tailed bat,freetailed bat:0.46151474118232727;vampire bat,true vampire bat:0.15005135536193848;little brown bat,little brown myotis,Myotis leucifugus:0.11104370653629303;brown bat:0.06607121229171753;
+boxes_3.jpg;
+img_125.jpg;little brown bat,little brown myotis,Myotis leucifugus:0.3305164575576782;brown bat:0.25466153025627136;freetail,free-tailed bat,freetailed bat:0.100191131234169;vampire bat,true vampire bat:0.07459265738725662;pallid bat,cave bat,Antrozous pallidus:0.061021219938993454;

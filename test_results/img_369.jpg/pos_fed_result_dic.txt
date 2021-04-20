@@ -1,0 +1,3 @@
+from_image_IPTC:big;wild;boar;running;tourist;turkey;
+from_object_detection:pig;tree;car;person;plant;land vehicle;man;clothing;mammal;
+from_image_classification:warthog;collared peccary;javelina;tayassu angulatus;tayassu tajacu;peccari angulatus;wild boar;boar;sus scrofa;snowplow;snowplough;windshield;windscreen;riverbank;riverside;gray;grayness;grey;greyness;peccary;musk hog;cellophane;virginia deer;white tail;whitetail;white-tailed deer;whitetail deer;odocoileus virginianus;wapiti;elk;american elk;cervus elaphus canadensis;european elk;moose;alces alces;sprinkler;rock wallaby;rock kangaroo;bush;

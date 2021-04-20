@@ -1,0 +1,11 @@
+boxes_1.jpg;pillow:0.9631565
+boxes_2.jpg;pillow:0.3824503
+boxes_3.jpg;pillow:0.2805292
+boxes_4.jpg;pillow:0.2564944
+boxes_5.jpg;pillow:0.21050958
+boxes_6.jpg;pillow:0.13163833
+boxes_7.jpg;window:0.12613674
+boxes_8.jpg;clothing:0.09742605
+boxes_9.jpg;furniture:0.07541637
+boxes_10.jpg;pillow:0.07384769
+boxes_11.jpg;bed:0.06790219

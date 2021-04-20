@@ -1,0 +1,81 @@
+boxes_1.jpg;dessert:0.7695612
+boxes_2.jpg;dessert:0.7000472
+boxes_3.jpg;dessert:0.58271486
+boxes_4.jpg;dessert:0.55806786
+boxes_5.jpg;dessert:0.5278963
+boxes_6.jpg;dessert:0.50697887
+boxes_7.jpg;dessert:0.485158
+boxes_8.jpg;dessert:0.48005566
+boxes_9.jpg;earrings:0.45618582
+boxes_10.jpg;dessert:0.45189372
+boxes_11.jpg;dessert:0.4287948
+boxes_12.jpg;dessert:0.38899428
+boxes_13.jpg;dessert:0.37923297
+boxes_14.jpg;dessert:0.37341738
+boxes_15.jpg;food:0.36704835
+boxes_16.jpg;snack:0.3505168
+boxes_17.jpg;dessert:0.3126095
+boxes_18.jpg;baked goods:0.3119073
+boxes_19.jpg;dessert:0.2885358
+boxes_20.jpg;food:0.28192294
+boxes_21.jpg;food:0.24925849
+boxes_22.jpg;dessert:0.24269523
+boxes_23.jpg;dessert:0.2424882
+boxes_24.jpg;dessert:0.24016485
+boxes_25.jpg;dessert:0.23413631
+boxes_26.jpg;snack:0.22871466
+boxes_27.jpg;food:0.21061341
+boxes_28.jpg;dessert:0.20600045
+boxes_29.jpg;snack:0.2027111
+boxes_30.jpg;dessert:0.18991531
+boxes_31.jpg;dairy:0.17126785
+boxes_32.jpg;dessert:0.17013334
+boxes_33.jpg;dessert:0.1627945
+boxes_34.jpg;pastry:0.14690682
+boxes_35.jpg;snack:0.14606208
+boxes_36.jpg;pastry:0.14469174
+boxes_37.jpg;food:0.12143442
+boxes_38.jpg;snack:0.118246734
+boxes_39.jpg;baked goods:0.11815976
+boxes_40.jpg;dessert:0.11782197
+boxes_41.jpg;snack:0.11432979
+boxes_42.jpg;pastry:0.11101618
+boxes_43.jpg;snack:0.10830493
+boxes_44.jpg;dessert:0.1055639
+boxes_45.jpg;baked goods:0.104128055
+boxes_46.jpg;dessert:0.10317045
+boxes_47.jpg;dessert:0.1003984
+boxes_48.jpg;baked goods:0.09135352
+boxes_49.jpg;pastry:0.08889661
+boxes_50.jpg;snack:0.088545226
+boxes_51.jpg;snack:0.08636654
+boxes_52.jpg;pastry:0.08366242
+boxes_53.jpg;dessert:0.08333845
+boxes_54.jpg;baked goods:0.08067059
+boxes_55.jpg;snack:0.08022693
+boxes_56.jpg;snack:0.07813653
+boxes_57.jpg;dessert:0.078026615
+boxes_58.jpg;dessert:0.077715315
+boxes_59.jpg;dessert:0.07574747
+boxes_60.jpg;pastry:0.07564332
+boxes_61.jpg;dessert:0.07540621
+boxes_62.jpg;dessert:0.07317988
+boxes_63.jpg;pastry:0.072319016
+boxes_64.jpg;snack:0.070526674
+boxes_65.jpg;baked goods:0.070173755
+boxes_66.jpg;food:0.06643529
+boxes_67.jpg;dessert:0.06305346
+boxes_68.jpg;snack:0.062577
+boxes_69.jpg;dessert:0.060960222
+boxes_70.jpg;pastry:0.060362697
+boxes_71.jpg;dessert:0.059525814
+boxes_72.jpg;baked goods:0.059095617
+boxes_73.jpg;snack:0.05719209
+boxes_74.jpg;snack:0.056712132
+boxes_75.jpg;food:0.05587101
+boxes_76.jpg;pastry:0.055665985
+boxes_77.jpg;snack:0.053373978
+boxes_78.jpg;baked goods:0.053197876
+boxes_79.jpg;dessert:0.052968666
+boxes_80.jpg;food:0.051294968
+boxes_81.jpg;baked goods:0.05115263

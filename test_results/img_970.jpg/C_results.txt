@@ -1,0 +1,9 @@
+boxes_1.jpg;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.8642255663871765;
+boxes_2.jpg;Ferris wheel:0.13220497965812683;
+boxes_3.jpg;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.709026038646698;
+boxes_4.jpg;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.5218630433082581;
+boxes_5.jpg;Ferris wheel:0.07903053611516953;
+boxes_6.jpg;Ferris wheel:0.12394241243600845;light,lightness:0.12175362557172775;gnomon:0.05377739667892456;
+boxes_7.jpg;background,desktop,screen background:0.05054367333650589;
+boxes_8.jpg;background,desktop,screen background:0.06669771671295166;
+img_970.jpg;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.7280398607254028;streetlight,street lamp:0.10415717959403992;

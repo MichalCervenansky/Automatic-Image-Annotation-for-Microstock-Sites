@@ -1,0 +1,4 @@
+boxes_1.jpg;snail:0.79702926
+boxes_2.jpg;invertebrate:0.7474512
+boxes_3.jpg;shellfish:0.1575707
+boxes_4.jpg;insect:0.10205312

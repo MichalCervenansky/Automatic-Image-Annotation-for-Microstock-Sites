@@ -1,0 +1,16 @@
+boxes_1.jpg;sea anemone,anemone:0.9918377995491028;
+boxes_10.jpg;sea anemone,anemone:0.9933773875236511;
+boxes_11.jpg;sea anemone,anemone:0.43234145641326904;actinia,actinian,actiniarian:0.07758134603500366;
+boxes_12.jpg;sea anemone,anemone:0.5409687161445618;Hermissenda crassicornis:0.10531428456306458;
+boxes_13.jpg;sea anemone,anemone:0.7218208312988281;actinia,actinian,actiniarian:0.184352308511734;
+boxes_14.jpg;sea anemone,anemone:0.9855228662490845;
+boxes_15.jpg;sea anemone,anemone:0.4889111816883087;actinia,actinian,actiniarian:0.3876773715019226;
+boxes_2.jpg;sea anemone,anemone:0.7405663728713989;actinia,actinian,actiniarian:0.1457187384366989;
+boxes_3.jpg;sea anemone,anemone:0.9742185473442078;
+boxes_4.jpg;sea anemone,anemone:0.9280453324317932;
+boxes_5.jpg;sea anemone,anemone:0.5322837233543396;actinia,actinian,actiniarian:0.3192913234233856;
+boxes_6.jpg;tunicate,urochordate,urochord:0.3933354914188385;ctenophore,comb jelly:0.10646357387304306;ascidian:0.08654414862394333;jawfish:0.06715372949838638;
+boxes_7.jpg;sea anemone,anemone:0.9830541014671326;
+boxes_8.jpg;sea anemone,anemone:0.9560295939445496;
+boxes_9.jpg;sea anemone,anemone:0.9795014262199402;
+img_734.jpg;sea anemone,anemone:0.9742067456245422;

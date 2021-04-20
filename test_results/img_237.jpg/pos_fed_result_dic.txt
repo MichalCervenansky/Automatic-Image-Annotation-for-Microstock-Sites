@@ -1,0 +1,3 @@
+from_image_IPTC:stinky;tasty;fish;village;market;
+from_object_detection:table;furniture;chair;food;fish;flower;fruit;poster;vegetable;tableware;
+from_image_classification:electronic balance;balance;scale;weighing machine;striped mullet;mugil cephalus;mullet;food fish;horse mackerel;saurel;trachurus trachurus;cutlassfish;frost fish;hairtail;white croaker;chenfish;kingfish;genyonemus lineatus;northern whiting;menticirrhus saxatilis;croaker;scuttle;coal scuttle;empty;converging lens;convex lens;diverging lens;concave lens;achromatic lens;plate;collection plate;spanish mackerel;atlantic croaker;micropogonias undulatus;sea bream;bream;striped killifish;mayfish;may fish;fundulus majalis;fairy light;chandelier;pendant;pendent;

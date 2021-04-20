@@ -1,0 +1,8 @@
+boxes_1.jpg;CPU board,mother board:0.2178347259759903;computer circuit:0.0780520960688591;circuit,electrical circuit,electric circuit:0.07726789265871048;module:0.05616409704089165;
+boxes_2.jpg;CPU board,mother board:0.24767574667930603;circuit,electrical circuit,electric circuit:0.0817788615822792;transistor,junction transistor,electronic transistor:0.07460825890302658;computer circuit:0.05951793119311333;module:0.05930883809924126;control,controller:0.05617954581975937;
+boxes_3.jpg;CPU board,mother board:0.4875652492046356;computer circuit:0.08498534560203552;
+boxes_4.jpg;circuit,electrical circuit,electric circuit:0.33589106798171997;module:0.12132703512907028;computer circuit:0.11389658600091934;CPU board,mother board:0.08294782787561417;
+boxes_5.jpg;transistor,junction transistor,electronic transistor:0.37263399362564087;capacitor,capacitance,condenser,electrical condenser:0.11195995658636093;CPU board,mother board:0.062003836035728455;
+boxes_6.jpg;transistor,junction transistor,electronic transistor:0.3145054280757904;CPU board,mother board:0.10957666486501694;capacitor,capacitance,condenser,electrical condenser:0.07320015132427216;
+boxes_7.jpg;transistor,junction transistor,electronic transistor:0.2514209449291229;capacitor,capacitance,condenser,electrical condenser:0.1618252396583557;heat sink:0.14969110488891602;
+img_943.jpg;CPU board,mother board:0.484939306974411;computer circuit:0.15589524805545807;

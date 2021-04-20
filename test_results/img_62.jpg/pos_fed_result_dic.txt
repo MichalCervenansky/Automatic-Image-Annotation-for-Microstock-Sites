@@ -1,0 +1,3 @@
+from_image_IPTC:enormous;lightning;strikes;sea;
+from_object_detection:window;
+from_image_classification:beach;wave;overcast;littoral;litoral;littoral zone;sands;shore;

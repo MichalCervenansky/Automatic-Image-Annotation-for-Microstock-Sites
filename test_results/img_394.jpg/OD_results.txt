@@ -1,0 +1,21 @@
+boxes_1.jpg;car:0.8525374
+boxes_2.jpg;tree:0.8000547
+boxes_3.jpg;tree:0.60498744
+boxes_4.jpg;tree:0.5803395
+boxes_5.jpg;flowerpot:0.5774797
+boxes_6.jpg;land vehicle:0.24905814
+boxes_7.jpg;tree:0.2293526
+boxes_8.jpg;tree:0.18296942
+boxes_9.jpg;tree:0.18074575
+boxes_10.jpg;tree:0.14355491
+boxes_11.jpg;maple:0.12905006
+boxes_12.jpg;tree:0.11852763
+boxes_13.jpg;tree:0.10440205
+boxes_14.jpg;truck:0.09646691
+boxes_15.jpg;tree:0.08900945
+boxes_16.jpg;tree:0.07588258
+boxes_17.jpg;flower:0.06746693
+boxes_18.jpg;tree:0.06482725
+boxes_19.jpg;tree:0.059829604
+boxes_20.jpg;tree:0.055543344
+boxes_21.jpg;tree:0.053647146

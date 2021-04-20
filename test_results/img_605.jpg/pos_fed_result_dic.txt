@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;colorful;yellow;green;watermelon;kitchen;desk;homemade;
+from_object_detection:cheese;watermelon;food;winter melon;squash;fruit;cantaloupe;mango;zucchini;orange;vegetable;cucumber;auto part;
+from_image_classification:chalk;cannikin;bath salts;verdigris;buttercup squash;bedpan;soap dish;soapbox;ultramarine;anvil;hubbard squash;cucurbita maxima;winter squash;piston;plunger;cover plate;grinding wheel;emery wheel;acorn squash;eraser;faience;

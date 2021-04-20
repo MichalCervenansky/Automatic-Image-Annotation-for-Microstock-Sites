@@ -1,0 +1,31 @@
+boxes_1.jpg;tea:0.9258647
+boxes_2.jpg;food:0.6707185
+boxes_3.jpg;coffee cup:0.66429424
+boxes_4.jpg;baked goods:0.3732112
+boxes_5.jpg;potato:0.33347863
+boxes_6.jpg;bread:0.29817674
+boxes_7.jpg;cheese:0.2768289
+boxes_8.jpg;cheese:0.26716986
+boxes_9.jpg;coffee:0.26108834
+boxes_10.jpg;fast food:0.25372723
+boxes_11.jpg;food:0.23639709
+boxes_12.jpg;coffee:0.23555918
+boxes_13.jpg;tea:0.22190693
+boxes_14.jpg;food:0.14219104
+boxes_15.jpg;dessert:0.12278598
+boxes_16.jpg;baked goods:0.09445645
+boxes_17.jpg;dessert:0.09061347
+boxes_18.jpg;baked goods:0.08940424
+boxes_19.jpg;snack:0.07292593
+boxes_20.jpg;snack:0.069575965
+boxes_21.jpg;baked goods:0.062151037
+boxes_22.jpg;fork:0.061677992
+boxes_23.jpg;baked goods:0.061659165
+boxes_24.jpg;snack:0.059052743
+boxes_25.jpg;tableware:0.058883097
+boxes_26.jpg;cheese:0.05563757
+boxes_27.jpg;snack:0.055408128
+boxes_28.jpg;fast food:0.05474193
+boxes_29.jpg;bread:0.052316833
+boxes_30.jpg;vegetable:0.050929233
+boxes_31.jpg;sandwich:0.05071284

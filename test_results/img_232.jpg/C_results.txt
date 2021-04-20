@@ -1,0 +1,16 @@
+boxes_1.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.9020411968231201;
+boxes_10.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.8755229711532593;desert tortoise,Gopherus agassizii:0.05781172960996628;
+boxes_11.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.7083307504653931;desert tortoise,Gopherus agassizii:0.27624425292015076;
+boxes_12.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.87010657787323;desert tortoise,Gopherus agassizii:0.050986673682928085;
+boxes_13.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.9765596985816956;
+boxes_14.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.9705231189727783;
+boxes_15.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.8910936117172241;
+boxes_2.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.8748771548271179;
+boxes_3.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.7120502591133118;Texas tortoise:0.09547655284404755;desert tortoise,Gopherus agassizii:0.08648712933063507;
+boxes_4.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.7365137338638306;desert tortoise,Gopherus agassizii:0.0740196630358696;chelonian,chelonian reptile:0.056391891092061996;
+boxes_5.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.905010461807251;
+boxes_6.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.9015645980834961;desert tortoise,Gopherus agassizii:0.0565473698079586;
+boxes_7.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.40029430389404297;desert tortoise,Gopherus agassizii:0.25612470507621765;chelonian,chelonian reptile:0.08333919197320938;Texas tortoise:0.07971016317605972;
+boxes_8.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.6844272017478943;Texas tortoise:0.07151208072900772;
+boxes_9.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.703535795211792;Texas tortoise:0.11951888352632523;desert tortoise,Gopherus agassizii:0.05585235729813576;
+img_232.jpg;gopher tortoise,gopher turtle,gopher,Gopherus polypemus:0.9554678201675415;

@@ -1,0 +1,4 @@
+boxes_1.jpg;beach house:0.6869186162948608;gable,gable end,gable wall:0.07534106075763702;
+boxes_2.jpg;saltbox:0.2622576355934143;dormer window:0.14375382661819458;house paint,housepaint:0.12196516990661621;dormer,dormer window:0.05947728455066681;
+boxes_3.jpg;garbage heap,junk heap,rubbish heap,scrapheap,trash heap,junk pile,trash pile,refuse heap:0.061698898673057556;beam:0.05409437045454979;
+img_301.jpg;beach house:0.39996227622032166;hovel,hut,hutch,shack,shanty:0.2787841260433197;

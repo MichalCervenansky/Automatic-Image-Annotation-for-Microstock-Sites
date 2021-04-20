@@ -1,0 +1,3 @@
+from_image_IPTC:soft;women;girl;brown;hair;
+from_object_detection:animal;bird;plant;fashion accessory;
+from_image_classification:thistledown;smoke screen;smokescreen;negative;ash grey;ash gray;silver;silver grey;silver gray;tick;sheep-tick;sheep tick;ixodes ricinus;head louse;pediculus capitis;

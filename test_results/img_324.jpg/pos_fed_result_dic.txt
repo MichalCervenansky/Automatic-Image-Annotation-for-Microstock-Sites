@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;st;vitus;cathedral;prague;
+from_object_detection:building;tower;window;sculpture;person;clothing;man;
+from_image_classification:mountain;mount;masterpiece;chef-d'oeuvre;entablature;facing;cladding;pilaster;cornice;modillion;baluster;gothic arch;flying buttress;arc-boutant;pointed arch;smoke screen;smokescreen;skating;revolving door;revolver;minster;church tower;parsonage;vicarage;rectory;clerestory;clearstory;negative;oil paint;transept;abbey;chapterhouse;equestrian sport;cockhorse;

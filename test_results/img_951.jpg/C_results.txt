@@ -1,0 +1,9 @@
+boxes_1.jpg;hunting dog:0.6243860721588135;Labrador retriever:0.0913144052028656;bird dog:0.0587589368224144;
+boxes_2.jpg;
+boxes_3.jpg;dog,domestic dog,Canis familiaris:0.17332100868225098;watchdog,guard dog:0.1492190659046173;sunniness:0.08546117693185806;bitch:0.06515339761972427;Doberman,Doberman pinscher:0.060080766677856445;
+boxes_4.jpg;negative:0.17224788665771484;
+boxes_5.jpg;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;dog,domestic dog,Canis familiaris:0.21847288310527802;watchdog,guard dog:0.1091541200876236;cur,mongrel,mutt:0.06817273795604706;hunting dog:0.06465770304203033;bitch:0.060652296990156174;Labrador retriever:0.050491657108068466;
+img_951.jpg;watchdog,guard dog:0.21454229950904846;Labrador retriever:0.16198046505451202;Rhodesian ridgeback:0.1130758747458458;dog,domestic dog,Canis familiaris:0.09841372072696686;Doberman,Doberman pinscher:0.060115814208984375;

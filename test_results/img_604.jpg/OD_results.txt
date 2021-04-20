@@ -1,0 +1,23 @@
+boxes_1.jpg;snail:0.9910942
+boxes_2.jpg;animal:0.8707643
+boxes_3.jpg;fish:0.7074928
+boxes_4.jpg;chicken:0.6381005
+boxes_5.jpg;fish:0.50884235
+boxes_6.jpg;shellfish:0.27369228
+boxes_7.jpg;fish:0.23947726
+boxes_8.jpg;plant:0.18605725
+boxes_9.jpg;food:0.18445893
+boxes_10.jpg;marine invertebrates:0.14081529
+boxes_11.jpg;shellfish:0.13831155
+boxes_12.jpg;fish:0.10834219
+boxes_13.jpg;food:0.09751634
+boxes_14.jpg;invertebrate:0.09593829
+boxes_15.jpg;animal:0.09223322
+boxes_16.jpg;insect:0.07283227
+boxes_17.jpg;marine invertebrates:0.07262269
+boxes_18.jpg;shellfish:0.07029953
+boxes_19.jpg;insect:0.06678129
+boxes_20.jpg;skull:0.06418177
+boxes_21.jpg;animal:0.057868794
+boxes_22.jpg;mushroom:0.054791857
+boxes_23.jpg;invertebrate:0.05146441

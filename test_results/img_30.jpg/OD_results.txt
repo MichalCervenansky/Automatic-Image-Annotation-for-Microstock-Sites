@@ -1,0 +1,26 @@
+boxes_1.jpg;tree:0.8397594
+boxes_2.jpg;fruit:0.5663743
+boxes_3.jpg;fruit:0.5274764
+boxes_4.jpg;common fig:0.505241
+boxes_5.jpg;fruit:0.44356033
+boxes_6.jpg;fruit:0.39893484
+boxes_7.jpg;fruit:0.38586536
+boxes_8.jpg;fruit:0.30680382
+boxes_9.jpg;tree:0.23943561
+boxes_10.jpg;fruit:0.22621386
+boxes_11.jpg;fruit:0.22089896
+boxes_12.jpg;fruit:0.16432038
+boxes_13.jpg;grape:0.13344112
+boxes_14.jpg;grape:0.13236979
+boxes_15.jpg;fruit:0.12244808
+boxes_16.jpg;fruit:0.120087355
+boxes_17.jpg;fruit:0.12000993
+boxes_18.jpg;fruit:0.10867499
+boxes_19.jpg;fruit:0.094377756
+boxes_20.jpg;grape:0.08254151
+boxes_21.jpg;fruit:0.07403105
+boxes_22.jpg;tree:0.06676686
+boxes_23.jpg;grape:0.06565174
+boxes_24.jpg;common fig:0.058041155
+boxes_25.jpg;plant:0.05259187
+boxes_26.jpg;fruit:0.050603062

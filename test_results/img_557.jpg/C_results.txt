@@ -1,0 +1,7 @@
+boxes_1.jpg;pillow sham:0.40270179510116577;pillow:0.37623292207717896;
+boxes_2.jpg;pillow:0.3902270197868347;pillow sham:0.29740676283836365;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.05901218578219414;
+boxes_3.jpg;pillow:0.4601057767868042;pillow sham:0.3663727939128876;
+boxes_4.jpg;pillow sham:0.49084994196891785;patchwork,patchwork quilt:0.06397683173418045;
+boxes_5.jpg;pillow:0.3587871491909027;pillow sham:0.28281480073928833;bedspread,bedcover,bed cover,bed covering,counterpane,spread:0.07023820281028748;
+boxes_6.jpg;patchwork,patchwork quilt:0.35595032572746277;quilted bedspread:0.2652433216571808;sheeting:0.08793870359659195;
+img_557.jpg;pillow:0.9116318821907043;pillow sham:0.057239145040512085;

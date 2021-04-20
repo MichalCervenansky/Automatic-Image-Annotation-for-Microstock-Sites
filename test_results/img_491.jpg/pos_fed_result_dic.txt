@@ -1,0 +1,3 @@
+from_image_IPTC:valuable;sea;shell;slime;conch;
+from_object_detection:snail;invertebrate;shellfish;insect;
+from_image_classification:nerita;cockle;scallop shell;shell;

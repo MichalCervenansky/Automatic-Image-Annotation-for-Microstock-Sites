@@ -1,0 +1,5 @@
+boxes_1.jpg;food:0.6799553
+boxes_2.jpg;oyster:0.11252003
+boxes_3.jpg;egg:0.083065875
+boxes_4.jpg;shellfish:0.08144053
+boxes_5.jpg;invertebrate:0.06852992

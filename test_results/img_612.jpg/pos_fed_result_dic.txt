@@ -1,0 +1,3 @@
+from_image_IPTC:colorful;bug;floor;croatia;
+from_object_detection:beetle;
+from_image_classification:rose chafer;rose beetle;cetonia aurata;

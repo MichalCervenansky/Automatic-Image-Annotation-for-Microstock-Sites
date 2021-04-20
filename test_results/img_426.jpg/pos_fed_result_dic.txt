@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;rohacsky;vodopad;high;tatras;
+from_object_detection:person;tree;clothing;plant;mammal;
+from_image_classification:cliff diving;crag;chasm;geological formation;formation;escarpment;escarp;scarp;protective embankment;mucor;nitrate bacterium;nitric bacterium;gulch;flume;verdigris;lodestone;loadstone;arroyo;descent;declivity;fall;decline;declination;declension;downslope;steep;ridge;precipice;ascent;acclivity;rise;raise;climb;upgrade;xenolith;adit;mineshaft;grotto;grot;beard lichen;beard moss;usnea barbata;sewer;sewerage;cloaca;ridge rope;gorge;monal;monaul;kea;nestor notabilis;arete;

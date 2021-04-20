@@ -1,0 +1,6 @@
+boxes_1.jpg;
+boxes_2.jpg;
+boxes_3.jpg;catamaran:0.2302999347448349;jolly boat,jolly:0.07928414642810822;cabin cruiser,cruiser,pleasure boat,pleasure craft:0.06829104572534561;
+boxes_4.jpg;
+boxes_5.jpg;
+img_892.jpg;wave:0.38296157121658325;low-water mark:0.1493329405784607;outfall:0.06853757798671722;

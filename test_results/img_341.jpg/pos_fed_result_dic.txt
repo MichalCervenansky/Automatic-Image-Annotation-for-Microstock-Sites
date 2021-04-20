@@ -1,0 +1,3 @@
+from_image_IPTC:tasty;soy;meat;rice;corn;carrot;homemade;
+from_object_detection:food;plate;popcorn;vegetable;salad;snack;tableware;
+from_image_classification:alga;algae;bath salts;aspergillus fumigatus;cytomegalovirus;cmv;mucor;endameba;moneran;moneron;plughole;plate;coloring;colouring;food coloring;food colouring;food color;food colour;ultramarine;pallette;palette;mouthpiece;gumshield;surgical dressing;jordan almond;jelly bean;jelly egg;lozenge;arame;dish;

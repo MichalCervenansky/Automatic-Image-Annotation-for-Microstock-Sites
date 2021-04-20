@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;beautiful;snowy;trees;slovakia;
+from_object_detection:tree;plant;
+from_image_classification:sunniness;gray;grayness;grey;greyness;snow;snowfall;beech;beech tree;snowdrift;black beech;nothofagus solanderi;tree;negative;white;

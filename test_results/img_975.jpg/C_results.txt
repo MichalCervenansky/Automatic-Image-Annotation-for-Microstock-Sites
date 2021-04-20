@@ -1,0 +1,9 @@
+boxes_1.jpg;kitty,kitty-cat,puss,pussy,pussycat:0.43123099207878113;kitten,kitty:0.17852288484573364;tom,tomcat:0.08526074141263962;
+boxes_2.jpg;kitty,kitty-cat,puss,pussy,pussycat:0.6865915060043335;kitten,kitty:0.1255512237548828;tom,tomcat:0.053178124129772186;
+boxes_3.jpg;in-basket,in-tray:0.5909746885299683;wicker,wickerwork,caning:0.20480799674987793;kitten,kitty:0.05806712433695793;
+boxes_4.jpg;kitty,kitty-cat,puss,pussy,pussycat:0.49826231598854065;in-basket,in-tray:0.18900185823440552;kitten,kitty:0.1412062793970108;
+boxes_5.jpg;in-basket,in-tray:0.7883070707321167;kitten,kitty:0.05989324674010277;
+boxes_6.jpg;in-basket,in-tray:0.8937130570411682;kitten,kitty:0.062247633934020996;
+boxes_7.jpg;wicker,wickerwork,caning:0.3657761514186859;in-basket,in-tray:0.3310941755771637;kitty,kitty-cat,puss,pussy,pussycat:0.07273062318563461;kitten,kitty:0.0672953799366951;
+boxes_8.jpg;wicker,wickerwork,caning:0.4027823209762573;in-basket,in-tray:0.32487374544143677;kitty,kitty-cat,puss,pussy,pussycat:0.051268961280584335;
+img_975.jpg;in-basket,in-tray:0.9541841745376587;

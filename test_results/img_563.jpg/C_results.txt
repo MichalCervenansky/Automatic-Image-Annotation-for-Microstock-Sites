@@ -1,0 +1,14 @@
+boxes_1.jpg;smocking:0.1828189194202423;
+boxes_10.jpg;smocking:0.12032560259103775;
+boxes_11.jpg;smocking:0.1828189194202423;
+boxes_12.jpg;smocking:0.39152389764785767;cotton flannel,Canton flannel:0.06344206631183624;
+boxes_13.jpg;smocking:0.28663069009780884;
+boxes_2.jpg;smocking:0.3200603127479553;
+boxes_3.jpg;smocking:0.1611609309911728;
+boxes_4.jpg;smocking:0.26566648483276367;pleat,plait:0.062213554978370667;
+boxes_5.jpg;smocking:0.155008003115654;
+boxes_6.jpg;smocking:0.24396799504756927;
+boxes_7.jpg;smocking:0.1828189194202423;
+boxes_8.jpg;smocking:0.12913517653942108;
+boxes_9.jpg;smocking:0.3696597218513489;
+img_563.jpg;smocking:0.37071114778518677;

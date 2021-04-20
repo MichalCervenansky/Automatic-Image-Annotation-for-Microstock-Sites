@@ -1,0 +1,3 @@
+from_image_IPTC:old;roman;graveyard;tombstone;turkey;city;termessos;
+from_object_detection:sculpture;tree;
+from_image_classification:burial chamber;sepulcher;sepulchre;sepulture;hole-in-the-wall;stele;stela;verdigris;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;marbleization;marbleisation;marbleizing;marbleising;shore;ice;water ice;western white pine;silver pine;mountain pine;pinus monticola;precipice;cliff;drop;drop-off;bell tower;glacier;polar glacier;ascent;acclivity;rise;raise;climb;upgrade;alpine glacier;alpine type of glacier;post and lintel;

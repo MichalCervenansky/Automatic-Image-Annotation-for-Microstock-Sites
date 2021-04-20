@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;female;girl;women;eye;
+from_object_detection:human nose;human face;person;human eye;man;woman;
+from_image_classification:contact;contact lens;complexion;skin color;skin colour;canthus;

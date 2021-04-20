@@ -1,0 +1,15 @@
+boxes_1.jpg;tree:0.28467014
+boxes_2.jpg;skyscraper:0.2778676
+boxes_3.jpg;boat:0.26858556
+boxes_4.jpg;vehicle:0.2640519
+boxes_5.jpg;watercraft:0.21648683
+boxes_6.jpg;tree:0.21124312
+boxes_7.jpg;tree:0.16291335
+boxes_8.jpg;tree:0.10675644
+boxes_9.jpg;wheel:0.10204533
+boxes_10.jpg;skyscraper:0.09045846
+boxes_11.jpg;ladder:0.07130499
+boxes_12.jpg;tree:0.057279956
+boxes_13.jpg;tree:0.054487657
+boxes_14.jpg;tree:0.053446114
+boxes_15.jpg;ladder:0.050457783

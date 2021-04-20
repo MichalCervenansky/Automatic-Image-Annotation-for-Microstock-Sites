@@ -1,0 +1,5 @@
+boxes_1.jpg;pup,whelp:0.17778204381465912;watchdog,guard dog:0.16413059830665588;dog,domestic dog,Canis familiaris:0.13843928277492523;bitch:0.09464720636606216;baby:0.08537189662456512;
+boxes_2.jpg;Weimaraner:0.45424535870552063;watchdog,guard dog:0.14330565929412842;dog,domestic dog,Canis familiaris:0.14259661734104156;pup,whelp:0.052420541644096375;
+boxes_3.jpg;transistor,junction transistor,electronic transistor:0.11766520887613297;plug,male plug:0.09996417164802551;
+boxes_4.jpg;
+img_649.jpg;bitch:0.29292455315589905;pup,whelp:0.20875801146030426;dog,domestic dog,Canis familiaris:0.15392781794071198;watchdog,guard dog:0.0629027932882309;dogie,dogy,leppy:0.05118803679943085;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;pink;flowers;turkish;beach;
+from_object_detection:flower;tree;
+from_image_classification:flower;involucre;squill;chives;dogtooth violet;dogtooth;dog's-tooth violet;cyclamen;cyclamen purpurascens;cotton thistle;woolly thistle;scotch thistle;onopordum acanthium;onopordon acanthium;knapweed;worker bee;purple;purpleness;florist's chrysanthemum;florists' chrysanthemum;mum;dendranthema grandifloruom;chrysanthemum morifolium;honeypot;king protea;protea cynaroides;ice plant;icicle plant;mesembryanthemum crystallinum;composite;composite plant;negative;

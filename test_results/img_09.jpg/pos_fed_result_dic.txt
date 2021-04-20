@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;winter;forest;landscape;
+from_object_detection:tree;plant;
+from_image_classification:piste;snowdrift;white;snowshoe;skier;wagon wheel;snow thrower;snow blower;snowplow;snowplough;cross-country skiing;ski slope;standard poodle;snowcap;ice;water ice;snow;snowfall;

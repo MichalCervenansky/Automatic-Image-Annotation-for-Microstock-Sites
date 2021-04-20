@@ -1,0 +1,8 @@
+boxes_1.jpg;dabbling duck,dabbler:0.3833266496658325;anseriform bird:0.2044079601764679;
+boxes_2.jpg;shoveler,shoveller,broadbill,Anas clypeata:0.270747572183609;dabbling duck,dabbler:0.23750050365924835;teal:0.08853486180305481;anseriform bird:0.05419093370437622;platypus,duckbill,duckbilled platypus,duck-billed platypus,Ornithorhynchus anatinus:0.05130382627248764;
+boxes_3.jpg;dabbling duck,dabbler:0.242782860994339;harbor seal,common seal,Phoca vitulina:0.17689500749111176;platypus,duckbill,duckbilled platypus,duck-billed platypus,Ornithorhynchus anatinus:0.10293741524219513;shoveler,shoveller,broadbill,Anas clypeata:0.052546676248311996;
+boxes_4.jpg;platypus,duckbill,duckbilled platypus,duck-billed platypus,Ornithorhynchus anatinus:0.5932213664054871;Eurasian otter,Lutra lutra:0.051154911518096924;
+boxes_5.jpg;dabbling duck,dabbler:0.2561885714530945;anseriform bird:0.14417997002601624;wood drake:0.08077940344810486;duckling:0.06768526136875153;
+boxes_6.jpg;platypus,duckbill,duckbilled platypus,duck-billed platypus,Ornithorhynchus anatinus:0.7774393558502197;dabbling duck,dabbler:0.06701915711164474;
+boxes_7.jpg;dabbling duck,dabbler:0.3222507834434509;black duck,Anas rubripes:0.1605168730020523;anseriform bird:0.10319527983665466;shoveler,shoveller,broadbill,Anas clypeata:0.0899980291724205;garganey,Anas querquedula:0.07949855923652649;
+img_415.jpg;diving duck:0.15719400346279144;riverbed,river bottom:0.12175959348678589;streambed,creek bed:0.08414673060178757;

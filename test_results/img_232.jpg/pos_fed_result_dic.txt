@@ -1,0 +1,3 @@
+from_image_IPTC:cute;beautiful;turtle;grass;
+from_object_detection:tortoise;turtle;sea turtle;
+from_image_classification:gopher tortoise;gopher turtle;gopher;gopherus polypemus;desert tortoise;gopherus agassizii;texas tortoise;chelonian;chelonian reptile;

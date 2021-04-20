@@ -1,0 +1,3 @@
+from_image_IPTC:two;cute;little;kittens;blue;eyes;bucket;;
+from_object_detection:cat;picnic basket;cat furniture;snack;
+from_image_classification:kitty;kitty-cat;puss;pussy;pussycat;kitten;tom;tomcat;in-basket;in-tray;wicker;wickerwork;caning;

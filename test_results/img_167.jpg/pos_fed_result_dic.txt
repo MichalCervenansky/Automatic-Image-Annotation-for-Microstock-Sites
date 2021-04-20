@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;buchlov;castle;czech;republic;
+from_object_detection:window;building;house;nail;door handle;
+from_image_classification:window;storm window;storm sash;stucco;casing;case;tenement;tenement house;security system;security measure;security;surveillance system;hook;burglar alarm;streetlight;street lamp;corbel;truss;

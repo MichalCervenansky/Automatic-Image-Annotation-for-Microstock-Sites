@@ -1,0 +1,18 @@
+boxes_1.jpg;streptocarpus:0.2793261706829071;achimenes,hot water plant:0.1565628945827484;Cape primrose:0.09545768797397614;stephanotis:0.05344549939036369;
+boxes_10.jpg;orchid,orchidaceous plant:0.11159442365169525;Venus' slipper,Venus's slipper,Venus's shoe:0.06179556995630264;moonflower,belle de nuit,Ipomoea alba:0.06100650131702423;negative:0.053895171731710434;
+boxes_11.jpg;rose chafer,rose beetle,Cetonia aurata:0.10509317368268967;cyclamen,Cyclamen purpurascens:0.053707752376794815;corolla:0.05337662249803543;
+boxes_12.jpg;plumbago:0.13188624382019043;stephanotis:0.11965179443359375;oleander,rose bay,Nerium oleander:0.05238167196512222;
+boxes_13.jpg;orchid,orchidaceous plant:0.2360200583934784;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.15565967559814453;stephanotis:0.06427113711833954;
+boxes_14.jpg;oleander,rose bay,Nerium oleander:0.17074662446975708;cyclamen,Cyclamen purpurascens:0.14663033187389374;corolla:0.08305835723876953;
+boxes_15.jpg;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.24500764906406403;orchid,orchidaceous plant:0.23477420210838318;oleander,rose bay,Nerium oleander:0.10415312647819519;stephanotis:0.057611431926488876;
+boxes_16.jpg;cyclamen,Cyclamen purpurascens:0.11272898316383362;Venus' slipper,Venus's slipper,Venus's shoe:0.0712457001209259;orchid,orchidaceous plant:0.05526190251111984;pansy orchid:0.05149534344673157;sowbread,Cyclamen hederifolium,Cyclamen neopolitanum:0.050218429416418076;
+boxes_17.jpg;orchid,orchidaceous plant:0.0699203759431839;common jasmine,true jasmine,jessamine,Jasminum officinale:0.0614396333694458;stephanotis:0.05865331366658211;
+boxes_2.jpg;oleander,rose bay,Nerium oleander:0.22649437189102173;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.1744733303785324;orchid,orchidaceous plant:0.13766039907932281;moonflower,belle de nuit,Ipomoea alba:0.05840003117918968;snailflower,snail-flower,snail flower,snail bean,corkscrew flower,Vigna caracalla,Phaseolus caracalla:0.051422521471977234;
+boxes_3.jpg;orchid,orchidaceous plant:0.3955644965171814;stephanotis:0.06904080510139465;pansy orchid:0.06341670453548431;butterfly orchid,butterfly orchis,Epidendrum venosum,Encyclia venosa:0.0569574348628521;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.05668310448527336;
+boxes_4.jpg;Japanese iris,Iris kaempferi:0.0872379019856453;cyclamen,Cyclamen purpurascens:0.0763428658246994;orchid,orchidaceous plant:0.05590236932039261;
+boxes_5.jpg;jellyfish:0.20265567302703857;Indian pipe,waxflower,Monotropa uniflora:0.06049034371972084;
+boxes_6.jpg;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.21406744420528412;oleander,rose bay,Nerium oleander:0.10907544195652008;stephanotis:0.10162119567394257;orchid,orchidaceous plant:0.09937921911478043;
+boxes_7.jpg;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.16516846418380737;orchid,orchidaceous plant:0.12870106101036072;pansy orchid:0.08165273070335388;stephanotis:0.0761764645576477;
+boxes_8.jpg;orchid,orchidaceous plant:0.24665464460849762;stephanotis:0.15792366862297058;cape jasmine,cape jessamine,Gardenia jasminoides,Gardenia augusta:0.15176989138126373;butterfly orchid,butterfly orchis,Epidendrum venosum,Encyclia venosa:0.05387525260448456;
+boxes_9.jpg;orchid,orchidaceous plant:0.23755699396133423;butterfly orchid,butterfly orchis,Epidendrum venosum,Encyclia venosa:0.0837687999010086;Venus' slipper,Venus's slipper,Venus's shoe:0.06042276322841644;
+img_893.jpg;butterfly orchid,butterfly orchis,Epidendrum venosum,Encyclia venosa:0.40157726407051086;orchid,orchidaceous plant:0.19817444682121277;butterfly orchid,Encyclia tampensis,Epidendrum tampense:0.055971525609493256;

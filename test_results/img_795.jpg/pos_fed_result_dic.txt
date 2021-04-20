@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;island;hvar;croatia;
+from_object_detection:boat;fish;canoe;watercraft;
+from_image_classification:sailboat;sailing boat;boat;small boat;canoe;dinghy;dory;rowboat;rowing boat;nautilus;nuclear submarine;nuclear-powered submarine;sandbank;fleet ballistic missile submarine;attack submarine;banana boat;crabeater seal;crab-eating seal;ice floe;floe;saltpan;seashore;coast;seacoast;sea-coast;landfall;

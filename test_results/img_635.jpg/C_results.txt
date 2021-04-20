@@ -1,0 +1,5 @@
+boxes_1.jpg;damselfish,demoiselle:0.19355344772338867;fish:0.11814357340335846;Pacific tripletail,Lobotes pacificus:0.0781329944729805;
+boxes_2.jpg;fish:0.2733461856842041;damselfish,demoiselle:0.13690447807312012;Pacific tripletail,Lobotes pacificus:0.05680070072412491;surfperch,surffish,surf fish:0.05023963004350662;
+boxes_3.jpg;damselfish,demoiselle:0.7247758507728577;
+boxes_4.jpg;yellowtail,Seriola dorsalis:0.1250208467245102;red porgy,Pagrus pagrus:0.09902127832174301;young fish:0.07986060529947281;damselfish,demoiselle:0.06151362136006355;sergeant major,Abudefduf saxatilis:0.060335926711559296;
+img_635.jpg;aquatic vertebrate:0.10114876925945282;jack:0.0701863020658493;fish:0.07005978375673294;young fish:0.05289878696203232;creole-fish,Paranthias furcifer:0.051195431500673294;

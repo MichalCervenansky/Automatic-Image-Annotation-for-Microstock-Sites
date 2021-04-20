@@ -1,0 +1,5 @@
+boxes_1.jpg;goose:0.2527835965156555;common brant goose,Branta bernicla:0.1969224214553833;honker,Canada goose,Canadian goose,Branta canadensis:0.17095518112182617;blue goose,Chen caerulescens:0.1646374613046646;gander:0.07182706892490387;
+boxes_2.jpg;honker,Canada goose,Canadian goose,Branta canadensis:0.29858899116516113;goose:0.18314814567565918;common brant goose,Branta bernicla:0.18260374665260315;blue goose,Chen caerulescens:0.1017298549413681;gander:0.10010386258363724;barnacle goose,barnacle,Branta leucopsis:0.06349160522222519;
+boxes_3.jpg;
+boxes_4.jpg;goose:0.2368946671485901;honker,Canada goose,Canadian goose,Branta canadensis:0.21655066311359406;blue goose,Chen caerulescens:0.17701436579227448;common brant goose,Branta bernicla:0.1648993343114853;gander:0.09327523410320282;
+img_80.jpg;common brant goose,Branta bernicla:0.33021751046180725;goose:0.21395355463027954;honker,Canada goose,Canadian goose,Branta canadensis:0.12417595833539963;blue goose,Chen caerulescens:0.10386807471513748;gander:0.09371671825647354;

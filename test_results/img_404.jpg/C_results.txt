@@ -1,0 +1,10 @@
+boxes_1.jpg;field scabious,Scabiosa arvensis:0.8897749781608582;
+boxes_2.jpg;bluebottle,Calliphora vicina:0.38135021924972534;housefly,house fly,Musca domestica:0.24069605767726898;blowfly,blow fly:0.1904626488685608;flesh fly,Sarcophaga carnaria:0.06154033914208412;
+boxes_3.jpg;globe amaranth,bachelor's button,Gomphrena globosa:0.14213930070400238;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.12693224847316742;globe thistle:0.060534678399562836;
+boxes_4.jpg;bluebottle,Calliphora vicina:0.42984116077423096;housefly,house fly,Musca domestica:0.23183435201644897;blowfly,blow fly:0.1418766975402832;flesh fly,Sarcophaga carnaria:0.050998590886592865;
+boxes_5.jpg;knapweed:0.0786595270037651;showy milkweed,Asclepias speciosa:0.06423474848270416;honeybee,Apis mellifera:0.06267287582159042;purple silkweed,Asclepias purpurascens:0.05482999607920647;
+boxes_6.jpg;involucre:0.2286350429058075;knapweed:0.16739189624786377;field scabious,Scabiosa arvensis:0.13098302483558655;
+boxes_7.jpg;Erlenmeyer flask:0.28693971037864685;flask:0.07977119088172913;swizzle stick:0.06547649949789047;hypodermic syringe,hypodermic,hypo:0.0611465647816658;graduated cylinder:0.05356793850660324;
+boxes_8.jpg;field scabious,Scabiosa arvensis:0.8213984966278076;scabious,scabiosa:0.05595014989376068;
+boxes_9.jpg;sea holly,sea holm,sea eryngium,Eryngium maritimum:0.3694608509540558;globe thistle:0.05405053123831749;rattlesnake master,rattlesnake's master,button snakeroot,Eryngium yuccifolium:0.05118226632475853;
+img_404.jpg;knapweed:0.5770344138145447;field scabious,Scabiosa arvensis:0.17060500383377075;

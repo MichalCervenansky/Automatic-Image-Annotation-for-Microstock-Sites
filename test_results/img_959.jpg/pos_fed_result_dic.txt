@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:flower;
+from_image_classification:knapweed;cornflower;bachelor's button;bluebottle;centaurea cyanus;strawflower;uvularia grandiflora;centaury;aerides;rattail cactus;rat's-tail cactus;aporocactus flagelliformis;horsemint;monarda punctata;stokes' aster;cornflower aster;stokesia laevis;

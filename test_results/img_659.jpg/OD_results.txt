@@ -1,0 +1,17 @@
+boxes_1.jpg;auto part:0.87887573
+boxes_2.jpg;auto part:0.76131403
+boxes_3.jpg;auto part:0.73395103
+boxes_4.jpg;computer keyboard:0.6655321
+boxes_5.jpg;auto part:0.3143863
+boxes_6.jpg;toy:0.31323868
+boxes_7.jpg;computer keyboard:0.30770913
+boxes_8.jpg;auto part:0.23917633
+boxes_9.jpg;office supplies:0.22757167
+boxes_10.jpg;computer keyboard:0.22105467
+boxes_11.jpg;auto part:0.20512025
+boxes_12.jpg;calculator:0.12577653
+boxes_13.jpg;vehicle:0.11582186
+boxes_14.jpg;office supplies:0.112765074
+boxes_15.jpg;computer keyboard:0.09997834
+boxes_16.jpg;toy:0.06622269
+boxes_17.jpg;toy:0.05344827

@@ -1,0 +1,6 @@
+boxes_1.jpg;gray,grayness,grey,greyness:0.1761409342288971;soil horizon:0.09041813015937805;cliff,drop,drop-off:0.07407872378826141;inclined fault:0.06823673844337463;
+boxes_2.jpg;gray,grayness,grey,greyness:0.2246265858411789;soil horizon:0.18481114506721497;cliff,drop,drop-off:0.0770253986120224;
+boxes_3.jpg;gray,grayness,grey,greyness:0.248529314994812;soil horizon:0.07986032217741013;marbleization,marbleisation,marbleizing,marbleising:0.06673797965049744;cliff,drop,drop-off:0.06484847515821457;inclined fault:0.0645013153553009;adit:0.05569227784872055;
+boxes_4.jpg;descent,declivity,fall,decline,declination,declension,downslope:0.1595623791217804;gray,grayness,grey,greyness:0.11490198224782944;cliff,drop,drop-off:0.07583210617303848;adit:0.0708642303943634;inclined fault:0.0696120634675026;precipice:0.060377053916454315;
+boxes_5.jpg;gray,grayness,grey,greyness:0.3931598663330078;cliff,drop,drop-off:0.08435140550136566;inclined fault:0.05762456730008125;
+img_952.jpg;gray,grayness,grey,greyness:0.2858419716358185;soil horizon:0.07039773464202881;

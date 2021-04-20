@@ -1,0 +1,2 @@
+boxes_1.jpg;smoke screen,smokescreen:0.05276038870215416;
+img_53.jpg;seashore,coast,seacoast,sea-coast:0.5734122395515442;coastland:0.15690265595912933;oceanfront:0.08991535007953644;

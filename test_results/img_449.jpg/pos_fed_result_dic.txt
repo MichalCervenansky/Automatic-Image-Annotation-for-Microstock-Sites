@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;blooming;tree;spring;
+from_object_detection:flower;
+from_image_classification:negative;flower;persian iris;iris persica;right-handed pitcher;right-hander;squill;andrena;andrenid;mining bee;vetch;purple;purpleness;

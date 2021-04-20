@@ -1,0 +1,8 @@
+boxes_1.jpg;pillow sham:0.36988019943237305;quilted bedspread:0.20379097759723663;patchwork,patchwork quilt:0.07292520999908447;quilt,comforter,comfort,puff:0.06723032146692276;
+boxes_2.jpg;cotton flannel,Canton flannel:0.20687207579612732;quilted bedspread:0.2012505978345871;madras:0.06656928360462189;
+boxes_3.jpg;quilted bedspread:0.3923093378543854;pillow sham:0.10550335794687271;madras:0.06330755352973938;cotton flannel,Canton flannel:0.0628594160079956;
+boxes_4.jpg;voile:0.22938430309295654;velvet:0.14539916813373566;suede cloth,suede:0.10367181897163391;lame:0.0755142867565155;organza:0.05731923133134842;purple,purpleness:0.052534069865942;
+boxes_5.jpg;suede cloth,suede:0.2277672290802002;velour,velours:0.11465660482645035;riband,ribband:0.09093653410673141;selvage,selvedge:0.06337965279817581;
+boxes_6.jpg;quilted bedspread:0.4872899055480957;cotton flannel,Canton flannel:0.11309098452329636;
+boxes_7.jpg;pillow sham:0.3651624321937561;quilted bedspread:0.20721492171287537;quilt,comforter,comfort,puff:0.07113470137119293;cotton flannel,Canton flannel:0.05719438195228577;
+img_558.jpg;quilted bedspread:0.30949047207832336;quilt,comforter,comfort,puff:0.15033647418022156;pillow sham:0.1491011083126068;pillow:0.0874565988779068;madras:0.0642600730061531;

@@ -1,0 +1,18 @@
+boxes_1.jpg;horned violet,tufted pansy,Viola cornuta:0.2735916078090668;meadow cranesbill,Geranium pratense:0.2290220856666565;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.16070109605789185;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.0968175157904625;
+boxes_10.jpg;meadow cranesbill,Geranium pratense:0.19330905377864838;horned violet,tufted pansy,Viola cornuta:0.1793210655450821;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.17478938400745392;hedge violet,wood violet,Viola sylvatica,Viola reichenbachiana:0.0815630555152893;
+boxes_11.jpg;blue-eyed grass:0.06992154568433762;
+boxes_12.jpg;negative:0.20964881777763367;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.10770180076360703;violet wood sorrel,Oxalis violacea:0.05763561278581619;
+boxes_13.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.3308253586292267;purple,purpleness:0.22130361199378967;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.08536442369222641;flower:0.059892747551202774;
+boxes_14.jpg;damask violet,Dame's violet,sweet rocket,Hesperis matronalis:0.07325030863285065;
+boxes_15.jpg;
+boxes_16.jpg;
+boxes_17.jpg;four o'clock:0.13758604228496552;desert four o'clock,Colorado four o'clock,maravilla,Mirabilis multiflora:0.08550551533699036;involucre:0.08179778605699539;California four o'clock,Mirabilis laevis,Mirabilis californica:0.056451618671417236;
+boxes_2.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.4389898180961609;meadow cranesbill,Geranium pratense:0.07208810746669769;
+boxes_3.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.571528434753418;meadow cranesbill,Geranium pratense:0.12153848260641098;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.059703048318624496;
+boxes_4.jpg;meadow cranesbill,Geranium pratense:0.13966941833496094;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.13450075685977936;negative:0.10811503231525421;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.09385138005018234;horned violet,tufted pansy,Viola cornuta:0.0541854053735733;
+boxes_5.jpg;meadow cranesbill,Geranium pratense:0.25960156321525574;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.08175962418317795;negative:0.06139596179127693;
+boxes_6.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.20584562420845032;purple,purpleness:0.17142942547798157;flower:0.14470325410366058;bird's-foot violet,pansy violet,Johnny-jump-up,wood violet,Viola pedata:0.07590600103139877;violet wood sorrel,Oxalis violacea:0.07303602993488312;
+boxes_7.jpg;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.4176637530326843;meadow cranesbill,Geranium pratense:0.33435535430908203;rose geranium,sweet-scented geranium,Pelargonium graveolens:0.06787102669477463;
+boxes_8.jpg;
+boxes_9.jpg;involucre:0.12173644453287125;meadow cranesbill,Geranium pratense:0.10428605228662491;
+img_438.jpg;purple,purpleness:0.2713501751422882;ivy geranium,ivy-leaved geranium,hanging geranium,Pelargonium peltatum:0.1307040899991989;cranesbill,crane's bill:0.10459645837545395;meadow cranesbill,Geranium pratense:0.05927077308297157;flower:0.0500154010951519;

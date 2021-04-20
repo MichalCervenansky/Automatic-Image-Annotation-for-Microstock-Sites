@@ -1,0 +1,12 @@
+boxes_1.jpg;thistledown:0.9362410306930542;
+boxes_10.jpg;blowfly,blow fly:0.06970968842506409;odonate:0.06763631105422974;bluebottle,Calliphora vicina:0.0632973164319992;
+boxes_11.jpg;thistledown:0.9946227073669434;
+boxes_2.jpg;mudskipper,mudspringer:0.11574269086122513;
+boxes_3.jpg;thistledown:0.9456200003623962;
+boxes_4.jpg;thistledown:0.47786861658096313;sunniness:0.05841440707445145;
+boxes_5.jpg;thistledown:0.6474461555480957;
+boxes_6.jpg;dragonfly,darning needle,devil's darning needle,sewing needle,snake feeder,snake doctor,mosquito hawk,skeeter hawk:0.06982529908418655;cling film,clingfilm,Saran Wrap:0.05433845892548561;
+boxes_7.jpg;thistledown:0.4400465488433838;negative:0.12890182435512543;
+boxes_8.jpg;organdy,organdie:0.14197145402431488;night-blooming cereus:0.13213887810707092;night-blooming cereus:0.0523855984210968;voile:0.05108309164643288;
+boxes_9.jpg;thistledown:0.591102659702301;
+img_541.jpg;thistledown:0.6394882798194885;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;broen;female;eye;reflection;photographer;winter;forest;
+from_object_detection:human eye;human face;person;cosmetics;human mouth;
+from_image_classification:contact;contact lens;

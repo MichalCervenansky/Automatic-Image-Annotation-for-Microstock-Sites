@@ -1,0 +1,17 @@
+boxes_1.jpg;mutisia:0.23602396249771118;salsify,oyster plant,vegetable oyster,Tragopogon porrifolius:0.11325222998857498;white zinnia,Zinnia acerosa:0.10603231191635132;chicory,chicory root:0.0758090615272522;chicory,succory,chicory plant,Cichorium intybus:0.0724930390715599;
+boxes_10.jpg;almond,sweet almond,Prunus dulcis,Prunus amygdalus,Amygdalus communis:0.11085262149572372;star magnolia,Magnolia stellata:0.090622678399086;dwarf flowering almond,Prunus glandulosa:0.05132490396499634;
+boxes_11.jpg;chicory,succory,chicory plant,Cichorium intybus:0.15614758431911469;mutisia:0.12453781068325043;peduncle:0.11552156507968903;
+boxes_12.jpg;chicory,chicory root:0.5256112217903137;chicory,succory,chicory plant,Cichorium intybus:0.4156489968299866;
+boxes_13.jpg;
+boxes_14.jpg;chicory,succory,chicory plant,Cichorium intybus:0.15614758431911469;mutisia:0.12453781068325043;peduncle:0.11552156507968903;
+boxes_15.jpg;chicory,succory,chicory plant,Cichorium intybus:0.5139169692993164;chicory,chicory root:0.3373161554336548;chicory,chicory root:0.06283341348171234;
+boxes_16.jpg;chicory,chicory root:0.31317025423049927;chicory,succory,chicory plant,Cichorium intybus:0.2726063132286072;
+boxes_2.jpg;involucre:0.14140918850898743;composite,composite plant:0.08888596296310425;livingstone daisy,Dorotheanthus bellidiformis:0.056018803268671036;
+boxes_3.jpg;squill:0.07657703012228012;woodland star,Lithophragma affine,Lithophragma affinis,Tellima affinis:0.07298576831817627;blue daisy,blue marguerite,Felicia amelloides:0.05552784353494644;
+boxes_4.jpg;
+boxes_5.jpg;grapnel,grapnel anchor:0.10659296810626984;deadwood:0.0689295157790184;hook,claw:0.053871870040893555;
+boxes_6.jpg;chicory,succory,chicory plant,Cichorium intybus:0.6848793625831604;chicory,chicory root:0.06447786837816238;
+boxes_7.jpg;
+boxes_8.jpg;chicory,succory,chicory plant,Cichorium intybus:0.19351790845394135;mutisia:0.17466866970062256;peduncle:0.08071449398994446;
+boxes_9.jpg;mutisia:0.15631821751594543;peduncle:0.11221034079790115;silene,campion,catchfly:0.05682716891169548;
+img_390.jpg;chicory,succory,chicory plant,Cichorium intybus:0.2212369740009308;mutisia:0.18534043431282043;peduncle:0.08879584819078445;

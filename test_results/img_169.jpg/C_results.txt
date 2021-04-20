@@ -1,0 +1,12 @@
+boxes_1.jpg;potherb:0.18735896050930023;lamb's-quarter,pigweed,wild spinach:0.06044745817780495;hackberry,nettle tree:0.057269006967544556;
+boxes_10.jpg;mealybug,mealy bug:0.1231389120221138;tendril:0.08686650544404984;petiole,leafstalk:0.07471784204244614;hackberry,nettle tree:0.07314951717853546;plectranthus:0.051432352513074875;
+boxes_11.jpg;mealybug,mealy bug:0.11218420416116714;hackberry,nettle tree:0.09266921877861023;plectranthus:0.083609439432621;potherb:0.07370032370090485;
+boxes_2.jpg;mealybug,mealy bug:0.16696514189243317;petiole,leafstalk:0.08887501806020737;hackberry,nettle tree:0.06866305321455002;
+boxes_3.jpg;hackberry,nettle tree:0.24432829022407532;potherb:0.06530739367008209;
+boxes_4.jpg;mealybug,mealy bug:0.15502721071243286;hackberry,nettle tree:0.095416359603405;potherb:0.07132046669721603;tendril:0.056652773171663284;
+boxes_5.jpg;potherb:0.12226478010416031;mealybug,mealy bug:0.07360277324914932;hackberry,nettle tree:0.06752807646989822;
+boxes_6.jpg;mealybug,mealy bug:0.15167959034442902;caterpillar:0.054446570575237274;
+boxes_7.jpg;mealybug,mealy bug:0.23251360654830933;hackberry,nettle tree:0.0667058527469635;plectranthus:0.06058799475431442;
+boxes_8.jpg;lamb's-quarter,pigweed,wild spinach:0.2363780289888382;potherb:0.06392792612314224;
+boxes_9.jpg;mealybug,mealy bug:0.13746710121631622;lamb's-quarter,pigweed,wild spinach:0.061479661613702774;plectranthus:0.05209513381123543;
+img_169.jpg;lamb's-quarter,pigweed,wild spinach:0.10656550526618958;mealybug,mealy bug:0.08594357967376709;leaf shape,leaf form:0.07862047106027603;potherb:0.05689072236418724;pigweed,Amaranthus hypochondriacus:0.05653611943125725;

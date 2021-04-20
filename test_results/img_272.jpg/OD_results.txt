@@ -1,0 +1,5 @@
+boxes_1.jpg;falcon:0.9292552
+boxes_2.jpg;flowerpot:0.53931844
+boxes_3.jpg;houseplant:0.2940812
+boxes_4.jpg;eagle:0.24585389
+boxes_5.jpg;plant:0.07281212

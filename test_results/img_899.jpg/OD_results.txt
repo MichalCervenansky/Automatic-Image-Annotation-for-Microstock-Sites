@@ -1,0 +1,28 @@
+boxes_1.jpg;auto part:0.59429574
+boxes_2.jpg;wheel:0.49696034
+boxes_3.jpg;car:0.47723648
+boxes_4.jpg;vehicle:0.4573814
+boxes_5.jpg;car:0.34183493
+boxes_6.jpg;land vehicle:0.33788675
+boxes_7.jpg;person:0.32162136
+boxes_8.jpg;person:0.28054795
+boxes_9.jpg;musical instrument:0.25807837
+boxes_10.jpg;auto part:0.23800045
+boxes_11.jpg;car:0.19807586
+boxes_12.jpg;land vehicle:0.15933456
+boxes_13.jpg;auto part:0.13689359
+boxes_14.jpg;auto part:0.1172617
+boxes_15.jpg;tire:0.11419911
+boxes_16.jpg;car:0.11057471
+boxes_17.jpg;wheel:0.10811086
+boxes_18.jpg;auto part:0.10434059
+boxes_19.jpg;tire:0.10266223
+boxes_20.jpg;wheel:0.10067738
+boxes_21.jpg;land vehicle:0.09487877
+boxes_22.jpg;person:0.082913436
+boxes_23.jpg;airplane:0.078196324
+boxes_24.jpg;car:0.062087014
+boxes_25.jpg;vehicle:0.061897848
+boxes_26.jpg;person:0.060581055
+boxes_27.jpg;vehicle:0.054893777
+boxes_28.jpg;wheel:0.05122107

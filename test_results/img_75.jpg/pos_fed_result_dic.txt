@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;portland;city;
+from_object_detection:street light;tree;boat;tower;
+from_image_classification:carriageway;autobahn;overpass;flyover;divided highway;dual carriageway;car bomb;sprinkler system;sprinkler;sluice;sluiceway;penstock;bascule;drawbridge;lift bridge;abutment;lockage;gate;pier;steel arch bridge;

@@ -1,0 +1,3 @@
+from_image_IPTC:joung;cute;small;frog;gravel;natural;enviroment;
+from_object_detection:frog;
+from_image_classification:frog;toad;toad frog;anuran;batrachian;salientian;tailed frog;bell toad;ribbed toad;tailed toad;ascaphus trui;crapaud;south american bullfrog;leptodactylus pentadactylus;

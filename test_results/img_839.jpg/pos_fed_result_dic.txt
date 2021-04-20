@@ -1,0 +1,3 @@
+from_image_IPTC:croatian;ferry;near;hvar;
+from_object_detection:boat;tree;flower;plant;palm tree;land vehicle;vehicle;
+from_image_classification:ferry;ferryboat;vessel;watercraft;dust storm;duster;sandstorm;sirocco;palmyra;palmyra palm;toddy palm;wine palm;lontar;longar palm;borassus flabellifer;jaggery palm;kitul;kittul;kitul tree;caryota urens;date palm;phoenix dactylifera;cabin cruiser;cruiser;pleasure boat;pleasure craft;ski lodge;watercourse;riverbank;riverside;craft;hull;windshield;windscreen;lakefront;pond pine;pinus serotina;japanese umbrella pine;sciadopitys verticillata;waterside;colorado spruce;colorado blue spruce;silver spruce;picea pungens;white spruce;picea glauca;smoke screen;smokescreen;seashore;coast;seacoast;sea-coast;ice floe;floe;ice mass;

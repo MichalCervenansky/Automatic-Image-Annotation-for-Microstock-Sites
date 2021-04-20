@@ -1,0 +1,3 @@
+from_image_IPTC:red;king;robe;stara;lubovna;castle;
+from_object_detection:flag;clothing;toy;furniture;fashion accessory;person;chair;
+from_image_classification:triangle;trigon;trilateral;hoopskirt;crinoline;cloak;opera cloak;opera hood;bell;bell shape;campana;vestment;igloo;iglu;wigwam;voile;dressing gown;robe-de-chambre;lounging robe;crown;diadem;head covering;veil;tent;collapsible shelter;robe;georgette;

@@ -1,0 +1,18 @@
+boxes_1.jpg;sea anemone,anemone:0.9101722240447998;
+boxes_10.jpg;endameba:0.20902696251869202;ciliate,ciliated protozoan,ciliophoran:0.18724966049194336;ameba,amoeba:0.11761324852705002;trophozoite:0.11297910660505295;protozoan,protozoon:0.09322074800729752;
+boxes_11.jpg;sea anemone,anemone:0.8057928085327148;actinia,actinian,actiniarian:0.0591387115418911;
+boxes_12.jpg;sea anemone,anemone:0.2712674140930176;reef:0.10023085027933121;benthos,benthic division,benthonic zone:0.09344752877950668;benthos:0.06890924274921417;stony coral,madrepore,madriporian coral:0.06539183109998703;
+boxes_13.jpg;ameba,amoeba:0.13240104913711548;ciliate,ciliated protozoan,ciliophoran:0.07287293672561646;
+boxes_14.jpg;lizardfish,snakefish,snake-fish:0.16434304416179657;flying gurnard,flying robin,butterflyfish:0.1267370581626892;
+boxes_15.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.24677059054374695;benthos,benthic division,benthonic zone:0.06239304691553116;
+boxes_16.jpg;
+boxes_17.jpg;sea anemone,anemone:0.947188675403595;
+boxes_2.jpg;ameba,amoeba:0.06176421418786049;ascidian:0.05252950266003609;
+boxes_3.jpg;sea anemone,anemone:0.15975147485733032;benthos,benthic division,benthonic zone:0.09819474071264267;coral reef:0.05109590291976929;
+boxes_4.jpg;supernova:0.32446619868278503;pulsar:0.2030702531337738;interplanetary space:0.07595115154981613;
+boxes_5.jpg;flying gurnard,flying robin,butterflyfish:0.4159244894981384;lizardfish,snakefish,snake-fish:0.14579446613788605;gurnard:0.08672666549682617;
+boxes_6.jpg;sea anemone,anemone:0.7491304278373718;actinia,actinian,actiniarian:0.08762051910161972;benthos,benthic division,benthonic zone:0.06187845766544342;
+boxes_7.jpg;conger,conger eel:0.059961456805467606;
+boxes_8.jpg;reef:0.06131841242313385;
+boxes_9.jpg;ameba,amoeba:0.1305648684501648;
+img_718.jpg;sea anemone,anemone:0.8804523348808289;

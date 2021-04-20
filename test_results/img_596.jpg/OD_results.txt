@@ -1,0 +1,12 @@
+boxes_1.jpg;computer keyboard:0.9686572
+boxes_2.jpg;laptop:0.9664216
+boxes_3.jpg;computer monitor:0.9661393
+boxes_4.jpg;computer keyboard:0.7815126
+boxes_5.jpg;desk:0.63304126
+boxes_6.jpg;office building:0.4074626
+boxes_7.jpg;television:0.29854313
+boxes_8.jpg;desk:0.15251938
+boxes_9.jpg;computer monitor:0.10784867
+boxes_10.jpg;mobile phone:0.10035719
+boxes_11.jpg;desk:0.064039536
+boxes_12.jpg;auto part:0.055442635

@@ -1,0 +1,17 @@
+boxes_1.jpg;tree:0.8587484
+boxes_2.jpg;building:0.78089327
+boxes_3.jpg;street light:0.62430626
+boxes_4.jpg;building:0.5786203
+boxes_5.jpg;house:0.2823345
+boxes_6.jpg;lamp:0.23288174
+boxes_7.jpg;window:0.20686121
+boxes_8.jpg;building:0.10927527
+boxes_9.jpg;building:0.092809595
+boxes_10.jpg;street light:0.084533
+boxes_11.jpg;door:0.08435891
+boxes_12.jpg;tree:0.080453984
+boxes_13.jpg;house:0.07965335
+boxes_14.jpg;tree:0.070785545
+boxes_15.jpg;street light:0.058264457
+boxes_16.jpg;tower:0.055377726
+boxes_17.jpg;building:0.052935977

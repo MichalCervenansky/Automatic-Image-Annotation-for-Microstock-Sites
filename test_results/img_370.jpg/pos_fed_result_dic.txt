@@ -1,0 +1,3 @@
+from_image_IPTC:abandoned;wild;dog;running;tourist;turkey;
+from_object_detection:dog;tree;plant;
+from_image_classification:negative;cur;mongrel;mutt;watchdog;guard dog;housedog;terrier;ice bear;polar bear;ursus maritimus;thalarctos maritimus;tom;tomcat;raccoon;racoon;chinchilla;chinchilla laniger;bitch;

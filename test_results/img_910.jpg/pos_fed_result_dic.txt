@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:motorcycle;tree;wheel;tire;helmet;land vehicle;
+from_image_classification:motorcycle;bike;kick starter;kick start;cellophane;voile;sand wedge;golf-club head;club head;club-head;clubhead;putter;putting iron;pillion;mudguard;splash guard;splash-guard;saddlebag;moped;simian;pipal;pipal tree;pipul;peepul;sacred fig;bo tree;ficus religiosa;headpiece;skid lid;helmet;

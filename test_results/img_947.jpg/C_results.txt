@@ -1,0 +1,17 @@
+boxes_1.jpg;edible snail,Helix pomatia:0.891246497631073;snail:0.06970955431461334;
+boxes_10.jpg;
+boxes_11.jpg;edible snail,Helix pomatia:0.935494601726532;
+boxes_12.jpg;mildew:0.054016321897506714;squirrel corn,Dicentra canadensis:0.05031020566821098;
+boxes_13.jpg;
+boxes_14.jpg;thumbtack,drawing pin,pushpin:0.07964470982551575;
+boxes_15.jpg;
+boxes_16.jpg;herb,herbaceous plant:0.09250259399414062;squirrel corn,Dicentra canadensis:0.08403345942497253;
+boxes_2.jpg;crinkleroot,crinkle-root,crinkle root,pepper root,toothwort,Cardamine diphylla,Dentaria diphylla:0.10019482672214508;squirrel corn,Dicentra canadensis:0.10002510249614716;mildew:0.08836543560028076;herb,herbaceous plant:0.0643482580780983;
+boxes_3.jpg;snail:0.3083772361278534;edible snail,Helix pomatia:0.29187285900115967;garden snail:0.1127573549747467;brown snail,Helix aspersa:0.0512530580163002;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;Chinese parasol tree,Chinese parasol,Japanese varnish tree,phoenix tree,Firmiana simplex:0.0935574397444725;great ragweed,Ambrosia trifida:0.09203443676233292;
+boxes_7.jpg;snail:0.6102875471115112;edible snail,Helix pomatia:0.2853457033634186;garden snail:0.051213737577199936;
+boxes_8.jpg;pulsar:0.12204381078481674;ameba,amoeba:0.10729415714740753;photomicrograph:0.07180245965719223;
+boxes_9.jpg;edible snail,Helix pomatia:0.9298221468925476;
+img_947.jpg;snail:0.4959845244884491;edible snail,Helix pomatia:0.3252955377101898;garden snail:0.07147125154733658;brown snail,Helix aspersa:0.06723614782094955;

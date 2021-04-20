@@ -1,0 +1,10 @@
+boxes_1.jpg;jade green,jade:0.22699227929115295;verdigris:0.16674238443374634;negative:0.11040302366018295;jade vine,emerald creeper,Strongylodon macrobotrys:0.05700310692191124;
+boxes_2.jpg;club fungus:0.46955329179763794;sea green:0.06737901270389557;jade green,jade:0.05675351247191429;
+boxes_3.jpg;jade green,jade:0.31562063097953796;verdigris:0.27132487297058105;sea green:0.05512417107820511;
+boxes_4.jpg;club fungus:0.35295167565345764;jade green,jade:0.15211564302444458;sea green:0.09924972057342529;
+boxes_5.jpg;jade green,jade:0.31149739027023315;verdigris:0.3061121702194214;jade vine,emerald creeper,Strongylodon macrobotrys:0.05660561844706535;
+boxes_6.jpg;verdigris:0.39090195298194885;jade green,jade:0.23951710760593414;jade vine,emerald creeper,Strongylodon macrobotrys:0.07413499802350998;
+boxes_7.jpg;verdigris:0.4925158619880676;negative:0.11528942734003067;jade green,jade:0.08216635137796402;
+boxes_8.jpg;sea green:0.286778062582016;jade vine,emerald creeper,Strongylodon macrobotrys:0.07655923813581467;jade green,jade:0.0689556673169136;
+boxes_9.jpg;jade green,jade:0.1125003844499588;
+img_202.jpg;jade green,jade:0.43886566162109375;verdigris:0.24515633285045624;jade vine,emerald creeper,Strongylodon macrobotrys:0.06164998188614845;

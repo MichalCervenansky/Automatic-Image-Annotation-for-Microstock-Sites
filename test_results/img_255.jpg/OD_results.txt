@@ -1,0 +1,15 @@
+boxes_1.jpg;coin:0.5444533
+boxes_2.jpg;mushroom:0.25102615
+boxes_3.jpg;coin:0.22126259
+boxes_4.jpg;coin:0.21343414
+boxes_5.jpg;shellfish:0.125233
+boxes_6.jpg;food:0.09427623
+boxes_7.jpg;coin:0.09336765
+boxes_8.jpg;vegetable:0.08809235
+boxes_9.jpg;shellfish:0.07982577
+boxes_10.jpg;coin:0.07010032
+boxes_11.jpg;coin:0.0692649
+boxes_12.jpg;shellfish:0.06379328
+boxes_13.jpg;shellfish:0.060918387
+boxes_14.jpg;mushroom:0.052135363
+boxes_15.jpg;coin:0.051394038

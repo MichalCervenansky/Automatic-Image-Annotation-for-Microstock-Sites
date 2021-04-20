@@ -1,0 +1,17 @@
+boxes_1.jpg;human eye:0.96379215
+boxes_2.jpg;human hair:0.51920843
+boxes_3.jpg;human face:0.4742419
+boxes_4.jpg;woman:0.38410488
+boxes_5.jpg;girl:0.3827762
+boxes_6.jpg;girl:0.31542116
+boxes_7.jpg;woman:0.292493
+boxes_8.jpg;person:0.28799832
+boxes_9.jpg;person:0.20775667
+boxes_10.jpg;human eye:0.18958846
+boxes_11.jpg;human hair:0.18280609
+boxes_12.jpg;human hair:0.15757352
+boxes_13.jpg;human hair:0.11878546
+boxes_14.jpg;human hair:0.109311156
+boxes_15.jpg;human face:0.108538926
+boxes_16.jpg;girl:0.099168345
+boxes_17.jpg;woman:0.08521151

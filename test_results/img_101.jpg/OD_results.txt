@@ -1,0 +1,5 @@
+boxes_1.jpg;dog:0.76024055
+boxes_2.jpg;carnivore:0.656923
+boxes_3.jpg;plant:0.21802087
+boxes_4.jpg;tree:0.10734234
+boxes_5.jpg;animal:0.08785502

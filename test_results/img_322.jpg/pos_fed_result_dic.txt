@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;st;vitus;cathedral;prague;
+from_object_detection:building;tree;window;house;tower;castle;door;
+from_image_classification:flying buttress;arc-boutant;clock tower;burglar alarm;abbey;messuage;cantabrigian;guildhall;church tower;strongroom;stoop;stoep;minster;building;edifice;window;monastery;whispering gallery;whispering dome;negative;artwork;art;graphics;nontextual matter;oil paint;bell tower;round arch;squinch;dormer;dormer window;detached house;single dwelling;duplex house;duplex;semidetached house;hip tile;hipped tile;eparchy;exarchate;

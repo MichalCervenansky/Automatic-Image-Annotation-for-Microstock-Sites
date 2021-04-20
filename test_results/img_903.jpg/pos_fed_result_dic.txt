@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;vehicle registration plate;tire;tree;clothing;person;man;
+from_image_classification:vehicle;body;sedan;saloon;fomite;tailpipe;craft;spoiler;police dog;car wheel;sand wedge;convertible;cruiser;police cruiser;patrol car;police car;prowl car;squad car;racer;race car;racing car;beach wagon;station wagon;wagon;estate car;beach waggon;station waggon;waggon;shooting brake;nonsmoker;nonsmoking car;used-car;secondhand car;window seat;gas guzzler;hearse;rumble seat;windshield;windscreen;hot rod;hot-rod;coupe;rumble;flatbed;dune buggy;beach buggy;drawbar;power steering;power-assisted steering;car;elevator car;bumper guard;foglamp;bodywork;seat;trooper;state trooper;loaner;

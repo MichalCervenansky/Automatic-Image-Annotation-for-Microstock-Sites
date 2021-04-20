@@ -1,0 +1,4 @@
+boxes_1.jpg;umbel:0.8004185557365417;panicle:0.07521158456802368;
+boxes_2.jpg;panicle:0.08193701505661011;
+boxes_3.jpg;umbel:0.20017316937446594;monarch,monarch butterfly,milkweed butterfly,Danaus plexippus:0.09639739990234375;
+img_483.jpg;umbel:0.8834114074707031;

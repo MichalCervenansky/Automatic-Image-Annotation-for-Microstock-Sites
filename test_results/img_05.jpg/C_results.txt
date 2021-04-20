@@ -1,0 +1,11 @@
+boxes_1.jpg;ice,water ice:0.26942718029022217;mountain,mount:0.12633538246154785;ridge rope:0.06188648194074631;polar glacier:0.05882982909679413;volcanic crater,crater:0.05690611153841019;
+boxes_10.jpg;ridge rope:0.33743101358413696;
+boxes_2.jpg;ridge rope:0.37252840399742126;ice,water ice:0.14562925696372986;polar glacier:0.05841334909200668;alpinist:0.05367865413427353;climber:0.05012783408164978;
+boxes_3.jpg;felt fungus,Septobasidium pseudopedicellatum:0.09244892746210098;true fungus:0.05994950979948044;
+boxes_4.jpg;felt fungus,Septobasidium pseudopedicellatum:0.26427701115608215;true fungus:0.08024638146162033;
+boxes_5.jpg;ice,water ice:0.2178502082824707;snowdrift:0.18635131418704987;birdbath:0.15426035225391388;snowcap:0.10903865844011307;
+boxes_6.jpg;snowdrift:0.47404512763023376;ice,water ice:0.15750853717327118;ice mass:0.06785566359758377;
+boxes_7.jpg;mucor:0.18723182380199432;blastocyst,blastodermic vessicle:0.07141178846359253;
+boxes_8.jpg;ridge rope:0.2999120056629181;ice,water ice:0.06509710103273392;
+boxes_9.jpg;snowdrift:0.6700459122657776;ice,water ice:0.06185111775994301;
+img_05.jpg;felt fungus,Septobasidium pseudopedicellatum:0.16149654984474182;descent,declivity,fall,decline,declination,declension,downslope:0.06671183556318283;true fungus:0.06054121255874634;

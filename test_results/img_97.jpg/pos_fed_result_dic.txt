@@ -1,0 +1,3 @@
+from_image_IPTC:enormous;beautiful;lake;river;pliva;near;jajce;
+from_object_detection:tree;
+from_image_classification:breaststroker;water polo;lakeside;lakeshore;shore;foreshore;glacier;landfall;smoke screen;smokescreen;hydrogen bomb;h-bomb;fusion bomb;thermonuclear bomb;atom bomb;atomic bomb;a-bomb;fission bomb;plutonium bomb;atlantic bottlenose dolphin;tursiops truncatus;soapbox;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;waterside;riverbank;riverside;sewer;sewerage;cloaca;outfall;

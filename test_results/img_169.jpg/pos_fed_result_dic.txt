@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;young;green;leaf;
+from_object_detection:plant;flower;maple;tree;
+from_image_classification:potherb;lamb's-quarter;pigweed;wild spinach;hackberry;nettle tree;mealybug;mealy bug;tendril;petiole;leafstalk;plectranthus;caterpillar;leaf shape;leaf form;amaranthus hypochondriacus;

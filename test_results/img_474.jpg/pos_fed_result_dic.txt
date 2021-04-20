@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;big;grasshopper;
+from_object_detection:insect;food;flower;invertebrate;ant;dairy;dessert;plant;
+from_image_classification:migratory locust;locusta migratoria;grasshopper;hopper;european house cricket;acheta domestica;insect;aposematic coloration;warning coloration;guadalupe fur seal;arctocephalus philippi;adelie;adelie penguin;pygoscelis adeliae;woolly aphid;woolly plant louse;mormon cricket;anabrus simplex;pea weevil;bruchus pisorum;weevil;exoskeleton;sawyer;sawyer beetle;

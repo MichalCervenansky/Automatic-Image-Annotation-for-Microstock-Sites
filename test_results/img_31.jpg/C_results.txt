@@ -1,0 +1,17 @@
+boxes_1.jpg;mescal button,sacred mushroom,magic mushroom:0.3535265326499939;mushroom:0.26070594787597656;
+boxes_10.jpg;horse mushroom,Agaricus arvensis:0.23112693428993225;mushroom:0.21587136387825012;fairy ring,fairy circle:0.10956492274999619;meadow mushroom,field mushroom,Agaricus campestris:0.05431383103132248;
+boxes_11.jpg;grape hyacinth:0.13060680031776428;
+boxes_12.jpg;jellyfish:0.7469359040260315;
+boxes_13.jpg;mushroom:0.34913161396980286;
+boxes_14.jpg;horse mushroom,Agaricus arvensis:0.34666410088539124;fairy ring,fairy circle:0.13638439774513245;mushroom:0.07282406091690063;mescal button,sacred mushroom,magic mushroom:0.052294496446847916;
+boxes_15.jpg;mushroom:0.2946139872074127;mescal button,sacred mushroom,magic mushroom:0.21671432256698608;horse mushroom,Agaricus arvensis:0.0833638533949852;partial veil:0.05410926416516304;
+boxes_16.jpg;horse mushroom,Agaricus arvensis:0.12250090390443802;mushroom:0.11648204922676086;partial veil:0.07337362319231033;mescal button,sacred mushroom,magic mushroom:0.0726412907242775;inky cap,inky-cap mushroom,Coprinus atramentarius:0.05726455897092819;Entoloma aprile:0.052519235759973526;
+boxes_2.jpg;jellyfish:0.9736330509185791;
+boxes_3.jpg;horse mushroom,Agaricus arvensis:0.24173742532730103;mushroom:0.18857359886169434;mushroom:0.06605667620897293;fairy ring,fairy circle:0.06276801228523254;mushroom:0.05481734499335289;
+boxes_4.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.0678650438785553;dewdrop:0.06396804749965668;sea green:0.05222215875983238;
+boxes_5.jpg;
+boxes_6.jpg;cellophane:0.6230974793434143;plastic wrap:0.07672540843486786;
+boxes_7.jpg;sea green:0.10061165690422058;
+boxes_8.jpg;grape hyacinth:0.1007177010178566;
+boxes_9.jpg;mucor:0.0774155780673027;
+img_31.jpg;mushroom:0.29209446907043457;fairy ring,fairy circle:0.16504567861557007;horse mushroom,Agaricus arvensis:0.08042994886636734;mescal button,sacred mushroom,magic mushroom:0.06607822328805923;meadow mushroom,field mushroom,Agaricus campestris:0.06424655020236969;mushroom:0.05699767544865608;mushroom:0.05517267435789108;

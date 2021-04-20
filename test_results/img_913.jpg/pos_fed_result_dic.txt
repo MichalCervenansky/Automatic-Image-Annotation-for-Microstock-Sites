@@ -1,0 +1,3 @@
+from_image_IPTC:ancient;coins;purple;satin;castle;slovakia;
+from_object_detection:coin;clothing;fashion accessory;food;person;
+from_image_classification:bullion;brocade;satin;damask;taffeta;silk;organza;lace;ring;tea-strainer;halo;annulus;doughnut;anchor ring;

@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:flower;rose;
+from_image_classification:darwin tulip;cottage tulip;dwarf tulip;tulipa armena;tulipa suaveolens;french lavender;lavandula stoechas;mullein pink;rose campion;gardener's delight;dusty miller;lychnis coronaria;globe amaranth;bachelor's button;gomphrena globosa;purple;purpleness;

@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;brittle;star;ophiuroid;croatian;sea;
+from_object_detection:invertebrate;starfish;animal;lizard;insect;plant;fish;marine invertebrates;squid;rays and skates;
+from_image_classification:brittle star;brittle-star;serpent star;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;octopus;devilfish;dugong;dugong dugon;neutrophil;neutrophile;club fungus;mucor;cell;cytomegalovirus;cmv;brine shrimp;artemia salina;topminnow;poeciliid fish;poeciliid;live-bearer;ice mass;ice;water ice;zooplankton;

@@ -1,0 +1,25 @@
+boxes_1.jpg;car:0.99439347
+boxes_2.jpg;wheel:0.69232017
+boxes_3.jpg;wheel:0.674035
+boxes_4.jpg;tree:0.5926653
+boxes_5.jpg;wheel:0.53532535
+boxes_6.jpg;person:0.4116778
+boxes_7.jpg;clothing:0.2846743
+boxes_8.jpg;person:0.25597617
+boxes_9.jpg;woman:0.25031728
+boxes_10.jpg;tree:0.24419245
+boxes_11.jpg;tree:0.17765737
+boxes_12.jpg;tire:0.15970117
+boxes_13.jpg;tire:0.14802857
+boxes_14.jpg;tire:0.13704091
+boxes_15.jpg;tree:0.13051859
+boxes_16.jpg;person:0.12663546
+boxes_17.jpg;man:0.11977128
+boxes_18.jpg;human face:0.11272232
+boxes_19.jpg;plant:0.107629694
+boxes_20.jpg;plant:0.08520509
+boxes_21.jpg;human face:0.07760964
+boxes_22.jpg;tree:0.07704555
+boxes_23.jpg;tree:0.07569965
+boxes_24.jpg;person:0.06179123
+boxes_25.jpg;girl:0.057830013

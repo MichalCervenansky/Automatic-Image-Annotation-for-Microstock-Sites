@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;fountain;sprain;water;palace;gardens;sunny;day;france;
+from_object_detection:fountain;tree;boat;person;vehicle;watercraft;
+from_image_classification:ice;water ice;fountain;seaside;seaboard;hot spring;thermal spring;seashore;coast;seacoast;sea-coast;lakefront;lakeside;lakeshore;kachina;cellophane;dip;plunge;sprinkler system;geyser;sprinkler;smoke screen;smokescreen;swimming;swim;watercourse;water polo;negative;waterside;breaststroker;mineral water;riverbank;riverside;craft;water sport;aquatics;aquaplane;bronco;bronc;broncho;water-skiing;artwork;art;graphics;nontextual matter;

@@ -1,0 +1,17 @@
+boxes_1.jpg;verdigris:0.16933110356330872;lodestone,loadstone:0.11695022135972977;beard lichen,beard moss,Usnea barbata:0.07570550590753555;
+boxes_10.jpg;false scorpion,pseudoscorpion:0.15596789121627808;
+boxes_11.jpg;etamine,etamin:0.14764302968978882;
+boxes_12.jpg;beard lichen,beard moss,Usnea barbata:0.1920163929462433;verdigris:0.1450236737728119;stucco:0.08411476016044617;
+boxes_13.jpg;
+boxes_14.jpg;false scorpion,pseudoscorpion:0.2410910278558731;
+boxes_15.jpg;
+boxes_16.jpg;chalk:0.37593621015548706;verdigris:0.08194136619567871;drawing chalk:0.05887734144926071;
+boxes_2.jpg;soil,dirt:0.2326086163520813;verdigris:0.19171474874019623;
+boxes_3.jpg;verdigris:0.28008779883384705;lodestone,loadstone:0.1440112441778183;sea green:0.06302539259195328;
+boxes_4.jpg;blastocyst,blastodermic vessicle:0.16748549044132233;pulsar:0.09684676676988602;supernova:0.07270544022321701;lunar crater:0.052375029772520065;
+boxes_5.jpg;blastocyst,blastodermic vessicle:0.13842034339904785;sporozoan:0.05057625472545624;
+boxes_6.jpg;false scorpion,pseudoscorpion:0.2173018604516983;
+boxes_7.jpg;
+boxes_8.jpg;soil,dirt:0.1748112291097641;verdigris:0.07472110539674759;beard lichen,beard moss,Usnea barbata:0.05498311296105385;lodestone,loadstone:0.05228627473115921;
+boxes_9.jpg;false scorpion,pseudoscorpion:0.16072788834571838;
+img_408.jpg;verdigris:0.42154523730278015;soil,dirt:0.1039024218916893;sea green:0.06693430244922638;stucco:0.05204150453209877;

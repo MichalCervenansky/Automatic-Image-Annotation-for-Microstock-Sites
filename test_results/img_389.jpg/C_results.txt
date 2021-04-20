@@ -1,0 +1,2 @@
+boxes_1.jpg;azure,cerulean,sapphire,lazuline,sky-blue:0.35502591729164124;leaf shape,leaf form:0.25594162940979004;blue,blueness:0.10260038822889328;red maple,scarlet maple,swamp maple,Acer rubrum:0.08216466009616852;negative:0.05197608098387718;
+img_389.jpg;negative:0.6637138724327087;azure,cerulean,sapphire,lazuline,sky-blue:0.19533203542232513;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;multnomah;falls;oregon;
+from_object_detection:tree;
+from_image_classification:geological formation;formation;descent;declivity;fall;decline;declination;declension;downslope;snag;arete;grey birch;gray birch;american grey birch;american gray birch;betula populifolia;dutch elm fungus;ceratostomella ulmi;precipice;ascent;acclivity;rise;raise;climb;upgrade;rock;stone;ridge;western red cedar;red cedar;canoe cedar;thuja plicata;incense cedar;calocedrus decurrens;libocedrus decurrens;

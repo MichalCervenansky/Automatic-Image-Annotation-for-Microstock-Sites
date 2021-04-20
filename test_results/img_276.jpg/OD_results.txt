@@ -1,0 +1,12 @@
+boxes_1.jpg;airplane:0.9673314
+boxes_2.jpg;airplane:0.96188295
+boxes_3.jpg;airplane:0.9318299
+boxes_4.jpg;airplane:0.9292397
+boxes_5.jpg;airplane:0.9183959
+boxes_6.jpg;airplane:0.8863891
+boxes_7.jpg;airplane:0.8530485
+boxes_8.jpg;aircraft:0.099147975
+boxes_9.jpg;vehicle:0.07986464
+boxes_10.jpg;vehicle:0.06459869
+boxes_11.jpg;vehicle:0.05549649
+boxes_12.jpg;vehicle:0.05055289

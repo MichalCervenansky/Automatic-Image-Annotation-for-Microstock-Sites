@@ -1,0 +1,8 @@
+boxes_1.jpg;timber tree:0.14541232585906982;Australian pine,Casuarina equisetfolia:0.05984608456492424;
+boxes_2.jpg;bird:0.36532455682754517;
+boxes_3.jpg;bird:0.053592827171087265;timber tree:0.053008876740932465;
+boxes_4.jpg;snag:0.09286005795001984;timber tree:0.08262776583433151;
+boxes_5.jpg;timber tree:0.1676727682352066;gray,grayness,grey,greyness:0.07716552168130875;
+boxes_6.jpg;timber tree:0.05451745539903641;
+boxes_7.jpg;bird:0.3655325174331665;
+img_811.jpg;timber tree:0.09775151312351227;longleaf pine,pitch pine,southern yellow pine,Georgia pine,Pinus palustris:0.07993357628583908;

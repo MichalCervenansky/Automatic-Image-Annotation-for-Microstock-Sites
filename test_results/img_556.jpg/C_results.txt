@@ -1,0 +1,8 @@
+boxes_1.jpg;quilted bedspread:0.5286529660224915;quilt,comforter,comfort,puff:0.19437789916992188;pillow sham:0.06841447204351425;
+boxes_2.jpg;quilted bedspread:0.42191171646118164;quilt,comforter,comfort,puff:0.24306336045265198;pillow sham:0.12002714723348618;
+boxes_3.jpg;quilted bedspread:0.4757699966430664;pillow sham:0.19347189366817474;quilt,comforter,comfort,puff:0.17940881848335266;
+boxes_4.jpg;quilted bedspread:0.6629430055618286;patchwork,patchwork quilt:0.13092440366744995;
+boxes_5.jpg;quilted bedspread:0.5182667970657349;quilt,comforter,comfort,puff:0.16072618961334229;pillow sham:0.09428714960813522;patchwork,patchwork quilt:0.06440204381942749;
+boxes_6.jpg;quilted bedspread:0.49356570839881897;quilt,comforter,comfort,puff:0.1991071105003357;pillow sham:0.08961428701877594;
+boxes_7.jpg;quilted bedspread:0.5465682148933411;quilt,comforter,comfort,puff:0.13895238935947418;pillow sham:0.09327556937932968;
+img_556.jpg;quilted bedspread:0.43897220492362976;quilt,comforter,comfort,puff:0.28628772497177124;pillow sham:0.07425503432750702;

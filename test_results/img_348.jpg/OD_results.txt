@@ -1,0 +1,7 @@
+boxes_1.jpg;plant:0.3574819
+boxes_2.jpg;plant:0.3374548
+boxes_3.jpg;plant:0.2704517
+boxes_4.jpg;plant:0.1777959
+boxes_5.jpg;plant:0.08252195
+boxes_6.jpg;plant:0.0814118
+boxes_7.jpg;plant:0.06577849

@@ -1,0 +1,13 @@
+boxes_1.jpg;toadfish,Opsanus tau:0.31192803382873535;sea raven,Hemitripterus americanus:0.24676476418972015;lingcod,Ophiodon elongatus:0.1312520056962967;oyster fish,oyster-fish,oysterfish:0.10250724852085114;
+boxes_10.jpg;sea raven,Hemitripterus americanus:0.3513319790363312;lingcod,Ophiodon elongatus:0.14445680379867554;toadfish,Opsanus tau:0.1419287770986557;oyster fish,oyster-fish,oysterfish:0.13858680427074432;stonefish,Synanceja verrucosa:0.06496261060237885;
+boxes_11.jpg;sea raven,Hemitripterus americanus:0.254755437374115;lingcod,Ophiodon elongatus:0.23337632417678833;toadfish,Opsanus tau:0.16969746351242065;oyster fish,oyster-fish,oysterfish:0.11446606367826462;stonefish,Synanceja verrucosa:0.05590565875172615;
+boxes_12.jpg;toadfish,Opsanus tau:0.2474309504032135;lingcod,Ophiodon elongatus:0.17401795089244843;oyster fish,oyster-fish,oysterfish:0.17130033671855927;sea raven,Hemitripterus americanus:0.16153183579444885;stonefish,Synanceja verrucosa:0.05288654565811157;
+boxes_2.jpg;sea raven,Hemitripterus americanus:0.20872646570205688;toadfish,Opsanus tau:0.1879095882177353;lingcod,Ophiodon elongatus:0.17521391808986664;oyster fish,oyster-fish,oysterfish:0.16362084448337555;stonefish,Synanceja verrucosa:0.07208310067653656;
+boxes_3.jpg;blenny,combtooth blenny:0.09468761086463928;rockfish:0.07665421068668365;gudgeon,Gobio gobio:0.06394654512405396;silver perch,mademoiselle,Bairdiella chrysoura:0.05474862828850746;greenling:0.05431271716952324;
+boxes_4.jpg;sea slug,nudibranch:0.1043478325009346;common louse,Pediculus humanus:0.06598282605409622;
+boxes_5.jpg;toadfish,Opsanus tau:0.3729552924633026;oyster fish,oyster-fish,oysterfish:0.19875246286392212;sea raven,Hemitripterus americanus:0.19188721477985382;stonefish,Synanceja verrucosa:0.1123078465461731;
+boxes_6.jpg;cowfish,Lactophrys quadricornis:0.12665726244449615;loach:0.11548018455505371;young fish:0.11050769686698914;leatherjacket,leatherfish:0.052904751151800156;
+boxes_7.jpg;toadfish,Opsanus tau:0.4456402361392975;sea raven,Hemitripterus americanus:0.24208378791809082;oyster fish,oyster-fish,oysterfish:0.0837387815117836;
+boxes_8.jpg;common louse,Pediculus humanus:0.0771913006901741;pulsar:0.06968739628791809;photomicrograph:0.05725573003292084;
+boxes_9.jpg;sea raven,Hemitripterus americanus:0.17933222651481628;toadfish,Opsanus tau:0.1769835501909256;oyster fish,oyster-fish,oysterfish:0.1278606802225113;lingcod,Ophiodon elongatus:0.11518765985965729;stonefish,Synanceja verrucosa:0.0640077292919159;
+img_701.jpg;sea raven,Hemitripterus americanus:0.3227289617061615;lingcod,Ophiodon elongatus:0.2617627680301666;toadfish,Opsanus tau:0.16403192281723022;

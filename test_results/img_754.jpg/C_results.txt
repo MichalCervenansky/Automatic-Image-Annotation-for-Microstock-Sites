@@ -1,0 +1,12 @@
+boxes_1.jpg;Canterbury bell,cup and saucer,Campanula medium:0.2387881875038147;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_2.jpg;silver-bell tree,silverbell tree,snowdrop tree,opossum wood,Halesia carolina,Halesia tetraptera:0.42882511019706726;angel's trumpet,maikoa,Brugmansia arborea,Datura arborea:0.06384892761707306;shortia:0.05685960501432419;
+boxes_3.jpg;angel's trumpet,maikoa,Brugmansia arborea,Datura arborea:0.3436589539051056;angel's trumpet,Brugmansia suaveolens,Datura suaveolens:0.1917807161808014;
+boxes_4.jpg;
+boxes_5.jpg;stolon,runner,offset:0.08653441816568375;wildflower,wild flower:0.07438170909881592;angel's trumpet,maikoa,Brugmansia arborea,Datura arborea:0.052697744220495224;
+boxes_6.jpg;print:0.2779521346092224;
+boxes_7.jpg;silver-bell tree,silverbell tree,snowdrop tree,opossum wood,Halesia carolina,Halesia tetraptera:0.10071144998073578;wildflower,wild flower:0.09597122669219971;angel's trumpet,maikoa,Brugmansia arborea,Datura arborea:0.06641452759504318;
+boxes_8.jpg;angel's trumpet,Brugmansia suaveolens,Datura suaveolens:0.0654982402920723;large white petunia,Petunia axillaris:0.061941131949424744;
+boxes_9.jpg;
+img_754.jpg;angel's trumpet,maikoa,Brugmansia arborea,Datura arborea:0.1844160258769989;bud brush,bud sagebrush,Artemis spinescens:0.07746654748916626;wildflower,wild flower:0.05736963450908661;

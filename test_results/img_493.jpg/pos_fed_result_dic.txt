@@ -1,0 +1,3 @@
+from_image_IPTC:two;boats;adriatic;sea;beautiful;landscape;
+from_object_detection:boat;canoe;bird;duck;goose;
+from_image_classification:jolly boat;jolly;dinghy;dory;rowboat;small boat;hull;canoe;banana boat;shell;racing shell;skeg;outrigger;sea boat;rowing boat;snowshoe hare;snowshoe rabbit;varying hare;lepus americanus;harp seal;pagophilus groenlandicus;cockleshell;

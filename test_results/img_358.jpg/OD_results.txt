@@ -1,0 +1,13 @@
+boxes_1.jpg;window:0.8819853
+boxes_2.jpg;tree:0.87237734
+boxes_3.jpg;stairs:0.73166996
+boxes_4.jpg;building:0.6662539
+boxes_5.jpg;building:0.47537366
+boxes_6.jpg;window:0.21350984
+boxes_7.jpg;stairs:0.19295293
+boxes_8.jpg;tree:0.18053025
+boxes_9.jpg;house:0.13952574
+boxes_10.jpg;building:0.12833564
+boxes_11.jpg;house:0.12459296
+boxes_12.jpg;stairs:0.11239035
+boxes_13.jpg;house:0.05388148

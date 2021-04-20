@@ -1,0 +1,13 @@
+boxes_1.jpg;shore:0.11061063408851624;talus,scree:0.10226095467805862;strand:0.09104085713624954;riverbed,river bottom:0.08947364240884781;sandbank:0.06055979058146477;riverbank,riverside:0.05757119506597519;
+boxes_10.jpg;watercourse:0.10991282016038895;
+boxes_11.jpg;knapweed:0.09687353670597076;creeping bellflower,Campanula rapunculoides:0.07914997637271881;
+boxes_12.jpg;casting,cast:0.11406944692134857;strand:0.0913090929389;sandbank:0.08935566246509552;riverbank,riverside:0.08381578326225281;riverbed,river bottom:0.08046510815620422;shore:0.06722728908061981;
+boxes_2.jpg;watercourse:0.0681641548871994;milldam:0.052823133766651154;
+boxes_3.jpg;creeping bellflower,Campanula rapunculoides:0.14859271049499512;knapweed:0.06961533427238464;
+boxes_4.jpg;abutment:0.06655213236808777;
+boxes_5.jpg;jolly boat,jolly:0.8660127520561218;
+boxes_6.jpg;
+boxes_7.jpg;low-water mark:0.0820419192314148;littoral,litoral,littoral zone,sands:0.0781053751707077;lockage:0.0553792342543602;
+boxes_8.jpg;radio interferometer:0.3486008942127228;
+boxes_9.jpg;limeade:0.05217551812529564;margarita:0.05028881877660751;
+img_778.jpg;shore:0.16153857111930847;strand:0.15693944692611694;riverbed,river bottom:0.08877202868461609;riverbank,riverside:0.08082491904497147;

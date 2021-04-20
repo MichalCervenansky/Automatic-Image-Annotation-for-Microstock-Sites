@@ -1,0 +1,3 @@
+from_image_IPTC:historical;old;building;lvov;ukraine;
+from_object_detection:building;house;tree;tower;castle;
+from_image_classification:customhouse;customshouse;building;edifice;guildhall;pedestrian crossing;zebra crossing;skating;yard;monastery;shore;lychgate;lichgate;columbarium;cinerarium;memorial;monument;tramline;tramway;streetcar track;sport utility;sport utility vehicle;s.u.v.;suv;minivan;church tower;mosque;tank;army tank;armored combat vehicle;armoured combat vehicle;kirk;abbey;anteroom;antechamber;entrance hall;hall;foyer;lobby;vestibule;country house;mausoleum;repository;palace;

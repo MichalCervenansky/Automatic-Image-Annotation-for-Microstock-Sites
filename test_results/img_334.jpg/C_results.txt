@@ -1,0 +1,11 @@
+boxes_1.jpg;ultramarine:0.7909914255142212;
+boxes_10.jpg;plughole:0.0820336639881134;
+boxes_2.jpg;ultramarine:0.8147005438804626;blue,blueness:0.05169973149895668;
+boxes_3.jpg;blue,blueness:0.2676700949668884;ultramarine:0.2085820436477661;purplish blue,royal blue:0.2062167078256607;jello,Jell-O:0.06505167484283447;whip:0.06434601545333862;
+boxes_4.jpg;mouse button:0.09821803867816925;ellipse,oval:0.050332117825746536;
+boxes_5.jpg;peppermint,peppermint candy:0.06210538372397423;
+boxes_6.jpg;ultramarine:0.7629824280738831;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;
+img_334.jpg;purplish blue,royal blue:0.22257965803146362;jello,Jell-O:0.2073078453540802;blue,blueness:0.20577092468738556;ultramarine:0.10683812946081161;whip:0.05888007953763008;

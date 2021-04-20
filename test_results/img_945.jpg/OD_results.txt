@@ -1,0 +1,13 @@
+boxes_1.jpg;christmas tree:0.82378906
+boxes_2.jpg;flower:0.7415434
+boxes_3.jpg;flower:0.7386218
+boxes_4.jpg;flower:0.62334806
+boxes_5.jpg;flower:0.37824118
+boxes_6.jpg;flower:0.3529943
+boxes_7.jpg;lavender:0.16978724
+boxes_8.jpg;flower:0.118850544
+boxes_9.jpg;flower:0.11790003
+boxes_10.jpg;lavender:0.10328762
+boxes_11.jpg;flower:0.079440415
+boxes_12.jpg;plant:0.07037491
+boxes_13.jpg;flower:0.052113596

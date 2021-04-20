@@ -1,0 +1,3 @@
+boxes_1.jpg;rabbit:0.9921388
+boxes_2.jpg;animal:0.26872766
+boxes_3.jpg;dog:0.062172648

@@ -1,0 +1,10 @@
+boxes_1.jpg;ferry,ferryboat:0.360942006111145;guard ship:0.1434057652950287;hull:0.1317036747932434;vessel,watercraft:0.08739738166332245;
+boxes_2.jpg;luxury liner,express luxury liner:0.2323276549577713;shipping,cargo ships,merchant marine,merchant vessels:0.08910997211933136;
+boxes_3.jpg;ski lodge:0.551917552947998;seashore,coast,seacoast,sea-coast:0.07751070708036423;beach house:0.07397357374429703;oceanfront:0.06063813716173172;
+boxes_4.jpg;television,telecasting,TV,video:0.1865391731262207;monitor:0.1535339206457138;
+boxes_5.jpg;shipping,cargo ships,merchant marine,merchant vessels:0.46672576665878296;ferry,ferryboat:0.11516352742910385;
+boxes_6.jpg;shipping,cargo ships,merchant marine,merchant vessels:0.7893313765525818;vessel,watercraft:0.05072448402643204;
+boxes_7.jpg;shipping,cargo ships,merchant marine,merchant vessels:0.35741525888442993;cabin cruiser,cruiser,pleasure boat,pleasure craft:0.06412200629711151;luxury liner,express luxury liner:0.053224384784698486;
+boxes_8.jpg;shipping,cargo ships,merchant marine,merchant vessels:0.32820558547973633;ferry,ferryboat:0.058669090270996094;
+boxes_9.jpg;ferry,ferryboat:0.3865358531475067;hull:0.1370367556810379;vessel,watercraft:0.11931740492582321;guard ship:0.10239745676517487;
+img_838.jpg;ferry,ferryboat:0.5277273654937744;guard ship:0.12850408256053925;car-ferry:0.06249462813138962;vessel,watercraft:0.05501440912485123;

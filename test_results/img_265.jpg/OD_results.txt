@@ -1,0 +1,25 @@
+boxes_1.jpg;tree:0.8353329
+boxes_2.jpg;train:0.80123943
+boxes_3.jpg;tree:0.6971142
+boxes_4.jpg;tree:0.62199384
+boxes_5.jpg;land vehicle:0.54044145
+boxes_6.jpg;bus:0.26414832
+boxes_7.jpg;tree:0.24420848
+boxes_8.jpg;tree:0.23729362
+boxes_9.jpg;tree:0.23288457
+boxes_10.jpg;tree:0.22708832
+boxes_11.jpg;tree:0.21022733
+boxes_12.jpg;tree:0.15934151
+boxes_13.jpg;tree:0.1522939
+boxes_14.jpg;tree:0.15135488
+boxes_15.jpg;tree:0.134147
+boxes_16.jpg;tree:0.13378859
+boxes_17.jpg;tree:0.12971424
+boxes_18.jpg;tree:0.107134014
+boxes_19.jpg;street light:0.10506263
+boxes_20.jpg;tree:0.103474796
+boxes_21.jpg;tree:0.07585328
+boxes_22.jpg;tree:0.061130177
+boxes_23.jpg;tree:0.057732996
+boxes_24.jpg;tree:0.057536587
+boxes_25.jpg;tree:0.05335154

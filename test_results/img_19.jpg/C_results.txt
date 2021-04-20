@@ -1,0 +1,18 @@
+boxes_1.jpg;contact,contact lens:0.35040345788002014;canthus:0.28492245078086853;aphakic:0.07047822326421738;mascara:0.05129854008555412;
+boxes_10.jpg;canthus:0.5871147513389587;eyeliner:0.09934156388044357;contact,contact lens:0.07624918967485428;
+boxes_11.jpg;canthus:0.6642745733261108;contact,contact lens:0.12771061062812805;eyeliner:0.09889513999223709;
+boxes_12.jpg;canthus:0.6407631039619446;contact,contact lens:0.2323046326637268;eyeliner:0.06093244254589081;
+boxes_13.jpg;contact,contact lens:0.2758124768733978;negative:0.24387766420841217;gray,grayness,grey,greyness:0.14412212371826172;canthus:0.1065039336681366;artwork,art,graphics,nontextual matter:0.05979170650243759;
+boxes_14.jpg;canthus:0.7040479183197021;contact,contact lens:0.12905171513557434;eyeliner:0.07856405526399612;
+boxes_15.jpg;contact,contact lens:0.16866335272789001;canthus:0.15882393717765808;negative:0.15857245028018951;gray,grayness,grey,greyness:0.14480571448802948;eyeliner:0.11593449860811234;ash grey,ash gray,silver,silver grey,silver gray:0.11570607125759125;
+boxes_16.jpg;canthus:0.7284091114997864;contact,contact lens:0.11159631609916687;eyeliner:0.053754277527332306;
+boxes_17.jpg;canthus:0.6607825756072998;contact,contact lens:0.22311635315418243;
+boxes_2.jpg;gray,grayness,grey,greyness:0.3918532431125641;ash grey,ash gray,silver,silver grey,silver gray:0.1988433301448822;negative:0.15526758134365082;canthus:0.060922060161828995;
+boxes_3.jpg;canthus:0.7009440660476685;eyeliner:0.10406606644392014;contact,contact lens:0.09851296991109848;
+boxes_4.jpg;contact,contact lens:0.4075629413127899;canthus:0.15999947488307953;negative:0.1447591334581375;gray,grayness,grey,greyness:0.08113573491573334;ash grey,ash gray,silver,silver grey,silver gray:0.07256603986024857;
+boxes_5.jpg;canthus:0.3563130497932434;contact,contact lens:0.23382343351840973;gray,grayness,grey,greyness:0.09255485236644745;ash grey,ash gray,silver,silver grey,silver gray:0.06373284757137299;eyeliner:0.05951933190226555;
+boxes_6.jpg;canthus:0.4879162907600403;contact,contact lens:0.3224238455295563;eyeliner:0.0650462731719017;
+boxes_7.jpg;canthus:0.6212019324302673;contact,contact lens:0.15636765956878662;eyeliner:0.13027071952819824;
+boxes_8.jpg;canthus:0.7421647906303406;contact,contact lens:0.11127746850252151;eyeliner:0.0781862661242485;
+boxes_9.jpg;contact,contact lens:0.22092565894126892;negative:0.17669568955898285;gray,grayness,grey,greyness:0.17128886282444;canthus:0.13907980918884277;ash grey,ash gray,silver,silver grey,silver gray:0.1216120645403862;
+img_19.jpg;negative:0.3749428987503052;contact,contact lens:0.23076336085796356;ash grey,ash gray,silver,silver grey,silver gray:0.10558796674013138;gray,grayness,grey,greyness:0.09876632690429688;silverpoint:0.05827556550502777;

@@ -1,0 +1,18 @@
+boxes_1.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.5127469897270203;negative:0.08293414860963821;fan palm:0.05628596991300583;
+boxes_10.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.2846054136753082;negative:0.1936800628900528;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.0745556503534317;fan palm:0.06061392277479172;
+boxes_11.jpg;silversword,Argyroxiphium sandwicense:0.09100115299224854;
+boxes_12.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.42118027806282043;negative:0.13432922959327698;cabbage palm,Roystonea oleracea:0.06419404596090317;
+boxes_13.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.31841057538986206;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.09074635803699493;negative:0.08267026394605637;
+boxes_14.jpg;negative:0.77342289686203;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.06847231090068817;fan palm:0.053594671189785004;
+boxes_15.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.5042262077331543;negative:0.15088926255702972;
+boxes_16.jpg;negative:0.2083277404308319;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.11120928823947906;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.07659705728292465;
+boxes_17.jpg;palmetto:0.5702099800109863;
+boxes_2.jpg;palmetto:0.7321076393127441;
+boxes_3.jpg;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.18274106085300446;negative:0.07418051362037659;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.07310402393341064;palmetto:0.05285251885652542;
+boxes_4.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.24992965161800385;negative:0.22150111198425293;fan palm:0.09784054756164551;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.07552280277013779;
+boxes_5.jpg;negative:0.36862409114837646;fan palm:0.12863494455814362;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.12039712816476822;
+boxes_6.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.45296499133110046;negative:0.10552559792995453;fan palm:0.07290869206190109;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.055702000856399536;
+boxes_7.jpg;negative:0.48155781626701355;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.09752287715673447;fan palm:0.08776389062404633;
+boxes_8.jpg;negative:0.23490236699581146;ice,water ice:0.15253469347953796;
+boxes_9.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.30319780111312866;negative:0.20314238965511322;fan palm:0.09728953242301941;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.059372592717409134;
+img_188.jpg;palmyra,palmyra palm,toddy palm,wine palm,lontar,longar palm,Borassus flabellifer:0.3739584982395172;caranday,caranda,caranda palm,wax palm,Copernicia australis,Copernicia alba:0.07970546931028366;grugru,gri-gri,grugru palm,macamba,Acrocomia aculeata:0.07835172861814499;African oil palm,Elaeis guineensis:0.05573098361492157;

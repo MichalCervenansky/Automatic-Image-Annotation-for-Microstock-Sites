@@ -1,0 +1,13 @@
+boxes_1.jpg;stucco:0.19025300443172455;adobe,adobe brick:0.1813998967409134;
+boxes_10.jpg;ducking,duck hunting:0.05126265808939934;
+boxes_11.jpg;fixer-upper:0.23682980239391327;mountainside,versant:0.06523071229457855;
+boxes_12.jpg;adobe,adobe brick:0.07909222692251205;mountainside,versant:0.06943677365779877;
+boxes_2.jpg;mason,stonemason:0.13288640975952148;
+boxes_3.jpg;
+boxes_4.jpg;silver sage,silver sagebrush,grey sage,gray sage,Seriphidium canum,Artemisia cana:0.13728100061416626;rush grass,rush-grass:0.10755103081464767;fescue,fescue grass,meadow fescue,Festuca elatior:0.09642588347196579;fountain grass,Pennisetum ruppelii,Pennisetum setaceum:0.08368898183107376;tall oat grass,tall meadow grass,evergreen grass,false oat,French rye,Arrhenatherum elatius:0.06750746816396713;
+boxes_5.jpg;
+boxes_6.jpg;poop deck:0.09623322635889053;tanker,tank driver:0.08438454568386078;
+boxes_7.jpg;outrigger:0.11906018108129501;
+boxes_8.jpg;
+boxes_9.jpg;mountainside,versant:0.1494334191083908;mud brick:0.05711234733462334;adobe,adobe brick:0.0560302808880806;
+img_807.jpg;hovel,hut,hutch,shack,shanty:0.12408676743507385;

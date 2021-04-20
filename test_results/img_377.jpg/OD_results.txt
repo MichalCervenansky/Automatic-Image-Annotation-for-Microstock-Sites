@@ -1,0 +1,6 @@
+boxes_1.jpg;pig:0.9988285
+boxes_2.jpg;tree:0.4027724
+boxes_3.jpg;tree:0.29648206
+boxes_4.jpg;tree:0.11575103
+boxes_5.jpg;tree:0.051988654
+boxes_6.jpg;animal:0.05130567

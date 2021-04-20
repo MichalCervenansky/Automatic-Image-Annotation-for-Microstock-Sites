@@ -1,0 +1,8 @@
+boxes_1.jpg;silver tree,Tarrietia argyrodendron:0.2867613434791565;sea anemone,anemone:0.08353794366121292;westland pine,silver pine,Lagarostrobus colensoi:0.07186492532491684;
+boxes_2.jpg;sea anemone,anemone:0.12056958675384521;silver tree,Tarrietia argyrodendron:0.07034534215927124;westland pine,silver pine,Lagarostrobus colensoi:0.06966856122016907;smoke bush:0.06105862930417061;
+boxes_3.jpg;windshield,windscreen:0.12529098987579346;
+boxes_4.jpg;silver tree,Tarrietia argyrodendron:0.2782225012779236;sea anemone,anemone:0.08181104063987732;westland pine,silver pine,Lagarostrobus colensoi:0.05351473018527031;
+boxes_5.jpg;
+boxes_6.jpg;silver tree,Tarrietia argyrodendron:0.32651224732398987;sea anemone,anemone:0.05563011020421982;
+boxes_7.jpg;jury box:0.12440717965364456;hall:0.09964504837989807;lecture room:0.09767930209636688;
+img_149.jpg;silver tree,Tarrietia argyrodendron:0.4750632047653198;westland pine,silver pine,Lagarostrobus colensoi:0.08451549708843231;

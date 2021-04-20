@@ -1,0 +1,3 @@
+from_image_IPTC:bathroom;turkish;hotel;antalya;
+from_object_detection:sink;tap;shower;building;clothing;towel;door;countertop;plumbing fixture;bathroom accessory;window;dress;house;
+from_image_classification:basin;washbasin;handbasin;washbowl;lavabo;wash-hand basin;bathroom;bath;soap dish;shower;towel rack;towel horse;toothbrush;bathrobe;shower stall;shower bath;mixing faucet;water faucet;water tap;tap;hydrant;spigot;faucet;towel;toilet;lavatory;lav;can;john;privy;washroom;washstand;wash-hand stand;brush;windowsill;

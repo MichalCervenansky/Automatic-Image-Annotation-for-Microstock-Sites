@@ -1,0 +1,5 @@
+boxes_1.jpg;hunting dog:0.7470184564590454;bird dog:0.059479013085365295;
+boxes_2.jpg;elephant seal,sea elephant:0.39364171028137207;earless seal,true seal,hair seal:0.09060027450323105;sea lion:0.07408925890922546;
+boxes_3.jpg;Weimaraner:0.8219234347343445;
+boxes_4.jpg;nanny,nanny-goat,she-goat:0.06857381016016006;standard schnauzer:0.053768739104270935;
+img_653.jpg;hunting dog:0.5276893377304077;water dog:0.0866151675581932;housedog:0.051206618547439575;

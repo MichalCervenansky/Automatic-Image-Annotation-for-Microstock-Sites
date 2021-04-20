@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:animal;dessert;food;bread;mouse;snack;
+from_image_classification:sesame seed;benniseed;

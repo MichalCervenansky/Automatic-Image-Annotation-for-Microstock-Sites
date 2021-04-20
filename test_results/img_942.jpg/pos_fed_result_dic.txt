@@ -1,0 +1,3 @@
+from_image_IPTC:yellow;flower;indoor;shot;blurred;backround;slovakia;
+from_object_detection:flower;plant;tree;
+from_image_classification:night-blooming cereus;jade vine;emerald creeper;strongylodon macrobotrys;orchid;orchidaceous plant;blue orchid;vanda caerulea;

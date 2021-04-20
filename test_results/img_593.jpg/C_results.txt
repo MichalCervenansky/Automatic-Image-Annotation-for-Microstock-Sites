@@ -1,0 +1,7 @@
+boxes_1.jpg;mouse button:0.49847105145454407;mouse,computer mouse:0.45580410957336426;
+boxes_2.jpg;mouse,computer mouse:0.2612306773662567;computer keyboard,keypad:0.1466885358095169;data input device,input device:0.12734468281269073;keyboard:0.12454209476709366;control key,command key:0.06965611129999161;keyboard buffer:0.06941747665405273;
+boxes_3.jpg;mouse,computer mouse:0.2934719920158386;keyboard:0.17685472965240479;computer keyboard,keypad:0.1531037837266922;data input device,input device:0.09022630751132965;keyboard buffer:0.06776895374059677;control key,command key:0.05643650144338608;
+boxes_4.jpg;mouse,computer mouse:0.3142049014568329;data input device,input device:0.1301436424255371;computer keyboard,keypad:0.12313864380121231;keyboard buffer:0.1116015687584877;keyboard:0.08701486885547638;
+boxes_5.jpg;mouse,computer mouse:0.2041289508342743;keyboard:0.18788087368011475;computer keyboard,keypad:0.1445525884628296;data input device,input device:0.10976772010326385;control key,command key:0.08811791986227036;keyboard buffer:0.06938792020082474;
+boxes_6.jpg;mouse,computer mouse:0.2339325249195099;keyboard:0.21056456863880157;computer keyboard,keypad:0.18102866411209106;data input device,input device:0.09092343598604202;keyboard buffer:0.06136607378721237;control key,command key:0.0593128502368927;
+img_593.jpg;mouse,computer mouse:0.4032406210899353;computer keyboard,keypad:0.14687800407409668;keyboard:0.11609306931495667;data input device,input device:0.10341826826334;

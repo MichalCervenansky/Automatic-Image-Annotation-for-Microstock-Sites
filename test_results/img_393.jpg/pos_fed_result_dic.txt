@@ -1,0 +1,3 @@
+from_image_IPTC:small;stream;spring;nature;
+from_object_detection:tree;plant;maple;flower;
+from_image_classification:mildew;oil paint;mountainside;versant;stony coral;madrepore;madriporian coral;damselfish;demoiselle;bush;weatherman;weather forecaster;mealybug;mealy bug;branch water;irrigation ditch;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;alga;algae;

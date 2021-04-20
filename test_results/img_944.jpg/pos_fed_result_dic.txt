@@ -1,0 +1,3 @@
+from_image_IPTC:3;feets;friends;shoes;shot;classmates;
+from_object_detection:footwear;person;clothing;human leg;
+from_image_classification:shoe;running shoe;tongue;place;shoes;skateboarding;bootlace;walker;perforation;oxford;false face;saddle oxford;saddle shoe;tread;footwear;

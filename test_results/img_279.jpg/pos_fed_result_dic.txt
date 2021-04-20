@@ -1,0 +1,3 @@
+from_image_IPTC:big;civilian;aeroplane;waiting;runway;
+from_object_detection:airplane;aircraft;
+from_image_classification:aircraft;airplane;aeroplane;plane;airfield;landing field;flying field;field;fighter;fighter aircraft;attack aircraft;vertical tail;

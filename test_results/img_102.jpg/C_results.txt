@@ -1,0 +1,13 @@
+boxes_1.jpg;campanile,belfry:0.3080607056617737;memorial,monument:0.14199309051036835;repository,monument:0.08794210106134415;
+boxes_10.jpg;campanile,belfry:0.653041660785675;bell tower:0.1607009619474411;
+boxes_11.jpg;entablature:0.08319330960512161;bell gable:0.054360002279281616;
+boxes_12.jpg;
+boxes_2.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.12504146993160248;cornetfish:0.08921416848897934;
+boxes_3.jpg;building,edifice:0.1343238800764084;campanile,belfry:0.05840909481048584;quoin,coign,coigne:0.05360156297683716;
+boxes_4.jpg;brake:0.054777178913354874;rocker arm,valve rocker:0.05198325961828232;
+boxes_5.jpg;
+boxes_6.jpg;campanile,belfry:0.48698145151138306;memorial,monument:0.1278967410326004;repository,monument:0.05102171376347542;
+boxes_7.jpg;bell tower:0.45955154299736023;church tower:0.17549090087413788;campanile,belfry:0.11489807814359665;
+boxes_8.jpg;
+boxes_9.jpg;support column:0.08046431839466095;baluster:0.05376153811812401;
+img_102.jpg;campanile,belfry:0.4185967743396759;memorial,monument:0.08533847332000732;bell tower:0.08019665628671646;repository,monument:0.05905287340283394;

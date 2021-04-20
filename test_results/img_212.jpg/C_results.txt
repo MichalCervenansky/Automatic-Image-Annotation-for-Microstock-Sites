@@ -1,0 +1,12 @@
+boxes_1.jpg;English sparrow,house sparrow,Passer domesticus:0.0902298241853714;sparrow,true sparrow:0.08773110061883926;dickeybird,dickey-bird,dickybird,dicky-bird:0.08303482830524445;bulbul:0.0803610309958458;hedge sparrow,sparrow,dunnock,Prunella modularis:0.08014906197786331;fledgling,fledgeling:0.07175268232822418;
+boxes_10.jpg;
+boxes_11.jpg;English sparrow,house sparrow,Passer domesticus:0.549454391002655;dickeybird,dickey-bird,dickybird,dicky-bird:0.13908058404922485;
+boxes_2.jpg;English sparrow,house sparrow,Passer domesticus:0.649334728717804;dickeybird,dickey-bird,dickybird,dicky-bird:0.05156359076499939;
+boxes_3.jpg;English sparrow,house sparrow,Passer domesticus:0.11576154828071594;dickeybird,dickey-bird,dickybird,dicky-bird:0.058052949607372284;
+boxes_4.jpg;English sparrow,house sparrow,Passer domesticus:0.7396507263183594;
+boxes_5.jpg;bulbul:0.11853224039077759;dickeybird,dickey-bird,dickybird,dicky-bird:0.11222002655267715;English sparrow,house sparrow,Passer domesticus:0.09963692724704742;fledgling,fledgeling:0.05539790540933609;
+boxes_6.jpg;English sparrow,house sparrow,Passer domesticus:0.6432011723518372;dickeybird,dickey-bird,dickybird,dicky-bird:0.05802509933710098;
+boxes_7.jpg;English sparrow,house sparrow,Passer domesticus:0.12140167504549026;dickeybird,dickey-bird,dickybird,dicky-bird:0.08532468229532242;fledgling,fledgeling:0.06106853857636452;bulbul:0.05989476293325424;sparrow,true sparrow:0.05359441041946411;
+boxes_8.jpg;English sparrow,house sparrow,Passer domesticus:0.7085760235786438;dickeybird,dickey-bird,dickybird,dicky-bird:0.10506346076726913;
+boxes_9.jpg;mulberry,mulberry tree:0.0709577426314354;black mulberry,Morus nigra:0.06885664165019989;sycamore,sycamore fig,mulberry fig,Ficus sycomorus:0.06477469205856323;mulberry:0.051985010504722595;
+img_212.jpg;English sparrow,house sparrow,Passer domesticus:0.7140432596206665;dickeybird,dickey-bird,dickybird,dicky-bird:0.06442395597696304;

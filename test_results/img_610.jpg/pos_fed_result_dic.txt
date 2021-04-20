@@ -1,0 +1,3 @@
+from_image_IPTC:greenwich;observatory;beautiful;green;grass;clouds;landscape;
+from_object_detection:tree;building;house;window;castle;
+from_image_classification:clock tower;mansard;mansard roof;messuage;glebe house;chancellery;portico;embassy;observation dome;observatory;dome;stately home;tree of heaven;tree of the gods;ailanthus altissima;ash;ash tree;metasequoia;dawn redwood;metasequoia glyptostrodoides;ailanthus;boston ivy;japanese ivy;parthenocissus tricuspidata;building;edifice;fleet street;coachman;manor;manor house;palace;columbarium;free house;cinerarium;stained-glass window;

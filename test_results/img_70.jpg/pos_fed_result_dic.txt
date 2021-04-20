@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;vista;house;oregon;state;
+from_object_detection:tree;plant;
+from_image_classification:atoll;oxbow;shore;delta;slope;incline;side;ascent;acclivity;rise;raise;climb;upgrade;riverbed;river bottom;outfall;gorge;skin diving;skin-dive;snorkeling;snorkel diving;manatee;trichechus manatus;whale shark;rhincodon typus;barrier reef;esker;riparian forest;meander;

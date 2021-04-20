@@ -1,0 +1,11 @@
+boxes_1.jpg;animal:0.6399567
+boxes_2.jpg;fish:0.4268909
+boxes_3.jpg;fish:0.19730091
+boxes_4.jpg;sculpture:0.19373281
+boxes_5.jpg;marine invertebrates:0.13680576
+boxes_6.jpg;squid:0.11877311
+boxes_7.jpg;marine mammal:0.08616113
+boxes_8.jpg;marine mammal:0.08551912
+boxes_9.jpg;turtle:0.07210316
+boxes_10.jpg;sea turtle:0.06082985
+boxes_11.jpg;invertebrate:0.056414556

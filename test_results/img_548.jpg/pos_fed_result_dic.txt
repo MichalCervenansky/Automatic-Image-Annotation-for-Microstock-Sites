@@ -1,0 +1,3 @@
+from_image_IPTC:bad;road;winter;condition;snow;tarmac;
+from_object_detection:swimming pool;food;
+from_image_classification:flour;dough;snowdrift;powdered sugar;rolling pin;bread dough;

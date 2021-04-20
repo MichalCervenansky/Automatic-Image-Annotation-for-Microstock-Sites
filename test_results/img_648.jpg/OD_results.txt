@@ -1,0 +1,13 @@
+boxes_1.jpg;dog:0.9204138
+boxes_2.jpg;couch:0.8055909
+boxes_3.jpg;dog bed:0.29318377
+boxes_4.jpg;curtain:0.2513194
+boxes_5.jpg;furniture:0.24320652
+boxes_6.jpg;curtain:0.22300616
+boxes_7.jpg;chair:0.10803187
+boxes_8.jpg;curtain:0.08834783
+boxes_9.jpg;dog:0.06672094
+boxes_10.jpg;curtain:0.05793305
+boxes_11.jpg;dog:0.05526891
+boxes_12.jpg;studio couch:0.053885646
+boxes_13.jpg;sofa bed:0.05324253

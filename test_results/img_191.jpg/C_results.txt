@@ -1,0 +1,12 @@
+boxes_1.jpg;bitch:0.3239726722240448;watchdog,guard dog:0.2715837061405182;dog,domestic dog,Canis familiaris:0.13224990665912628;Great Pyrenees:0.07841077446937561;
+boxes_10.jpg;tree wallaby,tree kangaroo:0.2986040711402893;
+boxes_11.jpg;bitch:0.34947165846824646;dog,domestic dog,Canis familiaris:0.15709203481674194;watchdog,guard dog:0.14637380838394165;Great Pyrenees:0.08587256819009781;
+boxes_2.jpg;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;pot,flowerpot:0.10278922319412231;
+boxes_6.jpg;tree wallaby,tree kangaroo:0.20707572996616364;common staghorn fern,elkhorn fern,Platycerium bifurcatum,Platycerium alcicorne:0.09808320552110672;
+boxes_7.jpg;watchdog,guard dog:0.17523786425590515;bitch:0.09478051960468292;bone,ivory,pearl,off-white:0.08939579129219055;Great Pyrenees:0.08533541858196259;animal,animate being,beast,brute,creature,fauna:0.06417710334062576;
+boxes_8.jpg;
+boxes_9.jpg;blue point Siamese:0.06140480190515518;
+img_191.jpg;Great Pyrenees:0.861030101776123;

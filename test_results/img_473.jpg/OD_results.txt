@@ -1,0 +1,5 @@
+boxes_1.jpg;food:0.76413864
+boxes_2.jpg;animal:0.18704623
+boxes_3.jpg;animal:0.084166
+boxes_4.jpg;fish:0.06510897
+boxes_5.jpg;fish:0.06204626

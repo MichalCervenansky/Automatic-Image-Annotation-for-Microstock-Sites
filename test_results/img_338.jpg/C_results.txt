@@ -1,0 +1,7 @@
+boxes_1.jpg;dish:0.24437803030014038;arame:0.07764121890068054;batter:0.05272386968135834;
+boxes_2.jpg;dish:0.2743263840675354;ultramarine:0.07332265377044678;coloring,colouring,food coloring,food colouring,food color,food colour:0.053435396403074265;tessera:0.05101940035820007;
+boxes_3.jpg;dish:0.1918124556541443;arame:0.10858922451734543;coloring,colouring,food coloring,food colouring,food color,food colour:0.08708476275205612;garnish:0.08040781319141388;
+boxes_4.jpg;dish:0.1826765388250351;coloring,colouring,food coloring,food colouring,food color,food colour:0.12239160388708115;arame:0.067917600274086;
+boxes_5.jpg;arame:0.19435791671276093;garnish:0.08601835370063782;coloring,colouring,food coloring,food colouring,food color,food colour:0.08203859627246857;dish:0.07305353134870529;
+boxes_6.jpg;blue,blueness:0.11194934695959091;arame:0.1064780205488205;garnish:0.10164715349674225;
+img_338.jpg;dish:0.1913047581911087;jello,Jell-O:0.0558818057179451;

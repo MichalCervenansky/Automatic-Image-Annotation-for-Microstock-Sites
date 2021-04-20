@@ -1,0 +1,10 @@
+boxes_1.jpg;sailboat,sailing boat:0.3057880103588104;boat:0.24965696036815643;small boat:0.15634970366954803;
+boxes_2.jpg;small boat:0.5629556775093079;boat:0.10659019649028778;jolly boat,jolly:0.08300207555294037;dinghy,dory,rowboat:0.059075433760881424;
+boxes_3.jpg;racing boat:0.10234677791595459;wherry,Norfolk wherry:0.10209151357412338;rowing boat:0.06797219067811966;river boat:0.06795748323202133;rowing,row:0.05677010491490364;punt:0.05145299807190895;
+boxes_4.jpg;dugout canoe,dugout,pirogue:0.17377221584320068;hippopotamus,hippo,river horse,Hippopotamus amphibius:0.08710270375013351;
+boxes_5.jpg;dip,plunge:0.06285413354635239;saltpan:0.05986638367176056;
+boxes_6.jpg;
+boxes_7.jpg;rowing boat:0.11143139749765396;rowing,row:0.10598523169755936;dinghy,dory,rowboat:0.08376695215702057;racing boat:0.08335582911968231;outrigger:0.06494849920272827;wherry,Norfolk wherry:0.05562899634242058;
+boxes_8.jpg;jolly boat,jolly:0.7254605889320374;small boat:0.098342165350914;
+boxes_9.jpg;dugout canoe,dugout,pirogue:0.6516928672790527;hippopotamus,hippo,river horse,Hippopotamus amphibius:0.0561172254383564;
+img_136.jpg;sunniness:0.39755016565322876;seashore,coast,seacoast,sea-coast:0.14414994418621063;outfall:0.07459805905818939;beach:0.07081222534179688;

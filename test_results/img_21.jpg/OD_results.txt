@@ -1,0 +1,8 @@
+boxes_1.jpg;human nose:0.8271029
+boxes_2.jpg;human face:0.5269768
+boxes_3.jpg;person:0.4448942
+boxes_4.jpg;human nose:0.255141
+boxes_5.jpg;human eye:0.21831262
+boxes_6.jpg;human eye:0.13825418
+boxes_7.jpg;man:0.09111132
+boxes_8.jpg;woman:0.06507101

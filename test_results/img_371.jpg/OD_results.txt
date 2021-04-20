@@ -1,0 +1,10 @@
+boxes_1.jpg;rays and skates:0.71205187
+boxes_2.jpg;sink:0.31995723
+boxes_3.jpg;fountain:0.31844217
+boxes_4.jpg;tableware:0.28092888
+boxes_5.jpg;toilet:0.27370575
+boxes_6.jpg;vehicle:0.16567807
+boxes_7.jpg;swimming pool:0.12232302
+boxes_8.jpg;car:0.10464667
+boxes_9.jpg;plate:0.072937414
+boxes_10.jpg;mammal:0.051128827

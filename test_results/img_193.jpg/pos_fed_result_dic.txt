@@ -1,0 +1,3 @@
+from_image_IPTC:giant;ants;rocks;turkey;
+from_object_detection:ant;insect;
+from_image_classification:ant;emmet;pismire;mucor;army ant;driver ant;legionary ant;citrus mealybug;planococcus citri;cell;fire ant;myrmecophile;sanguinary ant;formica sanguinea;mediterranean fruit fly;medfly;ceratitis capitata;sinkhole;sink;swallow hole;pothole;chuckhole;

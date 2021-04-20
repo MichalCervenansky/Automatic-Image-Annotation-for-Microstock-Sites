@@ -1,0 +1,3 @@
+from_image_IPTC:leaves;rocks;carried;along;water;melted;snow;
+from_object_detection:food;dessert;baked goods;tortoise;shellfish;turtle;snack;sea turtle;
+from_image_classification:oyster shell;rock;stone;spring water;plastic wrap;plughole;ice;water ice;spume;soapsuds;suds;lather;lakeside;lakeshore;mudskipper;mudspringer;snorkel;schnorkel;schnorchel;snorkel breather;breather;branch water;watercourse;hot spring;thermal spring;

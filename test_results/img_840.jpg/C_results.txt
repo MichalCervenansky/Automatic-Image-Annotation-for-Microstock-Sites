@@ -1,0 +1,14 @@
+boxes_1.jpg;windbreak,shelterbelt:0.33758628368377686;bud brush,bud sagebrush,Artemis spinescens:0.07731978595256805;
+boxes_10.jpg;shag rug:0.3047372102737427;
+boxes_11.jpg;shag rug:0.15721356868743896;windshield,windscreen:0.07071870565414429;
+boxes_12.jpg;slope,incline,side:0.0918775126338005;knoll,mound,hillock,hummock,hammock:0.07338757812976837;frame,framing:0.054138798266649246;
+boxes_13.jpg;
+boxes_2.jpg;artemisia:0.42987462878227234;sea wormwood,Seriphidium maritimum,Artemisia maritima:0.25703164935112;sand sage,silvery wormwood,Artemisia filifolia:0.0919235348701477;western mugwort,white sage,cudweed,prairie sage,Artemisia ludoviciana,Artemisia gnaphalodes:0.05067120119929314;
+boxes_3.jpg;knoll,mound,hillock,hummock,hammock:0.3349549472332001;slope,incline,side:0.1194518581032753;spume:0.06949399411678314;seashore,coast,seacoast,sea-coast:0.05735931918025017;
+boxes_4.jpg;
+boxes_5.jpg;knoll,mound,hillock,hummock,hammock:0.09922584146261215;slope,incline,side:0.05984106287360191;riverbank,riverside:0.05356975644826889;sunniness:0.051157452166080475;
+boxes_6.jpg;color tube,colour tube,color television tube,colour television tube,color TV tube,colour TV tube:0.11344964057207108;negative:0.06880581378936768;
+boxes_7.jpg;Colorado spruce,Colorado blue spruce,silver spruce,Picea pungens:0.07264388352632523;white spruce,Picea glauca:0.054775867611169815;
+boxes_8.jpg;sand sage,silvery wormwood,Artemisia filifolia:0.14519067108631134;alder,alder tree:0.050802018493413925;
+boxes_9.jpg;incense cedar,red cedar,Calocedrus decurrens,Libocedrus decurrens:0.20876793563365936;negative:0.2057589441537857;
+img_840.jpg;lakeside,lakeshore:0.11408206820487976;knoll,mound,hillock,hummock,hammock:0.08508628606796265;slope,incline,side:0.08182357996702194;riverbank,riverside:0.0682433694601059;seashore,coast,seacoast,sea-coast:0.05434084311127663;

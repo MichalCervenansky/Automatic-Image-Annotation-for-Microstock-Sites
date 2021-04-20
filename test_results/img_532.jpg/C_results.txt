@@ -1,0 +1,11 @@
+boxes_1.jpg;purple,purpleness:0.5133209824562073;flower:0.056539494544267654;
+boxes_10.jpg;purple,purpleness:0.09585098922252655;
+boxes_2.jpg;purple,purpleness:0.45670217275619507;peony,paeony:0.056484565138816833;pink-and-white everlasting,pink paper daisy,Acroclinium roseum:0.053937699645757675;
+boxes_3.jpg;negative:0.11963848024606705;Petri dish:0.09667819738388062;
+boxes_4.jpg;purple,purpleness:0.7086213827133179;sea lavender,marsh rosemary,statice:0.06013764813542366;
+boxes_5.jpg;purple,purpleness:0.34224995970726013;peony,paeony:0.1037360429763794;sea lavender,marsh rosemary,statice:0.053536269813776016;
+boxes_6.jpg;peony,paeony:0.32061049342155457;flower:0.18859246373176575;purple,purpleness:0.16719041764736176;
+boxes_7.jpg;negative:0.10889225453138351;
+boxes_8.jpg;peony,paeony:0.5134369134902954;flower:0.13559599220752716;purple,purpleness:0.10701553523540497;
+boxes_9.jpg;purple,purpleness:0.20122379064559937;
+img_532.jpg;purple,purpleness:0.8040374517440796;

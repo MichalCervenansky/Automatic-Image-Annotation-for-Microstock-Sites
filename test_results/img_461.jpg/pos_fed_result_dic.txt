@@ -1,0 +1,3 @@
+from_image_IPTC:golden;ribbon;gift;christmas;tree;
+from_object_detection:insect;flower;fashion accessory;person;invertebrate;car;clothing;land vehicle;medical equipment;
+from_image_classification:bow;bowknot;gift wrapping;sewing needle;suture;surgical seam;riband;ribband;wrapping;wrap;wrapper;binder;ligature;knot;dental floss;floss;

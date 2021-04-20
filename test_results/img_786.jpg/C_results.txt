@@ -1,0 +1,14 @@
+boxes_1.jpg;wave,undulation:0.1318184733390808;arroyo:0.09211412072181702;gray,grayness,grey,greyness:0.09110375493764877;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.07130064815282822;
+boxes_10.jpg;chicken wire:0.19017145037651062;gray,grayness,grey,greyness:0.11181295663118362;
+boxes_11.jpg;
+boxes_12.jpg;cling film,clingfilm,Saran Wrap:0.1148320883512497;plastic bag:0.09378184378147125;cellophane:0.08314145356416702;plastic wrap:0.0701921209692955;
+boxes_13.jpg;pearl oyster,Pinctada margaritifera:0.12596909701824188;
+boxes_2.jpg;
+boxes_3.jpg;ice mass:0.08223617076873779;
+boxes_4.jpg;gray,grayness,grey,greyness:0.12770384550094604;wave,undulation:0.06766179949045181;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.054568056017160416;arroyo:0.050649844110012054;
+boxes_5.jpg;windshield,windscreen:0.1557430624961853;ice,water ice:0.12402410060167313;gray,grayness,grey,greyness:0.11706926673650742;marbleization,marbleisation,marbleizing,marbleising:0.06811422109603882;
+boxes_6.jpg;pearl oyster,Pinctada margaritifera:0.11642766743898392;
+boxes_7.jpg;gray,grayness,grey,greyness:0.1518460363149643;windshield,windscreen:0.10654488205909729;ice,water ice:0.08633486181497574;marbleization,marbleisation,marbleizing,marbleising:0.0611148402094841;
+boxes_8.jpg;
+boxes_9.jpg;marbleization,marbleisation,marbleizing,marbleising:0.07980136573314667;chicken wire:0.07115014642477036;gray,grayness,grey,greyness:0.0657607689499855;negative:0.0522318035364151;
+img_786.jpg;gray,grayness,grey,greyness:0.14029906690120697;wave,undulation:0.0952979251742363;ice mass:0.05037926882505417;

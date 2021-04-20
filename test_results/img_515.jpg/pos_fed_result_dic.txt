@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:clothing;car;toy;sports uniform;land vehicle;table;auto part;furniture;vehicle;
+from_image_classification:trunk lid;car door;gusset;gusset plate;ring;halo;annulus;doughnut;anchor ring;windshield;windscreen;key;faucet;spigot;tap;bracteole;bractlet;bling;bling bling;wristwatch;wrist watch;clasp;gas tank;gasoline tank;petrol tank;

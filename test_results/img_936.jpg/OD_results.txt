@@ -1,0 +1,19 @@
+boxes_1.jpg;tree:0.9023753
+boxes_2.jpg;tree:0.67371297
+boxes_3.jpg;tree:0.6405168
+boxes_4.jpg;tree:0.5871882
+boxes_5.jpg;tree:0.30156562
+boxes_6.jpg;tree:0.25012508
+boxes_7.jpg;tree:0.18482628
+boxes_8.jpg;house:0.14189737
+boxes_9.jpg;plant:0.1357983
+boxes_10.jpg;tree:0.123379566
+boxes_11.jpg;tree:0.08600099
+boxes_12.jpg;tree:0.07637702
+boxes_13.jpg;tree:0.07389473
+boxes_14.jpg;plant:0.07180721
+boxes_15.jpg;plant:0.061611313
+boxes_16.jpg;street light:0.061429042
+boxes_17.jpg;tree:0.05556001
+boxes_18.jpg;street light:0.05252903
+boxes_19.jpg;plant:0.052375827

@@ -1,0 +1,14 @@
+boxes_1.jpg;slope,incline,side:0.31654250621795654;talus,scree:0.3013421595096588;Dall sheep,Dall's sheep,white sheep,Ovis montana dalli:0.10077869147062302;
+boxes_10.jpg;shore:0.10265933722257614;oxbow:0.08729664236307144;
+boxes_11.jpg;
+boxes_12.jpg;slope,incline,side:0.8265775442123413;talus,scree:0.11238192766904831;
+boxes_13.jpg;shore:0.07792849838733673;oxbow:0.0639696791768074;
+boxes_2.jpg;western white pine,silver pine,mountain pine,Pinus monticola:0.1132831946015358;pitch pine,northern pitch pine,Pinus rigida:0.08045075833797455;
+boxes_3.jpg;shore:0.22116528451442719;slope,incline,side:0.06787026673555374;
+boxes_4.jpg;grey whale,gray whale,devilfish,Eschrichtius gibbosus,Eschrichtius robustus:0.14668156206607819;manatee,Trichechus manatus:0.09025827050209045;dugong,Dugong dugon:0.051794495433568954;
+boxes_5.jpg;lace bug:0.06770969182252884;
+boxes_6.jpg;talus,scree:0.11501452326774597;ascent,acclivity,rise,raise,climb,upgrade:0.08879932016134262;Alpine glacier,Alpine type of glacier:0.0790349617600441;hillside:0.06585981696844101;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.06578771024942398;ridge:0.057899732142686844;mountainside,versant:0.05294451117515564;
+boxes_7.jpg;slope,incline,side:0.8768196105957031;talus,scree:0.07887415587902069;
+boxes_8.jpg;volcanic crater,crater:0.2817479372024536;crater:0.1001591682434082;
+boxes_9.jpg;
+img_417.jpg;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.2414131909608841;ridge:0.07840536534786224;ben:0.056328658014535904;hillside:0.05247946456074715;

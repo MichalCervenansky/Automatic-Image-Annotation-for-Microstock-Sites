@@ -1,0 +1,11 @@
+boxes_1.jpg;plant:0.84305257
+boxes_2.jpg;flower:0.4863607
+boxes_3.jpg;maple:0.35773134
+boxes_4.jpg;plant:0.26106277
+boxes_5.jpg;tree:0.15662563
+boxes_6.jpg;flower:0.1183597
+boxes_7.jpg;plant:0.098776795
+boxes_8.jpg;maple:0.07722972
+boxes_9.jpg;flower:0.072426856
+boxes_10.jpg;flower:0.051290076
+boxes_11.jpg;tree:0.05004586

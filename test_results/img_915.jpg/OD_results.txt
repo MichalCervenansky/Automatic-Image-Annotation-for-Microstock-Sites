@@ -1,0 +1,9 @@
+boxes_1.jpg;lizard:0.99103546
+boxes_2.jpg;tree:0.32290372
+boxes_3.jpg;tree:0.20057009
+boxes_4.jpg;plant:0.07536157
+boxes_5.jpg;plant:0.07417159
+boxes_6.jpg;plant:0.07176993
+boxes_7.jpg;plant:0.07144716
+boxes_8.jpg;plant:0.065110244
+boxes_9.jpg;plant:0.06344934

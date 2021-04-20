@@ -1,0 +1,3 @@
+from_image_IPTC:icy;snow;green;moss;forest;macro;
+from_object_detection:plant;flower;tree;
+from_image_classification:benthos;benthic division;benthonic zone;polyp;coral;sea green;stony coral;madrepore;madriporian coral;ocean floor;sea floor;ocean bottom;seabed;sea bottom;davy jones's locker;davy jones;barrier reef;daphnia;water flea;salp;salpa;ascidian;rhizopus;microphage;ameba;amoeba;cell;supernova;microorganism;micro-organism;false scorpion;pseudoscorpion;

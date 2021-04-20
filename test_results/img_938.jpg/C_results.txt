@@ -1,0 +1,15 @@
+boxes_1.jpg;barrel vault:0.701113224029541;
+boxes_10.jpg;cloister:0.48426446318626404;colonnade:0.07463126629590988;
+boxes_11.jpg;
+boxes_12.jpg;barrel vault:0.7719987630844116;
+boxes_13.jpg;
+boxes_14.jpg;harness horse:0.06627990305423737;
+boxes_2.jpg;barrel vault:0.742327094078064;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;barrel vault:0.6416957378387451;narthex:0.10464830696582794;
+boxes_6.jpg;altar:0.24201425909996033;altar,communion table,Lord's table:0.13731668889522552;chapel:0.08777045458555222;chancel,sanctuary,bema:0.05009355768561363;
+boxes_7.jpg;rink,skating rink:0.05722229555249214;skating:0.054959286004304886;
+boxes_8.jpg;
+boxes_9.jpg;skating:0.05161687359213829;
+img_938.jpg;barrel vault:0.5877230167388916;

@@ -1,0 +1,6 @@
+boxes_1.jpg;dog:0.9897244
+boxes_2.jpg;dog:0.62936807
+boxes_3.jpg;tree:0.3837751
+boxes_4.jpg;plant:0.14221713
+boxes_5.jpg;tree:0.10175945
+boxes_6.jpg;plant:0.06271706

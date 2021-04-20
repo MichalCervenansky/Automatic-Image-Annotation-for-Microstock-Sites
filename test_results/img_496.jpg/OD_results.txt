@@ -1,0 +1,9 @@
+boxes_1.jpg;food:0.7444478
+boxes_2.jpg;snail:0.72079194
+boxes_3.jpg;shellfish:0.7131003
+boxes_4.jpg;invertebrate:0.3409951
+boxes_5.jpg;invertebrate:0.31155762
+boxes_6.jpg;shellfish:0.28793803
+boxes_7.jpg;dessert:0.10062389
+boxes_8.jpg;egg:0.09072921
+boxes_9.jpg;oyster:0.055018853

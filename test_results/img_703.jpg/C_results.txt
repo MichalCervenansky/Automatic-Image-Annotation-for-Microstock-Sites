@@ -1,0 +1,16 @@
+boxes_1.jpg;benthos,benthic division,benthonic zone:0.0851600170135498;coral reef:0.053038761019706726;
+boxes_10.jpg;benthos,benthic division,benthonic zone:0.14646050333976746;scuba diving:0.0688801184296608;benthos:0.05120448023080826;
+boxes_11.jpg;ice mass:0.060376934707164764;
+boxes_12.jpg;giant clam,Tridacna gigas:0.16442959010601044;benthos,benthic division,benthonic zone:0.10770739614963531;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.06596578657627106;octopus,devilfish:0.05407218262553215;
+boxes_13.jpg;
+boxes_14.jpg;cell:0.054935749620199203;triggerfish:0.050319403409957886;
+boxes_15.jpg;angel shark,angelfish,Squatina squatina,monkfish:0.10809999704360962;coral reef:0.05787154287099838;stonefish,Synanceja verrucosa:0.05304814130067825;
+boxes_2.jpg;snowdrift:0.06991440057754517;sledding:0.06506995111703873;
+boxes_3.jpg;young fish:0.11878029257059097;sleeper,sleeper goby:0.08467860519886017;damselfish,demoiselle:0.05631309375166893;
+boxes_4.jpg;giant clam,Tridacna gigas:0.5313032865524292;jawfish:0.052210383117198944;
+boxes_5.jpg;giant clam,Tridacna gigas:0.12336040288209915;wolffish,wolf fish,catfish:0.122176893055439;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.07999301701784134;jawfish:0.07007157057523727;
+boxes_6.jpg;giant clam,Tridacna gigas:0.14903441071510315;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1318199187517166;cornetfish:0.1083621233701706;benthos,benthic division,benthonic zone:0.07925339788198471;jawfish:0.06414154171943665;
+boxes_7.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.1789538860321045;ice,water ice:0.11202188581228256;verdigris:0.05899420380592346;
+boxes_8.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.30893608927726746;benthos,benthic division,benthonic zone:0.12200219184160233;giant clam,Tridacna gigas:0.0925697535276413;coral reef:0.07537554204463959;reef:0.06629811972379684;
+boxes_9.jpg;ocean floor,sea floor,ocean bottom,seabed,sea bottom,Davy Jones's locker,Davy Jones:0.13041804730892181;cornetfish:0.12313161045312881;benthos,benthic division,benthonic zone:0.0780329778790474;
+img_703.jpg;cornetfish:0.780920684337616;trumpetfish,Aulostomus maculatus:0.11917662620544434;

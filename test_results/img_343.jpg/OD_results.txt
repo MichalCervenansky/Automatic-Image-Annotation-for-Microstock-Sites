@@ -1,0 +1,17 @@
+boxes_1.jpg;food:0.95511913
+boxes_2.jpg;food:0.61062807
+boxes_3.jpg;platter:0.4560227
+boxes_4.jpg;plate:0.35503063
+boxes_5.jpg;tableware:0.1795742
+boxes_6.jpg;carrot:0.14079964
+boxes_7.jpg;tableware:0.13719353
+boxes_8.jpg;plate:0.10937835
+boxes_9.jpg;tableware:0.10263285
+boxes_10.jpg;boot:0.1019685
+boxes_11.jpg;fast food:0.060926482
+boxes_12.jpg;fast food:0.058529574
+boxes_13.jpg;plate:0.054130044
+boxes_14.jpg;fast food:0.053905196
+boxes_15.jpg;fast food:0.053730596
+boxes_16.jpg;carrot:0.05321737
+boxes_17.jpg;tableware:0.052842792

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;multnomah;falls;oregon;
+from_object_detection:tree;
+from_image_classification:japanese cedar;japan cedar;sugi;cryptomeria japonica;silver fir;hemlock;hemlock tree;fir;fir tree;true fir;sitka spruce;picea sitchensis;night-light;jade green;jade;western red cedar;red cedar;canoe cedar;thuja plicata;lowland fir;lowland white fir;giant fir;grand fir;abies grandis;douglas fir;arborvitae;oregon cedar;port orford cedar;lawson's cypress;lawson's cedar;chamaecyparis lawsoniana;deodar;deodar cedar;himalayan cedar;cedrus deodara;lichen;beard lichen;beard moss;usnea barbata;ancient pine;pinus longaeva;inga;

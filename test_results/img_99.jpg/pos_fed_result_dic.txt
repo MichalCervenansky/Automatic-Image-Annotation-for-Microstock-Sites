@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;red;roses;evening;sunset;
+from_object_detection:flower;sunflower;rose;tree;plant;tomato;
+from_image_classification:water violet;hottonia palustris;purple;purpleness;bird's-foot violet;pansy violet;johnny-jump-up;wood violet;viola pedata;bush violet;browallia;petunia;blue pea;butterfly pea;clitoria turnatea;rose;rosebush;tarsier;reddish purple;royal purple;grape hyacinth;rocket larkspur;consolida ambigua;delphinium ajacis;monkshood;helmetflower;helmet flower;aconitum napellus;imperial japanese morning glory;ipomoea imperialis;japanese morning glory;ipomoea nil;blue jasmine;blue jessamine;curly clematis;marsh clematis;clematis crispa;persian iris;iris persica;blue orchid;vanda caerulea;large periwinkle;vinca major;negative;clitoria mariana;

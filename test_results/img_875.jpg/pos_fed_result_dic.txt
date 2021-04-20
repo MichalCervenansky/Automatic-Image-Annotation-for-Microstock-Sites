@@ -1,0 +1,3 @@
+from_image_IPTC:landscape;river;forest;yellowstone;national;park;usa;
+from_object_detection:tree;plant;
+from_image_classification:glacier;arroyo;lakeside;lakeshore;snowdrift;pine;pine tree;true pine;western white pine;silver pine;mountain pine;pinus monticola;riverbank;riverside;riverbed;river bottom;

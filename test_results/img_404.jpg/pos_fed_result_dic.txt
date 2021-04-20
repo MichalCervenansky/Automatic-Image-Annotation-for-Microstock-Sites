@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;fly;sitting;blue;flower;
+from_object_detection:flower;insect;bee;rose;
+from_image_classification:field scabious;scabiosa arvensis;bluebottle;calliphora vicina;housefly;house fly;musca domestica;blowfly;blow fly;flesh fly;sarcophaga carnaria;globe amaranth;bachelor's button;gomphrena globosa;sea holly;sea holm;sea eryngium;eryngium maritimum;globe thistle;knapweed;showy milkweed;asclepias speciosa;honeybee;apis mellifera;purple silkweed;asclepias purpurascens;involucre;erlenmeyer flask;flask;swizzle stick;hypodermic syringe;hypodermic;hypo;graduated cylinder;scabious;scabiosa;rattlesnake master;rattlesnake's master;button snakeroot;eryngium yuccifolium;

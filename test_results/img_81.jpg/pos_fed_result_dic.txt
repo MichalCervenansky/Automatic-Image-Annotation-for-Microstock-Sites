@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;lovely;ducks;portland;centre;park;
+from_object_detection:goose;bird;animal;duck;tree;turkey;cattle;horse;camel;plant;swan;
+from_image_classification:goose;barnacle goose;barnacle;branta leucopsis;common brant goose;branta bernicla;honker;canada goose;canadian goose;branta canadensis;blue goose;chen caerulescens;gander;whistling swan;cygnus columbianus columbianus;cob;snow goose;pen;brant;brant goose;brent;brent goose;trumpeter;blackbuck;black buck;antilope cervicapra;broadtail;caracul;karakul;gemsbok;gemsbuck;oryx gazella;oryx;pasang;rhea;rhea americana;peahen;dodo;raphus cucullatus;chinese goose;anser cygnoides;ice hockey;hockey;hockey game;skating;bewick's swan;cygnus columbianus bewickii;ducking;duck hunting;quack-quack;

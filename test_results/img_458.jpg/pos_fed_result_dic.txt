@@ -1,0 +1,3 @@
+from_image_IPTC:detailed;shot;healthy;vegetable;
+from_object_detection:fruit;vegetable;tomato;apple;food;flower;plant;salad;rose;pomegranate;
+from_image_classification:easter egg;negative;candy egg;chalk;candle;taper;wax light;honeycreeper;bilberry;whortleberry;european blueberry;petri dish;vitamin pill;blue orchid;vanda caerulea;

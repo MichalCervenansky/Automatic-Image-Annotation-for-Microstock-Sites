@@ -1,0 +1,1 @@
+img_712.jpg;massif:0.26198798418045044;glacier:0.14260898530483246;range,mountain range,range of mountains,chain,mountain chain,chain of mountains:0.11434688419103622;alp:0.07419281452894211;icecap,ice cap:0.06174236908555031;

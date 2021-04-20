@@ -1,0 +1,2 @@
+boxes_1.jpg;blue daisy,blue marguerite,Felicia amelloides:0.3155633509159088;corolla:0.13078096508979797;painted daisy,pyrethrum,Tanacetum coccineum,Chrysanthemum coccineum:0.06945886462926865;
+img_424.jpg;blue daisy,blue marguerite,Felicia amelloides:0.5055752992630005;marguerite,marguerite daisy,Paris daisy,Chrysanthemum frutescens,Argyranthemum frutescens:0.07455472648143768;corolla:0.07234740257263184;painted daisy,pyrethrum,Tanacetum coccineum,Chrysanthemum coccineum:0.07118949294090271;

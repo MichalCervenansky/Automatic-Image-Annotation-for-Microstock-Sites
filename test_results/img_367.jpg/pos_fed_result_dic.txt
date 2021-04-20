@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;shot;water;drop;hitting;level;
+from_object_detection:swimming pool;jellyfish;drink;vehicle;fish;dolphin;wheel;lamp;wine glass;
+from_image_classification:gamboge;lemon;lemon yellow;maize;key;wave;undulation;

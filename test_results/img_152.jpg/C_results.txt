@@ -1,0 +1,14 @@
+boxes_1.jpg;thistledown:0.5667366981506348;cling film,clingfilm,Saran Wrap:0.07982857525348663;dendrite:0.06913750618696213;
+boxes_10.jpg;
+boxes_11.jpg;smoke screen,smokescreen:0.1308864951133728;television monitor,tv monitor:0.11915134638547897;
+boxes_12.jpg;
+boxes_13.jpg;Rediffusion:0.06156929209828377;downstage:0.057937540113925934;
+boxes_2.jpg;thistledown:0.7734091281890869;
+boxes_3.jpg;cling film,clingfilm,Saran Wrap:0.40949153900146484;windshield,windscreen:0.17298626899719238;dendrite:0.06704893708229065;
+boxes_4.jpg;thistledown:0.16452495753765106;dendrite:0.10514985769987106;trichodesmium:0.1001889780163765;paramecium,paramecia:0.07749204337596893;sporozoan:0.059795308858156204;
+boxes_5.jpg;cling film,clingfilm,Saran Wrap:0.42450377345085144;windshield,windscreen:0.19426462054252625;thistledown:0.09105830639600754;
+boxes_6.jpg;star:0.14218032360076904;gauge boson:0.10869906097650528;
+boxes_7.jpg;cling film,clingfilm,Saran Wrap:0.12175028026103973;
+boxes_8.jpg;thistledown:0.7111275792121887;dendrite:0.05323607102036476;windshield,windscreen:0.05167774111032486;
+boxes_9.jpg;triangle:0.2557893693447113;cigarette case:0.0960414707660675;dropper,eye dropper:0.05869366601109505;
+img_152.jpg;night-light:0.15578320622444153;glint:0.06951572000980377;

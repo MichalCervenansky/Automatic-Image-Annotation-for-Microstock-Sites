@@ -1,0 +1,3 @@
+from_image_IPTC:rough;sea;windsurfist;italy;holiday;horrible;wind;second;
+from_object_detection:parachute;vehicle;
+from_image_classification:parachute;chute;drogue;drogue chute;drogue parachute;bass drum;gran casa;bathing cap;swimming cap;sport kite;stunt kite;parasail;band;bracteole;bractlet;bottle-nosed whale;bottlenose whale;bottlenose;hyperoodon ampullatus;snowboard;water sport;aquatics;aquaplane;surfing;surfboarding;surfriding;seashore;coast;seacoast;sea-coast;

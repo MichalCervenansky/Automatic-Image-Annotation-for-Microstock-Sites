@@ -1,0 +1,13 @@
+boxes_1.jpg;swamp cottonwood,black cottonwood,downy poplar,swamp poplar,Populus heterophylla:0.2012697458267212;Eastern cottonwood,necklace poplar,Populus deltoides:0.17034518718719482;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.12256686389446259;tree:0.09678978472948074;black cottonwood,Western balsam poplar,Populus trichocarpa:0.08667676895856857;
+boxes_10.jpg;alpine ash,mountain oak,Eucalyptus delegatensis:0.08440817147493362;tree:0.05956533923745155;
+boxes_11.jpg;Eastern cottonwood,necklace poplar,Populus deltoides:0.14721424877643585;tree:0.1389724314212799;strangler,strangler tree:0.0847003236413002;
+boxes_12.jpg;alpine ash,mountain oak,Eucalyptus delegatensis:0.19264352321624756;tree:0.06156688556075096;
+boxes_2.jpg;Eastern cottonwood,necklace poplar,Populus deltoides:0.2747889459133148;swamp cottonwood,black cottonwood,downy poplar,swamp poplar,Populus heterophylla:0.14479662477970123;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.11847728490829468;black cottonwood,Western balsam poplar,Populus trichocarpa:0.09029915928840637;tree:0.06051952764391899;
+boxes_3.jpg;alpine ash,mountain oak,Eucalyptus delegatensis:0.23215751349925995;tree:0.07457346469163895;Eastern cottonwood,necklace poplar,Populus deltoides:0.07419167459011078;African scented mahogany,cedar mahogany,sapele mahogany,Entandrophragma cylindricum:0.06761673837900162;
+boxes_4.jpg;
+boxes_5.jpg;Eastern cottonwood,necklace poplar,Populus deltoides:0.13006596267223358;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.08282262086868286;silver tree,Tarrietia argyrodendron:0.08199651539325714;alpine ash,mountain oak,Eucalyptus delegatensis:0.07514505833387375;tree:0.05771448090672493;black birch,river birch,red birch,Betula nigra:0.05339231714606285;
+boxes_6.jpg;tree:0.190383180975914;alpine ash,mountain oak,Eucalyptus delegatensis:0.18730057775974274;silver tree,Tarrietia argyrodendron:0.08197659254074097;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.0660717710852623;gray,grayness,grey,greyness:0.05787802115082741;
+boxes_7.jpg;silver tree,Tarrietia argyrodendron:0.4333614408969879;gray,grayness,grey,greyness:0.0952085331082344;alpine ash,mountain oak,Eucalyptus delegatensis:0.05367442965507507;
+boxes_8.jpg;black beech,Nothofagus solanderi:0.0684322938323021;
+boxes_9.jpg;black beech,Nothofagus solanderi:0.08961980044841766;
+img_934.jpg;swamp cottonwood,black cottonwood,downy poplar,swamp poplar,Populus heterophylla:0.31358981132507324;black cottonwood,Western balsam poplar,Populus trichocarpa:0.1337299644947052;Eastern cottonwood,necklace poplar,Populus deltoides:0.1310184746980667;balsam poplar,hackmatack,tacamahac,Populus balsamifera:0.09635142982006073;

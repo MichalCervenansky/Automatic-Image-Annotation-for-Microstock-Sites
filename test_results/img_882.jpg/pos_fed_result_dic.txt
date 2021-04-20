@@ -1,0 +1,3 @@
+from_image_IPTC:armory;england;keep;rifles;canons;
+from_object_detection:shelf;cannon;curtain;building;furniture;cabinetry;window;bookcase;house;
+from_image_classification:baluster;plate rack;rack;shelf;railing;cannon;culverin;tap;spigot;round;unit of ammunition;one shot;armory;armoury;arsenal;parapet;breastwork;menorah;balcony;harpoon gun;instrument of torture;naval gun;pipe;tube;high-angle gun;curtain;drape;drapery;mantle;pall;lambrequin;bazooka;

@@ -1,0 +1,11 @@
+boxes_1.jpg;blackboard,chalkboard:0.9500262141227722;
+boxes_10.jpg;blackboard,chalkboard:0.9553443193435669;
+boxes_2.jpg;blackboard,chalkboard:0.9375916123390198;
+boxes_3.jpg;blackboard,chalkboard:0.9768162965774536;
+boxes_4.jpg;blackboard,chalkboard:0.9748867750167847;
+boxes_5.jpg;blackboard,chalkboard:0.9750691652297974;
+boxes_6.jpg;blackboard,chalkboard:0.9525668025016785;
+boxes_7.jpg;blackboard,chalkboard:0.9471494555473328;
+boxes_8.jpg;blackboard,chalkboard:0.9785822033882141;
+boxes_9.jpg;blackboard,chalkboard:0.9160658121109009;
+img_662.jpg;blackboard,chalkboard:0.9661265015602112;

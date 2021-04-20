@@ -1,0 +1,38 @@
+boxes_1.jpg;car:0.9687344
+boxes_2.jpg;motorcycle:0.959478
+boxes_3.jpg;person:0.6567829
+boxes_4.jpg;tree:0.6129331
+boxes_5.jpg;wheel:0.5246917
+boxes_6.jpg;wheel:0.52231836
+boxes_7.jpg;helmet:0.50241685
+boxes_8.jpg;wheel:0.4700761
+boxes_9.jpg;tire:0.4445071
+boxes_10.jpg;person:0.43309116
+boxes_11.jpg;wheel:0.4102069
+boxes_12.jpg;human face:0.38093218
+boxes_13.jpg;wheel:0.3312085
+boxes_14.jpg;wheel:0.31912926
+boxes_15.jpg;human face:0.31857982
+boxes_16.jpg;tire:0.29213336
+boxes_17.jpg;clothing:0.2659676
+boxes_18.jpg;wheel:0.22487588
+boxes_19.jpg;human head:0.18799746
+boxes_20.jpg;man:0.17345972
+boxes_21.jpg;wheel:0.1607091
+boxes_22.jpg;tire:0.15547746
+boxes_23.jpg;man:0.14708994
+boxes_24.jpg;tire:0.13448262
+boxes_25.jpg;human face:0.13132334
+boxes_26.jpg;wheel:0.11833302
+boxes_27.jpg;tire:0.11453073
+boxes_28.jpg;tire:0.10898556
+boxes_29.jpg;wheel:0.10526049
+boxes_30.jpg;tire:0.088673234
+boxes_31.jpg;wheel:0.08251078
+boxes_32.jpg;clothing:0.080035195
+boxes_33.jpg;car:0.07904907
+boxes_34.jpg;wheel:0.075468756
+boxes_35.jpg;tire:0.06543057
+boxes_36.jpg;human face:0.062297113
+boxes_37.jpg;wheel:0.056929346
+boxes_38.jpg;tire:0.054376036

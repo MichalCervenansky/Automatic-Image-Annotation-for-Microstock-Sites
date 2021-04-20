@@ -1,0 +1,3 @@
+from_image_IPTC:hotel;room;antalya;
+from_object_detection:bed;couch;nightstand;curtain;pillow;house;table;studio couch;chair;furniture;loveseat;sofa bed;building;
+from_image_classification:box spring;mattress cover;room;bedsitting room;bedsitter;bedsit;hotel room;double bed;convertible;sofa bed;accommodation;bedroom;sleeping room;sleeping accommodation;chamber;bedchamber;flatlet;master bedroom;curtain;drape;drapery;mantle;pall;eiderdown;sickroom;toilet seat;flush toilet;lavatory;platform bed;ticking;blanket;cover;sheet;bed sheet;lambrequin;voile;quilted bedspread;

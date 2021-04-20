@@ -1,0 +1,6 @@
+boxes_1.jpg;night-blooming cereus:0.8927671313285828;
+boxes_2.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.4704854488372803;orchid,orchidaceous plant:0.07273008674383163;
+boxes_3.jpg;night-blooming cereus:0.8087171912193298;
+boxes_4.jpg;night-blooming cereus:0.9073106646537781;
+boxes_5.jpg;jade vine,emerald creeper,Strongylodon macrobotrys:0.48399919271469116;
+img_942.jpg;night-blooming cereus:0.4159039855003357;blue orchid,Vanda caerulea:0.100483238697052;orchid,orchidaceous plant:0.07779853045940399;night-blooming cereus:0.072284035384655;

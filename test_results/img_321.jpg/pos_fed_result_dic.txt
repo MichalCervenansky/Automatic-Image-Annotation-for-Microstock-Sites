@@ -1,0 +1,3 @@
+from_image_IPTC:very;tasty;ice;cream;lemon;sweets;
+from_object_detection:dairy;footwear;ice cream;baked goods;shorts;man;person;clothing;dessert;flower;cake;bread;human leg;
+from_image_classification:frozen custard;soft ice cream;beggarwoman;shaving foam;cream;gendarme;ice-cream cone;pedal pusher;toreador pants;light-emitting diode;led;borage;tailwort;borago officinalis;anchusa;bugloss;alkanet;anchusa officinalis;fondant;censer;thurible;

@@ -1,0 +1,3 @@
+from_image_IPTC:fire;wood;logs;set;long;winter;texture;
+from_object_detection:coin;mushroom;shellfish;food;vegetable;
+from_image_classification:cell;ascospore;morula;embryonic cell;formative cell;petri dish;mucor;oocyte;blastocyst;blastodermic vessicle;cling film;clingfilm;saran wrap;water strider;pond-skater;water skater;garlic;ail;marshmallow;soft-shell clam;steamer;steamer clam;long-neck clam;mya arenaria;cog;sprocket;candida albicans;monilia albicans;microorganism;micro-organism;chalk;spar;lagging;percussion instrument;percussive instrument;interplanetary space;circle;lymphocyte;lymph cell;photomicrograph;microfossil;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;little;soft;flower;rocks;
+from_object_detection:flower;bird;plant;
+from_image_classification:petal;flower petal;star;negative;chinese forget-me-not;cynoglossum amabile;hound's-tongue;cynoglossum officinale;squill;dusty miller;senecio cineraria;cineraria maritima;hortensia;hydrangea macrophylla hortensis;snowdrift;

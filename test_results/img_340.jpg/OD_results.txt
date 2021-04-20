@@ -1,0 +1,8 @@
+boxes_1.jpg;food:0.63345593
+boxes_2.jpg;dairy:0.42126903
+boxes_3.jpg;dessert:0.3790867
+boxes_4.jpg;salad:0.28358695
+boxes_5.jpg;food:0.08736407
+boxes_6.jpg;baked goods:0.08512683
+boxes_7.jpg;plate:0.060268864
+boxes_8.jpg;ice cream:0.05888285

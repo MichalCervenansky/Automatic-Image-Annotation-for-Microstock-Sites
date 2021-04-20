@@ -1,0 +1,12 @@
+boxes_1.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.9008193612098694;
+boxes_10.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.8587433695793152;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.05494474247097969;
+boxes_11.jpg;toothbrush:0.3805924654006958;soup-strainer,toothbrush:0.09100423753261566;
+boxes_2.jpg;
+boxes_3.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.7091436386108398;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.08291523903608322;
+boxes_4.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.7634480595588684;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.11377529054880142;cineraria,Pericallis cruenta,Senecio cruentus:0.059860020875930786;
+boxes_5.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.8473294973373413;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.09016148000955582;
+boxes_6.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.9023289680480957;
+boxes_7.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.856401264667511;dusty miller,Centaurea cineraria,Centaurea gymnocarpa:0.09656842052936554;
+boxes_8.jpg;
+boxes_9.jpg;barrette:0.23161400854587555;hair slide:0.07872047275304794;
+img_470.jpg;dusty miller,Senecio cineraria,Cineraria maritima:0.7563156485557556;sand sage,silvery wormwood,Artemisia filifolia:0.09363388270139694;

@@ -1,0 +1,3 @@
+from_image_IPTC:under;water;shot;beautiful;rare;colorful;sea;slug;elysia;crispata;;
+from_object_detection:flower;plant;
+from_image_classification:sea slug;nudibranch;hydrozoan;hydroid;benthos;benthic division;benthonic zone;siphonophore;zooplankton;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;winter;forest;landscape;
+from_object_detection:house;tree;
+from_image_classification:lumbermill;sawmill;woodshed;skidder;snowdrift;snow thrower;snow blower;snowplow;snowplough;park bench;sunniness;piste;ski slope;

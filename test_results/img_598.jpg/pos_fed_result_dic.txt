@@ -1,0 +1,3 @@
+from_image_IPTC:stylish;black;keyboard;desk;
+from_object_detection:computer keyboard;calculator;laptop;
+from_image_classification:peripheral;computer peripheral;peripheral device;keyboard buffer;data input device;input device;backspace key;backspace;backspacer;space bar;calculator;calculating machine;keyboard;control key;command key;computer keyboard;keypad;

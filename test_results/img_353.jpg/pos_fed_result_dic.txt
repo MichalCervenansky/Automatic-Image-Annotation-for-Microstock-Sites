@@ -1,0 +1,3 @@
+from_image_IPTC:sea;shells;mud;texture;croatia;
+from_object_detection:shellfish;insect;invertebrate;animal;isopod;
+from_image_classification:scallop;scollop;escallop;scallop shell;ark shell;jawfish;whelk;soft-shell clam;steamer;steamer clam;long-neck clam;mya arenaria;cockle;oyster shell;bay scallop;pecten irradians;chlamys;color wash;colour wash;marbleization;marbleisation;marbleizing;marbleising;smooth muscle cell;lymphocyte;lymph cell;spherule;

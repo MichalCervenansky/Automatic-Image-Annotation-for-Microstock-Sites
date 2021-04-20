@@ -1,0 +1,26 @@
+boxes_1.jpg;tree:0.8918584
+boxes_2.jpg;tree:0.67778873
+boxes_3.jpg;tree:0.6428569
+boxes_4.jpg;tree:0.62099254
+boxes_5.jpg;tree:0.5756576
+boxes_6.jpg;street light:0.36358607
+boxes_7.jpg;tree:0.25320384
+boxes_8.jpg;person:0.2261908
+boxes_9.jpg;person:0.20703235
+boxes_10.jpg;person:0.16716774
+boxes_11.jpg;person:0.10704765
+boxes_12.jpg;person:0.1040699
+boxes_13.jpg;person:0.097976916
+boxes_14.jpg;person:0.07979703
+boxes_15.jpg;person:0.07612615
+boxes_16.jpg;person:0.07166111
+boxes_17.jpg;vehicle:0.06632035
+boxes_18.jpg;person:0.060831197
+boxes_19.jpg;furniture:0.058561012
+boxes_20.jpg;person:0.057349738
+boxes_21.jpg;mammal:0.05711794
+boxes_22.jpg;person:0.056186877
+boxes_23.jpg;person:0.05416968
+boxes_24.jpg;person:0.0535402
+boxes_25.jpg;person:0.052704073
+boxes_26.jpg;person:0.05011785

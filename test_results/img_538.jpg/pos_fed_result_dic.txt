@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;white;meadow;flower;morning;dew;
+from_object_detection:flower;tree;
+from_image_classification:dusty miller;senecio cineraria;cineraria maritima;silver-lace;silver lace;tanacetum ptarmiciflorum;chrysanthemum ptarmiciflorum;snow-on-the-mountain;snow-in-summer;ghost weed;euphorbia marginata;candytuft;love-in-a-mist;cerastium tomentosum;stephanotis;stock;gillyflower;

@@ -1,0 +1,15 @@
+boxes_1.jpg;motorcycle,bike:0.4818292558193207;kick starter,kick start:0.45330923795700073;
+boxes_10.jpg;cellophane:0.09678187221288681;voile:0.05313478410243988;
+boxes_11.jpg;
+boxes_12.jpg;sand wedge:0.5676468014717102;golf-club head,club head,club-head,clubhead:0.15610630810260773;putter,putting iron:0.09660471975803375;
+boxes_13.jpg;
+boxes_14.jpg;motorcycle,bike:0.7315550446510315;kick starter,kick start:0.17464570701122284;
+boxes_2.jpg;motorcycle,bike:0.7563565373420715;
+boxes_3.jpg;kick starter,kick start:0.3532918095588684;motorcycle,bike:0.25552305579185486;pillion:0.07637888938188553;
+boxes_4.jpg;kick starter,kick start:0.5390008687973022;pillion:0.0685843899846077;mudguard,splash guard,splash-guard:0.06843329221010208;saddlebag:0.05511223524808884;
+boxes_5.jpg;kick starter,kick start:0.38068491220474243;motorcycle,bike:0.29805365204811096;moped:0.06174856424331665;pillion:0.0609532967209816;
+boxes_6.jpg;kick starter,kick start:0.3355834186077118;mudguard,splash guard,splash-guard:0.1357949674129486;saddlebag:0.08120228350162506;pillion:0.0661616101861;
+boxes_7.jpg;simian:0.10145499557256699;pipal,pipal tree,pipul,peepul,sacred fig,bo tree,Ficus religiosa:0.06880809366703033;
+boxes_8.jpg;headpiece:0.3877231776714325;skid lid:0.23520708084106445;helmet:0.14227916300296783;
+boxes_9.jpg;motorcycle,bike:0.7777737379074097;kick starter,kick start:0.13413119316101074;
+img_910.jpg;motorcycle,bike:0.9200399518013;

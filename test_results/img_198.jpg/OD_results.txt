@@ -1,0 +1,11 @@
+boxes_1.jpg;tree:0.7291367
+boxes_2.jpg;plant:0.6508445
+boxes_3.jpg;ball:0.41891104
+boxes_4.jpg;tree:0.20066674
+boxes_5.jpg;tree:0.16933645
+boxes_6.jpg;tree:0.112985075
+boxes_7.jpg;plant:0.09534463
+boxes_8.jpg;plant:0.06455756
+boxes_9.jpg;plant:0.060133535
+boxes_10.jpg;plant:0.052432816
+boxes_11.jpg;egg:0.050849922

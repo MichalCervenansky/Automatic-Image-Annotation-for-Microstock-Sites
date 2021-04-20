@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;makarska;riviera;high;mountains;
+from_object_detection:
+from_image_classification:range;mountain range;range of mountains;chain;mountain chain;chain of mountains;ben;

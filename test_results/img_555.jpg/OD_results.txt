@@ -1,0 +1,14 @@
+boxes_1.jpg;bread:0.6971017
+boxes_2.jpg;baked goods:0.22775714
+boxes_3.jpg;banana:0.19082005
+boxes_4.jpg;dessert:0.14804642
+boxes_5.jpg;banana:0.13438079
+boxes_6.jpg;bread:0.117223494
+boxes_7.jpg;bread:0.10461949
+boxes_8.jpg;dessert:0.095293716
+boxes_9.jpg;bread:0.08626666
+boxes_10.jpg;food:0.085788235
+boxes_11.jpg;baked goods:0.08068084
+boxes_12.jpg;bread:0.06251309
+boxes_13.jpg;sandwich:0.058592733
+boxes_14.jpg;human face:0.058356695

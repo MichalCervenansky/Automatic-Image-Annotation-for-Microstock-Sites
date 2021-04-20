@@ -1,0 +1,30 @@
+boxes_1.jpg;fish:0.9717743
+boxes_2.jpg;fish:0.96891886
+boxes_3.jpg;fish:0.919046
+boxes_4.jpg;fish:0.90653527
+boxes_5.jpg;fish:0.879655
+boxes_6.jpg;animal:0.8478482
+boxes_7.jpg;fish:0.7191345
+boxes_8.jpg;fish:0.38444784
+boxes_9.jpg;fish:0.3495547
+boxes_10.jpg;fish:0.34320703
+boxes_11.jpg;bird:0.31448093
+boxes_12.jpg;fish:0.2798926
+boxes_13.jpg;bat:0.23269957
+boxes_14.jpg;goldfish:0.20365728
+boxes_15.jpg;fish:0.20220995
+boxes_16.jpg;animal:0.19969095
+boxes_17.jpg;fish:0.17952278
+boxes_18.jpg;human face:0.13943663
+boxes_19.jpg;fish:0.13806939
+boxes_20.jpg;bird:0.13421422
+boxes_21.jpg;goldfish:0.11595478
+boxes_22.jpg;fish:0.099079214
+boxes_23.jpg;goldfish:0.09336976
+boxes_24.jpg;fish:0.090258844
+boxes_25.jpg;fish:0.08007279
+boxes_26.jpg;human head:0.06397505
+boxes_27.jpg;goldfish:0.06313239
+boxes_28.jpg;marine invertebrates:0.05948
+boxes_29.jpg;fish:0.056666035
+boxes_30.jpg;goldfish:0.055122215

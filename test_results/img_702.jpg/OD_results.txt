@@ -1,0 +1,21 @@
+boxes_1.jpg;invertebrate:0.49356353
+boxes_2.jpg;marine invertebrates:0.43254003
+boxes_3.jpg;marine invertebrates:0.38848662
+boxes_4.jpg;marine invertebrates:0.38107446
+boxes_5.jpg;fish:0.373814
+boxes_6.jpg;marine invertebrates:0.25576666
+boxes_7.jpg;marine invertebrates:0.21038681
+boxes_8.jpg;marine invertebrates:0.19423614
+boxes_9.jpg;invertebrate:0.1836116
+boxes_10.jpg;marine invertebrates:0.1706485
+boxes_11.jpg;marine invertebrates:0.16454214
+boxes_12.jpg;fish:0.0938175
+boxes_13.jpg;marine invertebrates:0.08952098
+boxes_14.jpg;lobster:0.08431571
+boxes_15.jpg;invertebrate:0.07866108
+boxes_16.jpg;marine invertebrates:0.07863574
+boxes_17.jpg;marine invertebrates:0.0782419
+boxes_18.jpg;marine invertebrates:0.0676369
+boxes_19.jpg;fish:0.06310496
+boxes_20.jpg;goldfish:0.055478975
+boxes_21.jpg;fruit:0.054805543

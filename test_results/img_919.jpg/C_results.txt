@@ -1,0 +1,6 @@
+boxes_1.jpg;dog-day cicada,harvest fly:0.6904361248016357;cicada,cicala:0.17437458038330078;
+boxes_2.jpg;cicada,cicala:0.06251167505979538;
+boxes_3.jpg;
+boxes_4.jpg;dog-day cicada,harvest fly:0.6977013945579529;cicada,cicala:0.13145765662193298;nymph:0.05546778440475464;
+boxes_5.jpg;false scorpion,pseudoscorpion:0.286150187253952;vinegarroon,Mastigoproctus giganteus:0.21808327734470367;whip-scorpion,whip scorpion:0.09606587886810303;
+img_919.jpg;cicada,cicala:0.17410393059253693;

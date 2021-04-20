@@ -1,0 +1,16 @@
+boxes_1.jpg;car:0.9826095
+boxes_2.jpg;wheel:0.77590483
+boxes_3.jpg;wheel:0.6202702
+boxes_4.jpg;vehicle registration plate:0.32514432
+boxes_5.jpg;plant:0.3158943
+boxes_6.jpg;tire:0.28740644
+boxes_7.jpg;wheel:0.28197002
+boxes_8.jpg;auto part:0.27845183
+boxes_9.jpg;plant:0.18844749
+boxes_10.jpg;tire:0.18596949
+boxes_11.jpg;tire:0.12548503
+boxes_12.jpg;window:0.10020757
+boxes_13.jpg;car:0.09836954
+boxes_14.jpg;car:0.08899643
+boxes_15.jpg;plant:0.069454685
+boxes_16.jpg;window:0.051002286

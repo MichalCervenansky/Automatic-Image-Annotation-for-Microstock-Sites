@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;landscape;hvar;sunset;
+from_object_detection:boat;vehicle;barge;
+from_image_classification:sailboat;sailing boat;boat;small boat;jolly boat;jolly;dinghy;dory;rowboat;racing boat;wherry;norfolk wherry;rowing boat;river boat;rowing;row;punt;dugout canoe;dugout;pirogue;hippopotamus;hippo;river horse;hippopotamus amphibius;dip;plunge;saltpan;outrigger;sunniness;seashore;coast;seacoast;sea-coast;outfall;beach;

@@ -1,0 +1,5 @@
+boxes_1.jpg;invertebrate:0.6439441
+boxes_2.jpg;snail:0.62834007
+boxes_3.jpg;shellfish:0.22927466
+boxes_4.jpg;oyster:0.15675768
+boxes_5.jpg;marine invertebrates:0.08293148

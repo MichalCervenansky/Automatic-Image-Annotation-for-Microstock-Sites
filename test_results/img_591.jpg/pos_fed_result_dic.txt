@@ -1,0 +1,3 @@
+from_image_IPTC:white;smart;phone;graphite;desk;
+from_object_detection:mobile phone;ipod;tablet computer;
+from_image_classification:cellular telephone;cellular phone;cellphone;cell;mobile phone;cigarette case;lighter;light;igniter;ignitor;cigar lighter;cigarette lighter;pocket lighter;appliance;contraption;contrivance;convenience;gadget;gizmo;gismo;widget;

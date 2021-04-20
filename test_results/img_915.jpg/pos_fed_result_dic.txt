@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:lizard;tree;plant;
+from_image_classification:whiptail;whiptail lizard;racerunner;race runner;six-lined racerunner;cnemidophorus sexlineatus;western whiptail;cnemidophorus tigris;desert iguana;dipsosaurus dorsalis;earless lizard;checkered whiptail;cnemidophorus tesselatus;night lizard;western fence lizard;swift;blue-belly;sceloporus occidentalis;sagebrush lizard;sceloporus graciosus;side-blotched lizard;sand lizard;uta stansburiana;

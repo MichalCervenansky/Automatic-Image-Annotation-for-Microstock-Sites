@@ -1,0 +1,9 @@
+boxes_1.jpg;common daisy,English daisy,Bellis perennis:0.24028342962265015;Easter daisy,stemless daisy,Townsendia Exscapa:0.11443781107664108;flower:0.11386380344629288;Swan River daisy,Brachycome Iberidifolia:0.08567677438259125;seaside daisy,beach aster,Erigeron glaucous:0.08396805077791214;livingstone daisy,Dorotheanthus bellidiformis:0.07656991481781006;
+boxes_2.jpg;Easter daisy,stemless daisy,Townsendia Exscapa:0.221831813454628;seaside daisy,beach aster,Erigeron glaucous:0.10338477045297623;
+boxes_3.jpg;bottlebrush:0.12241903692483902;negative:0.05591415986418724;
+boxes_4.jpg;
+boxes_5.jpg;marguerite,marguerite daisy,Paris daisy,Chrysanthemum frutescens,Argyranthemum frutescens:0.08301909267902374;cosmos,cosmea:0.057930998504161835;
+boxes_6.jpg;daisy fleabane,Erigeron annuus:0.1817113608121872;common daisy,English daisy,Bellis perennis:0.06978669762611389;scorpionweed,scorpion weed,phacelia:0.05419540777802467;
+boxes_7.jpg;
+boxes_8.jpg;
+img_536.jpg;blue daisy,blue marguerite,Felicia amelloides:0.4039716124534607;oxeye daisy,ox-eyed daisy,marguerite,moon daisy,white daisy,Leucanthemum vulgare,Chrysanthemum leucanthemum:0.0678335651755333;marguerite,marguerite daisy,Paris daisy,Chrysanthemum frutescens,Argyranthemum frutescens:0.060163792222738266;

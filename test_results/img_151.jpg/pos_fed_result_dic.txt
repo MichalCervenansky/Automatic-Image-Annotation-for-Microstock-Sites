@@ -1,0 +1,3 @@
+from_image_IPTC:stunning;colorful;fireworks;brno;
+from_object_detection:tree;christmas tree;person;palm tree;human head;plant;
+from_image_classification:protoctist;cell;paramecium;paramecia;sea anemone;anemone;lighting;laser;optical maser;glint;tesla coil;fairy light;anthozoan;actinozoan;auditorium;smoke screen;smokescreen;copepod;copepod crustacean;benthos;sarcodinian;sarcodine;ascidian;archaebacteria;archaebacterium;archaeobacteria;archeobacteria;night-light;

@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;european;brown;eagle;roost;perch;
+from_object_detection:falcon;flowerpot;houseplant;eagle;plant;
+from_image_classification:gyrfalcon;gerfalcon;falco rusticolus;tiercel;tercel;tercelet;bird;bird of prey;raptor;raptorial bird;spark gap;

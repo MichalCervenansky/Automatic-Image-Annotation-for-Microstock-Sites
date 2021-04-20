@@ -1,0 +1,26 @@
+boxes_1.jpg;wheel:0.8614279
+boxes_2.jpg;car:0.86006176
+boxes_3.jpg;wheel:0.67450243
+boxes_4.jpg;wheel:0.6460981
+boxes_5.jpg;wheel:0.6348049
+boxes_6.jpg;tree:0.59411883
+boxes_7.jpg;truck:0.32900012
+boxes_8.jpg;tire:0.24192247
+boxes_9.jpg;tire:0.20591499
+boxes_10.jpg;person:0.19053903
+boxes_11.jpg;vehicle registration plate:0.17706141
+boxes_12.jpg;tree:0.17398359
+boxes_13.jpg;person:0.17364497
+boxes_14.jpg;tire:0.16548783
+boxes_15.jpg;window:0.16192137
+boxes_16.jpg;land vehicle:0.13264717
+boxes_17.jpg;human face:0.11451838
+boxes_18.jpg;tree:0.1135224
+boxes_19.jpg;man:0.103886016
+boxes_20.jpg;tree:0.098005146
+boxes_21.jpg;tree:0.09676967
+boxes_22.jpg;van:0.09195321
+boxes_23.jpg;human face:0.07153462
+boxes_24.jpg;wheel:0.060954608
+boxes_25.jpg;clothing:0.058933478
+boxes_26.jpg;window:0.051126182

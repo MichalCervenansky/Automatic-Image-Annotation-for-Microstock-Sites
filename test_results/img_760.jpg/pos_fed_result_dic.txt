@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;waterfalls;near;blagaj;bosna;hercegovina;
+from_object_detection:vehicle;plant;swimming pool;boat;tree;person;sports equipment;mammal;
+from_image_classification:sail;small boat;sinkhole;sink;swallow hole;adit;hole;hollow;outrigger;cavern;aerialist;sputnik;floating;natation;swimming;swim;polar glacier;ice;water ice;climber;shuttle;booster;booster rocket;booster unit;takeoff booster;takeoff rocket;outboard motorboat;outboard;lateen;lateen sail;pt boat;mosquito boat;mosquito craft;motor torpedo boat;pulp;pulp magazine;verdigris;supernova;rock;stone;window;glacier;icecap;ice cap;mantilla;branch water;geological formation;formation;welder;pothole;chuckhole;cave;cellophane;plastic wrap;plastic bag;mineshaft;

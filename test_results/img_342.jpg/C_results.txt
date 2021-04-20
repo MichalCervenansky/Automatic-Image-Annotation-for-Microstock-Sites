@@ -1,0 +1,16 @@
+boxes_1.jpg;ultramarine:0.5531451106071472;blue,blueness:0.33439454436302185;
+boxes_10.jpg;ultramarine:0.05840480327606201;
+boxes_11.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.7869277596473694;
+boxes_12.jpg;
+boxes_13.jpg;blue,blueness:0.7218968272209167;ultramarine:0.23261547088623047;
+boxes_14.jpg;ice floe,floe:0.14094433188438416;taffy:0.12931428849697113;ice mass:0.0722983330488205;
+boxes_15.jpg;blue,blueness:0.4910389482975006;ultramarine:0.3834337592124939;
+boxes_2.jpg;blue,blueness:0.4724366068840027;ultramarine:0.42678073048591614;
+boxes_3.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.6777447462081909;
+boxes_4.jpg;snorkel,schnorkel,schnorchel,snorkel breather,breather:0.08691208809614182;snorkeling,snorkel diving:0.08513271808624268;scuba diving:0.08286283910274506;aqualung,Aqua-Lung,scuba:0.057485196739435196;giant clam,Tridacna gigas:0.056030772626399994;skin diving,skin-dive:0.05329325422644615;
+boxes_5.jpg;ice floe,floe:0.17656682431697845;ice,water ice:0.1346481889486313;glacier:0.10354305058717728;
+boxes_6.jpg;aqualung,Aqua-Lung,scuba:0.10239525884389877;skin diving,skin-dive:0.08731553703546524;skin-diver,aquanaut:0.07756722718477249;giant clam,Tridacna gigas:0.07172049582004547;snorkeling,snorkel diving:0.06777267158031464;scuba diving:0.06211482360959053;
+boxes_7.jpg;Portuguese man-of-war,man-of-war,jellyfish:0.6228994727134705;
+boxes_8.jpg;jello,Jell-O:0.33576905727386475;hard candy:0.07823331654071808;mouthpiece,gumshield:0.07326935231685638;taffy:0.05664028227329254;
+boxes_9.jpg;ultramarine:0.31331583857536316;indigo:0.09194105118513107;negative:0.06419874727725983;
+img_342.jpg;blue,blueness:0.5711324214935303;ultramarine:0.357961505651474;

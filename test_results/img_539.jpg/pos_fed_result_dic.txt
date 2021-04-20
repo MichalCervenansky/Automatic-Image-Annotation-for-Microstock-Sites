@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;soft;dandelion;head;lawn;morning;dew;
+from_object_detection:flower;
+from_image_classification:common dandelion;taraxacum ruderalia;taraxacum officinale;dandelion green;flower;floret;floweret;negative;

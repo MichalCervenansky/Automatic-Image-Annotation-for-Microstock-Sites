@@ -1,0 +1,3 @@
+from_image_IPTC:piece;programming;code;ide;
+from_object_detection:mobile phone;computer monitor;scoreboard;tablet computer;poster;television;laptop;
+from_image_classification:screen;crt screen;display panel;display board;board;visual display unit;vdu;computer screen;computer display;computer system;computing system;automatic data processing system;adp system;adps;network;electronic network;

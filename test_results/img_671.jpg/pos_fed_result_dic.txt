@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;cold;winter;slovakia;country;
+from_object_detection:toilet;billboard;building;shelf;poster;furniture;bathroom accessory;window;whiteboard;bidet;door;house;table;
+from_image_classification:toilet seat;flush toilet;lavatory;potty seat;potty chair;men's room;men's;toilet bowl;screen;blackboard;chalkboard;teacher;instructor;lector;lecturer;reader;number theorist;reading teacher;postdoc;post doc;paneling;panelling;pane;toilet;lav;can;john;privy;bathroom;washroom;

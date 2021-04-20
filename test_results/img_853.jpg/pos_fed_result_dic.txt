@@ -1,0 +1,3 @@
+from_image_IPTC:turistic;road;vysoke;tatry;
+from_object_detection:tree;plant;vehicle;land vehicle;
+from_image_classification:totem pole;western white pine;silver pine;mountain pine;pinus monticola;western red cedar;red cedar;canoe cedar;thuja plicata;westland pine;lagarostrobus colensoi;tetherball;post;pole;balsam fir;balm of gilead;canada balsam;abies balsamea;split rail;fence rail;shrine;cairn;burial chamber;sepulcher;sepulchre;sepulture;tasmanian devil;ursine dasyure;sarcophilus hariisi;rock;stone;iceberg;berg;polar glacier;ice;water ice;glacier;ice mass;hillside;snag;descent;declivity;fall;decline;declination;declension;downslope;silver fir;alpine ash;mountain oak;eucalyptus delegatensis;

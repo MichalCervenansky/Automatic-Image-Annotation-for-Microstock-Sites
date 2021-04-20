@@ -1,0 +1,2 @@
+boxes_1.jpg;mobile phone:0.9928094
+boxes_2.jpg;wheel:0.07342217

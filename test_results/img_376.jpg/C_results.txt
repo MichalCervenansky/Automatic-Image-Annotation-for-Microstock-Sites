@@ -1,0 +1,12 @@
+boxes_1.jpg;wild boar,boar,Sus scrofa:0.7068326473236084;boar:0.25821107625961304;
+boxes_10.jpg;
+boxes_11.jpg;
+boxes_2.jpg;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;wild boar,boar,Sus scrofa:0.8668807148933411;boar:0.10647968202829361;
+boxes_6.jpg;
+boxes_7.jpg;
+boxes_8.jpg;
+boxes_9.jpg;
+img_376.jpg;wild boar,boar,Sus scrofa:0.91344153881073;boar:0.05300763621926308;

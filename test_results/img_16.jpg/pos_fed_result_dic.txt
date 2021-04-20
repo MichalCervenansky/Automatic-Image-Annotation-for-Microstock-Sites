@@ -1,0 +1,3 @@
+from_image_IPTC:soft;female;hand;holding;various;objects;gel;fingernails;
+from_object_detection:human hand;person;human arm;
+from_image_classification:handwear;hand wear;fingerstall;cot;finger;thumb;hand lotion;thumbhole;dermatoglyphic;finger-painting;hypodermic needle;contact;contact lens;proctologist;

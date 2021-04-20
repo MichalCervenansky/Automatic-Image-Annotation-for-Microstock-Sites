@@ -1,0 +1,9 @@
+boxes_1.jpg;choanocyte,collar cell:0.7996628284454346;sponge,poriferan,parazoan:0.16372326016426086;
+boxes_2.jpg;choanocyte,collar cell:0.8761967420578003;sponge,poriferan,parazoan:0.10688736289739609;
+boxes_3.jpg;choanocyte,collar cell:0.7824785709381104;sponge,poriferan,parazoan:0.20229974389076233;
+boxes_4.jpg;choanocyte,collar cell:0.7959410548210144;sponge,poriferan,parazoan:0.17707665264606476;
+boxes_5.jpg;mucor:0.07583483308553696;ciliate,ciliated protozoan,ciliophoran:0.06746916472911835;neutrophil,neutrophile:0.06618639081716537;
+boxes_6.jpg;
+boxes_7.jpg;choanocyte,collar cell:0.48404061794281006;tunicate,urochordate,urochord:0.20950067043304443;sponge,poriferan,parazoan:0.18412411212921143;
+boxes_8.jpg;choanocyte,collar cell:0.7882568836212158;sponge,poriferan,parazoan:0.17896583676338196;
+img_739.jpg;sponge,poriferan,parazoan:0.529560387134552;tunicate,urochordate,urochord:0.16637252271175385;choanocyte,collar cell:0.15339896082878113;sea squirt:0.07190459966659546;

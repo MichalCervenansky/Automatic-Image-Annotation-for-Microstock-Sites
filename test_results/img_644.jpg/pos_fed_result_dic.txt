@@ -1,0 +1,3 @@
+from_image_IPTC:reading;book;holiday;evening;light;
+from_object_detection:book;
+from_image_classification:book;desk dictionary;collegiate dictionary;breviary;newspaper;paper;wordbook;print media;jotter;

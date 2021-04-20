@@ -1,0 +1,3 @@
+from_image_IPTC:breathtaking;landscape;scenary;beautiful;norway;mountains;
+from_object_detection:plant;
+from_image_classification:polar glacier;crabeater seal;crab-eating seal;tundra;mountain;mount;range;mountain range;range of mountains;chain;mountain chain;chain of mountains;

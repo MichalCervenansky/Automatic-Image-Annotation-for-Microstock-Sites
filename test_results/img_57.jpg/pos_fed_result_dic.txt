@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;sunset;hrvatia;
+from_object_detection:boat;
+from_image_classification:drawknife;drawshave;razorblade;waterside;dip;plunge;sunniness;littoral;litoral;littoral zone;sands;seaside;seaboard;ocean;

@@ -1,0 +1,3 @@
+from_image_IPTC:valuable;sea;shell;slime;conch;
+from_object_detection:food;oyster;egg;shellfish;invertebrate;
+from_image_classification:powdered sugar;cannikin;ark shell;jawbreaker;bath salts;moon shell;moonshell;seasnail;cockle;saltpan;flour;spherule;

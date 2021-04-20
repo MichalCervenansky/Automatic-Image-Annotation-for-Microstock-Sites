@@ -1,0 +1,7 @@
+boxes_1.jpg;purple,purpleness:0.6192435622215271;glint:0.10460727661848068;
+boxes_2.jpg;Tesla coil:0.9971839785575867;
+boxes_3.jpg;Tesla coil:0.8188310265541077;
+boxes_4.jpg;purple,purpleness:0.41620200872421265;glint:0.1258484423160553;
+boxes_5.jpg;Tesla coil:0.9673323035240173;
+boxes_6.jpg;purple,purpleness:0.4467487633228302;glint:0.10551435500383377;
+img_641.jpg;purple,purpleness:0.4852604866027832;glint:0.09812987595796585;

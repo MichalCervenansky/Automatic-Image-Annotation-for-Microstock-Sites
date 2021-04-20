@@ -1,0 +1,11 @@
+boxes_1.jpg;black mallee,black sally,black gum,Eucalytus stellulata:0.11756355315446854;involucre:0.08162286877632141;European woolly thistle,Cirsium eriophorum:0.07585713267326355;cotton thistle,woolly thistle,Scotch thistle,Onopordum acanthium,Onopordon acanthium:0.05838070437312126;logwood,logwood tree,campeachy,bloodwood tree,Haematoxylum campechianum:0.05150391906499863;
+boxes_10.jpg;perianth,chlamys,floral envelope,perigone,perigonium:0.06901322305202484;
+boxes_2.jpg;European woolly thistle,Cirsium eriophorum:0.17659911513328552;cotton thistle,woolly thistle,Scotch thistle,Onopordum acanthium,Onopordon acanthium:0.07189920544624329;black mallee,black sally,black gum,Eucalytus stellulata:0.06312085688114166;
+boxes_3.jpg;
+boxes_4.jpg;
+boxes_5.jpg;
+boxes_6.jpg;black mallee,black sally,black gum,Eucalytus stellulata:0.2174396514892578;protea:0.09452507644891739;bract:0.054033681750297546;
+boxes_7.jpg;
+boxes_8.jpg;rhinoceros beetle:0.18560467660427094;boll weevil,Anthonomus grandis:0.15261343121528625;
+boxes_9.jpg;black mallee,black sally,black gum,Eucalytus stellulata:0.2897114157676697;protea:0.07980310171842575;
+img_489.jpg;sweet sultan,Amberboa moschata,Centaurea moschata:0.06009215489029884;involucre:0.05733070895075798;bract:0.05539677292108536;

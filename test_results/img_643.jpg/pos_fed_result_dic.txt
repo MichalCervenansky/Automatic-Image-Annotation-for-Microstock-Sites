@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;colorful;new;years;firework;sea;
+from_object_detection:tree;plant;flower;palm tree;person;
+from_image_classification:thistledown;glint;supernova;siphonophore;blackboard;chalkboard;dendrite;cell;blowtorch;torch;blowlamp;

@@ -1,0 +1,3 @@
+from_image_IPTC:
+from_object_detection:flower;rose;
+from_image_classification:indian crocus;orchid;orchidaceous plant;butterfly orchid;encyclia tampensis;epidendrum tampense;butterfly orchis;orchis papilionaceae;tangle orchid;venus' slipper;venus's slipper;venus's shoe;pansy orchid;purple;purpleness;floret;floweret;

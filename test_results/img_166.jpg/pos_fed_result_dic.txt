@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;bee;sitting;green;leaf;
+from_object_detection:bee;insect;plant;spider;
+from_image_classification:andrena;andrenid;mining bee;digger wasp;africanized bee;africanized honey bee;killer bee;apis mellifera scutellata;apis mellifera adansonii;leaf-cutting bee;leaf-cutter;leaf-cutter bee;mason bee;insect;horsefly;cleg;clegg;horse fly;horse tick;hippobosca equina;

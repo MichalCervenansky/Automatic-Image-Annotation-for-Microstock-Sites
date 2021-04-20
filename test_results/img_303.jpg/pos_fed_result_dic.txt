@@ -1,0 +1,3 @@
+from_image_IPTC:big;crab;lying;sandy;beach;norway;
+from_object_detection:crab;insect;invertebrate;beetle;
+from_image_classification:blue crab;callinectes sapidus;stone crab;menippe mercenaria;swimming crab;american lady crab;lady crab;calico crab;ovalipes ocellatus;crab;

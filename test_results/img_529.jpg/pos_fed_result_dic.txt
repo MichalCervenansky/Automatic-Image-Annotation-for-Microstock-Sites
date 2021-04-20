@@ -1,0 +1,3 @@
+from_image_IPTC:banka;slovakia;;may;62017;classic;car;motocycle;meet;ride;
+from_object_detection:car;wheel;tire;tree;truck;plant;land vehicle;
+from_image_classification:sedan;saloon;loaner;motor vehicle;automotive vehicle;conveyance;transport;used-car;secondhand car;spotlight;spot;body;cab;safety rail;guardrail;garbage truck;dustcart;flatbed;tailpipe;bumper;car tire;automobile tire;auto tire;rubber tire;foglamp;truck;motortruck;strand;dingo;warrigal;warragal;canis dingo;van;minicar;gauze;gauze bandage;toilet tissue;toilet paper;bathroom tissue;windshield;windscreen;model t;rumble seat;fifth wheel;spare;fomite;vehicle;arterial road;autobahn;superhighway;information superhighway;

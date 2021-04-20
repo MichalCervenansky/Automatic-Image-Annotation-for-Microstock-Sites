@@ -1,0 +1,4 @@
+boxes_1.jpg;sculpture:0.2431043
+boxes_2.jpg;tree:0.17406584
+boxes_3.jpg;tower:0.121336855
+boxes_4.jpg;skyscraper:0.069562234

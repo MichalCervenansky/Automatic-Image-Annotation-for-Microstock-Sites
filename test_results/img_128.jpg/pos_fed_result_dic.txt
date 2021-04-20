@@ -1,0 +1,3 @@
+from_image_IPTC:rocky;mountain;landscape;blue;sky;vysoke;tatry;
+from_object_detection:plant;tree;person;
+from_image_classification:smoke screen;smokescreen;car bomb;private;buck private;common soldier;ascent;acclivity;rise;raise;climb;upgrade;seashore;coast;seacoast;sea-coast;garbage heap;junk heap;rubbish heap;scrapheap;trash heap;junk pile;trash pile;refuse heap;alpine glacier;alpine type of glacier;glacier;ice mass;mountain;mount;lame;

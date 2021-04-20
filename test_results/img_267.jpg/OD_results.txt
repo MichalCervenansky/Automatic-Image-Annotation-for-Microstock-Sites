@@ -1,0 +1,5 @@
+boxes_1.jpg;snail:0.9846659
+boxes_2.jpg;snail:0.96624804
+boxes_3.jpg;snail:0.9348324
+boxes_4.jpg;snail:0.6476848
+boxes_5.jpg;snail:0.22156383

@@ -1,0 +1,6 @@
+boxes_1.jpg;gravel,crushed rock:0.7950888276100159;
+boxes_2.jpg;gravel,crushed rock:0.6684806942939758;
+boxes_3.jpg;gravel,crushed rock:0.7356926202774048;spume:0.1173601895570755;
+boxes_4.jpg;spume:0.5038061738014221;
+boxes_5.jpg;
+img_473.jpg;gravel,crushed rock:0.8423406481742859;

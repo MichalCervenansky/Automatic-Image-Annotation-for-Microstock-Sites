@@ -1,0 +1,3 @@
+from_image_IPTC:beautiful;female;girl;women;eye;
+from_object_detection:human eye;human hair;human face;woman;girl;person;
+from_image_classification:contact;contact lens;canthus;aphakic;mascara;eyeliner;negative;gray;grayness;grey;greyness;artwork;art;graphics;nontextual matter;ash grey;ash gray;silver;silver grey;silver gray;silverpoint;

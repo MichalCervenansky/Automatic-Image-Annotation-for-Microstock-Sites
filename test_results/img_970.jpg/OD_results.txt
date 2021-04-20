@@ -1,0 +1,8 @@
+boxes_1.jpg;plant:0.43072584
+boxes_2.jpg;street light:0.29002368
+boxes_3.jpg;tree:0.23002447
+boxes_4.jpg;person:0.22932142
+boxes_5.jpg;street light:0.16245373
+boxes_6.jpg;plant:0.103426516
+boxes_7.jpg;plant:0.06526674
+boxes_8.jpg;marine invertebrates:0.061228298

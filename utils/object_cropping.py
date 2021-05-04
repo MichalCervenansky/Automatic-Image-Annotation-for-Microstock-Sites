@@ -10,7 +10,7 @@ def prepare_crop(im_width, im_height, box):
     ymin, xmin, ymax, xmax = tuple(box)
     margin = 50
     left, right, top, bottom = (round(xmin * im_width - margin), round(xmax * im_width + margin),
-                                round(ymin * im_height + margin), round(ymax * im_height - margin))
+                                round(ymin * im_height - margin), round(ymax * im_height + margin))
     box_width = right - left
     box_height = bottom - top
     if box_width > box_height:

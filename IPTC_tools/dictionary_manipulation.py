@@ -4,9 +4,10 @@ def build_dic(file):
         first_file = [line.rstrip() for line in f]
         for line in first_file:
             name_keywords = line.split(":")
-            keyword_set = set(name_keywords[1].split(";"))
-            keyword_set.remove('')
-            dictionary[name_keywords[0]] = keyword_set
+            keyword_list = name_keywords[1].split(";")
+            if '' in keyword_list:
+                keyword_list.remove('')
+            dictionary[name_keywords[0]] = keyword_list
     return dictionary
 
 

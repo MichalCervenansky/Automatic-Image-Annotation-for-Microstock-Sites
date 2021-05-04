@@ -18,7 +18,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
                 fed_list += OD_dic[os.path.basename(image)]
             if c.USE_CL:
                 fed_list += C_dic[os.path.basename(image)]
-            fed = ' '.join([str(elem) for elem in fed_list])
+            fed = ';'.join([str(elem) for elem in fed_list])
         else:
             fed = load_big_image_feedback()
         box_url = c.URL_WITH_PARAMS

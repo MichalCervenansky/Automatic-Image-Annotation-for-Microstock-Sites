@@ -18,7 +18,7 @@ def clasify(images, module):
     converted_images = convert_image(images)  # A batch of images with shape [batch_size, height, width, 3].
     logits = module(converted_images)  # Logits with shape [batch_size, 21843].
     probabilities = tf.nn.softmax(logits)
-    classes = open(os.path.join("resources", "NN_models", "imagenet21k_wordnet_lemmas.txt"), "r").readlines()
+    classes = open(os.path.join("resources", "NN_models", "ImageNetLabels21k.txt"), "r").readlines()
 
     data = dict()
     data["Class"] = classes

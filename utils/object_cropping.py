@@ -8,7 +8,7 @@ import configuration as c
 # Out of bound will be deal with later using
 def prepare_crop(im_width, im_height, box):
     ymin, xmin, ymax, xmax = tuple(box)
-    margin = 100
+    margin = 50
     left, right, top, bottom = (round(xmin * im_width - margin), round(xmax * im_width + margin),
                                 round(ymin * im_height + margin), round(ymax * im_height - margin))
     box_width = right - left

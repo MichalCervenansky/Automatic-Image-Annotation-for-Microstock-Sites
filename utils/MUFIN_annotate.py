@@ -13,17 +13,17 @@ def get_mufin_anotation(image, C_dic, OD_dic):
     with open(tmp_image, "rb") as f:
         opened_binary_file = f.read()
         if "box_" in image:
-            fed_list = []
+            seed_list = []
             if c.USE_OD:
-                fed_list += OD_dic[os.path.basename(image)]
+                seed_list += OD_dic[os.path.basename(image)]
             if c.USE_CL:
-                fed_list += C_dic[os.path.basename(image)]
-            fed = ';'.join([str(elem) for elem in fed_list])
+                seed_list += C_dic[os.path.basename(image)]
+            seed = ';'.join([str(elem) for elem in seed_list])
         else:
-            fed = load_big_image_feedback()
+            seed = load_big_image_feedback()
         box_url = c.URL_WITH_PARAMS
-        if fed:
-            box_url += "&keywords=" + fed
+        if seed:
+            box_url += "&keywords=" + seed
         req_response = requests.get(box_url, data=opened_binary_file)
         while req_response.status_code != 200:
             req_response = requests.get(box_url, data=opened_binary_file)

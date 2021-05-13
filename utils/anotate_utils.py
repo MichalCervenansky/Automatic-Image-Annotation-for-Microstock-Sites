@@ -30,7 +30,7 @@ def pop_up():
 def prep_boxes():
     boxes = []
     for filename in os.listdir(c.TEMP_PATH):
-        if filename.startswith("boxes") and filename.endswith(".jpg"):
+        if filename.startswith("box") and filename.endswith(".jpg"):
             boxes.append(c.TEMP_PATH + filename)
     return boxes
 

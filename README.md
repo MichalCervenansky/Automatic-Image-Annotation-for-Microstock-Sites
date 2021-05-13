@@ -5,6 +5,8 @@ Application serves for automatic image annotation, mainly for microstock website
 * Classification by [BiT-M model trained on ImageNet-21k](https://tfhub.dev/google/bit/m-r152x4/imagenet21k_classification/1) of image itself and objects detected in previous step
 * Completing keywords using [MUFIN annotation framework](http://disa.fi.muni.cz/demo/image-annotation/) with using keywords from previous steps as seed keywords to improve results
 
+![alt text](https://github.com/MichalCervenansky/Automatic-image-annotation-for-microstock-sites/blob/main/diagram.png?raw=true "Annotation pipeline diagram. Blue color represents data elements and red represents processes or methods")
+
 ## Instalation:
 * Clone or download this repository from Github
 * Install [Python](https://www.python.org/) and [pip](https://pypi.org/project/pip/), tested with Python 3.6 and 3.7 other version might cause problems

@@ -1,8 +1,8 @@
 from PIL import Image
 from IPTC_tools.dictionary_manipulation import write_dic
-from Positive_feedback.load_from_image import PF_from_IPTC
-from Positive_feedback.object_detection import run_detector
-from Positive_feedback.image_classification import clasify
+from Seed_keywords.load_from_image import PF_from_IPTC
+from Seed_keywords.object_detection import run_detector
+from Seed_keywords.image_classification import clasify
 import tkinter as tk
 from tkinter import filedialog
 import os
@@ -67,7 +67,7 @@ def build_PF(path_to_image, OD_module, C_module):
         result_list += res
 
     result_list = unique(result_list)
-    write_dic(positive_feedback, c.TEMP_PATH + "pos_fed_result_dic.txt")
+    write_dic(positive_feedback, c.TEMP_PATH + "seed_keywords_result_dic.txt")
     return result_list
 
 
@@ -79,7 +79,7 @@ def parse_muffin_annotation(data):
 
 
 def load_big_image_feedback():
-    with open(c.TEMP_PATH + "pos_fed_result.txt", 'r') as file:
+    with open(c.TEMP_PATH + "seed_keywords_result.txt", 'r') as file:
         fed = file.read().replace('\n', ';')
     return fed[:-1]
 

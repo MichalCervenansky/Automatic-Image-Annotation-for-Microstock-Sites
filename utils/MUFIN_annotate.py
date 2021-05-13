@@ -12,7 +12,7 @@ def get_mufin_anotation(image, C_dic, OD_dic):
     tmp_image = resize_as_binary_image(image)
     with open(tmp_image, "rb") as f:
         opened_binary_file = f.read()
-        if "boxes_" in image:
+        if "box" in image:
             fed_list = []
             if c.USE_OD:
                 fed_list += OD_dic[os.path.basename(image)]

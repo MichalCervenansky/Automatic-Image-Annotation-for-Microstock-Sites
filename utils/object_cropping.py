@@ -48,4 +48,4 @@ def crop_out_boxes(image, boxes):
         i += 1
         left, right, top, bottom = prepare_crop(im_width, im_height, box)
         crop_img = Image.fromarray(image[top:bottom, left:right])
-        crop_img.save(c.TEMP_PATH + 'boxes_' + str(i) + '.jpg')
+        crop_img.save(c.TEMP_PATH + 'box_' + str(i) + '.jpg')

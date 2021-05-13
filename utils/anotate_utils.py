@@ -49,25 +49,25 @@ def process_keywords(iterable):
     return unique(list(map(str.lower, iterable)))
 
 
-def build_PF(path_to_image, OD_module, C_module):
-    positive_feedback = {}
+def build_seeds(path_to_image, OD_module, C_module):
+    seeds = {}
     result_list = []
     if c.USE_IPTC:
         res = process_keywords(PF_from_IPTC(path_to_image))
-        positive_feedback["from_image_IPTC"] = res
+        seeds["from_image_IPTC"] = res
         result_list += res
     if c.USE_OD:
         res = process_keywords(run_detector(path_to_image, OD_module))
-        positive_feedback["from_object_detection"] = res
+        seeds["from_object_detection"] = res
         result_list += res
     if c.USE_CL:
         res = process_keywords(
             clasify(add_to_list(prep_boxes(), path_to_image), C_module))
-        positive_feedback["from_image_classification"] = res
+        seeds["from_image_classification"] = res
         result_list += res
 
     result_list = unique(result_list)
-    write_dic(positive_feedback, c.TEMP_PATH + "seed_keywords_result_dic.txt")
+    write_dic(seeds, c.TEMP_PATH + "seed_keywords_result_dic.txt")
     return result_list
 
 

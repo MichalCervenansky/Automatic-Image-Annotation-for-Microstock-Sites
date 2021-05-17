@@ -1,4 +1,4 @@
-# Automatic image annotation for microstock sites
+# Automatic Image Annotation for Microstock Sites
 Application serves for automatic image annotation, mainly for microstock websites like Shutterstock, Fotolia,... It is using several approaches, which can be combined and set-up in config.py:
 * Collecting keyword from IPTC of image and parsing keywords from the caption in IPTC metadata of the image
 * Detecting objects on the image using Object detection module [inception_resnet_v2 trained on OpenImagesV4 dataset](https://tfhub.dev/google/faster_rcnn/openimages_v4/inception_resnet_v2/1)
